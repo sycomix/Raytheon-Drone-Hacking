@@ -19,3 +19,5 @@ We're going to need to do a lot of command line stuff, basically everything in t
 - [Kismet](https://kismetwireless.net/) - Wireless network detector, sniffer, and IDS.
 - [Reaver](https://code.google.com/archive/p/reaver-wps) - Brute force attack against WiFi Protected Setup.
 - [Wifite](https://github.com/derv82/wifite) - Automated wireless attack tool.
+- [Sword - pentesting framework based on openwrt](https://www.slideshare.net/BilalBokhari1/sword-50946159)
+- [Build something similar to this, but as a drone](http://www.minipwner.com/)
