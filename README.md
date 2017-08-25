@@ -21,3 +21,9 @@ We're going to need to do a lot of command line stuff, basically everything in t
 - [Wifite](https://github.com/derv82/wifite) - Automated wireless attack tool.
 - [Sword - pentesting framework based on openwrt](https://www.slideshare.net/BilalBokhari1/sword-50946159)
 - [Build something similar to this, but as a drone](http://www.minipwner.com/)
+- [netsniff-ng](https://github.com/netsniff-ng/netsniff-ng) - Swiss army knife for for network sniffing.
+- [Intercepter-NG](http://sniff.su/) - Multifunctional network toolkit.
+- [dsniff](https://www.monkey.org/~dugsong/dsniff/) - Collection of tools for network auditing and pentesting.
+- [passivedns](https://github.com/gamelinux/passivedns) - Network sniffer that logs all DNS server replies for use in a passive DNS setup.
+- [Burp Suite](https://portswigger.net/burp/) - Network sniffer, mitm attacks
+- [Ozone Widget Framework](https://github.com/ozoneplatform/owf-framework)
