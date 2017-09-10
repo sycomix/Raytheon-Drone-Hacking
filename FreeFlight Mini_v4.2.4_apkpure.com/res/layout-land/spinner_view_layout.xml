@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout android:gravity="center" android:orientation="horizontal" android:background="@drawable/item_background_selector" android:paddingLeft="@dimen/settings_padding_row" android:paddingRight="@dimen/settings_padding_row" android:layout_width="fill_parent" android:layout_height="@dimen/settings_row_height"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <TextView android:layout_gravity="center|left" android:id="@id/text_name" android:layout_width="@dimen/settings_name_width" android:layout_height="wrap_content" android:layout_marginRight="@dimen/settings_name_right_margin" android:text="" />
+    <com.parrot.freeflight.view.CustomSpinner android:textSize="@dimen/settings_text_size" android:textStyle="normal" android:textColor="#77ffffff" android:gravity="left" android:id="@id/spinner" android:background="@drawable/edit_text_selector" android:layout_width="fill_parent" android:layout_height="@dimen/settings_buttons_height" android:layout_marginRight="@dimen/settings_space_between_widget" android:singleLine="true" android:layout_weight="1.0" />
+</LinearLayout>

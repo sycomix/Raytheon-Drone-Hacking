@@ -1,0 +1,8 @@
+.class public interface abstract Lcom/parrot/arsdk/arcommands/ARCommandSkyControllerWifiStateWifiAuthChannelListChangedListener;
+.super Ljava/lang/Object;
+.source "ARCommandSkyControllerWifiStateWifiAuthChannelListChangedListener.java"
+
+
+# virtual methods
+.method public abstract onSkyControllerWifiStateWifiAuthChannelListChangedUpdate(Lcom/parrot/arsdk/arcommands/ARCOMMANDS_SKYCONTROLLER_WIFISTATE_WIFIAUTHCHANNELLISTCHANGED_BAND_ENUM;BB)V
+.end method

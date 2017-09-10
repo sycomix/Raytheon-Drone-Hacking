@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TableLayout android:layout_width="fill_parent" android:layout_height="wrap_content"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <TableRow android:layout_marginBottom="@dimen/academy_login_form_inner_spacing">
+        <TextView android:textSize="@dimen/academy_login_form_text_size" android:textColor="@color/white" android:id="@id/text_username" android:layout_width="0.0dip" android:text="@string/academy_login_username" android:layout_weight="1.0" android:labelFor="@id/edit_username" />
+        <EditText android:textSize="@dimen/academy_login_form_text_size" android:id="@id/edit_username" android:background="@color/academy_edit_text_bg_color" android:layout_width="0.0dip" android:layout_height="@dimen/academy_login_form_row_height" android:text="" android:layout_weight="2.0" android:inputType="textNoSuggestions" android:textCursorDrawable="@null" android:layout_marginStart="@dimen/academy_login_form_label_spacing" style="@style/EditText" />
+    </TableRow>
+    <TableRow android:layout_marginBottom="@dimen/academy_login_form_inner_spacing">
+        <TextView android:textSize="@dimen/academy_login_form_text_size" android:textColor="@color/white" android:id="@id/text_password" android:layout_width="0.0dip" android:text="@string/academy_login_password" android:layout_weight="1.0" android:labelFor="@id/edit_password" />
+        <EditText android:textSize="@dimen/academy_login_form_text_size" android:id="@id/edit_password" android:background="@color/academy_edit_text_bg_color" android:layout_width="0.0dip" android:layout_height="@dimen/academy_login_form_row_height" android:text="" android:layout_weight="2.0" android:inputType="textPassword" android:textCursorDrawable="@null" android:layout_marginStart="@dimen/academy_login_form_label_spacing" style="@style/EditText" />
+    </TableRow>
+    <TableRow android:layout_marginBottom="@dimen/academy_login_form_inner_spacing">
+        <TextView android:textSize="@dimen/academy_login_form_text_size" android:textColor="@color/white" android:layout_gravity="center_vertical" android:id="@id/text_confirm_password" android:layout_width="0.0dip" android:text="@string/academy_sign_up_confirm_password" android:layout_weight="1.0" android:labelFor="@id/edit_confirm_password" />
+        <EditText android:textSize="@dimen/academy_login_form_text_size" android:id="@id/edit_confirm_password" android:background="@color/academy_edit_text_bg_color" android:layout_width="0.0dip" android:layout_height="@dimen/academy_login_form_row_height" android:text="" android:layout_weight="2.0" android:inputType="textPassword" android:textCursorDrawable="@null" android:layout_marginStart="@dimen/academy_login_form_label_spacing" style="@style/EditText" />
+    </TableRow>
+    <TableRow>
+        <TextView android:textSize="@dimen/academy_login_form_text_size" android:textColor="@color/white" android:id="@id/text_email" android:layout_width="0.0dip" android:text="@string/academy_sign_up_email" android:layout_weight="1.0" android:labelFor="@id/edit_email" />
+        <EditText android:textSize="@dimen/academy_login_form_text_size" android:id="@id/edit_email" android:background="@color/academy_edit_text_bg_color" android:layout_width="0.0dip" android:layout_height="@dimen/academy_login_form_row_height" android:text="" android:layout_weight="2.0" android:inputType="textEmailAddress|textNoSuggestions" android:textCursorDrawable="@null" android:layout_marginStart="@dimen/academy_login_form_label_spacing" style="@style/EditText" />
+    </TableRow>
+</TableLayout>

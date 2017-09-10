@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<android.support.percent.PercentRelativeLayout android:id="@id/layout_root" android:layout_width="fill_parent" android:layout_height="fill_parent"
+  xmlns:android="http://schemas.android.com/apk/res/android" xmlns:app="http://schemas.android.com/apk/res-auto">
+    <TextView android:textColor="@color/color_white_clickable_text_selector" android:gravity="center" android:id="@id/text_cancel" android:layout_width="wrap_content" android:layout_height="?android:actionBarSize" android:text="@string/skip" android:layout_marginEnd="@dimen/toolbar_side_padding" android:layout_alignParentEnd="true" />
+    <TextView android:textColor="@color/white" android:gravity="center" android:id="@id/text_list_title" android:layout_width="wrap_content" android:layout_height="?android:actionBarSize" android:text="@string/drone_selection" android:layout_centerHorizontal="true" android:textAllCaps="true" />
+    <TextView android:textSize="@dimen/discovered_item_scanning_text_size" android:textColor="@color/transparent_white" android:gravity="bottom" android:id="@id/text_list_subtitle" android:layout_width="wrap_content" android:layout_height="?android:actionBarSize" android:text="@string/scanning" android:layout_centerHorizontal="true" />
+    <ImageView android:id="@id/image_loading" android:layout_width="wrap_content" android:layout_height="wrap_content" android:src="@drawable/helice" android:layout_centerInParent="true" app:layout_widthPercent="14.999998%" app:layout_heightPercent="14.999998%" />
+    <android.support.v7.widget.RecyclerView android:id="@id/recycler_view" android:layout_width="fill_parent" android:layout_height="fill_parent" android:layout_below="@id/text_cancel" android:contentDescription="@string/recycler_view_cd" />
+</android.support.percent.PercentRelativeLayout>

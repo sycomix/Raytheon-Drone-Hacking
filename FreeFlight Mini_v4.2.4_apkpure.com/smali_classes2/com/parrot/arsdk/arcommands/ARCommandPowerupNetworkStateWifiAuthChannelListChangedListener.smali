@@ -1,0 +1,8 @@
+.class public interface abstract Lcom/parrot/arsdk/arcommands/ARCommandPowerupNetworkStateWifiAuthChannelListChangedListener;
+.super Ljava/lang/Object;
+.source "ARCommandPowerupNetworkStateWifiAuthChannelListChangedListener.java"
+
+
+# virtual methods
+.method public abstract onPowerupNetworkStateWifiAuthChannelListChangedUpdate(Lcom/parrot/arsdk/arcommands/ARCOMMANDS_POWERUP_NETWORKSTATE_WIFIAUTHCHANNELLISTCHANGED_BAND_ENUM;BB)V
+.end method

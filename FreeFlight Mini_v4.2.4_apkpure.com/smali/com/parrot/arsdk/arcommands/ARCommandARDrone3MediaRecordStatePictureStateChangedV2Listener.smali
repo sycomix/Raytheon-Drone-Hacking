@@ -1,0 +1,8 @@
+.class public interface abstract Lcom/parrot/arsdk/arcommands/ARCommandARDrone3MediaRecordStatePictureStateChangedV2Listener;
+.super Ljava/lang/Object;
+.source "ARCommandARDrone3MediaRecordStatePictureStateChangedV2Listener.java"
+
+
+# virtual methods
+.method public abstract onARDrone3MediaRecordStatePictureStateChangedV2Update(Lcom/parrot/arsdk/arcommands/ARCOMMANDS_ARDRONE3_MEDIARECORDSTATE_PICTURESTATECHANGEDV2_STATE_ENUM;Lcom/parrot/arsdk/arcommands/ARCOMMANDS_ARDRONE3_MEDIARECORDSTATE_PICTURESTATECHANGEDV2_ERROR_ENUM;)V
+.end method

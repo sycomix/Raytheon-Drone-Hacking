@@ -1,0 +1,8 @@
+.class public interface abstract Lcom/parrot/arsdk/arcommands/ARCommandJumpingSumoRoadPlanStateScriptUploadChangedListener;
+.super Ljava/lang/Object;
+.source "ARCommandJumpingSumoRoadPlanStateScriptUploadChangedListener.java"
+
+
+# virtual methods
+.method public abstract onJumpingSumoRoadPlanStateScriptUploadChangedUpdate(Lcom/parrot/arsdk/arcommands/ARCOMMANDS_JUMPINGSUMO_ROADPLANSTATE_SCRIPTUPLOADCHANGED_RESULTCODE_ENUM;)V
+.end method

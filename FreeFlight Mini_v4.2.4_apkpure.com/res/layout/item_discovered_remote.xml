@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout android:background="@drawable/background_home_discovered_drone_item" android:layout_width="fill_parent" android:layout_height="@dimen/homepage_status_bar_height" android:layout_marginTop="@dimen/discovered_item_marginTop"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <View android:id="@id/view_known_status" android:background="@drawable/round_accent_filled_drawable" android:layout_width="@dimen/discovered_item_known_status_size" android:layout_height="@dimen/discovered_item_known_status_size" android:layout_centerVertical="true" android:layout_marginStart="@dimen/discovered_item_known_status_marginStart" />
+    <TextView android:textColor="@android:color/white" android:gravity="center_vertical" android:id="@id/text_remote_name" android:layout_width="fill_parent" android:layout_height="fill_parent" android:layout_marginStart="@dimen/discovered_item_name_marginStart" android:layout_toEndOf="@id/view_known_status" />
+    <TextView android:textColor="@color/colorText" android:gravity="center" android:id="@id/text_no_remotes" android:layout_width="fill_parent" android:layout_height="fill_parent" android:text="@string/no_remotes" android:textAllCaps="true" android:layout_marginStart="@dimen/discovered_item_name_marginStart" android:layout_toEndOf="@id/view_known_status" />
+</RelativeLayout>

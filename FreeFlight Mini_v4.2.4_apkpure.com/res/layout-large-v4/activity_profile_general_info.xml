@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout android:orientation="vertical" android:id="@id/layout_general_info" android:padding="@dimen/profile_bloc_padding" android:layout_width="fill_parent" android:layout_height="wrap_content"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <TextView android:textSize="@dimen/profile_principal_text_size" android:textStyle="bold" android:layout_width="fill_parent" android:layout_height="wrap_content" android:text="@string/profile_general_infos" android:textAllCaps="true" />
+    <LinearLayout android:orientation="horizontal" android:layout_width="fill_parent" android:layout_height="wrap_content">
+        <TableLayout android:layout_width="0.0dip" android:layout_height="wrap_content" android:stretchColumns="1" android:layout_weight="1.0">
+            <include layout="@layout/activity_profile_general_info1" />
+        </TableLayout>
+        <View android:background="@color/light_gray" android:layout_width="@dimen/profile_separator_width" android:layout_height="fill_parent" android:layout_marginLeft="@dimen/profile_separator_margin" android:layout_marginRight="@dimen/profile_separator_margin" />
+        <TableLayout android:layout_width="0.0dip" android:layout_height="wrap_content" android:stretchColumns="1" android:layout_weight="1.0">
+            <include layout="@layout/activity_profile_general_info2" />
+        </TableLayout>
+    </LinearLayout>
+</LinearLayout>

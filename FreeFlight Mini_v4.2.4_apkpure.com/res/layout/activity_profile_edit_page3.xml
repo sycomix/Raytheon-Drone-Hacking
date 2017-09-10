@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView android:layout_width="fill_parent" android:layout_height="fill_parent" android:fillViewport="true"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <TableLayout android:gravity="center" android:orientation="vertical" android:padding="@dimen/profile_bloc_padding" android:layout_width="fill_parent" android:layout_height="wrap_content" android:stretchColumns="1">
+        <TableRow android:layout_width="fill_parent">
+            <TextView android:textSize="@dimen/form_label_text_size" android:layout_width="wrap_content" android:layout_height="wrap_content" android:text="@string/profile_address" android:textAllCaps="true" />
+            <EditText android:textSize="@dimen/form_edit_text_size" android:id="@id/edit_address" android:layout_width="wrap_content" android:layout_height="wrap_content" android:maxLength="230" android:inputType="textPostalAddress" android:contentDescription="@string/academy_profile_cd_address" android:textCursorDrawable="@null" android:layout_marginStart="@dimen/form_field_label_spacing" style="@style/EditText.Transparent" />
+        </TableRow>
+        <TableRow android:layout_width="fill_parent" android:layout_marginTop="@dimen/profile_tablerow_margin_top">
+            <TextView android:textSize="@dimen/form_label_text_size" android:layout_width="wrap_content" android:layout_height="wrap_content" android:text="@string/profile_postal_code" android:textAllCaps="true" />
+            <EditText android:textSize="@dimen/form_edit_text_size" android:id="@id/edit_postal_code" android:layout_width="wrap_content" android:layout_height="wrap_content" android:maxLength="20" android:inputType="number" android:contentDescription="@string/academy_profile_cd_postal_code" android:textCursorDrawable="@null" android:layout_marginStart="@dimen/form_field_label_spacing" style="@style/EditText.Transparent" />
+        </TableRow>
+        <TableRow android:layout_width="fill_parent" android:layout_marginTop="@dimen/profile_tablerow_margin_top">
+            <TextView android:textSize="@dimen/form_label_text_size" android:layout_width="wrap_content" android:layout_height="wrap_content" android:text="@string/profile_city" android:textAllCaps="true" />
+            <EditText android:textSize="@dimen/form_edit_text_size" android:id="@id/edit_city" android:layout_width="wrap_content" android:layout_height="wrap_content" android:maxLength="30" android:contentDescription="@string/academy_profile_cd_city" android:textCursorDrawable="@null" android:layout_marginStart="@dimen/form_field_label_spacing" style="@style/EditText.Transparent" />
+        </TableRow>
+        <TableRow android:layout_width="fill_parent" android:layout_marginTop="@dimen/profile_tablerow_margin_top">
+            <TextView android:textSize="@dimen/form_label_text_size" android:layout_width="wrap_content" android:layout_height="wrap_content" android:text="@string/profile_country" android:textAllCaps="true" />
+            <Spinner android:textSize="@dimen/form_edit_text_size" android:id="@id/spinner_country" android:layout_width="wrap_content" android:layout_height="@dimen/academy_profile_edit_country_dropdownlist_height" android:contentDescription="@string/academy_profile_cd_country" android:layout_marginStart="@dimen/form_field_label_spacing" style="@style/EditText.Transparent" />
+        </TableRow>
+    </TableLayout>
+</ScrollView>

@@ -1,0 +1,8 @@
+.class public interface abstract Lcom/parrot/arsdk/arcommands/ARCommandSkyControllerCalibrationStateMagnetoCalibrationQualityUpdatesStateListener;
+.super Ljava/lang/Object;
+.source "ARCommandSkyControllerCalibrationStateMagnetoCalibrationQualityUpdatesStateListener.java"
+
+
+# virtual methods
+.method public abstract onSkyControllerCalibrationStateMagnetoCalibrationQualityUpdatesStateUpdate(B)V
+.end method

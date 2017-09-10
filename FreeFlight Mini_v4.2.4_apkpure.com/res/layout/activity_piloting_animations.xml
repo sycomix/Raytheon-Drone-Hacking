@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout android:clipChildren="false" android:layout_width="wrap_content" android:layout_height="wrap_content"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <LinearLayout android:orientation="vertical" android:id="@id/linear_layout_delos_animations" android:visibility="gone" android:layout_width="wrap_content" android:layout_height="wrap_content">
+        <ImageButton android:id="@id/button_flip_menu_delos" android:background="@drawable/circular_button_background" android:layout_width="@dimen/piloting_button_size" android:layout_height="@dimen/piloting_button_size" android:src="@drawable/drawable_hud_no_flip" android:scaleType="centerInside" android:tint="@color/piloting_button_icon_tint" android:contentDescription="@string/piloting_cd_flip_animation_menu" />
+        <LinearLayout android:orientation="vertical" android:id="@id/linear_layout_flip_list_menu_delos" android:visibility="gone" android:layout_width="@dimen/piloting_button_size" android:layout_height="wrap_content" />
+    </LinearLayout>
+    <RelativeLayout android:gravity="center_vertical" android:id="@id/relative_layout_wingx_animations" android:visibility="gone" android:clipChildren="false" android:layout_width="wrap_content" android:layout_height="wrap_content">
+        <LinearLayout android:gravity="center_vertical" android:orientation="horizontal" android:id="@id/linear_layout_animation_list_menu_wingx" android:background="@drawable/swing_animation_background" android:visibility="gone" android:layout_width="wrap_content" android:layout_height="@dimen/piloting_button_size" android:paddingEnd="@dimen/piloting_button_size" />
+        <FrameLayout android:clipChildren="false" android:layout_width="@dimen/piloting_button_size" android:layout_height="@dimen/piloting_button_size" android:layout_alignEnd="@id/linear_layout_animation_list_menu_wingx">
+            <ImageButton android:id="@id/button_animation_menu_wingx" android:background="@drawable/circular_swing_animation_menu_button_background" android:layout_width="@dimen/piloting_button_size" android:layout_height="@dimen/piloting_button_size" android:src="@drawable/swing_animation_button_drawable" android:scaleType="centerInside" />
+            <View android:layout_gravity="center" android:id="@id/image_stroke_wingx" android:background="@drawable/circular_swing_animation_menu_button_stroke" android:visibility="gone" android:layout_width="@dimen/animation_button_selected_size" android:layout_height="@dimen/animation_button_selected_size" />
+        </FrameLayout>
+    </RelativeLayout>
+</LinearLayout>

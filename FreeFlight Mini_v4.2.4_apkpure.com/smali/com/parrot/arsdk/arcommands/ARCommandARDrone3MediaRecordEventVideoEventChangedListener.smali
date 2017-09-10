@@ -1,0 +1,8 @@
+.class public interface abstract Lcom/parrot/arsdk/arcommands/ARCommandARDrone3MediaRecordEventVideoEventChangedListener;
+.super Ljava/lang/Object;
+.source "ARCommandARDrone3MediaRecordEventVideoEventChangedListener.java"
+
+
+# virtual methods
+.method public abstract onARDrone3MediaRecordEventVideoEventChangedUpdate(Lcom/parrot/arsdk/arcommands/ARCOMMANDS_ARDRONE3_MEDIARECORDEVENT_VIDEOEVENTCHANGED_EVENT_ENUM;Lcom/parrot/arsdk/arcommands/ARCOMMANDS_ARDRONE3_MEDIARECORDEVENT_VIDEOEVENTCHANGED_ERROR_ENUM;)V
+.end method

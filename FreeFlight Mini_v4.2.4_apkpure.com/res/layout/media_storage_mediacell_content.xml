@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout android:layout_width="fill_parent" android:layout_height="@dimen/list_row_height"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <ImageView android:id="@id/image_media_thumbnail" android:layout_width="@dimen/list_row_height" android:layout_height="@dimen/list_row_height" android:scaleType="centerCrop" android:contentDescription="@string/media_cd_thumbnail" />
+    <ImageView android:id="@id/image_media_video_indicator" android:visibility="gone" android:layout_width="@dimen/half_list_row_height" android:layout_height="@dimen/half_list_row_height" android:layout_margin="@dimen/quarter_list_row_height" android:src="@drawable/media_icn_play" android:scaleType="centerCrop" android:tint="@color/white" android:layout_centerVertical="true" android:alpha="0.7" />
+    <RelativeLayout android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_centerVertical="true" android:layout_marginStart="@dimen/list_row_main_icon_margin" android:layout_toEndOf="@id/image_media_thumbnail">
+        <TextView android:textSize="@dimen/list_row_text_size_primary" android:id="@id/text_date" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_alignParentTop="true" android:contentDescription="@string/media_cd_date" android:layout_alignParentStart="true" />
+        <TextView android:textSize="@dimen/list_row_text_size_primary" android:gravity="center" android:id="@id/text_time" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_alignTop="@id/text_date" android:layout_alignBottom="@id/text_date" android:contentDescription="@string/media_cd_time" android:layout_marginStart="10.0dip" android:layout_toEndOf="@id/text_date" />
+    </RelativeLayout>
+    <TextView android:gravity="center" android:id="@id/text_file_size" android:visibility="gone" android:layout_width="wrap_content" android:layout_height="fill_parent" android:layout_marginEnd="20.0dip" android:layout_toStartOf="@id/checkbox_switch" />
+    <CheckBox android:textSize="18.0sp" android:id="@id/checkbox_switch" android:background="@drawable/drone_memory_checkbox_selector" android:focusable="false" android:layout_width="25.0dip" android:layout_height="25.0dip" android:button="@null" android:layout_centerVertical="true" android:contentDescription="@string/media_cd_checkbox" android:layout_marginEnd="20.0dip" android:layout_alignParentEnd="true" />
+</RelativeLayout>

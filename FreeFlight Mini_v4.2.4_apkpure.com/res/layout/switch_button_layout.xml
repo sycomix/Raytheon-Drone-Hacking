@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout android:id="@id/switch_button_root_layout" android:clipChildren="false" android:layout_width="fill_parent" android:layout_height="fill_parent"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <View android:id="@id/view_switch_button_background" android:background="@drawable/switch_button_background" android:layout_width="fill_parent" android:layout_height="fill_parent" android:alpha="0.0" />
+    <LinearLayout android:orientation="horizontal" android:id="@id/layout_switch_button" android:layout_width="wrap_content" android:layout_height="fill_parent" android:layout_centerInParent="true">
+        <ImageView android:id="@id/image_view_switch_button_left_arrow" android:layout_width="@dimen/switch_button_default_arrow_width" android:layout_height="fill_parent" />
+        <ImageView android:id="@id/image_view_switch_button" android:background="@drawable/circular_button_background" android:padding="@dimen/switch_button_default_image_padding" android:layout_width="@dimen/switch_button_default_image_size" android:layout_height="fill_parent" />
+        <ImageView android:id="@id/image_view_switch_button_right_arrow" android:layout_width="@dimen/switch_button_default_arrow_width" android:layout_height="fill_parent" />
+    </LinearLayout>
+</RelativeLayout>

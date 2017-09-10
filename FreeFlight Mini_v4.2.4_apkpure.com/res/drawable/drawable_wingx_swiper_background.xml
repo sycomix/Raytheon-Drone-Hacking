@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<level-list
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <item android:maxLevel="2">
+        <layer-list>
+            <item android:top="@dimen/wingx_accessory_swiper_bg_padding">
+                <bitmap android:gravity="top" android:src="@drawable/wingx_icn_decrease_speed" />
+            </item>
+            <item android:bottom="@dimen/wingx_accessory_swiper_bg_padding">
+                <bitmap android:gravity="bottom" android:src="@drawable/wingx_icn_increase_speed" />
+            </item>
+        </layer-list>
+    </item>
+    <item android:maxLevel="3">
+        <layer-list>
+            <item android:top="@dimen/wingx_accessory_swiper_bg_padding">
+                <bitmap android:gravity="top" android:src="@drawable/wingx_icn_forward" />
+            </item>
+            <item android:bottom="@dimen/wingx_accessory_swiper_bg_padding">
+                <bitmap android:gravity="bottom" android:src="@drawable/wingx_icn_backward" />
+            </item>
+        </layer-list>
+    </item>
+    <item android:maxLevel="6">
+        <layer-list>
+            <item android:top="@dimen/wingx_accessory_swiper_bg_padding">
+                <bitmap android:gravity="top" android:src="@drawable/wingx_icn_increase_speed" />
+            </item>
+            <item android:bottom="@dimen/wingx_accessory_swiper_bg_padding">
+                <bitmap android:gravity="bottom" android:src="@drawable/wingx_icn_decrease_speed" />
+            </item>
+        </layer-list>
+    </item>
+</level-list>

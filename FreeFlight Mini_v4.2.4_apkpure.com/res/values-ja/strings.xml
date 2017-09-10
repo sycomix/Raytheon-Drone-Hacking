@@ -1,0 +1,1747 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="abc_action_bar_home_description">ホームへ移動</string>
+    <string name="abc_action_bar_home_description_format">%1$s、%2$s</string>
+    <string name="abc_action_bar_home_subtitle_description_format">%1$s、%2$s、%3$s</string>
+    <string name="abc_action_bar_up_description">上へ移動</string>
+    <string name="abc_action_menu_overflow_description">その他のオプション</string>
+    <string name="abc_action_mode_done">完了</string>
+    <string name="abc_activity_chooser_view_see_all">すべて表示</string>
+    <string name="abc_activitychooserview_choose_application">アプリの選択</string>
+    <string name="abc_capital_off">OFF</string>
+    <string name="abc_capital_on">ON</string>
+    <string name="abc_search_hint">検索…</string>
+    <string name="abc_searchview_description_clear">検索キーワードを削除</string>
+    <string name="abc_searchview_description_query">検索キーワード</string>
+    <string name="abc_searchview_description_search">検索</string>
+    <string name="abc_searchview_description_submit">検索キーワードを送信</string>
+    <string name="abc_searchview_description_voice">音声検索</string>
+    <string name="abc_shareactionprovider_share_with">共有</string>
+    <string name="abc_shareactionprovider_share_with_application">%sと共有</string>
+    <string name="abc_toolbar_collapse_description">折りたたむ</string>
+    <string name="common_google_play_services_api_unavailable_text">%1$sには現在利用されていないGoogle Play開発者サービスが必要です。詳しくはデベロッパーにお問い合わせください。</string>
+    <string name="common_google_play_services_enable_button">Google Play開発者サービスを有効化</string>
+    <string name="common_google_play_services_enable_text">%1$sの実行には、Google Play開発者サービスの有効化が必要です。</string>
+    <string name="common_google_play_services_enable_title">Google Play開発者サービスの有効化</string>
+    <string name="common_google_play_services_install_button">Google Play開発者サービスを入手</string>
+    <string name="common_google_play_services_install_text_phone">%1$sの実行にはGoogle Play開発者サービスが必要ですが、お使いのスマートフォンにはインストールされていません。</string>
+    <string name="common_google_play_services_install_text_tablet">%1$sの実行にはGoogle Play開発者サービスが必要ですが、お使いのタブレットにはインストールされていません。</string>
+    <string name="common_google_play_services_install_title">Google Play開発者サービスの入手</string>
+    <string name="common_google_play_services_invalid_account_text">指定したアカウントはこの端末上に存在しません。別のアカウントを選択してください。</string>
+    <string name="common_google_play_services_invalid_account_title">無効なアカウント</string>
+    <string name="common_google_play_services_network_error_text">Google Play開発者サービスに接続するには、データ接続が必要です。</string>
+    <string name="common_google_play_services_network_error_title">ネットワークエラー</string>
+    <string name="common_google_play_services_notification_ticker">Google Play開発者サービスのエラー</string>
+    <string name="common_google_play_services_restricted_profile_text">制限付きプロフィールからのアカウントへのアクセスはサポートされていません。</string>
+    <string name="common_google_play_services_restricted_profile_title">制限付きプロフィール</string>
+    <string name="common_google_play_services_sign_in_failed_text">指定されたアカウントへのログイン中にエラーが発生しました。別のアカウントを選択してください。</string>
+    <string name="common_google_play_services_sign_in_failed_title">ログインできませんでした</string>
+    <string name="common_google_play_services_unknown_issue">「%1$s」でGoogle Play開発者サービスに問題が発生しています。問題が解決しない場合は、デベロッパーにお問い合わせください。</string>
+    <string name="common_google_play_services_unsupported_text">%1$sに必要なGoogle Play開発者サービスは、お使いの端末ではサポートされていません。詳しくは端末メーカーにお問い合わせください。</string>
+    <string name="common_google_play_services_unsupported_title">Google Play開発者サービス</string>
+    <string name="common_google_play_services_update_button">更新</string>
+    <string name="common_google_play_services_update_text">%1$sの実行にはGoogle Play開発者サービスの更新が必要です。</string>
+    <string name="common_google_play_services_update_title">Google Play開発者サービスの更新</string>
+    <string name="common_google_play_services_updating_text">%1$sの実行にはGoogle Play開発者サービスが必要ですが、このサービスは現在更新中です。</string>
+    <string name="common_google_play_services_updating_title">Google Play開発者サービスの更新中</string>
+    <string name="common_google_play_services_wear_update_text">Google Play開発者サービスの新しいバージョンが必要です。まもなく自動更新されます。</string>
+    <string name="common_open_on_phone">スマートフォンで開く</string>
+    <string name="common_signin_button_text">ログイン</string>
+    <string name="common_signin_button_text_long">Googleにログイン</string>
+    <string name="place_autocomplete_clear_button">検索をクリア</string>
+    <string name="place_autocomplete_search_hint">検索</string>
+    <string name="status_bar_notification_info_overflow">999+</string>
+    <string name="BluetoothPeripheral_privacy_mini">Minidrone を操縦し、コントローラーへ接続するには</string>
+    <string name="BluetoothPeripheral_privacy_pro">Bluetooth コントローラーを接続するには</string>
+    <string name="CameraUsage_privacy_mini">飛行中のドローンを動画撮影するには</string>
+    <string name="CameraUsage_privacy_pro">Cockpitglasses Parrot を使用するには</string>
+    <string name="Coordiante_last_drone_data">N/A</string>
+    <string name="ME003004">復元中...</string>
+    <string name="ME003005">製品に接続できません</string>
+    <string name="ME003006">接続できません...</string>
+    <string name="ME003010">削除</string>
+    <string name="ME003011">このメディアを削除しますか？</string>
+    <string name="ME003012">転送</string>
+    <string name="ME003013">このメディアを転送しますか？</string>
+    <string name="ME003014">転送中..</string>
+    <string name="ME003018">ファイル</string>
+    <string name="ME003020">消去中…</string>
+    <string name="ME004003">媒体がありません。</string>
+    <string name="PI100003">ユーザー緊急アラート</string>
+    <string name="PI100004">カットアウトアラート</string>
+    <string name="PI100005">バッテリー残量アラート</string>
+    <string name="PI100006">低残量バッテリーアラート</string>
+    <string name="PhotoLibrary_privacy_pro">フライトの写真と動画を保存するには</string>
+    <string name="Plan_cd_edit">編集</string>
+    <string name="Plan_cd_folder">ドキュメント</string>
+    <string name="Plan_cd_go_back">戻る</string>
+    <string name="Plan_cd_invalidate">無効にする</string>
+    <string name="Plan_cd_location">位置情報</string>
+    <string name="Plan_cd_play">再生</string>
+    <string name="Plan_cd_speed">速度</string>
+    <string name="Plan_cd_stop">停止</string>
+    <string name="Plan_cd_switch_view_type">視界を変更する</string>
+    <string name="Plan_cd_timeline">タイムライン</string>
+    <string name="Plan_cd_undo">キャンセル</string>
+    <string name="Plan_cd_validate">有効化</string>
+    <string name="a_axis">A軸</string>
+    <string name="a_new_plan">本当に作成しますか？</string>
+    <string name="abort">キャンセル</string>
+    <string name="about">について</string>
+    <string name="about_enter_email">Eメールアドレスを入力してください</string>
+    <string name="about_enter_valid_email">有効なEメールアドレスを入力してください</string>
+    <string name="about_information">内容</string>
+    <string name="about_legal_mentions">法的記載事項</string>
+    <string name="about_legal_mentions_accept">承諾</string>
+    <string name="about_legal_mentions_refuse">拒否</string>
+    <string name="about_share_data_title">私のデータを提供することに同意します</string>
+    <string name="about_title">について</string>
+    <string name="academy_error_already_registered">%s は既に登録されています</string>
+    <string name="academy_error_cannot_reset_password">このEメール アドレスと関連付けされているユーザー アカウントでは、パスワードのリセットができません。</string>
+    <string name="academy_error_connection">"インターネットに
+接続できません"</string>
+    <string name="academy_error_email_not_associated">このEメール アドレスは、いかなるユーザー アカウントとも関連付けされていません。</string>
+    <string name="academy_error_empty_fields">ログインおよびパスワード欄は必ず記入する必要があります</string>
+    <string name="academy_error_generic">エラーが発生しました、後ほど再試行ください</string>
+    <string name="academy_error_invalid">%s は無効です</string>
+    <string name="academy_error_required">%s は必須です</string>
+    <string name="academy_error_too_long">%s は長すぎます</string>
+    <string name="academy_login_connection">接続</string>
+    <string name="academy_login_description">あなたの操縦に関する詳細な統計にアクセスするには、アカウントを作成し、コミュニティで共有してください。</string>
+    <string name="academy_login_error_auth">ログインまたはパスワードにエラー</string>
+    <string name="academy_login_error_dialog_title">ログインに失敗しました</string>
+    <string name="academy_login_forgotten_password">パスワードを忘れました</string>
+    <string name="academy_login_not_signed_up">まだ登録していませんか？</string>
+    <string name="academy_login_password">パスワード</string>
+    <string name="academy_login_remember_me">接続を維持する</string>
+    <string name="academy_login_sign_up">登録</string>
+    <string name="academy_login_title">ログイン</string>
+    <string name="academy_login_username">ユーザー名</string>
+    <string name="academy_map">Parrot Cloudカード</string>
+    <string name="academy_profile_cd_adress">住所</string>
+    <string name="academy_profile_cd_biography">バイオグラフィー</string>
+    <string name="academy_profile_cd_birthday">誕生日</string>
+    <string name="academy_profile_cd_city">市</string>
+    <string name="academy_profile_cd_country">国</string>
+    <string name="academy_profile_cd_crash">衝突</string>
+    <string name="academy_profile_cd_drone">ドローン</string>
+    <string name="academy_profile_cd_email">Eメールアドレス</string>
+    <string name="academy_profile_cd_facebook">Facebook</string>
+    <string name="academy_profile_cd_firstname">名</string>
+    <string name="academy_profile_cd_google_plus">Google +</string>
+    <string name="academy_profile_cd_lastname">性</string>
+    <string name="academy_profile_cd_name">名前</string>
+    <string name="academy_profile_cd_phone">電話番号</string>
+    <string name="academy_profile_cd_pilotings">操縦</string>
+    <string name="academy_profile_cd_psn">PSN</string>
+    <string name="academy_profile_cd_save">保存</string>
+    <string name="academy_profile_cd_status">ステータス</string>
+    <string name="academy_profile_cd_steam">Steam</string>
+    <string name="academy_profile_cd_time">時間 (秒)</string>
+    <string name="academy_profile_cd_twitter">Twitter</string>
+    <string name="academy_profile_cd_website">ウェブサイト</string>
+    <string name="academy_profile_cd_xbox_live">Xbox Live</string>
+    <string name="academy_profile_cd_youtube">Youtube</string>
+    <string name="academy_profile_time_hms">%1$d h %2$d m %3$d s</string>
+    <string name="academy_profile_time_ms">%1$d m %2$d s</string>
+    <string name="academy_profile_time_s">%d s</string>
+    <string name="academy_retrieve_password_dialog_title">パスワードの取得</string>
+    <string name="academy_retrieve_password_email_hint">Eメールアドレス</string>
+    <string name="academy_retrieve_password_error_cannot_reset_password">このEメール アドレスと関連付けされているユーザー アカウントでは、パスワードのリセットができません。</string>
+    <string name="academy_retrieve_password_error_email">Eメールアドレス</string>
+    <string name="academy_retrieve_password_error_email_invalid">無効なEメール</string>
+    <string name="academy_retrieve_password_error_email_not_associated">このEメール アドレスは、いかなるユーザー アカウントとも関連付けされていません。</string>
+    <string name="academy_retrieve_password_error_password">パスワード</string>
+    <string name="academy_retrieve_password_error_something_is_already_registered">{0}は既に登録されています</string>
+    <string name="academy_retrieve_password_error_something_is_invalid">{0} は有効です</string>
+    <string name="academy_retrieve_password_error_something_is_required">{0} は必須です</string>
+    <string name="academy_retrieve_password_error_something_is_too_long">{0} は長すぎます</string>
+    <string name="academy_retrieve_password_error_username">ユーザー名</string>
+    <string name="academy_retrieve_password_success">あなたのEメールアドレスに、パスワードが記載されたEメールが送信されています。</string>
+    <string name="academy_sign_up_agree_info">Eメール、SMS、郵便でParrotの製品やサービスに関する情報を受けることに同意します</string>
+    <string name="academy_sign_up_agree_terms">一般利用規約を承諾します</string>
+    <string name="academy_sign_up_confirm_password">パスワードを確認</string>
+    <string name="academy_sign_up_default_error">既に登録されているユーザー名あるいはEメールアドレスです</string>
+    <string name="academy_sign_up_email">Eメールアドレス</string>
+    <string name="academy_sign_up_error_email">無効なEメール</string>
+    <string name="academy_sign_up_error_failure">登録は失敗しました</string>
+    <string name="academy_sign_up_error_login">ログインの際に特殊文字は使用できません</string>
+    <string name="academy_sign_up_error_passwords">パスワードが一致しません</string>
+    <string name="academy_sign_up_error_terms">一般利用規約を承諾してください</string>
+    <string name="academy_sign_up_register">プロフィールの登録</string>
+    <string name="academy_signup_title">登録する</string>
+    <string name="accept">承諾</string>
+    <string name="accessory_choose_accessory_title">あなたのアクセサリーを選択してください</string>
+    <string name="accessory_configuration_question">あなたの設定はどのようになっていますか？</string>
+    <string name="accessory_no_hull">機体なし</string>
+    <string name="accessory_selection">付属品の選択</string>
+    <string name="ace_piloting">エキスパート操縦</string>
+    <string name="activate">アクティブ化</string>
+    <string name="activate_your_account_now">アカウントを今すぐアクティブ化してください！</string>
+    <string name="activate_your_drone_now">ドローンを起動してください！</string>
+    <string name="add_a_new_drone">新しいドローンを追加する</string>
+    <string name="add_current">以下の現在値を追加</string>
+    <string name="alert_battery_level">バッテリーレベルが十分でないため、アップデートを実行できません</string>
+    <string name="all_map">全て</string>
+    <string name="all_runs_map">全てのラン</string>
+    <string name="all_side_green_led_choise">すべて</string>
+    <string name="all_side_red_led_choice">すべて</string>
+    <string name="an_unknown_error_occured">"
+- 原因不明のエラーが発生しました"</string>
+    <string name="angle_param_name">角度</string>
+    <string name="animation_action_name">アニメーション</string>
+    <string name="animation_param_name">アニメーション</string>
+    <string name="antiflickering_auto">Auto</string>
+    <string name="antiflickering_mode">Antiflickering mode</string>
+    <string name="applying_new_configuration">新しい設定を適用しています。</string>
+    <string name="are_you_sure">よろしいですか？</string>
+    <string name="are_you_sure_you_want_to_delete_me_">本当に削除しますか？</string>
+    <string name="are_you_sure_you_want_to_delete_this_run_">本当にこの操縦を削除しますか？</string>
+    <string name="are_you_sure_you_want_to_delete_your_account">本当にアカウントを削除しますか？</string>
+    <string name="are_you_sure_you_want_to_disable_the_wpa2_protection_someone_else_might_be_able_to_connect_to_your_drone">WPA2保護を本当に解除しますか。あなたのドローンに他のだれでも接続できてしまいます</string>
+    <string name="argentina">アルゼンチン</string>
+    <string name="ask_checking_for_updates">アップデートを確認</string>
+    <string name="ask_drone_reboot">Droneを再起動しますか？接続を解除します。</string>
+    <string name="ask_for_rating">"私たちにとってお客様の意見は重要です。
+もしお客様が FreeFlight3 を楽しまれているなら、評価するお時間をいただけませんか？
+1分もかかりません。
+よろしくお願いします！"</string>
+    <string name="ask_uploading_last_files_from_flight">フライト中に最後に撮影した写真または動画をアップロードしますか？</string>
+    <string name="ask_uploading_last_files_from_ride">操縦中に最後に撮影した写真または動画をアップロードしますか？</string>
+    <string name="ask_uploading_last_pictures_from_flight">フライト中に最後に撮影した写真をアップロードしますか？</string>
+    <string name="audio_settings_default">デフォルト</string>
+    <string name="australia">オーストラリア</string>
+    <string name="austria">オーストリア</string>
+    <string name="auto">自動</string>
+    <string name="available_drones">ドローンを選択してください</string>
+    <string name="awaiting_response_from_the_drone">ドローンからの応答を待っています。</string>
+    <string name="banked_turn">バンクターン</string>
+    <string name="battery_info_charge_characteristics" formatted="false">充電特性 :%.1f A - %.1f W.</string>
+    <string name="battery_info_charged">ロード</string>
+    <string name="battery_info_charging">装填</string>
+    <string name="battery_info_current_charge">現在の充電</string>
+    <string name="battery_info_discharging">放出</string>
+    <string name="battery_info_estimated_charge_time">フル充電までの推定時間：</string>
+    <string name="battery_info_last_charge">前回の充電</string>
+    <string name="battery_info_rate_fast">高速</string>
+    <string name="battery_info_rate_moderate">通常</string>
+    <string name="battery_info_rate_slow">低速</string>
+    <string name="battery_info_rate_unknown">不明</string>
+    <string name="battery_too_low_to_record">録画するにはバッテリの残量が不足しています</string>
+    <string name="battery_voltage_out_of_bounds">バッテリー電圧が誤っています</string>
+    <string name="be_sure_that_bluethooth_is_turned_on">Bluetoothがオンになっていることを確認してください</string>
+    <string name="be_sure_that_your_drone_is_turned_on">あなたのドローンが点灯していることを確認してください</string>
+    <string name="be_sure_to_be_connected_to_your_drone_wifi_network">あなたのドローンのWi-Fiネットワークに接続してください</string>
+    <string name="beebop_version_too_old_message">お使いの%sのバージョンが古すぎます。利用可能なアップデートをご確認ください</string>
+    <string name="belgium">ベルギー</string>
+    <string name="black_list_bebop">あなたの製品をアップデートする必要があります</string>
+    <string name="black_list_jumping_sumo">安全上の理由から、操縦をはじめる前に%sをアップデートする必要があります。</string>
+    <string name="black_list_remotes">あなたの製品をアップデートする必要があります</string>
+    <string name="black_list_rolling_spider" formatted="false">安全上の理由から、操縦をはじめる前に%sをアップデートする必要があります。詳しくは%sをご覧ください。</string>
+    <string name="boost">ブースト</string>
+    <string name="bootloader_error">ブートローダエラー</string>
+    <string name="brazil">ブラジル</string>
+    <string name="brightness_param">照度</string>
+    <string name="bulgaria">ブルガリア</string>
+    <string name="buy">購入</string>
+    <string name="buy_a_drone">"Droneを
+購入"</string>
+    <string name="buy_a_minidrone">ミニドローンを購入する</string>
+    <string name="calibration_calibrate">調整</string>
+    <string name="calibration_description">お使いのドローンを調整してください。このスピーディーな操作により、屋外でフライトをお楽しみになれます。</string>
+    <string name="calibration_error">問題が発生しました!!</string>
+    <string name="calibration_j1">キャリブレーション J1</string>
+    <string name="calibration_j2">キャリブレーション J2</string>
+    <string name="calibration_land">着陸</string>
+    <string name="calibration_landing">着陸</string>
+    <string name="calibration_landing_drone">ドローンが着陸している間、しばらくお待ちください…</string>
+    <string name="calibration_message_dialog">屋外で操縦するには、お使いのドローンを調整する必要があります。</string>
+    <string name="calibration_need_landing">"お使いのドローンを調整してください。このスピーディーな操作により、屋外でフライトをお楽しみになれます。
+ドローンを手にもって調整する必要があります。したがってドローンを着陸させる、あるいは後ほど調整を行ってください。"</string>
+    <string name="calibration_needed">校正が必要です。</string>
+    <string name="calibration_pitot_tube_title">ドローンを 5 秒間垂直に保ってください</string>
+    <string name="calibration_success">キャリブレーション終了！</string>
+    <string name="calibration_title_dialog">ドローンを調整してください</string>
+    <string name="calibration_waiting_for_drone">ドローンを待っています…</string>
+    <string name="calibration_x_axis">X軸 (ロール)</string>
+    <string name="calibration_x_axis_procedure">x 軸の周りにドローンを旋回させてください (アニメーションを参照)</string>
+    <string name="calibration_y_axis">Y軸 (ピッチ)</string>
+    <string name="calibration_y_axis_procedure">y 軸の周りにドローンを旋回させてください (アニメーションを参照)</string>
+    <string name="calibration_z_axis">Z軸 (ヨウ回転)</string>
+    <string name="calibration_z_axis_procedure">z 軸の周りにドローンを旋回させてください (アニメーションを参照)</string>
+    <string name="camera_is_busy_please_retry_later">カメラが応答しません。後ほどもう一度お試しください</string>
+    <string name="camera_pan">ビデオカメラの水平方向回転</string>
+    <string name="camera_settings_cd_aperture">オープン</string>
+    <string name="camera_settings_cd_frame_rate">画像周波数</string>
+    <string name="camera_settings_cd_mode">カメラ調節モード</string>
+    <string name="camera_settings_cd_recording_mode">録画モード</string>
+    <string name="camera_settings_cd_recording_time">録画時間</string>
+    <string name="camera_settings_cd_shutter_speed">シャッタースピード</string>
+    <string name="camera_settings_cd_white_balance">ホワイトバランス</string>
+    <string name="camera_tilt">ビデオカメラの上下回転</string>
+    <string name="canada">カナダ</string>
+    <string name="cancel">キャンセル</string>
+    <string name="cancel_alert_message">キャンセル</string>
+    <string name="cant_take_picture">写真が撮影できません</string>
+    <string name="cardboard_drone_disconnected">接続が解除されたドローン</string>
+    <string name="cardboard_drone_landing">着陸</string>
+    <string name="cardboard_emergency">緊急着陸</string>
+    <string name="cardboard_loiter">低飛行</string>
+    <string name="cardboard_no_recording">録画停止中</string>
+    <string name="cardboard_taking_off">離陸</string>
+    <string name="cardboard_throw_your_drone">ドローンをスタートさせてください</string>
+    <string name="center_map_on_your_current_location">現在地に中心を合わせる</string>
+    <string name="change_channel">チャンネル変更</string>
+    <string name="change_password">パスワードを変更</string>
+    <string name="channel">Channel</string>
+    <string name="charge_settings_title">充電設定</string>
+    <string name="check_for_updates">"
+のアップデートを確認"</string>
+    <string name="checking_version">バージョンテスト</string>
+    <string name="china">中国</string>
+    <string name="circling_settings">サークリング設定</string>
+    <string name="circular_landing">サーキュラーランディング</string>
+    <string name="ckycontroller_b_button">Bボタン</string>
+    <string name="close">閉じる</string>
+    <string name="configure">設定</string>
+    <string name="confirmation_error">アサーションエラー</string>
+    <string name="connect">接続</string>
+    <string name="connect_headset">ヘッドセットの接続</string>
+    <string name="connect_to">あなたの機器を%1$sに接続してください</string>
+    <string name="connect_to_drone">ドローンに接続する</string>
+    <string name="connect_to_internet">インターネットに接続してください</string>
+    <string name="connect_to_remote_control">リモートコントロールに接続する</string>
+    <string name="connect_to_your_drone">Droneに接続してください</string>
+    <string name="connect_with_facebook">Facebook と接続する</string>
+    <string name="connect_your_remote_contoller">コンソールを接続してください</string>
+    <string name="connected_to_controller">別のコントローラーに接続されています</string>
+    <string name="connected_to_flypad">Flypadに接続されています</string>
+    <string name="connecting">接続中</string>
+    <string name="connecting_in_progress">接続中…</string>
+    <string name="connecting_to_wifi_popin">接続中…</string>
+    <string name="connection_has_failed_profile_creation">接続できません</string>
+    <string name="connection_state_connected">接続しました</string>
+    <string name="connection_state_connecting">接続中...</string>
+    <string name="connection_state_disconnecting">接続解除中...</string>
+    <string name="connection_state_impossible_to_connect">接続できません</string>
+    <string name="connection_to_wifi_popin_failed">接続エラー</string>
+    <string name="continue_message">続行</string>
+    <string name="controller_calibration_needed">キャリブレーションが必要です</string>
+    <string name="controller_calibration_ok">キャリブレーション OK</string>
+    <string name="controller_channel_error">ドローンをストップし、Wi-Fiの通信経路を変更する必要があります</string>
+    <string name="controller_channel_warning">WI-FIの通信経路を変更するとドローンの接続が解除されます</string>
+    <string name="controller_hardware">(ハードウェア：%s)</string>
+    <string name="controller_mapping">マッピングを編集する</string>
+    <string name="controller_settings">コントローラー</string>
+    <string name="controller_settings_short_title">コントローラー</string>
+    <string name="controller_version">バージョン %s</string>
+    <string name="copiloting_mode_disabled">コパイロット(副操縦士)モードを無効にしました</string>
+    <string name="copiloting_mode_engaged">コパイロット(副操縦士)モードを有効にしました</string>
+    <string name="copy_plan_button_text">コピー</string>
+    <string name="crach_academy_profile">%d の事故</string>
+    <string name="craches_in_plurall_academy_profile">%d の事故</string>
+    <string name="create">作成する</string>
+    <string name="create_an_academy_account_to_access_advanced_stats_about_your_pilotings_and_to_share_them_with_the_community">あなたの操縦に関する詳細な統計にアクセスするには、Parrot Cloudのアカウントを作成し、コミュニティで共有してください </string>
+    <string name="croatia">クロアチア</string>
+    <string name="current_channel">Current Channel</string>
+    <string name="current_version">現在のバージョン</string>
+    <string name="curve">曲線</string>
+    <string name="cyprus">キプロス</string>
+    <string name="czech_republic">チェコ共和国</string>
+    <string name="data_collection_cancel">キャンセル</string>
+    <string name="default_value">デフォルト値</string>
+    <string name="degree_per_second_unit">°/s</string>
+    <string name="degree_unit">°</string>
+    <string name="delete">消去</string>
+    <string name="delete_file">ファイルの削除</string>
+    <string name="delete_file_confirm">これらのファイルを削除しますか？</string>
+    <string name="delete_file_singular_confirm">Do you really want to delete this file?</string>
+    <string name="delete_many_item">削除する</string>
+    <string name="delete_param_button">削除する</string>
+    <string name="delete_plural_files_confirm">このファイルを削除しますか？</string>
+    <string name="delete_script_popup_cancel_button">キャンセル</string>
+    <string name="delete_script_popup_delete_button">削除する</string>
+    <string name="delete_single_file">ファイルの削除</string>
+    <string name="delete_this_flight_plan">このフライトプランを削除しますか。</string>
+    <string name="delete_this_plan">このプランを削除しますか？</string>
+    <string name="delete_this_road_plan">このプランを削除しますか？</string>
+    <string name="denmark">デンマーク</string>
+    <string name="details_on_the_last_connected_drone">最後に接続したドローンの詳細</string>
+    <string name="device_internal_memory">内部メモリ</string>
+    <string name="direct_pairing_connect_now">今すぐ接続する</string>
+    <string name="direct_pairing_direct_connection_message">"ドローンとコントローラーを直接接続すると、
+最大距離を増やすことができます。スマートフォンからの接続は解除されます。"</string>
+    <string name="direct_pairing_direct_connection_to_controller">コントローラーへの直接接続</string>
+    <string name="direction_of_rotation">旋回方向</string>
+    <string name="director_mode">"ディレクター
+モード"</string>
+    <string name="disable_wpa2">WPA2の無効化</string>
+    <string name="disabled">無効にする</string>
+    <string name="discover_parrot_drones">"ドローンParrot
+をご覧ください"</string>
+    <string name="dismiss">キャンセル</string>
+    <string name="distance_param_name">距離</string>
+    <string name="do_you_want_to_change_the_channel">チャンネルを変更しますか:変更前チャンネル</string>
+    <string name="do_you_want_to_connect_the_skycontroller_to">次にSkyControllerを接続しますか:</string>
+    <string name="do_you_want_to_exit">終了しますか？</string>
+    <string name="do_you_want_to_exit_the_piloting_interface">操縦インターフェースを終了しますか？</string>
+    <string name="do_you_wish_to_modify_your_wpa2_password_or_deactivate_wpa2_security_">WPA2パスワードを変更またはWPA2セキュリティを無効にしますか？</string>
+    <string name="do_you_wish_to_share_your_photo_on_facebook_">Facebook 上で写真を共有しますか？</string>
+    <string name="do_you_wish_to_share_your_video_on_facebook_">Facebook 上で動画を共有しますか？</string>
+    <string name="do_you_wish_to_update_your_drone_version">Droneをバージョンアップしますか？</string>
+    <string name="do_you_wish_to_update_your_remote_control">コンソールをアップデートしますか？</string>
+    <string name="doesnt_support_your_android_device">アンドロイドデバイスをサポートしていません。</string>
+    <string name="download">ダウンロード</string>
+    <string name="download_failed_retry">ファイルのダウンロード失敗しました。再起動しますか？</string>
+    <string name="download_firmwares_step">ファームウェアのダウンロード</string>
+    <string name="download_latest_firmware">Parrot Minidrone用の最新ファームウェアアップデートをダウンロードしますか</string>
+    <string name="download_latest_firmware_devices">最新アップデートをダウンロードしますか？</string>
+    <string name="drag_an_action_here">アクションをドラッグする</string>
+    <string name="drone_academy">Parrot Cloud</string>
+    <string name="drone_academy_parrot__minidrones_minidrone_mini_drone_rolling_spider_rollingspider_parrot_rolling_spider_drone_academy_parrot_academy_freeflight3">Droneacademy, Parrot, MiniDrones, MiniDrone, Mini Drone, Jumping Sumo, Parrot Jumping Sumo, JumpingSumo, Drone Academy, Parrot Academy, FreeFlight3</string>
+    <string name="drone_academy_parrot_bebop_drone_bebop_parrot_bebop_drone_drone_academy_parrot_academy_freeflight3">Droneacademy, Parrot, Bebop Drone, Bebop, Parrot Bebop Drone, Drone Academy, Parrot Academy, FreeFlight3</string>
+    <string name="drone_academy_parrot_minidrones_minidrone_mini_drone_jumping_sumo_parrot_jumping_sumo_jumpingsumo_drone_academy_parrot_academy_freeflight3">Droneacademy, Parrot, MiniDrones, MiniDrone, Mini Drone, Jumping Sumo, Parrot Jumping Sumo, JumpingSumo, Drone Academy, Parrot Academy, FreeFlight3</string>
+    <string name="drone_academy_profile">%d のドローン</string>
+    <string name="drone_activated">ドローンの起動</string>
+    <string name="drone_calibration_required">ドローンの調整が必要です！</string>
+    <string name="drone_initialization">ドローンの初期化</string>
+    <string name="drone_memory_deselect_all">Deselect All</string>
+    <string name="drone_memory_full">メモリがいっぱいです</string>
+    <string name="drone_memory_select_all">Select All</string>
+    <string name="drone_message_cancel">キャンセル</string>
+    <string name="drone_message_ok">Ok</string>
+    <string name="drone_message_warning">警告</string>
+    <string name="drone_renamed">ドローンの名前を変更しました</string>
+    <string name="drone_reset">Droneリセット</string>
+    <string name="drone_school">チュートリアル</string>
+    <string name="drone_store">ドローンのブティック</string>
+    <string name="drone_up_to_date">ドローンは最新バージョンです</string>
+    <string name="dronenacademy">"Parrot
+Cloud"</string>
+    <string name="drones_in_plural_academy_profile">%d のドローン</string>
+    <string name="drones_profile">drone</string>
+    <string name="duration_param_name">期間</string>
+    <string name="duration_time_line">期間：</string>
+    <string name="edit">編集</string>
+    <string name="edit_country_none">None</string>
+    <string name="email">Eメールアドレス</string>
+    <string name="emergency_stop">緊急停止</string>
+    <string name="enable_wpa2">WPA2の有効化</string>
+    <string name="enabled">有効にする</string>
+    <string name="error">エラー</string>
+    <string name="error__flight_plan">エラー</string>
+    <string name="error_sending_flight_plan_please_try_again">フライトプランの送信エラー。もう一度送信してください。</string>
+    <string name="estonia">エストニア</string>
+    <string name="exit">終了する</string>
+    <string name="exponential">指数関数的</string>
+    <string name="facebook">Facebook</string>
+    <string name="failed_to_access_memory">メモリアクセスエラー</string>
+    <string name="failed_to_communicate_with_motor">エンジンとの通信エラー</string>
+    <string name="failed_to_send_piloting_to_your_email">電子メールに操縦を送信できませんでした</string>
+    <string name="failed_to_start_video">ビデオの開始に失敗しました</string>
+    <string name="failed_to_stop_video">ビデオの停止に失敗しました</string>
+    <string name="fast">高速</string>
+    <string name="feet_per_second_unit">ft/s</string>
+    <string name="feet_unit">ft</string>
+    <string name="file_enum" formatted="false">%d /%d</string>
+    <string name="files_transferred_do_you_want_to_delete_the_original_files_">ファイルの移動が完了しました。元のファイルを削除してもよろしいですか？</string>
+    <string name="film_my_drone">"Drone 
+を撮影"</string>
+    <string name="film_plan">フライトプラン</string>
+    <string name="finishing_file_transfer_please_wait">転送終了中… お待ちください…</string>
+    <string name="finland">フィンランド</string>
+    <string name="firmware">Firmware</string>
+    <string name="firmware_update_will_take_2_hours_with_bluetooth_40_it_will_take_less_than_one_minute_by_usb_do_you_want_to_continue">"ファームウェアアップデートは、Bluetooth 4.0を使用すると2時間かかります。
+USBを使用すると１分以内に完了します。
+続行しますか？"</string>
+    <string name="firmware_update_will_take_35_minutes_with_bluetooth_40_it_will_take_less_than_one_minute_by_usb_do_you_want_to_continue_">"ファームウェアアップデートは、Bluetooth 4.0を使用すると35分かかります。
+USBを使用すると１分以内に完了します。
+続行しますか？"</string>
+    <string name="flight_limits_settings">フライト リミット設定</string>
+    <string name="flight_plan_alert_title">Flight Plan</string>
+    <string name="flight_plan_angle">角度 :</string>
+    <string name="flight_plan_angle_speed">角速度：</string>
+    <string name="flight_plan_default_value">デフォルト値</string>
+    <string name="flight_plan_format">形式 :</string>
+    <string name="flight_plan_fps">Fps :</string>
+    <string name="flight_plan_interval">インターバル :</string>
+    <string name="flight_plan_jpeg">JPEG</string>
+    <string name="flight_plan_jpeg_180">JPEG 180°</string>
+    <string name="flight_plan_landing">着陸</string>
+    <string name="flight_plan_pause">一時停止</string>
+    <string name="flight_plan_raw">Raw</string>
+    <string name="flight_plan_rotate">回転</string>
+    <string name="flight_plan_snapshot">画面キャプチャ</string>
+    <string name="flight_plan_take_off">離陸</string>
+    <string name="flight_plan_take_picture">写真撮影</string>
+    <string name="flight_plan_tilt">方向</string>
+    <string name="flight_plan_title">"Flight
+plan"</string>
+    <string name="flight_plan_video_recording">ビデオレコーディング</string>
+    <string name="flight_settings">フライトパラメータ</string>
+    <string name="flightplan_component_calibration">ドローンを校正してプランをスタートさせてください</string>
+    <string name="flightplan_component_file">ドローンがプランのエラーを検出しました。変更して再試行してください</string>
+    <string name="flightplan_component_gps">GPS信号が最適になるのを待って、プランをスタートさせてください</string>
+    <string name="flightplan_component_take_off">ドローンが離陸を拒否しています。ドローンがブロックされていないか確認してください</string>
+    <string name="flightplan_components_unknown">原因不明なエラーが発生しました</string>
+    <string name="flightplan_constant_course">コンスタントコース</string>
+    <string name="flightplan_edit_altitude">高度 :</string>
+    <string name="flightplan_edit_speed">速度 :</string>
+    <string name="flightplan_fw_update_needed">FlightPlanを使用するには、ドローンの最新アップデートをダウンロードしてください</string>
+    <string name="flightplan_pois_not_supported">現在のFlightplanは、あなたのドローンがサポートしていない機能を使用しています。プランはこれらの機能を使用せずにスタートします。</string>
+    <string name="flightplan_progressive_course">プログレッシブコース</string>
+    <string name="flightplan_sending_error">プランの送信時にエラーが発生しました。</string>
+    <string name="flightplan_speed_bridle">高度が低いと、ドローンの速度が制御されます</string>
+    <string name="flights_number">フライト</string>
+    <string name="fly_and_film">飛行 &amp; 撮影</string>
+    <string name="follow_beboopt_recorded_video_text_explanation">"動画は、 Parrot Bebop Drone により撮影されています！
+
+オフィシャル ウェブサイト：http://www.parrot.com/products/bebop-drone
+Parrot をフォローするには：https://twitter.com/Parrot 
+ファンになるには：http://www.facebook.com/parrot"</string>
+    <string name="follow_beebop_taken_photos_text_explanation">"写真は、 Parrot Bebop Drone により撮影されています！
+
+オフィシャル ウェブサイト：http://www.parrot.com/products/bebop-drone
+Parrot をフォローするには：https://twitter.com/Parrot 
+ファンになるには：http://www.facebook.com/parrot"</string>
+    <string name="follow_jumping_sumo_recorded_video_text_explanation">"動画は、 Parrot Jumping Sumo により撮影されています！
+
+オフィシャル ウェブサイト：http://www.parrot.com/products/jumping-sumo
+Parrot をフォローするには：https://twitter.com/Parrot 
+ファンになるには：http://www.facebook.com/parrot"</string>
+    <string name="follow_jumping_sumo_taken_photos_text_explanation">"写真は、 Parrot Jumping Sumo により撮影されています！
+
+オフィシャル ウェブサイト：http://www.parrot.com/products/jumping-sumo
+Parrot をフォローするには：https://twitter.com/Parrot 
+ファンになるには：http://www.facebook.com/parrot"</string>
+    <string name="follow_me_allow_ffpro_location">FreeFlight Pro に位置情報の使用を許可してください</string>
+    <string name="follow_me_anim_boomerang">ブーメラン</string>
+    <string name="follow_me_anim_orbit">軌道</string>
+    <string name="follow_me_anim_parabola">放物線</string>
+    <string name="follow_me_anim_zenith">天頂</string>
+    <string name="follow_me_choice_popup_description">開始するには、モードを選択してください：</string>
+    <string name="follow_me_device_barometer">あなたの機器にはバロメーターがありません</string>
+    <string name="follow_me_device_gps_accuracy">あなたの機器のGPSが十分に正確ではありません</string>
+    <string name="follow_me_disclamer_text">ドローンが自動的にあなたを追跡します。フライト中は責任を持ち、注意を怠らないでください。</string>
+    <string name="follow_me_drone_gps_accuracy">あなたのドローンのGPSが十分に正確ではありません</string>
+    <string name="follow_me_drone_not_far_enough">あなたのドローンは距離が十分ではありません</string>
+    <string name="follow_me_drone_not_high_enough">あなたのドローンは高度が十分ではありません</string>
+    <string name="follow_me_explanation_smartphone">GPS 追跡の性能および視覚性能は、お使いのスマートフォンによって異なります。無料体験でお使いのスマートフォンでお試しください。推奨デバイスのリストは&lt;u>こちら&lt;/u>でご参照ください。</string>
+    <string name="follow_me_first_use_description">追跡モードをスタートするには、操縦インターフェースでこの新しいボタンを押してください。</string>
+    <string name="follow_me_first_use_lock_button_description">自動追跡モードでは、ドローンが常に同じ側をフレーミングするように、視野をロックできます。</string>
+    <string name="follow_me_first_use_lock_button_title">視野をロック</string>
+    <string name="follow_me_first_use_title">追跡モードボタン</string>
+    <string name="follow_me_go_to_settings">設定に移動する</string>
+    <string name="follow_me_image_detection">画像検出問題が発生しています</string>
+    <string name="follow_me_inapp_description">このアプリ内購入により、新しい自動フライトモードを使用できます：</string>
+    <string name="follow_me_lock_screen">ロックする</string>
+    <string name="follow_me_mode_description">スマートフォンの GPS 機能と画像認識機能を使用してターゲットを追跡</string>
+    <string name="follow_me_not_calibrated">あなたのドローンは較正されていません</string>
+    <string name="follow_me_plurals_days_left">残り %d 日</string>
+    <string name="follow_me_single_days_left">残り %d 日</string>
+    <string name="follow_me_stop_follow">停止</string>
+    <string name="follow_me_subtitle">GPS と視覚による追跡</string>
+    <string name="follow_me_tips">周囲の環境の中で目を引く色のターゲットを選択してください</string>
+    <string name="follow_me_title">自動追跡</string>
+    <string name="follow_me_title_full">follow me</string>
+    <string name="follow_me_unlock_screen">ロックを解除する</string>
+    <string name="follow_me_wait_gps_description">自動追跡をスタートするには、ドローンの GPS とお使いのスマートフォンの十分な精度が必要です。</string>
+    <string name="follow_me_wait_gps_signal">GPS 信号を待っています...</string>
+    <string name="follow_rolling_spider_recorded_video_text_explanation">"動画は、 Parrot Rolling Spider により撮影されています！
+
+オフィシャル ウェブサイト：http://www.parrot.com/products/rolling-spider 
+Parrot をフォローするには：https://twitter.com/Parrot 
+ファンになるには：http://www.facebook.com/parrot"</string>
+    <string name="follow_rolling_spider_taken_photos_text_explanation">"写真は、 Parrot Rolling Spider により撮影されています！
+
+オフィシャル ウェブサイト：http://www.parrot.com/products/rolling-spider 
+Parrot をフォローするには：https://twitter.com/Parrot 
+ファンになるには：http://www.facebook.com/parrot"</string>
+    <string name="forget">無視</string>
+    <string name="forwards_jump_not_possible_jump_unavailability_reason">横跳びは利用できません</string>
+    <string name="fps_time_line">Fps :</string>
+    <string name="fpv">FPV</string>
+    <string name="fpv_signal_display" formatted="false">%d / %d</string>
+    <string name="france">フランス</string>
+    <string name="free_fall">自由降下</string>
+    <string name="free_trial">無料体験</string>
+    <string name="freeflight_3">Freeflight 3</string>
+    <string name="full_control">「絶対コントロール」</string>
+    <string name="gamepad_joystick_sensibility_exponential">指数</string>
+    <string name="gamepad_joystick_sensibility_linear">線上</string>
+    <string name="gamepad_joystick_sensibility_title">軸感度</string>
+    <string name="gamepad_mapping_button_dpad">DPAD</string>
+    <string name="gamepad_mapping_button_j1">J1</string>
+    <string name="gamepad_mapping_button_j1_key">J1-Key</string>
+    <string name="gamepad_mapping_button_j2">J2</string>
+    <string name="gamepad_mapping_button_j2_key">J2-Key</string>
+    <string name="gamepad_mapping_button_j3">J3</string>
+    <string name="gamepad_mapping_button_j3_key">J3-Key</string>
+    <string name="gamepad_mapping_button_j4">J4</string>
+    <string name="gamepad_mapping_button_j4_key">J4-Key</string>
+    <string name="gamepad_mapping_button_l1">L1</string>
+    <string name="gamepad_mapping_button_l2">L2</string>
+    <string name="gamepad_mapping_button_r1">R1</string>
+    <string name="gamepad_mapping_button_r2">R2</string>
+    <string name="gamepad_mapping_choose">Choose button type</string>
+    <string name="gamepad_mapping_cmd_auto_takeoff">自動離陸オン/オフ</string>
+    <string name="gamepad_mapping_cmd_back">戻る</string>
+    <string name="gamepad_mapping_cmd_backswap">バックスワップ</string>
+    <string name="gamepad_mapping_cmd_barrel_roll_left">左タンク</string>
+    <string name="gamepad_mapping_cmd_barrel_roll_right">右タンク</string>
+    <string name="gamepad_mapping_cmd_camera_pan">ビデオカメラの水平方向回転</string>
+    <string name="gamepad_mapping_cmd_claw">ペンチ オープン/クローズ</string>
+    <string name="gamepad_mapping_cmd_emergency">緊急</string>
+    <string name="gamepad_mapping_cmd_fast_turn_back">急速半回転</string>
+    <string name="gamepad_mapping_cmd_fast_turn_left">左急速旋回</string>
+    <string name="gamepad_mapping_cmd_fast_turn_right">右急速旋回</string>
+    <string name="gamepad_mapping_cmd_flip_back">リアフリップ</string>
+    <string name="gamepad_mapping_cmd_flip_front">フロントフリップ</string>
+    <string name="gamepad_mapping_cmd_flip_left">レフトフリップ</string>
+    <string name="gamepad_mapping_cmd_flip_right">ライトフリップ</string>
+    <string name="gamepad_mapping_cmd_fpv_display_mode">コックピットガラス：表示モード</string>
+    <string name="gamepad_mapping_cmd_fpv_video_pov">コックピットガラス：視界の変更</string>
+    <string name="gamepad_mapping_cmd_gaz">Gaz</string>
+    <string name="gamepad_mapping_cmd_gun">Gun Shot</string>
+    <string name="gamepad_mapping_cmd_left_right">90°左 &amp; 90°右</string>
+    <string name="gamepad_mapping_cmd_light_blink">点滅</string>
+    <string name="gamepad_mapping_cmd_light_on_off">ライトオン/オフ</string>
+    <string name="gamepad_mapping_cmd_light_toggle">ライトのスイッチ</string>
+    <string name="gamepad_mapping_cmd_light_wave">ライトのバリエーション</string>
+    <string name="gamepad_mapping_cmd_loitering">低飛行</string>
+    <string name="gamepad_mapping_cmd_looping">ルーピング</string>
+    <string name="gamepad_mapping_cmd_no_action">動作なし</string>
+    <string name="gamepad_mapping_cmd_not_used">未使用のアクション</string>
+    <string name="gamepad_mapping_cmd_photo">写真</string>
+    <string name="gamepad_mapping_cmd_pitch">縦揺れ</string>
+    <string name="gamepad_mapping_cmd_plane">飛行機</string>
+    <string name="gamepad_mapping_cmd_plane_gear_down">速度を遅くする</string>
+    <string name="gamepad_mapping_cmd_plane_gear_up">速度を速める</string>
+    <string name="gamepad_mapping_cmd_plane_mode">飛行機モード</string>
+    <string name="gamepad_mapping_cmd_quad_mode">クアッドモード</string>
+    <string name="gamepad_mapping_cmd_record">録画</string>
+    <string name="gamepad_mapping_cmd_reset_back">バック</string>
+    <string name="gamepad_mapping_cmd_reset_camera">ビデオカメラのリセット</string>
+    <string name="gamepad_mapping_cmd_return_home">Return Home</string>
+    <string name="gamepad_mapping_cmd_roll">横揺れ</string>
+    <string name="gamepad_mapping_cmd_stop">停止</string>
+    <string name="gamepad_mapping_cmd_take_control">Take Control</string>
+    <string name="gamepad_mapping_cmd_take_photo">写真を撮影する</string>
+    <string name="gamepad_mapping_cmd_takeoff">離陸／着陸</string>
+    <string name="gamepad_mapping_cmd_validate">確認してください</string>
+    <string name="gamepad_mapping_cmd_video">録画</string>
+    <string name="gamepad_mapping_cmd_video_camera_tilt">ビデオカメラの上下回転</string>
+    <string name="gamepad_mapping_cmd_wingx_flyingmode_plane_backward">飛行機バック</string>
+    <string name="gamepad_mapping_cmd_wingx_flyingmode_plane_forward">飛行機前進</string>
+    <string name="gamepad_mapping_cmd_wingx_flyingmode_quadricopter">クアッドコプター</string>
+    <string name="gamepad_mapping_cmd_yaw">ヨーイング</string>
+    <string name="gamepad_mapping_inverse">Inverse</string>
+    <string name="gamepad_mapping_main_calib">Main calibration</string>
+    <string name="gamepad_mapping_main_calib_info">To start, place all buttons and joysticks to the 0 position</string>
+    <string name="gamepad_mapping_main_calib_ready">"I'm ready"</string>
+    <string name="gamepad_mapping_move_button">move the control from max to min</string>
+    <string name="gamepad_mapping_rc_button">Button</string>
+    <string name="gamepad_mapping_rc_joystick_signed">Joystick (2)</string>
+    <string name="gamepad_mapping_rc_joystick_unsigned">Joystick (1)</string>
+    <string name="gamepad_mapping_rc_rotary_button">Potentiometer</string>
+    <string name="gamepad_mapping_rc_switch2">Switch (2)</string>
+    <string name="gamepad_mapping_rc_switch3">Switch (3)</string>
+    <string name="gamepad_mapping_required">Required</string>
+    <string name="gamepad_mapping_sky_2_cmd_camera_exp_dec">カメラの露出を減らす</string>
+    <string name="gamepad_mapping_sky_2_cmd_camera_exp_inc">カメラの露出を増やす</string>
+    <string name="gamepad_mapping_sky_2_cmd_cancel">キャンセル/戻る</string>
+    <string name="gamepad_mapping_sky_2_cmd_settings">設定を開く/閉じる</string>
+    <string name="gamepad_mapping_sky_2_cmd_validate">有効化</string>
+    <string name="gamepad_mapping_sky_cmd_back">戻る</string>
+    <string name="gamepad_mapping_sky_cmd_camera_pan">ビデオカメラの水平方向回転</string>
+    <string name="gamepad_mapping_sky_cmd_camera_tilt">ビデオカメラの上下回転</string>
+    <string name="gamepad_mapping_sky_cmd_emergency">緊急</string>
+    <string name="gamepad_mapping_sky_cmd_gaz">Gaz</string>
+    <string name="gamepad_mapping_sky_cmd_photo">写真</string>
+    <string name="gamepad_mapping_sky_cmd_pitch">縦揺れ</string>
+    <string name="gamepad_mapping_sky_cmd_record">録画</string>
+    <string name="gamepad_mapping_sky_cmd_reset_camera">ビデオカメラのリセット</string>
+    <string name="gamepad_mapping_sky_cmd_return_home">リターンホーム</string>
+    <string name="gamepad_mapping_sky_cmd_roll">横揺れ</string>
+    <string name="gamepad_mapping_sky_cmd_settings">設定</string>
+    <string name="gamepad_mapping_sky_cmd_takeoff_landing">離陸／着陸</string>
+    <string name="gamepad_mapping_sky_cmd_yaw">ヨーイング</string>
+    <string name="gamepad_mapping_warning">Place all buttons and joysticks to the 0 position to avoid undesirable behaviour</string>
+    <string name="gaz">Gaz</string>
+    <string name="general_information">一般情報</string>
+    <string name="general_terms_of_use_profile_creation">一般利用規約</string>
+    <string name="generic_error_message">エラーが発生しました、後ほど再試行ください</string>
+    <string name="germany">ドイツ</string>
+    <string name="give_me_a_cool_name_on_drone_academy">Drone Academyで使用する、カッコいい名前を付けてください！</string>
+    <string name="google_photos">Google Photos</string>
+    <string name="got_it">確認しました!</string>
+    <string name="gps_label">GPS</string>
+    <string name="gps_map">Gps</string>
+    <string name="gps_version">GPSバージョン</string>
+    <string name="greece">ギリシャ</string>
+    <string name="green_led_name">緑色</string>
+    <string name="green_ledparam_name">サイド</string>
+    <string name="hardware_version">ハードウェアバージョン</string>
+    <string name="home">ホーム</string>
+    <string name="home_my_flights">マイフライト</string>
+    <string name="hong_kong">香港</string>
+    <string name="horizontal_sensibility">水平感度</string>
+    <string name="how_to_connect_to_your_drone_explanation">"ドローンの Wi-Fi に接続するには、お使いの Wi-Fi システムを使用してください。
+使用可能な Wi-Fi ポイントのリストから、ドローンを選択してください。"</string>
+    <string name="how_to_connect_to_your_drone_title">ドローンに接続するには?</string>
+    <string name="hull_protection">ハル</string>
+    <string name="hungary">ハンガリー</string>
+    <string name="i_agree_to_receive_information_about_parrot_products_and_services_by_email_text_message_or_post">私は、 Parrot商品およびサービスに関する情報を電子メール、smsまたは郵便で受け取ることに承諾します</string>
+    <string name="i_want_to_receive_emails_from_my__and_parrot">自分の%s（および） Parrot からのEメールの受信を希望します</string>
+    <string name="if_you_want_to_access_your_media_gallery_enable_it_in_your_devices_settings">ギャラリーメディアにアクセスするには、機体上でこのオプションを有効にしてください。</string>
+    <string name="image_format_dng">DNG</string>
+    <string name="image_format_jpeg">JPEG</string>
+    <string name="image_format_jpeg_180">JPEG 180°</string>
+    <string name="image_settings">イメージ設定</string>
+    <string name="impossible_to_delete_this_run">この操縦を削除することができません</string>
+    <string name="in_this_position_jump_unavailability_reason"> ジャンプエラー。</string>
+    <string name="incorrect_value_in_motor_settings">エンジンパラメータの値が誤っています</string>
+    <string name="india">インド</string>
+    <string name="indonesia">インドネシア</string>
+    <string name="information_help">ヘルプ</string>
+    <string name="information_message">インフォメーション</string>
+    <string name="informations_title">情報</string>
+    <string name="insect">昆虫</string>
+    <string name="insert">挿入</string>
+    <string name="internal_memory">内部メモリ</string>
+    <string name="internet">インターネット</string>
+    <string name="internet_connection_is_too_slow">インターネットの接続が遅すぎます</string>
+    <string name="interval">インターバル</string>
+    <string name="invalid_coordinates">無効</string>
+    <string name="invalid_login_or_password">無効なログインまたはパスワードです</string>
+    <string name="invite">招待する</string>
+    <string name="invite_friend">"友達を
+招待"</string>
+    <string name="invite_your_friends">友達を招待する</string>
+    <string name="invite_your_friends_to_join_the_drone_academy">お友達をParrot Cloudに招待してください！</string>
+    <string name="ireland">アイルランド</string>
+    <string name="israel">イスラエル</string>
+    <string name="it_marks_a_camera_tilt_changing">"
+- 方向転換と表示されています。"</string>
+    <string name="it_marks_a_landing">"
+-着陸記号を書き込みます。"</string>
+    <string name="it_marks_a_pause">"
+-休止記号を書き込みます。"</string>
+    <string name="it_marks_a_rotation">"
+-回転記号を書き込みます。"</string>
+    <string name="it_marks_a_take_off">"
+-離陸記号を書き込みます。"</string>
+    <string name="it_marks_the_beginning_of_a_video_recording">"
+-ビデオ録画を開始します。"</string>
+    <string name="it_marks_the_beginning_of_an_image_capture">"
+- 画像キャプチャ開始と表示されています。"</string>
+    <string name="it_marks_the_end_of_a_video_recording">"
+-ビデオ録画の最後の記号を書き込みます。"</string>
+    <string name="it_marks_the_end_of_an_image_capture">"
+- 画像キャプチャ終了と表示されています。"</string>
+    <string name="italy">イタリア</string>
+    <string name="japan">日本</string>
+    <string name="join_today_improve_your_skills_and_start_your_own_adventure">今日から参加して、スキルを磨き、あなた自身の冒険を始めましょう</string>
+    <string name="joypad_inverted">ジョイパッドを反転させました</string>
+    <string name="joystick_configuration">ジョイスティックの設定</string>
+    <string name="jpeg_180">JPEG 180°</string>
+    <string name="jump_action_name">ジャンプ</string>
+    <string name="jump_already_loaded_jump_unavailability_reason"> : チャージ済みのジャンプ。</string>
+    <string name="jump_error_jump_unavailability_reason"> この姿勢での</string>
+    <string name="jump_high_choice">ハイ</string>
+    <string name="jump_kick_choice">キッカー</string>
+    <string name="jump_load_choice">ロード</string>
+    <string name="jump_loading_not_possible_jump_unavailability_reason">ジャンプはロードできません</string>
+    <string name="jump_long_choice">ロング</string>
+    <string name="jump_parm_name">ジャンプ</string>
+    <string name="jump_stop_choice">ストップ</string>
+    <string name="jumper_posture_choice">ジャンパー</string>
+    <string name="jumping_sumo_vesion_too_old_message">お使いの%sのバージョンが古すぎます。利用可能なアップデートをご確認ください</string>
+    <string name="keep">保存する</string>
+    <string name="kicker_posture_choice">キッカー</string>
+    <string name="kilometer_per_hour_unit">km/h</string>
+    <string name="kilometer_unit">km</string>
+    <string name="korea">韓国</string>
+    <string name="kuwait">クウェート</string>
+    <string name="landing_point_missing">プランの最後は着陸なければなりません</string>
+    <string name="last_error">最後のエラー</string>
+    <string name="last_flight">最後のフライト</string>
+    <string name="last_flight_time">最後のフライト時間</string>
+    <string name="last_motor_error">最新のモータエラー</string>
+    <string name="last_motors_error_last_drone_data">最新のモータエラー</string>
+    <string name="latitude__longitude">緯度、経度</string>
+    <string name="latvia">ラトビア</string>
+    <string name="learn_to_fly">フライトを学ぶ</string>
+    <string name="learning_gps_position_">GPSポジションの学習</string>
+    <string name="lebanon">レバノン</string>
+    <string name="leds_action_name">LED</string>
+    <string name="left_side_green_led_choise">右</string>
+    <string name="left_side_red_led_choice">右</string>
+    <string name="line">ライン</string>
+    <string name="linear">線形的</string>
+    <string name="linear_landing">リニアランディング</string>
+    <string name="lithuania">リトアニア</string>
+    <string name="loading">ロード中...</string>
+    <string name="loading_list_of_networks">ネットワーク一覧をロード中…</string>
+    <string name="loading_web_veiw">ロード中…</string>
+    <string name="location_settings">位置パラメータ</string>
+    <string name="log_error">送信時にエラーが発生しました</string>
+    <string name="log_sent">エラーが発生することなく、ログが送信されました</string>
+    <string name="login_academy">ログイン...</string>
+    <string name="logout_facebook">Facebook からログアウトする</string>
+    <string name="logout_from_youtube_google_photos">Youtube/Google Photos からログアウトする</string>
+    <string name="look_at_me">自動フレーミング</string>
+    <string name="look_at_me_mode_description">画像認識を使用して、操縦中にターゲットに対するフレーミングを維持します</string>
+    <string name="looking_for_parrot_drones">Parrot製ドローンを検索する…</string>
+    <string name="low_battery_jump_unavailability_reason"> : バッテリー残量低下。</string>
+    <string name="luxembourg">ルクセンブルク</string>
+    <string name="m_per_second_unit">m/s</string>
+    <string name="magnetometer">磁力計</string>
+    <string name="magnetometer_calibration">磁気センサのキャリブレーション</string>
+    <string name="make_a_movie_with_replay">REPLAYで映像を作成</string>
+    <string name="make_sure_a_nonfull_usb_media_is_plugged_in_your_drone">お使いのドローンに有効なUSBメディアが差し込まれていることを確認してください</string>
+    <string name="malaysia">マレーシア</string>
+    <string name="malta">マルタ共和国</string>
+    <string name="map">マップ</string>
+    <string name="map_my_house_add_current">以下の現在値を追加</string>
+    <string name="map_my_house_saved_plans">保存されたプラン</string>
+    <string name="map_my_house_title">"マップ
+私の家"</string>
+    <string name="map_preloading">マップの事前ダウンロード</string>
+    <string name="mapping">マッピング</string>
+    <string name="master_volume">マスターボリューム</string>
+    <string name="mavlink_cd_load">ロード</string>
+    <string name="mavlink_cd_save">保存</string>
+    <string name="mavlink_cd_save_as">上書き保存</string>
+    <string name="max_inclination">最大斜度</string>
+    <string name="max_speed">最高速度</string>
+    <string name="max_turn">最大回転</string>
+    <string name="media">メディア</string>
+    <string name="media_access_denied">アクセスが拒否されました</string>
+    <string name="media_alert_message_cancel">キャンセル</string>
+    <string name="media_alert_message_checking">確認中...</string>
+    <string name="media_alert_message_error">エラー</string>
+    <string name="media_alert_message_file_selected">選択したファイル</string>
+    <string name="media_alert_message_files_selected">選択したファイル</string>
+    <string name="media_alert_message_files_transferred_do_you_want_to_delete_them_from_usb_">ファイルが転送されました。USBから削除しますか？</string>
+    <string name="media_alert_message_keep_files">ファイルを保持</string>
+    <string name="media_alert_message_ok">Ok</string>
+    <string name="media_alert_message_transfer_delete">削除</string>
+    <string name="media_alert_message_transfer_error">転送エラー</string>
+    <string name="media_alert_message_usb_key">USBメモリ</string>
+    <string name="media_available_space_on_device">お使いのデバイスでは %s だけ使用可能です</string>
+    <string name="media_cd_date">日付</string>
+    <string name="media_cd_time">Time</string>
+    <string name="media_drone_memory">Drone memory</string>
+    <string name="media_gallery">メディアギャラリー</string>
+    <string name="media_gellery_select">選択</string>
+    <string name="media_gigabyte">Gb</string>
+    <string name="media_keep_files_in_plural">ファイルを保存する</string>
+    <string name="media_keep_singlr_file">ファイルを保存する</string>
+    <string name="media_megabyte">Mb</string>
+    <string name="media_multiple_files_transferred">%d ファイルが送信されました。元のファイルを削除しますか？</string>
+    <string name="media_not_supported">内部メモリ があなたの機器ではサポートされていません。</string>
+    <string name="media_one">%d メディア</string>
+    <string name="media_play_button_text">再生</string>
+    <string name="media_please_wait">お待ちください...</string>
+    <string name="media_plurals_file_transferred_keep">"%d 個のファイルが転送されました。
+オリジナルを保存しますか?"</string>
+    <string name="media_select_items">項目を選択</string>
+    <string name="media_selected_file">%d 選択されたファイル</string>
+    <string name="media_selected_files_in_plural">%d 選択されたファイル</string>
+    <string name="media_settings">メディア設定</string>
+    <string name="media_several">%d メディア</string>
+    <string name="media_single_file_transferred">%d ファイルが送信されました元のファイルを削除しますか？</string>
+    <string name="media_single_file_transferred_keep">"%d file was successfully transferred to your device.
+Do you want to keep the original?"</string>
+    <string name="media_stop_button_text">停止</string>
+    <string name="media_storage_free">フリー</string>
+    <string name="media_title">メディア</string>
+    <string name="media_transfer">メディアの送信</string>
+    <string name="media_transfer_deleting">ドローンのファイルを削除</string>
+    <string name="media_transfer_total">合計</string>
+    <string name="media_transfer_transfering">あなたの機器にファイルを送信します</string>
+    <string name="media_type_all">すべて</string>
+    <string name="media_type_photo">写真</string>
+    <string name="media_type_photos">画像</string>
+    <string name="media_type_video">ビデオ</string>
+    <string name="media_type_videos">映像</string>
+    <string name="media_unread_count_bar_message">前回のフライトで撮影された{0}を送信しますか？</string>
+    <string name="media_unread_many">前回のフライトで使用された%dメディアを送信しますか？</string>
+    <string name="media_unread_one">前回のフライトで使用されたメディアを送信しますか？</string>
+    <string name="mediaplayer_upload">送信</string>
+    <string name="medias_map">メディア</string>
+    <string name="memory_full">メモリがいっぱいです</string>
+    <string name="memory_full_error">機器のメモリが一杯です。ダウンロードできません。</string>
+    <string name="menu_manager_back_action">戻る</string>
+    <string name="meter_unit">m</string>
+    <string name="metronome">メトロノーム</string>
+    <string name="metronome_led_animation">メトロノーム</string>
+    <string name="mexico">メキシコ</string>
+    <string name="miles_per_hour_unit">mph</string>
+    <string name="miles_unit">mi</string>
+    <string name="mode_50_hz">50 Hz</string>
+    <string name="mode_60_hz">60 Hz</string>
+    <string name="monster">モンスター</string>
+    <string name="motor">エンジン</string>
+    <string name="motor_controller_error_">エンジンコントローラーのトラブル</string>
+    <string name="motor_error_go_to_motor_settings_for_more_information">モーターエラー (%d)</string>
+    <string name="motor_hardware_version">ハードウェア</string>
+    <string name="motor_information">エンジン情報</string>
+    <string name="motor_information_error">エラー</string>
+    <string name="motor_software_version">ソフトウェア</string>
+    <string name="motor_software_version_last_drone_data">モータのソフトウエアバージョン</string>
+    <string name="motor_stage_broken">単相エンジンの故障</string>
+    <string name="motor_stalled">エンスト</string>
+    <string name="motor_type">タイプ</string>
+    <string name="my_drones">自分のドローン</string>
+    <string name="my_drones_delete">削除</string>
+    <string name="my_drones_drone_deleted">ドローンを削除しました</string>
+    <string name="my_drones_drone_name">ドローン名</string>
+    <string name="my_drones_drone_registered">登録されたドローン</string>
+    <string name="my_drones_no_drone_found">ドローンが見つかりません</string>
+    <string name="my_drones_registered">登録されました</string>
+    <string name="my_drones_registered_with_exclamation_mark">登録されました！</string>
+    <string name="my_drones_registration">登録中・・・</string>
+    <string name="my_drones_registration_has_failed">登録は失敗しました</string>
+    <string name="my_drones_searching_for_drones">ドローンの探索中・・・</string>
+    <string name="my_flights_battery_used">{0} %</string>
+    <string name="my_flights_captures_content_description">センサ</string>
+    <string name="my_flights_crashes">{0,choice,0#クラッシュなし|1#クラッシュ1回|1&lt;{0} クラッシュ}</string>
+    <string name="my_flights_crashes_content_description">クラッシュ</string>
+    <string name="my_flights_date_content_description">日付</string>
+    <string name="my_flights_details_gps_unavailable">GPSを利用できません</string>
+    <string name="my_flights_details_graphics_altitude_title">高度 (m)</string>
+    <string name="my_flights_details_graphics_battery_title">バッテリー（％）</string>
+    <string name="my_flights_details_graphics_high_jump">ハイ</string>
+    <string name="my_flights_details_graphics_jump_title">ジャンプ</string>
+    <string name="my_flights_details_graphics_long_jump">ロング</string>
+    <string name="my_flights_details_graphics_speed_title">速度 (m/s)</string>
+    <string name="my_flights_details_run_type_private">非公開</string>
+    <string name="my_flights_details_run_type_public">公開</string>
+    <string name="my_flights_details_title_gps">GPS</string>
+    <string name="my_flights_details_title_graphics">グラフィック</string>
+    <string name="my_flights_details_title_medias">メディア</string>
+    <string name="my_flights_details_title_summary">レジュメ</string>
+    <string name="my_flights_duration_content_description">期間</string>
+    <string name="my_flights_load_more_flights">他のフライトをロードする</string>
+    <string name="my_flights_signin">Parrot Cloudに接続してください</string>
+    <string name="my_flights_time_content_description">Time</string>
+    <string name="my_flights_time_hour">%d時</string>
+    <string name="my_flights_time_minute">%d分</string>
+    <string name="my_flights_time_minute_or_second">{0} m {1,choice,0#|1&lt;{1} s}</string>
+    <string name="my_flights_time_second">%d秒</string>
+    <string name="my_flights_title">マイフライト</string>
+    <string name="my_flights_unknown_value">\???</string>
+    <string name="my_flights_videos_content_description">映像</string>
+    <string name="my_gallery">"マイ
+ギャラリー"</string>
+    <string name="my_last_flight_photo_just_shared_on_google_photos">最後のフライトが、Google Photos 上で共有されました</string>
+    <string name="my_last_flight_video_just_shared_on_youtube">最後のフライトが、 Youtube 上で共有されました</string>
+    <string name="my_piloting">私の操縦</string>
+    <string name="my_piloting_altitude">高度</string>
+    <string name="my_piloting_battery_usage">バッテリー使用</string>
+    <string name="my_piloting_delete_run">操縦を削除する</string>
+    <string name="my_piloting_deleting_run">操縦の削除</string>
+    <string name="my_piloting_gps_path">GPSルート</string>
+    <string name="my_piloting_impossible_to_load_pilotings">パイロット情報をロードできません</string>
+    <string name="my_piloting_load_more_pilotings">さらにパイロット情報をロードする</string>
+    <string name="my_piloting_media">メディア</string>
+    <string name="my_piloting_my_flights">マイフライト</string>
+    <string name="my_piloting_myndrones">"マイ
+Drones"</string>
+    <string name="my_piloting_no_data_available">利用可能なデータが存在しません</string>
+    <string name="my_piloting_no_gps_data_available">利用可能な GPS データが存在しません</string>
+    <string name="my_piloting_no_piloting_found">パイロット情報が見つかりません</string>
+    <string name="my_piloting_piloting">操縦</string>
+    <string name="my_piloting_rank">ランク</string>
+    <string name="my_piloting_rating">評価</string>
+    <string name="my_piloting_runs_summary">操縦のレジュメ</string>
+    <string name="my_piloting_send_piloting">操縦を送信</string>
+    <string name="my_piloting_sending_piloting">操縦を送信中</string>
+    <string name="my_piloting_speed">速度</string>
+    <string name="my_piloting_type">タイプ</string>
+    <string name="my_piloting_unknown_position">位置が不明です</string>
+    <string name="my_pilotings">マイ 操縦</string>
+    <string name="my_pilotings_title">"マイ
+操縦"</string>
+    <string name="my_plans">"マイ
+プラン"</string>
+    <string name="my_runs_map">自分のラン</string>
+    <string name="navigation">ブラウザ</string>
+    <string name="need_update">アップデートが必要です</string>
+    <string name="netherlands">オランダ</string>
+    <string name="network_settings_auto">（自動）</string>
+    <string name="network_settings_drone_reset">Droneリセット</string>
+    <string name="network_settings_outdoor">屋外用</string>
+    <string name="never_ask_me_again">二度と表示しない</string>
+    <string name="new_">新登場</string>
+    <string name="new_update">最新のアップデート</string>
+    <string name="new_zeland">ニュージーランド</string>
+    <string name="next_charge">次の充電</string>
+    <string name="no">いいえ</string>
+    <string name="no_action">動作なし</string>
+    <string name="no_connection_message">No connection</string>
+    <string name="no_controller_detected">No controller detected</string>
+    <string name="no_controller_detected_description">You can connect to a controller via wi-fi (Skycontroller), USB cable (Skycontroller 2) or Bluetooth (Flypad and others).</string>
+    <string name="no_drone_detected">ドローンが検出されません</string>
+    <string name="no_drones">ドローンがありません</string>
+    <string name="no_message">いいえ</string>
+    <string name="no_permission_granted">許可されていません</string>
+    <string name="no_remotes">コンソールがありません</string>
+    <string name="no_result_map">該当なし</string>
+    <string name="no_settings_available">調整機能はありません</string>
+    <string name="no_update_found">最新のアップデートはありません</string>
+    <string name="no_user_authenticated_map">登録されていないユーザーです</string>
+    <string name="no_user_registered">登録されていないユーザーです</string>
+    <string name="number_of_flights">フライト数</string>
+    <string name="off_red_led_state">オフ</string>
+    <string name="ok">Ok</string>
+    <string name="ok_alert_message">Ok</string>
+    <string name="ok_param_button">OK</string>
+    <string name="on_red_led_state">オン</string>
+    <string name="ondulation">ウェーブ</string>
+    <string name="ondulation_led_animation">波動</string>
+    <string name="open">開く</string>
+    <string name="open_flight_plan">開く</string>
+    <string name="overheat_reached_">オーバーヒートしました！</string>
+    <string name="password">パスワード</string>
+    <string name="password__1s">パスワード :%1$s</string>
+    <string name="pause">一時停止</string>
+    <string name="permission_denied">許可が却下されました</string>
+    <string name="permission_explanation_camera">see-Throughビデオをオンにする</string>
+    <string name="permission_explanation_camera_minidrone">Parrot製ミニドローンで楽しいひと時を録画する</string>
+    <string name="permission_location">あなたのドローンを見つけるには、位置情報の利用の許可が必要です。それなしでアプリケーションを使用することはできません！</string>
+    <string name="permission_location_denied">あなたのドローンを見つけるには、位置情報の利用の許可が絶対に必要です。次のダイアログボックスで「許可」を選択してください。</string>
+    <string name="permission_location_denied_permanently">あなたのドローンを見つけるには、位置情報の利用の許可が必要です。次の画面で許可を選択し、位置情報を再度オンにしてください。</string>
+    <string name="permission_location_needed">Access your location</string>
+    <string name="permission_need">次の許可が必要です。</string>
+    <string name="permission_request">許可の申請</string>
+    <string name="permission_save_video">SDカードにビデオを保存する</string>
+    <string name="permission_storage">機器の保存メモリにアクセスして、あなたのドローンの写真を保存する必要があります。</string>
+    <string name="permission_storage_academy">機器の保存メモリにアクセスして、Parrot Cloudからダウンロードしたあなたのフライトを保存する必要があります。</string>
+    <string name="permission_use_camera">カメラを使って、ビデオを録画する</string>
+    <string name="philippines">フィリピン</string>
+    <string name="photoLibrary_privacy_mini">フライトの写真を保存するには</string>
+    <string name="photo_mode">写真モード</string>
+    <string name="photo_popup_title">写真</string>
+    <string name="photo_unread_many">前回のフライトで使用された%d写真を送信しますか？</string>
+    <string name="photo_unread_one">前回のフライトで撮影された写真を送信しますか？</string>
+    <string name="photos_map">画像</string>
+    <string name="pilot_map">パイロット</string>
+    <string name="piloting">操縦</string>
+    <string name="piloting_alert_connection_list">接続が失われました。再接続しています…</string>
+    <string name="piloting_alert_max_distance">アラート最大距離</string>
+    <string name="piloting_cd_altitude">高度</string>
+    <string name="piloting_cd_battery_level">バッテリレベル</string>
+    <string name="piloting_cd_distance">距離</string>
+    <string name="piloting_cd_duration">期間</string>
+    <string name="piloting_cd_emergency">緊急</string>
+    <string name="piloting_cd_flat_trim">Flat trim</string>
+    <string name="piloting_cd_not_connected">未接続</string>
+    <string name="piloting_cd_photo">写真</string>
+    <string name="piloting_cd_posture">姿勢</string>
+    <string name="piloting_cd_record">録画</string>
+    <string name="piloting_cd_return_home">Return Home</string>
+    <string name="piloting_cd_settings">設定</string>
+    <string name="piloting_cd_speed">スピード</string>
+    <string name="piloting_cd_stop">ストップ</string>
+    <string name="piloting_cd_take_off">離陸</string>
+    <string name="piloting_gps_version">GPS</string>
+    <string name="piloting_has_been_sent_to_your_email">電子メールに操縦を送信しました</string>
+    <string name="piloting_remote_required">ドローンの操縦にはリモコンが必要です。</string>
+    <string name="piloting_settings">操縦設定</string>
+    <string name="piloting_settings_accessory_type">アクセサリー</string>
+    <string name="piloting_settings_accessory_type_hull">ハル</string>
+    <string name="piloting_settings_accessory_type_hydrofoil">Hydrofoil</string>
+    <string name="piloting_settings_accessory_type_none">なし</string>
+    <string name="piloting_settings_accessory_type_truck_wheels">トラックホイール</string>
+    <string name="piloting_settings_accessory_type_unconfigured">未設定のアクセサリー</string>
+    <string name="piloting_settings_accessory_type_unknown">不明なアクセサリー</string>
+    <string name="piloting_settings_accessory_type_wheels">車輪</string>
+    <string name="piloting_settings_application_software_version">FreeFlightのソフトウェアバージョン</string>
+    <string name="piloting_settings_bank_turn">傾斜カーブ</string>
+    <string name="piloting_settings_calibration">キャリブレーション</string>
+    <string name="piloting_settings_camera">カメラ</string>
+    <string name="piloting_settings_camera_autorecord">自動録画</string>
+    <string name="piloting_settings_camera_directions">"CAMERA :
+方向"</string>
+    <string name="piloting_settings_cd_help">ヘルプ</string>
+    <string name="piloting_settings_circling_altitude">停飛行高度</string>
+    <string name="piloting_settings_circling_direction">停飛行方向</string>
+    <string name="piloting_settings_circling_direction_clockwise">時計回り</string>
+    <string name="piloting_settings_circling_direction_counter_clockwise">反時計回り</string>
+    <string name="piloting_settings_circling_radius">停飛行範囲</string>
+    <string name="piloting_settings_close">近い</string>
+    <string name="piloting_settings_controller">コントローラー</string>
+    <string name="piloting_settings_cut_out">カットアウト</string>
+    <string name="piloting_settings_distance_max_enable">物理的限界</string>
+    <string name="piloting_settings_drone">ドローン</string>
+    <string name="piloting_settings_far">遠い</string>
+    <string name="piloting_settings_fast">高速</string>
+    <string name="piloting_settings_flat_trim">フラットトリム</string>
+    <string name="piloting_settings_fpv">FPV</string>
+    <string name="piloting_settings_fpv_auto_launch">自動スタート</string>
+    <string name="piloting_settings_fpv_description">First Person View</string>
+    <string name="piloting_settings_fpv_drone">ドローンの視界</string>
+    <string name="piloting_settings_fpv_eyes_spacing">視野</string>
+    <string name="piloting_settings_fpv_glasses">FPVゴーグル</string>
+    <string name="piloting_settings_fpv_mode">モード</string>
+    <string name="piloting_settings_fpv_see_through">See-Through</string>
+    <string name="piloting_settings_fpv_state">状態</string>
+    <string name="piloting_settings_gps_signal">GPS信号</string>
+    <string name="piloting_settings_gyroscope">センサ</string>
+    <string name="piloting_settings_gyroscope_description_jog_settings">"GYROSCOPE:
+方向"</string>
+    <string name="piloting_settings_gyroscope_directions">GYROSCOPE:方向</string>
+    <string name="piloting_settings_gyroscope_speed_and_directions">"GYROSCOPE:
+速度と方向"</string>
+    <string name="piloting_settings_high">ハイ</string>
+    <string name="piloting_settings_home_position">ホームに戻る位置</string>
+    <string name="piloting_settings_hydrofoil_pool_size">タンクのサイズ</string>
+    <string name="piloting_settings_hydrofoil_speed">Hydrofoilの速度</string>
+    <string name="piloting_settings_infos">情報</string>
+    <string name="piloting_settings_infos_descritpion">バージョン</string>
+    <string name="piloting_settings_jog_directions">"JOG:
+方向"</string>
+    <string name="piloting_settings_jog_elevation_rotation">"JOG:
+上昇と回転"</string>
+    <string name="piloting_settings_jog_swipe">"SWIPE:
+急速旋回"</string>
+    <string name="piloting_settings_low">下</string>
+    <string name="piloting_settings_max_altitude">最大高度</string>
+    <string name="piloting_settings_max_distance">最大距離</string>
+    <string name="piloting_settings_max_inclination_speed">最大傾斜速度</string>
+    <string name="piloting_settings_max_pitch">最高高度</string>
+    <string name="piloting_settings_max_pitch_speed">最大傾斜速度</string>
+    <string name="piloting_settings_max_rotation_speed">"最大回転
+速度"</string>
+    <string name="piloting_settings_max_tilt">最大傾斜</string>
+    <string name="piloting_settings_max_vertical_speed">"最大垂直
+速度"</string>
+    <string name="piloting_settings_min_altitude">最低高度</string>
+    <string name="piloting_settings_minidrone_hardware_version">ハードウェアバージョン</string>
+    <string name="piloting_settings_minidrone_software_version">ソフトウェアバージョン</string>
+    <string name="piloting_settings_network">ネットワーク</string>
+    <string name="piloting_settings_network_2_4">2.4 GHz</string>
+    <string name="piloting_settings_network_5">5 GHz</string>
+    <string name="piloting_settings_network_all">すべて</string>
+    <string name="piloting_settings_network_band">Band</string>
+    <string name="piloting_settings_network_description">ネットワーク設定</string>
+    <string name="piloting_settings_network_hint">パスワードは8文字以上でなければなりません。</string>
+    <string name="piloting_settings_network_localisation">位置情報</string>
+    <string name="piloting_settings_network_manual">マニュアル</string>
+    <string name="piloting_settings_network_network_name">ネットワーク名</string>
+    <string name="piloting_settings_network_security">セキュリティ</string>
+    <string name="piloting_settings_network_security_deactivated">パスワードを入力して、WPA2セキュリティを有効にしてください</string>
+    <string name="piloting_settings_network_security_desc">"パスワードの変更後、またはWPA2セキュリティをオフにした後は、ドローンを再起動させる必要があります。
+このパスワードは、次回の接続時に必要になります。"</string>
+    <string name="piloting_settings_network_security_reboot">パスワードの変更後、またはWPA2セキュリティをオフにした後は、ドローンを再起動させる必要があります。</string>
+    <string name="piloting_settings_normal">標準</string>
+    <string name="piloting_settings_outdoor">屋外用</string>
+    <string name="piloting_settings_piloting">コントロール</string>
+    <string name="piloting_settings_piloting_description">コントロール設定</string>
+    <string name="piloting_settings_piloting_type">パイロットモード</string>
+    <string name="piloting_settings_piloting_type_ace">エース</string>
+    <string name="piloting_settings_piloting_type_joypad">ジョイパッド</string>
+    <string name="piloting_settings_piloting_type_normal">標準</string>
+    <string name="piloting_settings_pitch_mode">ピッチングモード</string>
+    <string name="piloting_settings_pitch_mode_inverted">逆</string>
+    <string name="piloting_settings_pitch_mode_normal">標準</string>
+    <string name="piloting_settings_position">位置</string>
+    <string name="piloting_settings_position_description">速度設定</string>
+    <string name="piloting_settings_position_title">位置、距離、限度</string>
+    <string name="piloting_settings_return_home_delay">"接続解除後に
+戻ってくるまでの時間"</string>
+    <string name="piloting_settings_return_home_drone">"ホームに戻る
+(パイロットのドローン)"</string>
+    <string name="piloting_settings_return_home_first_fix">最初の固定</string>
+    <string name="piloting_settings_return_home_pilot_position">操縦のポジション</string>
+    <string name="piloting_settings_return_home_take_off_position">離陸地点</string>
+    <string name="piloting_settings_return_home_user">"ホームに戻る
+(操縦者の選択)"</string>
+    <string name="piloting_settings_slider_direction">"SLIDER:
+方向"</string>
+    <string name="piloting_settings_slider_speed">"SLIDER:
+速度"</string>
+    <string name="piloting_settings_slow">低速</string>
+    <string name="piloting_settings_unknown_application_version">不明なバージョン</string>
+    <string name="piloting_settings_unused_value">未使用</string>
+    <string name="piloting_settings_very_close">非常に近い</string>
+    <string name="piloting_settings_very_far">非常に遠い</string>
+    <string name="piloting_settings_very_fast">非常に早い</string>
+    <string name="piloting_settings_very_high">非常に高い</string>
+    <string name="piloting_settings_very_low">非常に低い</string>
+    <string name="piloting_settings_very_slow">非常に遅い</string>
+    <string name="piloting_shake_drone_start">起動するには、ドローンをスタートさせてください。</string>
+    <string name="piloting_shake_drone_take_off">ドローンを離陸させてください</string>
+    <string name="pilotings_profile">操縦</string>
+    <string name="pitch">縦揺れ</string>
+    <string name="pitot_tube">Pitot チューブ</string>
+    <string name="place_map">場所</string>
+    <string name="plan_already_exist">「%s」既に存在します</string>
+    <string name="plan_not_saved">フライトプランが保存されていません</string>
+    <string name="plan_not_saved_warning">プランは保存されていません</string>
+    <string name="plan_replace">交換しますか？</string>
+    <string name="please_allow_pairing">通知バーを確認し、Bluetooth同期のリクエストを許可してください</string>
+    <string name="please_check_the_email_format">Eメールの形式を確認してください</string>
+    <string name="please_connect_to_internet">インターネットに接続してください</string>
+    <string name="please_connect_to_internet_message">インターネットに接続してください</string>
+    <string name="please_connect_your_device_to_internet_to_preload_the_flight_plan_background_map">フライトプランの背景マップをプリロードするには、端末をインターネットに接続します。</string>
+    <string name="please_connect_your_drone">Droneを接続してください</string>
+    <string name="please_create_a_channel_on_youtube">http://www.youtube.comにチャンネルを作成してください</string>
+    <string name="please_enter_your_email_address_to_activate_your_drone">ドローンを起動するにはメールアドレスを入力してください</string>
+    <string name="please_free_up_storage_space_on_your_device_to_make_download">ダウンロードするには、機体上のディスク領域を空けてください</string>
+    <string name="please_put_the_drone_on_a_flat_surface">ドローンを平らな表面の上に置いてください</string>
+    <string name="please_switch_off_and_switch_on_again_your_bluetooth_to_restart_it">再起動するには、Bluetoothのオフにしてから再度オンにしてください</string>
+    <string name="please_switch_to_indoor_settings">屋内設定に切り替えてください</string>
+    <string name="please_switch_to_outdoor_settings">屋外設定に切り替えてください</string>
+    <string name="please_wait_while_the_drone_lands">しばらくお待ちください。ドローンが着陸しています…</string>
+    <string name="poi">POI</string>
+    <string name="poi_types_map">POI タイプ</string>
+    <string name="poland">ポーランド</string>
+    <string name="pool_size">プールサイズ</string>
+    <string name="portugal">ポルトガル</string>
+    <string name="posture_action_name">姿勢</string>
+    <string name="posture_param_name">姿勢</string>
+    <string name="preload_a_section_of_the_world_map_for_offline_use">オフラインで使用するためにマップの背景を事前ダウンロード</string>
+    <string name="preload_cancel_button_text">キャンセル</string>
+    <string name="preload_text_button">事前ロード</string>
+    <string name="preloader_status_text_canceled">キャンセルされました</string>
+    <string name="preloader_status_text_preloading">事前ロード…</string>
+    <string name="preloader_status_text_preloading_failed">事前ロードエラー。</string>
+    <string name="preloader_status_text_preloading_in_progress">事前ロード中…</string>
+    <string name="preloader_status_text_preloading_successful">事前ロードを完了しました。</string>
+    <string name="preloader_status_text_ready">準備完了</string>
+    <string name="preloading_help_text">操縦時にリアルタイムでドローンの位置を示した地図を表示するには、オフラインでも地図を表示できるよう地図の壁紙を事前ロードする必要があります。ドローンをご使用になる位置上に以下の地図の中心を合わせ、事前ロードボタンを押してください。</string>
+    <string name="processing_update">アップデート中</string>
+    <string name="product_choice">製品の選択肢</string>
+    <string name="product_name">製品名</string>
+    <string name="product_type">製品タイプ</string>
+    <string name="product_up_to_date">機器は最新バージョンです</string>
+    <string name="profile_address">住所</string>
+    <string name="profile_biography">略歴</string>
+    <string name="profile_birthday">誕生日</string>
+    <string name="profile_city">市</string>
+    <string name="profile_country">国</string>
+    <string name="profile_creation">プロフィールの作成</string>
+    <string name="profile_edit">編集</string>
+    <string name="profile_edit_academy_error">このページには現在アクセスできません。後ほどまた試してください</string>
+    <string name="profile_edit_avatar_bad_picture">この画像を選ぶことができませんでした</string>
+    <string name="profile_edit_canceling">キャンセル</string>
+    <string name="profile_edit_connect_account">アカウントに接続</string>
+    <string name="profile_edit_delete_account_button">アカウントの消去</string>
+    <string name="profile_edit_delete_account_description">アカウントを消去すると、全てのパイロットデータおよびこれまでの成績が失われます</string>
+    <string name="profile_edit_delete_account_question">アカウントを消去しますか？</string>
+    <string name="profile_edit_invalid_email">無効なEメール</string>
+    <string name="profile_edit_invalid_website">ウェブサイトが無効です</string>
+    <string name="profile_edit_loading">ロード中…</string>
+    <string name="profile_edit_register">プロフィールの登録</string>
+    <string name="profile_edit_registration_success">あなたのプロフィールが更新されました</string>
+    <string name="profile_edit_registration_title">登録</string>
+    <string name="profile_edit_save">保存</string>
+    <string name="profile_edit_sharing">あなたの操縦について、デフォルトの共有レベルを選択してください。「公開」を選択した場合、あなたの操縦は全てParrot Cloudで公開されます。</string>
+    <string name="profile_edit_sharing_private">非公開</string>
+    <string name="profile_edit_sharing_public">公開</string>
+    <string name="profile_edit_title">プロフィールの変更</string>
+    <string name="profile_email">Eメールアドレス</string>
+    <string name="profile_facebook">Facebook</string>
+    <string name="profile_first_name">名</string>
+    <string name="profile_gcu">"AR.FreeFlight 3 Application
+
+
+1。法定通知
+
+AR.FreeFlight 3 アプリケーション（およびそれ以降のバージョン）は、PARROT SA により公表されています。PARROT SA は、フランス法に基づく株式会社で、資本金は1,934,920.57ユーロ、本社は 174-178, quai de Jemmapes in Paris (75010) France にあり、 Paris Trade Registry において 394 149 496番で登録されています。
+
+
+2.利用条件
+
+AR.FreeFlight 3 アプリケーション（およびそれ以降のバージョン）により、AR.Drone および AR.Drone 3 の操縦、写真撮影、動画撮影、コンテンツの共有、AR. Drone Academy を通じてのパイロットフォーラムへの参加ができます。
+
+利用条件の承諾
+AR. FreeFlight 3 アプリケーションへの接続および利用は、これらの利用条件を承諾したものとみなします。これら現在の利用条件に同意されない場合、アプリケーションの閲覧や調査、弊社の提供するサービスの利用を行わないようにお願いいたします。
+
+これらの利用条件は、Parrotにより必要に応じて改正されます。利用条件におけるなんらかの改正があった場合、私たちのウェブサイト上、あるいはアプリケーション上で公表された時点よりその改正は効力を発揮するものとします。定期的に利用条件を確認される事をお勧めします。加えて、コンテンツ、商品、素材、サービス、他の Parrot アプリケーションもしくはサードパーティー アプリケーション に含まれるもしくはそれらで閲覧可能な特定の情報に対して、特定の手続きあるいは条件が適用される可能性があります。これらの特定の条件は、利用条件に追加されるか、あるいは明確に定義された場合は利用条件の代替となる可能性があります。
+
+Parrot は、アプリケーションのコンテンツにおける変更、更新、表示を、事前の通知なく必要に応じて行う権利を有します。Parrot は、独自の判断により、なんらかの理由に基づいてアプリケーションへのアクセスの除去あるいは制限を行う権利を有します。
+
+利用ポリシー
+AR.Drone を操縦するアプリケーションを使用する場合、以下の規約に従う事に同意する必要があります:
+AR.Drone に付属するマニュアルを注意深く読んでください。
+特に人間、動物、建物との接触を回避するため、AR.Drone を使用する際は常にしっかりと視認できる範囲で制御してください。
+AR.Drone の使用は、特定の公共施設（空港、駅など）または公共の道路上では許可されない可能性があります。AR.Drone を使用する際には、その場所において使用が許可されている事を確認してください。
+プライバシーおよび個人の肖像権を侵害しない範囲で AR.Droneを使用してください。
+強い磁場、無線電波、強い放射能の近くで AR.Droneを使用する場合、カメラは映像を正しくストリームできない可能性があります。砂やほこりが AR.Drone 、特にそのカメラに対して侵入した場合、その機能を永久的に喪失する可能性があります。
+気象的に好ましくない条件（雨、強風、雪など）あるいは視覚的に不適切な条件（夜など）において、 AR.Drone を使用しないでください。
+高圧線、木、建物など、危険な可能性のある場所から離れた場所で AR.Drone を使用してください。
+Wi-Fi® ネットワーク（ルーター、インターネット装置など）が密な環境において AR.Drone を使用しないでください。近くに少数のWi-Fi ネットワークが存在する場合は、 AR.Drone の利用性が向上します。
+不法もしくは不正な目的のためにアプリケーションを使用しないでください。各国のユーザーは、ドローン操縦およびオンライン コンテンツの公表に関するその国の法律に従う事に同意する必要があります。
+嫌悪感あるいは暴力を誘発するコンテンツ、脅迫的なコンテンツ、裸体像などを含む卑猥なコンテンツ、不当な暴力を含むコンテンツを公表する事は禁止されています。
+アプリケーションおよび AR.Drone を、不正、不法、悪意、あるいは差別的な目的に基づいて使用する事は禁止されています。
+
+[###] AR.Drone Academy アカウントの作成
+フライト情報の記録（データ、位置、写真、動画）、ユーザー コミュニティにおける写真や動画の共有など (\"Services\"): 、AR.Drone Academy サービスを活用するために AR.Drone Academy アカウント (\"Account\") を作成する事ができます。
+本アカウントを作成する際に提供を求められる情報は全て正確である必要があり、また、その正確さと完全さを保つために必要に応じて登録情報を更新する事に同意する必要があります。
+アカウントに関する全てのEメールは、アカウントに関連付けられたEメールアドレスへと送られます。
+弊社は、独自の判断により、アカウントの作成リクエストを拒否する事ができます。
+Parrotが、アカウントを管理するために登録データの保存および利用を行う事に同意する必要があります。
+その人物からの委任を受けていない限り、他人のアカウントを作成する事はできません。
+アカウントが不正に使用されるのを防ぐため、パスワード及びその他のアカウント情報は秘密にしておく必要があり、誰にも口外してはいけません。
+アカウントの機密およびセキュリティ、アカウント上またはアカウントで実行された全てのオペレーションの責任は完全にユーザーにあるものとします。また、アカウントのセキュリティが侵害された場合は、直ちにその事実を Parrot に通知する事に同意する必要があります。
+ユーザーがこれらの条件に違反してアカウントを使用しアカウント情報を第三者に漏らした場合、あるいは、ユーザーのアカウントが危険にさらされていると弊社が判断した場合、アカウントおよびサービスに対するアクセスは、一時的に停止されるか、あるいは完全に停止される可能性があります。
+ユーザーのアカウントの不正使用について、弊社はその責任を負わないものとします。
+
+プライバシーの尊重
+アプリケーションおよびサービスを通じての個人データの収集および処理は、弊社のプライバシー ポリシーおよびデータ保護法に基づいて行われます。詳細について、弊社のプライバシー ポリシーを精読される事を推奨します。
+
+知的財産、商標、著作権
+ユーザーのコンテンツ
+Parrot は、アプリケーションもしくはサービスを通じてユーザーが投稿する画像、映像、音声、文章を含むあらゆるコンテンツ (\"Content\") に対する一切の知的財産権を主張しません。それらのコンテンツは、ユーザーの財産になります。アプリケーションを通じてサービス上にコンテンツを公表する事により、公然と共有されておらずサービスの外部に流布されることのないコンテンツを除いて、サービス上で共有されたコンテンツの全体あるいはその一部を、その形式を問わずまたあらゆるメディア上で、非独占的かつ自由に世界中に渡ってそれらを使用、変更、適合、削除、追加、表示、展示、複製、流布、翻訳する権利をユーザーは Parrot に与える事になります。
+
+ユーザーは、自身のコンテンツに誰がアクセスできるかを決定できます。コンテンツを、オンライン サービスや他のユーザーがアクセス可能なアプリケーションを含むソーシャル ネットワーク上で共有する場合、コンテンツを共有したあらゆるユーザーがアクセス可能です。他のユーザーがコンテンツにアクセスする事を許可する場合、同時に、それらのユーザーが非独占的に当該コンテンツを、無料で公然と使用、複製、流布、表示、発信、伝達する権利を与える事になります。
+
+アプリケーションが画像あるいは映像の位置情報を記録する事を許可する場合、ソーシャル ネットワーク、オンライン サービス、 Parrot およびサードパーティーのアプリケーション上でコンテンツを共有する判断には、位置情報がこれらのオンライン アプリケーション、サービスなどにおいて公示されるリスクがある事に注意してください。Facebook、YouTube、Twitterなどのオンライン サービスによる共有機能を用いてコンテンツをダウンロードする際に、共有するコンテンツに関しての位置情報を削除する事ができます。これらのオンライン サービスやアプリケーションを用いてコンテンツを共有する前に、そのポリシー、条件、機密設定について良く理解しておく事を推奨します。
+
+アプリケーションおよびサービス上で保存されたコンテンツのバックアップに関しての責任はユーザーが負うものとします。サービスが一時的に停止あるいは完全に停止された場合、ユーザーのデータは永久的に削除される可能性があります。サービスが一時的に停止あるいは完全に停止された場合、どのような条件であろうとも、弊社はユーザーのデータを復元する必要はありません。削除されたデータあるいはコンテンツは、復元できない可能性があります。サービスの修正、一時停止、破損、および、コンテンツの喪失について、 Parrot は法的責任を負いません。
+
+Parrpt コンテンツ
+Parrot および Parrot AR.Drone という名称はおよびロゴは、 Parrot SA の登録商標です。Parrot の商品、サービス、付属品は、商標、著作権、モデル、特許を含み、知的および産業財産権により保護されています。Parrot のウェブサイトおよび Parrot のアプリケーションに含まれるコンテンツ（モデル、設計、写真、文章、音声、映像、画像を含む）の著作権および知的財産権は、 Parrot SA の独占財産であり、ライセンス契約に基づいてのみ使用されるものとします。その他全ての商標およびロゴは、それぞれの所有者の財産です。
+
+[###]保証ーザーは、以下を表明しそれを保証します。（1）ユーザーは、サービス上あるいサービスを通じて公表されるコンテンツに関する全ての知的財産権の法的に正当な所有者であり、また、関連する権利を与えるのに必要な全ての権限を有しており、コンテンツの使用はいかなる法律にも抵触しない。（2）サービス上あるいはサービスを通じて表示、使用、共有されるコンテンツは、著作権、知的財産権、その他の財産権、宣伝権、第三者のプライバシー権のいずれをも侵害しない。
+
+弊社は、なんらかの理由により、ユーザーのコンテンツの公表を拒否する事ができます。弊社は、特に以下に定める条件において、なんらかの理由によりユーザーのコンテンツをサービス上から必要に応じて削除する事ができます:（1）ユーザーが本契約に違反した場合。（2）保存およびファイル サイズの条件で定められた限度に、コンテンツが反している場合。（3）弊社がサービスの一時的な停止あるいは完全な停止を実行した場合。
+
+ユーザーは、なんらかの権利の侵害を訴えるサードパーティーからのコンテンツに関する主張あるいは異議申し立てに対して、特にコンテンツの実行あるいは使用に起因してサードパーティーにより主張される違反、不正競争、フリーライドについて、与えられたアサインメントの全期間において、 PARROT に対して害を与えず、 PARROT が損害を受けた場合はそれを補償するものとします。ユーザーのコンテンツに関係してサードパーティーが PARROT に対して法的手続きを起こした場合、ユーザーはその法的手続きにより生じる全ての損害についての責任を負う事を認め、また、その法的手続きに関係して生じる全ての費用あるいは損失を PARROT に対して補償するものとします。
+
+責任制限
+Parrot は、アプリケーションおよびサービスの開発において、提供される情報の正確性、精密性、完全性には万全の注意を払っておりますが、不正確な情報が存在する場合には、 Parrot あるいはその関連会社は一切の責任を負わないものとします。全てのコンテンツは証明されており\"AS-IS\"、可用性に従います。PARROT は、明示あるいは黙示を問わず、全ての商品およびサービスが利用可能かつ市場向きであり、特定の目的に合致し、サードパーティーの権利を侵害しない事の保証を含む一切の保証、また、アプリケーション自体およびそのコンテンツの動作に関してその他一切の保証を行いません。ユーザーは、送信する全ての情報はサードパーティーにより傍受される可能性がある事を認識するものとします。PARROT は、本アプリケーションあるいはそのアクセスを提供するサービス、また、 PARROT により送信されるサービスあるいは電子通信が、ウイルスあるいは有害な要素を含んでいない事を保証しません。
+
+あらゆる間接的あるいは付随的な損害、アプリケーション、サービス、コンテンツの使用あるいはそれらを使用できない事に関係、起因、あるいは結果として生じる道徳上の不利益について、たとえ PARROT が事前にそれらの損害の可能性について通知されていたとしても、 PARROT および関連会社は一切の責任を負いません。ユーザーによるなんらかの法的行為は、損害の原因が発生した時点から1年以内に実行される必要があります。これらの条件は、該当するフランス法のあらゆる強制的な規定に従って適用されます。
+
+アプリケーションおよびサービスは、 Parrot SA により管理されていないウェブサイトあるいはアプリケーションへのリンクを含んでいる可能性があります。これらのリンクは、ナビゲーションの利便性の目的で提供され、 Parrot SA および関連会社は、いかなる状況においても、これらのリンクを通じてアクセスされるウェブサイトのコンテンツおよび機能についての責任を負わないものとします。Parrot SA および関連会社は、明示あるいは黙示を問わず、これらのウェブサイトのコンテンツおよび機能の正確性、合法性、信頼性、有効性についての一切の保証を拒否します。加えて、 Parrot SAおよび関連会社は、これらのウェブサイトを推奨するものではありません。これらのウェブサイトの参照は、ユーザーの責任によるものとします。
+
+問い合わせ
+これらの利用条件についての質問は、http://www.parrot.com から弊社のウェブサイトにアクセスし、サポート メニューから、\"Contact us by e-mail\" ボタンを使用し、Eメールにてお問い合わせください。プライバシー ポリシー
+
+範囲:Parrpt は、全ての人のプライバシー権を尊重します。弊社のプライバシー ポリシーは、弊社がどのようにしてユーザーの個人データを収集、利用、保護するのかを説明する意図で作成されています。
+
+個人データ：個人、カスタマー、将来的なカスタマー、あるいはプロフェッショナル コンタクトを、直接的あるいは間接的に識別できるすべてのデータを指します。
+
+非個人識別可能データ：個人を特定する事のできないあらゆるデータを指し、ウェブサイトやアプリケーションのナビゲーション中に自動的に収集される可能性があります。
+
+情報収集：弊社は以下の情報を収集する事ができます。（1）名前、ミドルネーム、名字、年齢、性別、郵便住所、Eメールアドレス、電話番号、人口学および社会学的行動データなどの識別可能個人データ。これらは、プロモーション、ニュース レターあるいはサービスの利用申し込み、アカウントの作成、弊社の商品およびサービスに関しての情報リクエスト、デモンストレーションおよび技術支援についてのリクエストなどの際に、弊社のウェブサイトあるいはアプリケーション上での質問事項を通じて収集されます。（2）ブラウザのタイプ、言語、日付、使用時刻および期間、閲覧したページ、閲覧した動画あるいは画像の数などの非個人情報。これらは、弊社のウェブサイトやアプリケーションのナビゲーション中に収集されます。このデータは、識別可能あるいは集約された形態で保存される可能性があります（個人を識別する事はできない方法で）。非個人データが個人データと関連付けられている場合、弊社は、そのリンクが続く限り、それを個人データとみなして取り扱うものとします。アプリケーションのセッティングから、非個人識別可能データの収集を拒否する事ができます。
+
+情報の利用：Parrot は、ユーザーの個人および非個人識別可能データを以下の目的のために利用する事ができます: 
+
+• www.parrotpartners.com、www.certified.parrot.com、www.parrotoem.com,www、parrotcorp.com、www.parrot.com、およびその他全ての Parrot により作成されるウェブサイト上でのユーザー登録を確認するため。
+• Parrot により公表されるモバイル アプリケーション上でのユーザー登録を確認するため。
+• ユーザーの商品購入履歴を記録するため。
+• ユーザーを、ゲームやコンテストに招待するため。
+• 弊社の商品やサービスの調査についてユーザーに協力してもらうため。
+• 新製品のテストについてユーザーに協力してもらうため。
+• 弊社の商品やサービスについてのニュース レターや情報を、ユーザーへ送るため。
+• 新製品の開発およびテストのため。
+• より良いカスタマーとの関係、特にアフターサービスのため。
+• 弊社の商品やサービスの利用についての情報を提供するため。
+• より良い商品やサービスの提供および、統計的分析を行うため。
+
+Parrot は、ユーザーの個人情報を商業目的のため、特にファイルの貸し出し目的のために使用しないものとし、当該情報を非関連会社に提供しないものとします。
+
+情報提供：個人情報は、必要な権限が与えられた場合において、必要に応じて世界中の Parrot グループ会社により開示され利用されます。グループの外部への情報の開示は、弊社の代わりに個人データを取り扱う契約サービス プロバイダーに対してのみ行われます。この際に、弊社は、契約において示された保護および機密についての適切な手段が実施されている事を保証します。
+
+個人の権利：個人は、自身の閲覧しているウェブサイトに応じて、webmastersparrot.com、あるいはcontactsparrotpartners.com、から弊社のマーケティング部に対して書面において連絡する事で、自身の個人情報に対するアクセス、誤りの訂正、削除、あるいは同意の撤回をいつでも行う事ができ、また、クッキーなどの技術へのアクセスを拒否する事もできます。
+
+ 個人データ保護についての法令順守:Parrot のウェブサイトおよびアプリケーション上で収集された全ての個人データは、現在のヨーロッパの個人データ保護管理基準および該当するその他全ての各国の法律および規定、そして後々の改正に従って利用および処理されます。
+
+位置情報：Parrot は、ユーザーのコンピューター、スマートフォン、 AR.Drone からのリアルタイムでの位置情報を含む特定の位置データの収集、利用、共有を、 Parrot の商品およびサービスに関する位置情報に即したサービスを提供する目的で行います。この位置情報は、ユーザーを特定できない匿名形式で収集され、 Parrot の商品およびサービスの提供および向上を目的として Parrot により使用されます。
+
+クッキー：クッキーは、 IP アドレスやオペレーティング システムなどのコンピューターのハード ドライブ上の情報を保存する事のできるテキスト ファイルで、弊社がユーザーのブラウザを認識し最適なナビゲーションをユーザーに提供するのに役立ちます。クッキーには、一切の個人データが含まれません。ブラウザの設定により、クッキーが取得された場合に通知するようにできます。これにより、クッキーを承諾するか拒否するかを選択する事ができます。
+
+他のウェブサイトへのリンク：Parrot のウェブサイトには、 Parrot の管理していない外部ウェブサイトへのリンクが含まれている場合があり、これらのウェブサイトについては本プライバシー ポリシーの適用範囲外です。もし、これらのリンクにより外部ウェブサイトにアクセスする場合、それらのウェブサイトの管理者は、その管理者独自の必要性およびプライバシー ポリシーに基づいて個人データを収集する可能性があります。
+
+セキュリティ：Parrot は、情報システムが受信および送信する個人データの保護および、権限を得ていない人物に対してこのデータがアクセスあるいは開示されないように必要な手段を講じるため、情報システムのセキュリティを保証します。
+
+プライバシー ポリシーの改正:Parrot は、法律あるいはその他なんらかの状況の変化に対応するため、本ポリシーを必要に応じて更新あるいは改正する権利を有します。弊社のプライバシー ポリシーにおけるあらゆる変更は、最新に更新されたデータにより、本ページ上で公表されます。
+
+
+© PARROT SA.無断複写・転載を禁じます。
+最終更新日：2012年6月"</string>
+    <string name="profile_general_infos">一般情報</string>
+    <string name="profile_google_plus">Google +</string>
+    <string name="profile_last_name">性</string>
+    <string name="profile_logout">ログアウト</string>
+    <string name="profile_phone">電話番号</string>
+    <string name="profile_postal_code">私書箱</string>
+    <string name="profile_psn">PSN</string>
+    <string name="profile_status">ステータス</string>
+    <string name="profile_steam">Steam</string>
+    <string name="profile_tab_about">について</string>
+    <string name="profile_tab_my_infos">ユーザー情報</string>
+    <string name="profile_title">プロフィール</string>
+    <string name="profile_twitter">Twitter</string>
+    <string name="profile_web_contacts">ウェブの連絡先</string>
+    <string name="profile_website">ウェブサイト</string>
+    <string name="profile_xbox_live">Xbox Live</string>
+    <string name="profile_youtube">Youtube</string>
+    <string name="propeller_safety_cutout_triggered">安全上のプロペラ自動停止</string>
+    <string name="qatar">カタール</string>
+    <string name="radius">半径</string>
+    <string name="radius_param_name">半径</string>
+    <string name="rate">評価する</string>
+    <string name="rate_now">今すぐ評価する</string>
+    <string name="ready_to_update">アップデートの準備完了</string>
+    <string name="receiving_drone_information">ドローンに接続します…</string>
+    <string name="receiving_file_step">"
+のファイルを受信"</string>
+    <string name="record_action_name">録画</string>
+    <string name="record_has_been_auto_stopped">保存が自動停止されました</string>
+    <string name="record_state_value_off">オフ</string>
+    <string name="record_state_value_on">オン</string>
+    <string name="recording_param_name">録画</string>
+    <string name="recording_settings">録画パラメータ</string>
+    <string name="red_action_name">赤色</string>
+    <string name="red_led_side_param_name">サイド</string>
+    <string name="refuse">拒否</string>
+    <string name="register_me">登録する</string>
+    <string name="regular">普通</string>
+    <string name="remind_me_later">後で通知する</string>
+    <string name="remote_control_reset">コンソールを再起動します</string>
+    <string name="remote_control_upload_failed_retry">コンソールへのファイル送信に失敗しました。もう一度初めから行いますか？</string>
+    <string name="rename">名前を変更する</string>
+    <string name="rename_my_drone">私のドローンの名前を変更する</string>
+    <string name="rename_road_plan">プランに新しい名前をつける</string>
+    <string name="rename_script_popup_cancel_button">キャンセル</string>
+    <string name="rename_script_popup_rename_button">新しい名前をつける</string>
+    <string name="renamed">%s の名前を変更しました</string>
+    <string name="replace">交換する</string>
+    <string name="requires_a_charger_with_a_minimum_intensity_of_1f_a_and_a_minimum_power_of_1f_w" formatted="false">最低強度 %.1f A、最低電力 %.1f W で充電する必要があります。</string>
+    <string name="reset">再初期化する</string>
+    <string name="reset_camera">ビデオカメラのリセット</string>
+    <string name="restart_drone">ドローンを再起動してください</string>
+    <string name="restore_in_app_purchase">購入を復元</string>
+    <string name="restore_in_app_purchase_button_text">復元</string>
+    <string name="retry">再試行してください</string>
+    <string name="return_delay_if_connection_is_lost">通信接続が失われた時に離陸地点に帰還し始めるまでの遅れ時間（秒）</string>
+    <string name="return_position_of_the_bebop">Bepopの帰還ポジション</string>
+    <string name="return_to_homepage">ホーム画面へ戻る</string>
+    <string name="return_to_starting_point">Return Home</string>
+    <string name="right_side_green_led_choise">左</string>
+    <string name="right_side_red_led_choice">左</string>
+    <string name="road_plan_script_thumbnail_delete_button">削除する</string>
+    <string name="road_plan_script_thumbnail_unknown_duration">N/A</string>
+    <string name="roadnplan">"ロード
+プラン"</string>
+    <string name="robot">ロボット</string>
+    <string name="roll">横揺れ</string>
+    <string name="roll_stabilization">ロール安定化</string>
+    <string name="rolling__spider_version_too_old_message" formatted="false">お使いの%sのバージョンが古すぎます。以下のウェブページでアップデートをご確認ください %s</string>
+    <string name="romania">ルーマニア</string>
+    <string name="rotate">回転</string>
+    <string name="russia">ロシア</string>
+    <string name="saudi_arabia">サウジアラビア</string>
+    <string name="save_your_current_plan">現在のフライトプランを保存しますか？</string>
+    <string name="saved_flight_plans">保存されたフライトプラン</string>
+    <string name="saved_plan">保存されたプラン</string>
+    <string name="saved_plan_no">いいえ</string>
+    <string name="saved_plan_yes">はい</string>
+    <string name="saved_road_plans">保存されたロードプラン</string>
+    <string name="saving_flight_plan">フライトプランの保存</string>
+    <string name="scanning">検索</string>
+    <string name="sd_card">SDカード</string>
+    <string name="search_map">検索</string>
+    <string name="searching_map">探索中・・・</string>
+    <string name="second_unit">s</string>
+    <string name="see_details_last_drone_data">詳細を参照してください。</string>
+    <string name="see_my_flight_statistics">私のフライトパフォーマンスを見てください</string>
+    <string name="see_my_piloting_statistics">私の操縦パフォーマンスを見てください</string>
+    <string name="select_country">国の選択</string>
+    <string name="select_medias_to_make_a_movie_with_replay">REPLAYで映像を作成するためにメディアを選択</string>
+    <string name="select_product_to_update">アップデートする製品を選択してください</string>
+    <string name="select_your_category">カテゴリーを選択してください</string>
+    <string name="send_alert_message">送信</string>
+    <string name="sending_all_settings">すべての設定を送信中...</string>
+    <string name="sending_all_states">すべてのステータスを送信中...</string>
+    <string name="sending_current_date">現在の日付を送信中...</string>
+    <string name="sending_current_time">現在の時刻を送信中...</string>
+    <string name="sending_file">ファイルの送信</string>
+    <string name="sending_flight_plan">フライトプランの送信</string>
+    <string name="sensibility">感度</string>
+    <string name="sensor_alert_GPS">GPS 異常センサー アラート</string>
+    <string name="sensor_alert_IMU">IMU 異常センサー アラート</string>
+    <string name="sensor_alert_barometer">バロメーター異常センサー アラート</string>
+    <string name="sensor_alert_magnetometer">マグネットモーター異常センサー アラート</string>
+    <string name="sensor_alert_ultrasound">超音波異常センサー アラート</string>
+    <string name="sensor_alert_vertical_camera">垂直カメラが故障しています</string>
+    <string name="serial_number">シリアル番号</string>
+    <string name="settings">設定</string>
+    <string name="share">共有</string>
+    <string name="share_item_selected">１項目を選択</string>
+    <string name="share_items_selected">%d項目を選択</string>
+    <string name="sharing_setting">共有設定</string>
+    <string name="sharing_your_photo_on_facebook">写真を Facebook 上で共有する</string>
+    <string name="sign_in_profile">サインイン</string>
+    <string name="singapore">シンガポール</string>
+    <string name="skip">スキップ</string>
+    <string name="skycontroller2_calibration_explanation_text">3つの軸の周りにSkyController 2を旋回させてください (アニメーションを参照)</string>
+    <string name="skycontroller_calibration_explanation_text">スカイコントローラを3軸の周りに回転してください（図に示すとおり）。</string>
+    <string name="skycontroller_connected">接続されました</string>
+    <string name="skycontroller_no_visible_wifi_networks">利用可能なWi-Fi ネットワークがありません</string>
+    <string name="skycontroller_password">パスワード</string>
+    <string name="skycontroller_please_enable_wifi">Wifiを有効にしてください</string>
+    <string name="skycontroller_refresh">更新</string>
+    <string name="skycontroller_settings">SkyControllerパラメーター</string>
+    <string name="skycontroller_settings_back">バック</string>
+    <string name="skycontroller_title">SkyController</string>
+    <string name="skycontroller_wifi_saved">保存されました</string>
+    <string name="skycontroller_wifi_secured">安全確保</string>
+    <string name="slalom">スラローム</string>
+    <string name="slalom_animation">スラローム</string>
+    <string name="slovakia">スロバキア</string>
+    <string name="slovenia">スロベニア</string>
+    <string name="slow">低速</string>
+    <string name="slow_shake">スローシェイク</string>
+    <string name="slow_shake_animation">スローシェイク</string>
+    <string name="social_network__photo_" formatted="false">%s 写真：%s</string>
+    <string name="social_network_bebop">bebop</string>
+    <string name="social_network_cancel">キャンセル</string>
+    <string name="social_network_invalid_login_or_password">無効なログインまたはパスワードです</string>
+    <string name="social_network_jumping_sumo">jumpingsumo</string>
+    <string name="social_network_loading_albums">アルバムのロード中・・・</string>
+    <string name="social_network_login">ログイン</string>
+    <string name="social_network_login_and_password_need_to_be_filled">ログインおよびパスワード欄は必ず記入する必要があります</string>
+    <string name="social_network_no_permission_granted">許可されていません</string>
+    <string name="social_network_no_user_registered">登録されていないユーザーです</string>
+    <string name="social_network_ok">OK</string>
+    <string name="social_network_password">パスワード</string>
+    <string name="social_network_rolling_spider">rollingspider</string>
+    <string name="social_network_select_your_album">アルバムを選択してください</string>
+    <string name="social_network_sharing_your_video_on_facebook">動画を Facebook 上で共有する</string>
+    <string name="social_network_uploading_photo">写真のアップロード中・・・</string>
+    <string name="social_network_uploading_video">動画のアップロード中・・・</string>
+    <string name="social_network_video_" formatted="false">%s 動画：%s</string>
+    <string name="social_networks">ソーシャル ネットワーク</string>
+    <string name="software_version">ソフトウェアバージョン</string>
+    <string name="south_africa">南アフリカ</string>
+    <string name="spain">スペイン</string>
+    <string name="speak_through">会話</string>
+    <string name="special_characters_are_not_authorized_for_the_drones_nickname">ドローンのニックネームに特殊文字は使用できません</string>
+    <string name="speed_action_name">スピード</string>
+    <string name="speed_neutral_zone">速度のニュートラルゾーン</string>
+    <string name="speed_param_name">スピード</string>
+    <string name="spin_animation">スピン</string>
+    <string name="spin_animation_road_plan">スピン</string>
+    <string name="spin_jump">スピンジャンプ</string>
+    <string name="spin_jump_animation">スピンジャンプ</string>
+    <string name="spin_to_posture">スピン姿勢</string>
+    <string name="spiral_animation">スパイラル</string>
+    <string name="standing_posture_choice">スタンディング</string>
+    <string name="start_free_trial">15 日間お試しください</string>
+    <string name="start_piloting">操縦を開始する</string>
+    <string name="starting_flight_plan">フライトプランの開始</string>
+    <string name="state_led_parm_name">状態</string>
+    <string name="stay_tuned">接続状態を維持してください</string>
+    <string name="stay_tuned__an_error_has_occurred_please_try_again">エラーが発生しました。やり直してください。</string>
+    <string name="stay_tuned_email_sent">メールが送信されました</string>
+    <string name="stay_tuned_ok">Ok</string>
+    <string name="stay_tuned_please_check_that_the_email_address_is_in_the_correct_format_">メール形式を確認してください。</string>
+    <string name="stay_tuned_send">送信</string>
+    <string name="stay_tuned_yes">はい</string>
+    <string name="stay_tuned_your_email_address">あなたのメールアドレス</string>
+    <string name="stop_animation_road_plan">ストップ</string>
+    <string name="straight_action_name">まっすぐ</string>
+    <string name="succeeded_alert_message">成功</string>
+    <string name="successfully_shared_your_photo_on_facebook">写真を Facebook 上で共有しました</string>
+    <string name="successfully_shared_your_video_on_facebook">動画を Facebook 上で共有しました</string>
+    <string name="sweden">スウェーデン</string>
+    <string name="switch_off">スイッチオフ</string>
+    <string name="switzerland">スイス</string>
+    <string name="sync_data_failed">同期に失敗しました。インターネット接続を確認してください。</string>
+    <string name="syncing_data">データの同期中...</string>
+    <string name="taiwan">台湾</string>
+    <string name="take_off_landing">離陸／着陸</string>
+    <string name="take_picture_action_name">写真を撮影</string>
+    <string name="take_pictures">写真撮影</string>
+    <string name="taking_off_with_an_uncalibrated_drone_can_lead_to_an_unpredictable_behaviour_do_you_really_want_to_take_off">Taking off with an uncalibrated drone can lead to an unpredictable behaviour. Do you really want to take off?</string>
+    <string name="tap__animation">タップ</string>
+    <string name="tap_animation">タップ</string>
+    <string name="temperature_error">温度エラー</string>
+    <string name="thailand">タイ</string>
+    <string name="thank_you_enjoy_your_runs">ありがとう！操縦をお楽しみください</string>
+    <string name="thank_you_now_its_over_to_you_to_play">ありがとうございます！ゲームを開始してください！</string>
+    <string name="the_application_is_not_authorized_to_use_bluetooth_low_energy">アプリケーションはBluetooth Low Energyの使用を許可していません</string>
+    <string name="the_current_flight_plan_has_not_been_saved_do_you_really_want">現在のフライトプランは保存されていません。新しいプランを</string>
+    <string name="the_drone_is_not_calibrated">"
+- ドローンの校正が完了していません"</string>
+    <string name="the_drones_speed_will_be_bridled_when_flying_low">"
+-低空で飛行するときはドローンの速度は抑制されます。"</string>
+    <string name="the_flight_plan_file_is_corrupted">"
+- フライトプラン ファイルが破損しています"</string>
+    <string name="the_skycontroller2_is_calibrated">SkyController 2は較正されています</string>
+    <string name="the_skycontroller_is_calibrated">スカイコントローラが校正されています。</string>
+    <string name="the_wifi_connection_is_not_protected">WPA2保護によりWi-Fi接続が保護されていない為</string>
+    <string name="the_wifi_connection_will_not_be_protected">Wi-Fi接続は保護されなくなります</string>
+    <string name="this_module_requires_the_google_play_services">このモジュールが機能するには、Google Playサービスが必要です</string>
+    <string name="this_password_will_be_asked_for_the_next_connection">次回接続時にこのパスワードを求められます</string>
+    <string name="this_software_update_will_take_more_than_four_hours_using_bluetooth_40_and_wifi_will_be_disabled_but_it_will_take_less_than_one_minute_via_usb_do_you_want_to_continue">搭載されているソフトウェアのアップデート所要時間はBluetooth 4.0およびWiFi オフラインで4時間以上かかりますが、USB経由では1分以内です。続行しますか？</string>
+    <string name="this_waypoint_can_not_be_deleted_because">以下の理由からこのウェイポイントを削除できません :</string>
+    <string name="tilt_modification_is_impossible">傾きは変更できません。</string>
+    <string name="time_in_days">%d日</string>
+    <string name="time_in_hours">%d時</string>
+    <string name="time_in_minutes">%d分</string>
+    <string name="time_in_seconds">%d秒</string>
+    <string name="time_unit_in_second">秒</string>
+    <string name="timelapse_mode">インターバルモード</string>
+    <string name="title_for_drones">"Free
+flight"</string>
+    <string name="title_text">タイトル</string>
+    <string name="tittle_for_jumping_sumo">"Free
+Ride"</string>
+    <string name="to_channel">変更後チャンネル</string>
+    <string name="to_control_your_drone_please_use">%s を操縦するには、次を使用してください：</string>
+    <string name="to_control_your_drones_please_use">Minidrones を操縦するには、次を使用してください：</string>
+    <string name="to_record_please_plug_a_storage_media_in_your_drone">お使いのドローンに保存用メディアを差し込んでください</string>
+    <string name="too_much_angle_alert">機体の傾き角度オーバーの警告</string>
+    <string name="total_flight_time">フライトの合計所要時間</string>
+    <string name="total_flight_time_last_drone_data">フライトの合計所要時間</string>
+    <string name="transfer">転送</string>
+    <string name="transfer_completed">送信が完了しました</string>
+    <string name="truck_wheels_accessory">車輪</string>
+    <string name="turkey">トルコ</string>
+    <string name="turn_action_name">回転</string>
+    <string name="turn_neutral_zone">回転のニュートラルゾーン</string>
+    <string name="turn_on_bluetooth">Bluetoothをオンにしてください</string>
+    <string name="twitter">Twitter</string>
+    <string name="type_of_charge">充電のタイプ</string>
+    <string name="unable_to_record_video">ビデオを録画できません</string>
+    <string name="unable_to_take_off">"
+-離陸することができません。"</string>
+    <string name="unavailable">利用できません</string>
+    <string name="unavailable_hur_first_line">データが不足しているため、</string>
+    <string name="unavailable_hur_second_line">レーダーヘッドを高くする必要があります</string>
+    <string name="united_arab_emirates">アラブ首長国連邦</string>
+    <string name="united_kingdom">イギリス</string>
+    <string name="united_states">アメリカ合衆国</string>
+    <string name="unknown">不明</string>
+    <string name="unnamed_script">無名スクリプト</string>
+    <string name="upate_google">Google</string>
+    <string name="update">更新</string>
+    <string name="update_completed">アップデートに成功しました</string>
+    <string name="update_connect_remote_controle">コンソールを接続してください</string>
+    <string name="update_device">ドローンをアップデートしますか？</string>
+    <string name="update_drone">"あなたのドローンのバージョンをアップデートしますか？
+%1$s -> %2$s"</string>
+    <string name="update_firmware">ファームウェアアップデート</string>
+    <string name="update_found_do_you_want_to_download">アップデートが見つかりました。ダウンロードしますか？</string>
+    <string name="update_in_progress_">アップロード中...</string>
+    <string name="update_mandatory">アップデートが必要です</string>
+    <string name="update_profile">更新</string>
+    <string name="update_required">アップデートが必要です</string>
+    <string name="update_server_failure">アップデートサーバーエラー</string>
+    <string name="update_title">アップデート</string>
+    <string name="updating_runs_mpa">ランの更新</string>
+    <string name="upload_failed_retry">Drone上のファイルのアップデートに失敗しました。再起動しますか？</string>
+    <string name="upwards_jump_not_possible_jump_unavailability_reason">ジャンプは利用できません</string>
+    <string name="usa_registration_explanation_text">米国内でドローンを所有する人は、連邦航空局の小型無人航空機システム（UAS）登録への登録が義務づけられています。小型無人航空機システム（UAS）登録を義務化する2015年12月21日施行の連邦法により、未登録の場合、民事および刑事上の刑罰 が 課せられる場合があります。</string>
+    <string name="usa_registration_go_to_web_browser">FreeFlightを離れるには下記のボタンをタップし、ウェブブラウザ内にドローンを登録してください（ｲﾝﾀｰﾈｯﾄへの接続が必要です）。</string>
+    <string name="usa_registration_register">登録</string>
+    <string name="usa_registration_title">UAS登録 (USA)</string>
+    <string name="usb_key_not_found">USBメモリが見つかりません</string>
+    <string name="use_commas_to_separate_multiple_email_addresses">複数のEメールアドレスを入力する際は、コンマで区切ってください</string>
+    <string name="user_script_animation">ユーザスクリプト</string>
+    <string name="username_or_email_is_already_registered">{0}は既に登録されています</string>
+    <string name="using_joypad_mode_you_can_film_your_drone_while_piloting">ジョイパッドモードを使用すると操縦中にDroneを撮影できます。</string>
+    <string name="venezuela">ベネズエラ</string>
+    <string name="ventilate">換気する</string>
+    <string name="vertical_sensibility">垂直感度</string>
+    <string name="video_autorecord">動画の自動録画</string>
+    <string name="video_mode">動画モード</string>
+    <string name="video_mode_title">"ビデオ
+モード"</string>
+    <string name="video_popup_title">ビデオ</string>
+    <string name="video_recording_is_busy_please_wait_until_it_is_ready">録画が応答しません。もう少しお待ちください</string>
+    <string name="video_settings">ビデオ設定</string>
+    <string name="video_settings_anti_flickering_description">このオプションを使用すると、人工光による点滅を低減できます。</string>
+    <string name="video_settings_frame_rate">フレームレート</string>
+    <string name="video_settings_priority">優先</string>
+    <string name="video_settings_priority_2">最大化する</string>
+    <string name="video_settings_priority_quality">動画画質</string>
+    <string name="video_settings_priority_time">録画時間</string>
+    <string name="video_settings_record_quality">録画画質</string>
+    <string name="video_settings_record_quality_description">標準画質を使用すると、より長い時間録画できます。</string>
+    <string name="video_settings_record_quality_high">高画質</string>
+    <string name="video_settings_record_quality_standard">標準</string>
+    <string name="video_settings_record_resolution">録画解像度</string>
+    <string name="video_settings_record_resolution_description">720p を使用すると、ライブ動画ストリームの解像度が向上します。</string>
+    <string name="video_settings_roll_stabilization_description">有効になっている場合、ターン中も水平ラインは真っ直ぐのままになります。</string>
+    <string name="video_settings_short">動画</string>
+    <string name="video_settings_stream_resolution">ストリーミング解像度：</string>
+    <string name="video_settings_video_resolution">動画解像度</string>
+    <string name="video_settings_video_resolution_priority_record">録画優先</string>
+    <string name="video_settings_video_resolution_priority_stream">ストリーミング優先</string>
+    <string name="video_stabilization">ビデオ安定化</string>
+    <string name="videos_map">映像</string>
+    <string name="vietnam">ベトナム</string>
+    <string name="wait_action_name">待機</string>
+    <string name="warning">警告</string>
+    <string name="warning__jump_motor_blocked">警告：ジャンプ モーターがブロックされています</string>
+    <string name="warning__jump_motor_overheated">警告：ジャンプ モーターがオーバーヒートしています</string>
+    <string name="warning_time_line">警告</string>
+    <string name="warning_your_media_on_the_drone_will_be_lost_do_you_wish_to_update_your_drone_version">ご注意ください。このアップデートを実行すると、ドローンに保存された写真と動画が消去されます。今すぐアップデートしますか?</string>
+    <string name="watch_my_new_video">%s Parrotで録画した私の新しい録画ビデオを見てください</string>
+    <string name="watch_this_photo_taken_from_my_parrot_">私が Parrot %s で撮影した写真を見てください</string>
+    <string name="watch_this_video_taken_from_my_parrot_drone" formatted="false">%s #%s Parrotから録画したこの録画ビデオを見てください</string>
+    <string name="waypoint">ウェイポイント</string>
+    <string name="weak_gps_signal">"
+-弱いGPS信号"</string>
+    <string name="welcome_buy_a_drone">ドローンを購入する</string>
+    <string name="welcome_to_drone_academy">Parrot Cloudにようこそ！</string>
+    <string name="welcome_to_the_world_of_parrot_drones">Parrotドローンの世界へようこそ！</string>
+    <string name="wifi_band">Wi-Fiバンド</string>
+    <string name="wifi_band_2.4_ghz_last_drone_data">2.4 GHz</string>
+    <string name="wifi_band_5_ghz_last_drone_data">5 GHz</string>
+    <string name="wifi_band_last_drone_data">Wifiバンド</string>
+    <string name="wifi_channel">Wi-Fiチャンネル</string>
+    <string name="wifi_channel_last_drone_data">Wifiチャンネル</string>
+    <string name="wifi_manager">Wifi管理</string>
+    <string name="wifi_settings">Wi-Fi設定</string>
+    <string name="wifi_specify_country">あなたのWi-Fiネットワークを設定するには、国を指定する必要があります。</string>
+    <string name="wifi_type">Wi-Fiタイプ</string>
+    <string name="with_wpa2_protection_nobody_else_will_be_able_to_connect_your_drone">あなたのドローンにだれでも接続できてしまいます</string>
+    <string name="would_you_like_to_save_the_current_plan_before_creating_a_new_one_creat_new_script">新しいプランを作成する前に現在のプランを保存しますか？</string>
+    <string name="would_you_like_to_save_the_current_plan_before_loading_a_new_one_load_script">新しいプランを読み込む前に現在のプランを保存しますか？</string>
+    <string name="wpa2">WPA2</string>
+    <string name="wpa2_security">WPA2セキュリティ</string>
+    <string name="wpa_password">WPA2パスワード</string>
+    <string name="wpa_password_8_chars_min__">WPAパスワード (最低8文字) :</string>
+    <string name="wpa_password_error">"パスワードが間違っています。
+"</string>
+    <string name="wrong_battery_cell_count">バッテリー内のセル数が誤っています</string>
+    <string name="y_axis_inverted">Y軸反転</string>
+    <string name="yaw">ヨーイング</string>
+    <string name="yes">はい</string>
+    <string name="yes_message">はい</string>
+    <string name="you_are_not_authorized_to_switch_to_channel_">チャネル切り替えが許可されていません</string>
+    <string name="you_have_an_old_version_more_information_chek_web_site" formatted="false">旧バージョンの%sをお持ちです。詳しくは%sをご覧ください。</string>
+    <string name="you_have_an_old_version_of_rolling_spider_go_to__for_more_information">お使いのRolling Spiderのバージョンが古すぎます。さらに詳しい情報は、お使いのコンピューターから%sページにアクセスしてください。</string>
+    <string name="you_must_be_connected_to_a_bebop_2">Bebop 2に接続されている必要があります</string>
+    <string name="you_must_be_connected_to_a_bebop_drone">Bebop ドローンに接続されている必要があります</string>
+    <string name="you_must_be_connected_to_a_disco">Discoに接続されている必要があります</string>
+    <string name="you_need_to_connect_a_headset_to_stream_audio">オーディオをストリーミングするにはヘッドセットを接続してください</string>
+    <string name="you_will_need_to_calibrate_your_drone_before_using_this_flight_plan">このフライトプランをご使用になる前にお使いのドローンを調整する必要があります。</string>
+    <string name="your_application_is_to_old_you_have_to_update_it_before_using_your_drone__">アプリケーションが古すぎます！Droneを使用する前にアプリケーションをアップデートしてください。</string>
+    <string name="your_device_doesnt_support_bluetooth_low_energy">お使いの機器はBluetooth Low Energyをサポートしていません</string>
+    <string name="your_drone_hasnt_been_deleted_successfully_please_try_later">あなたのドローンの名前変更に失敗しました。後ほどもう一度お試しください</string>
+    <string name="your_drone_hasnt_been_renamed_successfully_please_try_later">あなたのドローンの名前変更に失敗しました。後ほどもう一度お試しください</string>
+    <string name="your_drone_needs_an_update_to_support_flight_plan">フライトプランをサポートするためにドローンを更新する必要があります。</string>
+    <string name="your_drone_needs_an_update_to_support_points_of_interest_and_progressive_courses">POIとプログレッシブコースに対応させるために、ドローンを更新する必要があります。</string>
+    <string name="your_drone_will_restart_to_activate_wpa2_you_will_be_disconnected">Droneが再起動し、WPA2を有効にします。接続は解除されます。</string>
+    <string name="your_drone_will_restart_to_disable_wpa2_you_will_be_disconnected">Droneが再起動し、WPA2を無効にします。接続は解除されます。</string>
+    <string name="your_email">Eメールアドレス</string>
+    <string name="your_email_is_invalid">Eメールアドレスが無効です</string>
+    <string name="your_friends_email">友達のEメールアドレス</string>
+    <string name="your_invitation_has_been_delivered_with_success">招待は正しく送信されました</string>
+    <string name="youtube">Youtube</string>
+    <string name="youtube_error_time_out">経過時間</string>
+    <string name="youtube_unknown_error">原因不明なエラー発生</string>
+</resources>

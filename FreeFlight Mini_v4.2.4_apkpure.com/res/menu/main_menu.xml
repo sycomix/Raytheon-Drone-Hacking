@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <group android:id="@id/navigation_menu" android:checkableBehavior="none">
+        <item android:icon="@drawable/learn" android:id="@id/nav_school" android:title="@string/drone_school" />
+        <item android:icon="@drawable/store" android:id="@id/nav_store" android:title="@string/drone_store" />
+        <item android:icon="@drawable/sidebar_icn_update" android:id="@id/nav_update" android:title="@string/check_for_updates" />
+        <item android:icon="@drawable/sidebar_icn_legalsmentions" android:id="@id/nav_about" android:title="@string/about" />
+    </group>
+</menu>

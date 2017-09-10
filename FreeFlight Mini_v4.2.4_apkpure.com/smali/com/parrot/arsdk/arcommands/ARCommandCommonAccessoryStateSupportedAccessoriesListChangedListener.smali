@@ -1,0 +1,8 @@
+.class public interface abstract Lcom/parrot/arsdk/arcommands/ARCommandCommonAccessoryStateSupportedAccessoriesListChangedListener;
+.super Ljava/lang/Object;
+.source "ARCommandCommonAccessoryStateSupportedAccessoriesListChangedListener.java"
+
+
+# virtual methods
+.method public abstract onCommonAccessoryStateSupportedAccessoriesListChangedUpdate(Lcom/parrot/arsdk/arcommands/ARCOMMANDS_COMMON_ACCESSORYSTATE_SUPPORTEDACCESSORIESLISTCHANGED_ACCESSORY_ENUM;)V
+.end method

@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout android:layout_gravity="center_vertical" android:orientation="horizontal" android:id="@id/layout_personal_info" android:layout_width="fill_parent" android:layout_height="0.0dip" android:layout_weight="1.0"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <RelativeLayout android:gravity="center" android:layout_gravity="center" android:layout_width="wrap_content" android:layout_height="fill_parent" android:layout_margin="@dimen/profile_avatar_margin">
+        <ImageView android:id="@id/icon_avatar" android:layout_width="@dimen/profile_avatar_size" android:layout_height="@dimen/profile_avatar_size" android:scaleType="fitCenter" android:layout_centerInParent="true" />
+        <ProgressBar android:id="@id/progress_avatar" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_centerInParent="true" />
+    </RelativeLayout>
+    <LinearLayout android:gravity="center_vertical" android:orientation="vertical" android:padding="@dimen/profile_bloc_padding" android:layout_width="0.0dip" android:layout_height="fill_parent" android:layout_weight="1.0">
+        <TextView android:textSize="@dimen/profile_principal_text_size" android:textStyle="bold" android:id="@id/text_name" android:layout_width="fill_parent" android:layout_height="wrap_content" android:contentDescription="@string/academy_profile_cd_name" android:textAllCaps="true" />
+        <TextView android:textSize="@dimen/profile_secondary_text_size" android:textStyle="bold" android:id="@id/text_status" android:layout_width="fill_parent" android:layout_height="wrap_content" android:layout_marginTop="@dimen/form_field_spacing" android:contentDescription="@string/academy_profile_cd_status" />
+        <ScrollView android:id="@id/layout_biography" android:layout_width="fill_parent" android:layout_height="wrap_content" android:layout_marginTop="@dimen/form_field_section_spacing">
+            <TextView android:textSize="@dimen/profile_secondary_text_size" android:textStyle="bold" android:id="@id/text_biography" android:layout_width="fill_parent" android:layout_height="wrap_content" android:contentDescription="@string/academy_profile_cd_biography" />
+        </ScrollView>
+    </LinearLayout>
+</LinearLayout>

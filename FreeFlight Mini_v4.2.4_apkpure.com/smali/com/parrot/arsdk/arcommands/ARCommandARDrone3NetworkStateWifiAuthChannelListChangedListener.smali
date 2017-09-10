@@ -1,0 +1,8 @@
+.class public interface abstract Lcom/parrot/arsdk/arcommands/ARCommandARDrone3NetworkStateWifiAuthChannelListChangedListener;
+.super Ljava/lang/Object;
+.source "ARCommandARDrone3NetworkStateWifiAuthChannelListChangedListener.java"
+
+
+# virtual methods
+.method public abstract onARDrone3NetworkStateWifiAuthChannelListChangedUpdate(Lcom/parrot/arsdk/arcommands/ARCOMMANDS_ARDRONE3_NETWORKSTATE_WIFIAUTHCHANNELLISTCHANGED_BAND_ENUM;BB)V
+.end method

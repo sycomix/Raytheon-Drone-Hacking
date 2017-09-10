@@ -1,0 +1,8 @@
+.class public interface abstract Lcom/parrot/arsdk/arcommands/ARCommandCommonMavlinkStateMavlinkFilePlayingStateChangedListener;
+.super Ljava/lang/Object;
+.source "ARCommandCommonMavlinkStateMavlinkFilePlayingStateChangedListener.java"
+
+
+# virtual methods
+.method public abstract onCommonMavlinkStateMavlinkFilePlayingStateChangedUpdate(Lcom/parrot/arsdk/arcommands/ARCOMMANDS_COMMON_MAVLINKSTATE_MAVLINKFILEPLAYINGSTATECHANGED_STATE_ENUM;Ljava/lang/String;Lcom/parrot/arsdk/arcommands/ARCOMMANDS_COMMON_MAVLINKSTATE_MAVLINKFILEPLAYINGSTATECHANGED_TYPE_ENUM;)V
+.end method

@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout android:layout_width="fill_parent" android:layout_height="fill_parent"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <ImageView android:layout_gravity="center" android:id="@id/joystick_background_image" android:layout_width="@dimen/joystick_background_size" android:layout_height="@dimen/joystick_background_size" android:src="@drawable/common_joystick_direction_background" android:scaleType="fitXY" android:tint="@color/piloting_button_icon_tint" android:contentDescription="@null" />
+    <ImageView android:layout_gravity="center" android:id="@id/joystick_foreground_image" android:layout_width="@dimen/joystick_foreground_size" android:layout_height="@dimen/joystick_foreground_size" android:src="@drawable/common_joystick_foreground" android:scaleType="fitCenter" android:contentDescription="@null" />
+</FrameLayout>

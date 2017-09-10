@@ -1,0 +1,8 @@
+.class public interface abstract Lcom/parrot/arsdk/arcommands/ARCommandMiniDroneMediaRecordEventPictureEventChangedListener;
+.super Ljava/lang/Object;
+.source "ARCommandMiniDroneMediaRecordEventPictureEventChangedListener.java"
+
+
+# virtual methods
+.method public abstract onMiniDroneMediaRecordEventPictureEventChangedUpdate(Lcom/parrot/arsdk/arcommands/ARCOMMANDS_MINIDRONE_MEDIARECORDEVENT_PICTUREEVENTCHANGED_EVENT_ENUM;Lcom/parrot/arsdk/arcommands/ARCOMMANDS_MINIDRONE_MEDIARECORDEVENT_PICTUREEVENTCHANGED_ERROR_ENUM;)V
+.end method

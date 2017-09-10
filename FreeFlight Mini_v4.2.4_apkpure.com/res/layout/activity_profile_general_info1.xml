@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<merge
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <TableRow android:layout_width="fill_parent" android:layout_marginTop="@dimen/profile_tablerow_margin_top">
+        <TextView android:textSize="@dimen/profile_secondary_text_size" android:layout_gravity="bottom" android:layout_width="wrap_content" android:layout_height="wrap_content" android:text="@string/profile_first_name" />
+        <TextView android:textSize="@dimen/form_secondary_text_size" android:layout_gravity="end|bottom|center" android:id="@id/text_firstname" android:layout_width="wrap_content" android:layout_height="wrap_content" android:text="-" android:contentDescription="@string/academy_profile_cd_firstname" />
+    </TableRow>
+    <TableRow android:layout_width="fill_parent" android:layout_marginTop="@dimen/profile_tablerow_margin_top">
+        <TextView android:textSize="@dimen/profile_secondary_text_size" android:layout_gravity="bottom" android:layout_width="wrap_content" android:layout_height="wrap_content" android:text="@string/profile_last_name" />
+        <TextView android:textSize="@dimen/form_secondary_text_size" android:layout_gravity="end|bottom|center" android:id="@id/text_lastname" android:layout_width="wrap_content" android:layout_height="wrap_content" android:text="-" android:contentDescription="@string/academy_profile_cd_lastname" />
+    </TableRow>
+    <TableRow android:layout_width="fill_parent" android:layout_marginTop="@dimen/profile_tablerow_margin_top">
+        <TextView android:textSize="@dimen/profile_secondary_text_size" android:layout_gravity="bottom" android:layout_width="wrap_content" android:layout_height="wrap_content" android:text="@string/profile_birthday" />
+        <TextView android:textSize="@dimen/form_secondary_text_size" android:layout_gravity="end|bottom|center" android:id="@id/text_birthday" android:layout_width="wrap_content" android:layout_height="wrap_content" android:text="-" android:contentDescription="@string/academy_profile_cd_birthday" />
+    </TableRow>
+    <TableRow android:layout_width="fill_parent" android:layout_marginTop="@dimen/profile_tablerow_margin_top">
+        <TextView android:textSize="@dimen/profile_secondary_text_size" android:layout_gravity="bottom" android:layout_width="wrap_content" android:layout_height="wrap_content" android:text="@string/profile_phone" />
+        <TextView android:textSize="@dimen/form_secondary_text_size" android:layout_gravity="end|bottom|center" android:id="@id/text_phone" android:layout_width="wrap_content" android:layout_height="wrap_content" android:text="-" android:contentDescription="@string/academy_profile_cd_phone" />
+    </TableRow>
+</merge>

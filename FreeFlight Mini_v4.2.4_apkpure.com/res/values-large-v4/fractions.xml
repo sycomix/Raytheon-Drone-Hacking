@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <fraction name="gamepad_mapping_image_height">85.0%</fraction>
+    <fraction name="gamepad_mapping_joystick_sens">14.999998%</fraction>
+</resources>

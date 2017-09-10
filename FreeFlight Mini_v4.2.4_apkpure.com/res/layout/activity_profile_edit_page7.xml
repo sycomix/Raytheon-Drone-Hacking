@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<merge
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <LinearLayout android:gravity="center" android:orientation="vertical" android:layout_width="fill_parent" android:layout_height="fill_parent" android:layout_centerInParent="true">
+        <TextView android:textSize="@dimen/form_label_text_size" android:textStyle="bold" android:gravity="center" android:layout_width="wrap_content" android:layout_height="wrap_content" android:text="@string/profile_edit_delete_account_description" />
+        <Button android:textSize="@dimen/form_edit_text_size" android:textStyle="bold" android:id="@id/button_delete" android:background="@drawable/button_selector" android:layout_width="@dimen/academy_profile_delete_account_button_width" android:layout_height="@dimen/academy_profile_delete_account_button_height" android:layout_marginTop="@dimen/academy_profile_delete_account_button_margin" android:text="@string/profile_edit_delete_account_button" android:textAllCaps="true" />
+        <ProgressBar android:id="@id/progress_delete" android:visibility="gone" android:layout_width="wrap_content" android:layout_height="wrap_content" />
+    </LinearLayout>
+</merge>

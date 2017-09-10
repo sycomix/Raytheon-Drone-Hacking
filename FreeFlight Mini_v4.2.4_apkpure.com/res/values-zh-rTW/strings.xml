@@ -1,0 +1,1750 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="abc_action_bar_home_description">瀏覽首頁</string>
+    <string name="abc_action_bar_home_description_format">%1$s：%2$s</string>
+    <string name="abc_action_bar_home_subtitle_description_format">%1$s - %2$s：%3$s</string>
+    <string name="abc_action_bar_up_description">向上瀏覽</string>
+    <string name="abc_action_menu_overflow_description">更多選項</string>
+    <string name="abc_action_mode_done">完成</string>
+    <string name="abc_activity_chooser_view_see_all">查看全部</string>
+    <string name="abc_activitychooserview_choose_application">選擇應用程式</string>
+    <string name="abc_capital_off">關閉</string>
+    <string name="abc_capital_on">開啟</string>
+    <string name="abc_search_hint">搜尋…</string>
+    <string name="abc_searchview_description_clear">清除查詢</string>
+    <string name="abc_searchview_description_query">搜尋查詢</string>
+    <string name="abc_searchview_description_search">搜尋</string>
+    <string name="abc_searchview_description_submit">提交查詢</string>
+    <string name="abc_searchview_description_voice">語音搜尋</string>
+    <string name="abc_shareactionprovider_share_with">選擇分享對象</string>
+    <string name="abc_shareactionprovider_share_with_application">與「%s」分享</string>
+    <string name="abc_toolbar_collapse_description">收合</string>
+    <string name="common_google_play_services_api_unavailable_text">「%1$s」需要用到一或多項 Google Play 服務，但目前無法存取相關服務。請與開發人員聯絡以尋求協助。</string>
+    <string name="common_google_play_services_enable_button">啟用 Google Play 服務</string>
+    <string name="common_google_play_services_enable_text">您必須啟用 Google Play 服務，才能執行「%1$s」。</string>
+    <string name="common_google_play_services_enable_title">啟用 Google Play 服務</string>
+    <string name="common_google_play_services_install_button">取得 Google Play 服務</string>
+    <string name="common_google_play_services_install_text_phone">您的手機並未安裝 Google Play 服務，因此無法執行「%1$s」。</string>
+    <string name="common_google_play_services_install_text_tablet">您的平板電腦並未安裝 Google Play 服務，因此無法執行「%1$s」。</string>
+    <string name="common_google_play_services_install_title">取得 Google Play 服務</string>
+    <string name="common_google_play_services_invalid_account_text">這個裝置上沒有您所指定的帳戶，請選擇其他帳戶。</string>
+    <string name="common_google_play_services_invalid_account_title">帳戶無效</string>
+    <string name="common_google_play_services_network_error_text">需要數據連線才能連上 Google Play 服務。</string>
+    <string name="common_google_play_services_network_error_title">網路錯誤</string>
+    <string name="common_google_play_services_notification_ticker">Google Play 服務錯誤</string>
+    <string name="common_google_play_services_restricted_profile_text">不支援透過設有限制的個人資料存取帳戶。</string>
+    <string name="common_google_play_services_restricted_profile_title">設有限制的個人資料</string>
+    <string name="common_google_play_services_sign_in_failed_text">登入指定帳戶時發生錯誤，請選擇其他帳戶。</string>
+    <string name="common_google_play_services_sign_in_failed_title">登入失敗</string>
+    <string name="common_google_play_services_unknown_issue">「%1$s」無法存取 Google Play 服務。如果問題無法解決，請與開發人員聯絡，向對方尋求協助。</string>
+    <string name="common_google_play_services_unsupported_text">「%1$s」需要搭配 Google Play 服務才能運作，但您的裝置並不支援相關服務。請與您的裝置製造商聯絡以尋求協助。</string>
+    <string name="common_google_play_services_unsupported_title">Google Play 服務</string>
+    <string name="common_google_play_services_update_button">更新</string>
+    <string name="common_google_play_services_update_text">您必須更新 Google Play 服務，才能執行「%1$s」。</string>
+    <string name="common_google_play_services_update_title">更新 Google Play 服務</string>
+    <string name="common_google_play_services_updating_text">執行「%1$s」所需的 Google Play 服務正在更新。</string>
+    <string name="common_google_play_services_updating_title">Google Play 服務更新中</string>
+    <string name="common_google_play_services_wear_update_text">必須使用新版 Google Play 服務。該服務稍後就會自動更新。</string>
+    <string name="common_open_on_phone">在手機上開啟</string>
+    <string name="common_signin_button_text">登入</string>
+    <string name="common_signin_button_text_long">使用 Google 帳戶登入</string>
+    <string name="place_autocomplete_clear_button">清除搜尋</string>
+    <string name="place_autocomplete_search_hint">搜尋</string>
+    <string name="status_bar_notification_info_overflow">999+</string>
+    <string name="BluetoothPeripheral_privacy_mini">駕駛Minidrones並連接至控制器</string>
+    <string name="BluetoothPeripheral_privacy_pro">連接藍牙控制器</string>
+    <string name="CameraUsage_privacy_mini">錄製飛行中的無人機</string>
+    <string name="CameraUsage_privacy_pro">使用Parrot Cockpitglasses眼鏡</string>
+    <string name="Coordiante_last_drone_data">N/A</string>
+    <string name="ME003004">檢索中……</string>
+    <string name="ME003005">無法與產品連接</string>
+    <string name="ME003006">無法連接……</string>
+    <string name="ME003010">刪除</string>
+    <string name="ME003011">您要刪除此媒體嗎？</string>
+    <string name="ME003012">傳輸</string>
+    <string name="ME003013">您要傳輸此媒體嗎</string>
+    <string name="ME003014">傳輸中……</string>
+    <string name="ME003018">文件</string>
+    <string name="ME003020">刪除中⋯⋯</string>
+    <string name="ME004003">無媒體</string>
+    <string name="PI100003">用戶緊急警報</string>
+    <string name="PI100004">切斷警報</string>
+    <string name="PI100005">重要電池警報</string>
+    <string name="PI100006">電量不足警報</string>
+    <string name="PhotoLibrary_privacy_pro">存儲飛行時的照片和視頻</string>
+    <string name="Plan_cd_edit">編輯</string>
+    <string name="Plan_cd_folder">文件</string>
+    <string name="Plan_cd_go_back">返回</string>
+    <string name="Plan_cd_invalidate">取消</string>
+    <string name="Plan_cd_location">定位</string>
+    <string name="Plan_cd_play">播放</string>
+    <string name="Plan_cd_speed">速度</string>
+    <string name="Plan_cd_stop">停止</string>
+    <string name="Plan_cd_switch_view_type">改變視角</string>
+    <string name="Plan_cd_timeline">時間軸</string>
+    <string name="Plan_cd_undo">取消</string>
+    <string name="Plan_cd_validate">確認</string>
+    <string name="a_axis">A 軸</string>
+    <string name="a_new_plan">建立新的計劃嗎？</string>
+    <string name="abort">取消</string>
+    <string name="about">關於</string>
+    <string name="about_enter_email">輸入您的電郵</string>
+    <string name="about_enter_valid_email">請輸入有效的電郵位址</string>
+    <string name="about_information">關於</string>
+    <string name="about_legal_mentions">法律建议</string>
+    <string name="about_legal_mentions_accept">接受</string>
+    <string name="about_legal_mentions_refuse">拒絕</string>
+    <string name="about_share_data_title">我同意提供我的数据</string>
+    <string name="about_title">關於</string>
+    <string name="academy_error_already_registered">%s 已註冊</string>
+    <string name="academy_error_cannot_reset_password">與此電子郵件位址關聯的使用者帳戶無法重設密碼。</string>
+    <string name="academy_error_connection">互聯網連接n不可用</string>
+    <string name="academy_error_email_not_associated">此電子郵件不與使用者帳戶關聯。</string>
+    <string name="academy_error_empty_fields">需要填補 登錄名和密碼</string>
+    <string name="academy_error_generic">出錯了，請重試</string>
+    <string name="academy_error_invalid">%s 無效</string>
+    <string name="academy_error_required">需要 %s</string>
+    <string name="academy_error_too_long">%s 太長</string>
+    <string name="academy_login_connection">連接</string>
+    <string name="academy_login_description">創建帳戶，以訪問您的高級駕駛資料，並在社區上分享</string>
+    <string name="academy_login_error_auth">登錄名或密碼有誤</string>
+    <string name="academy_login_error_dialog_title">登錄失敗</string>
+    <string name="academy_login_forgotten_password">我想我忘記密碼了</string>
+    <string name="academy_login_not_signed_up">還沒註冊嗎？</string>
+    <string name="academy_login_password">密碼</string>
+    <string name="academy_login_remember_me">保持連接</string>
+    <string name="academy_login_sign_up">馬上註冊！</string>
+    <string name="academy_login_title">登錄名</string>
+    <string name="academy_login_username">用戶名</string>
+    <string name="academy_map">Parrot Cloud地圖</string>
+    <string name="academy_profile_cd_adress">地址</string>
+    <string name="academy_profile_cd_biography">檔案</string>
+    <string name="academy_profile_cd_birthday">生日</string>
+    <string name="academy_profile_cd_city">城市</string>
+    <string name="academy_profile_cd_country">國家</string>
+    <string name="academy_profile_cd_crash">碰撞</string>
+    <string name="academy_profile_cd_drone">無人機</string>
+    <string name="academy_profile_cd_email">電子郵件地址</string>
+    <string name="academy_profile_cd_facebook">Facebook</string>
+    <string name="academy_profile_cd_firstname">名</string>
+    <string name="academy_profile_cd_google_plus">Google +</string>
+    <string name="academy_profile_cd_lastname">姓</string>
+    <string name="academy_profile_cd_name">產品名稱</string>
+    <string name="academy_profile_cd_phone">電話號碼</string>
+    <string name="academy_profile_cd_pilotings">駕駛</string>
+    <string name="academy_profile_cd_psn">PSN</string>
+    <string name="academy_profile_cd_save">保存</string>
+    <string name="academy_profile_cd_status">狀態</string>
+    <string name="academy_profile_cd_steam">Steam</string>
+    <string name="academy_profile_cd_time">時間</string>
+    <string name="academy_profile_cd_twitter">Twitter</string>
+    <string name="academy_profile_cd_website">網站</string>
+    <string name="academy_profile_cd_xbox_live">Xbox Live</string>
+    <string name="academy_profile_cd_youtube">Youtube</string>
+    <string name="academy_profile_time_hms">%1$d h %2$d m %3$d s</string>
+    <string name="academy_profile_time_ms">%1$d m %2$d s</string>
+    <string name="academy_profile_time_s">%d s</string>
+    <string name="academy_retrieve_password_dialog_title">找回密碼</string>
+    <string name="academy_retrieve_password_email_hint">電子郵件地址</string>
+    <string name="academy_retrieve_password_error_cannot_reset_password">與此電子郵件位址關聯的使用者帳戶無法重設密碼。</string>
+    <string name="academy_retrieve_password_error_email">電子郵件地址</string>
+    <string name="academy_retrieve_password_error_email_invalid">電子郵件無效</string>
+    <string name="academy_retrieve_password_error_email_not_associated">此電子郵件不與使用者帳戶關聯。</string>
+    <string name="academy_retrieve_password_error_password">密碼</string>
+    <string name="academy_retrieve_password_error_something_is_already_registered">{0} 已保存</string>
+    <string name="academy_retrieve_password_error_something_is_invalid">{0} 有效</string>
+    <string name="academy_retrieve_password_error_something_is_required">{0} 被要求</string>
+    <string name="academy_retrieve_password_error_something_is_too_long">{0} 太長</string>
+    <string name="academy_retrieve_password_error_username">用戶名</string>
+    <string name="academy_retrieve_password_success">一封包含密碼的郵件已發送至您的郵箱。</string>
+    <string name="academy_sign_up_agree_info">我同意通過郵件、短信或信件接收有關Parrot產品和服務的資訊</string>
+    <string name="academy_sign_up_agree_terms">我同意使用條款</string>
+    <string name="academy_sign_up_confirm_password">確認密碼</string>
+    <string name="academy_sign_up_default_error">用戶名或郵箱已被註冊</string>
+    <string name="academy_sign_up_email">電子郵件地址</string>
+    <string name="academy_sign_up_error_email">電子郵件無效</string>
+    <string name="academy_sign_up_error_failure">註冊失敗</string>
+    <string name="academy_sign_up_error_login">特殊字符不被授權登錄</string>
+    <string name="academy_sign_up_error_passwords">該密碼不相同</string>
+    <string name="academy_sign_up_error_terms">請接受使用條款</string>
+    <string name="academy_sign_up_register">記錄您的資料</string>
+    <string name="academy_signup_title">保存</string>
+    <string name="accept">接受</string>
+    <string name="accessory_choose_accessory_title">選擇您的配件</string>
+    <string name="accessory_configuration_question">您的配置是？</string>
+    <string name="accessory_no_hull">無保護裝置</string>
+    <string name="accessory_selection">配件選擇</string>
+    <string name="ace_piloting">王牌駕駛</string>
+    <string name="activate">啟動</string>
+    <string name="activate_your_account_now">現在就啟動您的帳戶</string>
+    <string name="activate_your_drone_now">現在就啟動您的無人機！</string>
+    <string name="add_a_new_drone">添加一個新的無人機</string>
+    <string name="add_current">添加當前計劃</string>
+    <string name="alert_battery_level">電池電量低，無法開始更新</string>
+    <string name="all_map">所有</string>
+    <string name="all_runs_map">所有試驗</string>
+    <string name="all_side_green_led_choise">全部</string>
+    <string name="all_side_red_led_choice">全部</string>
+    <string name="an_unknown_error_occured">"
+- 發生未知錯誤"</string>
+    <string name="angle_param_name">角度</string>
+    <string name="animation_action_name">動作</string>
+    <string name="animation_param_name">動作</string>
+    <string name="antiflickering_auto">Auto</string>
+    <string name="antiflickering_mode">Antiflickering mode</string>
+    <string name="applying_new_configuration">正在套用新設定...</string>
+    <string name="are_you_sure">您確定嗎？</string>
+    <string name="are_you_sure_you_want_to_delete_me_">您確定要刪除我嗎？</string>
+    <string name="are_you_sure_you_want_to_delete_this_run_">您確定要刪除此次駕駛嗎？</string>
+    <string name="are_you_sure_you_want_to_delete_your_account">您確定要刪除您的賬戶嗎?</string>
+    <string name="are_you_sure_you_want_to_disable_the_wpa2_protection_someone_else_might_be_able_to_connect_to_your_drone">是否確定要停用 WPA2 保護，可能會令他人連接到您的無人機</string>
+    <string name="argentina">阿根廷</string>
+    <string name="ask_checking_for_updates">檢查更新</string>
+    <string name="ask_drone_reboot">您要重啟您的無人機嗎？您的裝置即將斷開。</string>
+    <string name="ask_for_rating">"您的意見對我們非常重要。
+如果您喜歡 FreeFlight 3，不妨花些時間為它評分。
+用時不會超過一分鐘。
+謝謝！"</string>
+    <string name="ask_uploading_last_files_from_flight">您想要上傳飛行時拍攝的最後的相片或視訊嗎？</string>
+    <string name="ask_uploading_last_files_from_ride">您想要上傳駕駛時拍攝的最後的相片或視訊嗎？</string>
+    <string name="ask_uploading_last_pictures_from_flight">您想要上傳飛行時拍攝的最後一張相片嗎？</string>
+    <string name="audio_settings_default">預設</string>
+    <string name="australia">澳洲</string>
+    <string name="austria">奧地利</string>
+    <string name="auto">自動</string>
+    <string name="available_drones">選擇一台無人機</string>
+    <string name="awaiting_response_from_the_drone">正在等待遙控飛機回應...</string>
+    <string name="banked_turn">傾斜轉彎</string>
+    <string name="battery_info_charge_characteristics" formatted="false">充電規格：%.1f A - %.1f W。</string>
+    <string name="battery_info_charged">已載入</string>
+    <string name="battery_info_charging">充電中</string>
+    <string name="battery_info_current_charge">目前充電</string>
+    <string name="battery_info_discharging">卸載</string>
+    <string name="battery_info_estimated_charge_time">充滿電的預計時間：</string>
+    <string name="battery_info_last_charge">上次充電</string>
+    <string name="battery_info_rate_fast">快速</string>
+    <string name="battery_info_rate_moderate">中速</string>
+    <string name="battery_info_rate_slow">慢速</string>
+    <string name="battery_info_rate_unknown">未知</string>
+    <string name="battery_too_low_to_record">電量不足，無法錄影</string>
+    <string name="battery_voltage_out_of_bounds">電池電壓不正確</string>
+    <string name="be_sure_that_bluethooth_is_turned_on">確保已開啟藍牙</string>
+    <string name="be_sure_that_your_drone_is_turned_on">確認您的無人機已開啟</string>
+    <string name="be_sure_to_be_connected_to_your_drone_wifi_network">請連接至無人機的wi-fi網路</string>
+    <string name="beebop_version_too_old_message">您的%s是舊版，請查找可用的更新</string>
+    <string name="belgium">比利時</string>
+    <string name="black_list_bebop">您的產品需要更新</string>
+    <string name="black_list_jumping_sumo">出於安全原因，在開始駕駛前需要更新您的 %s。</string>
+    <string name="black_list_remotes">您的產品需要更新</string>
+    <string name="black_list_rolling_spider" formatted="false">出於安全原因，在開始駕駛前需要更新您的 %s。請前往 %s 瞭解更多詳細資訊。</string>
+    <string name="boost">加強</string>
+    <string name="bootloader_error">引導程式錯誤</string>
+    <string name="brazil">巴西</string>
+    <string name="brightness_param">亮度</string>
+    <string name="bulgaria">保加利亞</string>
+    <string name="buy">購買</string>
+    <string name="buy_a_drone">"購買
+無人機"</string>
+    <string name="buy_a_minidrone">購買一台迷你無人機</string>
+    <string name="calibration_calibrate">校準</string>
+    <string name="calibration_description">您將要校準您的無人機。完成這項快速操作後，即可進行室外飛行。</string>
+    <string name="calibration_error">發生錯誤！</string>
+    <string name="calibration_j1">J1校準</string>
+    <string name="calibration_j2">J2校準</string>
+    <string name="calibration_land">降落</string>
+    <string name="calibration_landing">著陸</string>
+    <string name="calibration_landing_drone">請等待無人機著陸……</string>
+    <string name="calibration_message_dialog">無人機必須先校準才能在室外飛行。</string>
+    <string name="calibration_need_landing">"您將要校準您的無人機。完成這項快速操作後，即可進行室外飛行。
+您必須手持無人機才能進行校準，因此，您要讓無人機降落，或者稍後再進行校準。"</string>
+    <string name="calibration_needed">需要校準</string>
+    <string name="calibration_pitot_tube_title">請將無人機保持垂直5秒</string>
+    <string name="calibration_success">完成校準！</string>
+    <string name="calibration_title_dialog">請校準您的無人機</string>
+    <string name="calibration_waiting_for_drone">正在等待無人機⋯⋯</string>
+    <string name="calibration_x_axis">X軸（左右傾斜）</string>
+    <string name="calibration_x_axis_procedure">請將您的無人機繞著x軸旋轉（如動畫所示）</string>
+    <string name="calibration_y_axis">Y軸（前後傾斜）</string>
+    <string name="calibration_y_axis_procedure">請將您的無人機繞著y軸旋轉（如動畫所示）</string>
+    <string name="calibration_z_axis">Z軸（左右搖擺）</string>
+    <string name="calibration_z_axis_procedure">請將您的無人機繞著z軸旋轉（如動畫所示）</string>
+    <string name="camera_is_busy_please_retry_later">錄影機繁忙，請稍後重試</string>
+    <string name="camera_pan">鏡頭平移</string>
+    <string name="camera_settings_cd_aperture">開啟</string>
+    <string name="camera_settings_cd_frame_rate">圖像頻率</string>
+    <string name="camera_settings_cd_mode">攝像機調整模式</string>
+    <string name="camera_settings_cd_recording_mode">儲存模式</string>
+    <string name="camera_settings_cd_recording_time">儲存時間</string>
+    <string name="camera_settings_cd_shutter_speed">快門速度</string>
+    <string name="camera_settings_cd_white_balance">白平衡</string>
+    <string name="camera_tilt">鏡頭傾斜</string>
+    <string name="canada">加拿大</string>
+    <string name="cancel">取消</string>
+    <string name="cancel_alert_message">取消</string>
+    <string name="cant_take_picture">無法照相</string>
+    <string name="cardboard_drone_disconnected">無人機斷開連接</string>
+    <string name="cardboard_drone_landing">著陸</string>
+    <string name="cardboard_emergency">緊急著陸</string>
+    <string name="cardboard_loiter">懸停</string>
+    <string name="cardboard_no_recording">非存储状态</string>
+    <string name="cardboard_taking_off">起飛</string>
+    <string name="cardboard_throw_your_drone">啟動您的無人機</string>
+    <string name="center_map_on_your_current_location">將中央對準所需位置</string>
+    <string name="change_channel">切換頻道</string>
+    <string name="change_password">更改密碼</string>
+    <string name="channel">Channel</string>
+    <string name="charge_settings_title">充電設定</string>
+    <string name="check_for_updates">"檢查
+更新"</string>
+    <string name="checking_version">版本測試</string>
+    <string name="china">中國</string>
+    <string name="circling_settings">盤旋設置</string>
+    <string name="circular_landing">盤旋著陸</string>
+    <string name="ckycontroller_b_button">B 按鈕</string>
+    <string name="close">連接</string>
+    <string name="configure">配置</string>
+    <string name="confirmation_error">輸入錯誤</string>
+    <string name="connect">連線</string>
+    <string name="connect_headset">連接耳機</string>
+    <string name="connect_to">請將您的設備連接到%1$s</string>
+    <string name="connect_to_drone">連接一台無人機</string>
+    <string name="connect_to_internet">請連入網路</string>
+    <string name="connect_to_remote_control">連接遠端操控</string>
+    <string name="connect_to_your_drone">請連入您的無人機</string>
+    <string name="connect_with_facebook">與Facebook連接</string>
+    <string name="connect_your_remote_contoller">連接您的手柄</string>
+    <string name="connected_to_controller">連接到另一個控制器</string>
+    <string name="connected_to_flypad">連接到Flypad</string>
+    <string name="connecting">連接中</string>
+    <string name="connecting_in_progress">連線中⋯⋯</string>
+    <string name="connecting_to_wifi_popin">連線中⋯⋯</string>
+    <string name="connection_has_failed_profile_creation">連接失敗</string>
+    <string name="connection_state_connected">已連接</string>
+    <string name="connection_state_connecting">連接中……</string>
+    <string name="connection_state_disconnecting">斷開連接……</string>
+    <string name="connection_state_impossible_to_connect">無法連接</string>
+    <string name="connection_to_wifi_popin_failed">連線失敗</string>
+    <string name="continue_message">繼續</string>
+    <string name="controller_calibration_needed">必要校準</string>
+    <string name="controller_calibration_ok">校準 OK</string>
+    <string name="controller_channel_error">在更改 WI-FI路徑時，無人機須停止運行</string>
+    <string name="controller_channel_warning">改變WI-FI路徑會斷開與無人機的連接</string>
+    <string name="controller_hardware">（硬體: %s）</string>
+    <string name="controller_mapping">編輯地圖</string>
+    <string name="controller_settings">控制器</string>
+    <string name="controller_settings_short_title">控制器</string>
+    <string name="controller_version">版本%s</string>
+    <string name="copiloting_mode_disabled">已停用副駕駛模式</string>
+    <string name="copiloting_mode_engaged">已在使用副駕駛模式</string>
+    <string name="copy_plan_button_text">複製</string>
+    <string name="crach_academy_profile">%d 事故</string>
+    <string name="craches_in_plurall_academy_profile">%d 事故</string>
+    <string name="create">創建</string>
+    <string name="create_an_academy_account_to_access_advanced_stats_about_your_pilotings_and_to_share_them_with_the_community">創建Parrot Cloud帳戶，以訪問您的高級駕駛資料，並在社區上分享</string>
+    <string name="croatia">克羅埃西亞</string>
+    <string name="current_channel">Current Channel</string>
+    <string name="current_version">目前版本</string>
+    <string name="curve">曲線</string>
+    <string name="cyprus">塞浦路斯</string>
+    <string name="czech_republic">捷克共和國</string>
+    <string name="data_collection_cancel">取消</string>
+    <string name="default_value">預設值</string>
+    <string name="degree_per_second_unit">°/s</string>
+    <string name="degree_unit">°</string>
+    <string name="delete">刪除</string>
+    <string name="delete_file">刪除檔</string>
+    <string name="delete_file_confirm">確定刪除這些檔？</string>
+    <string name="delete_file_singular_confirm">Do you really want to delete this file?</string>
+    <string name="delete_many_item">刪除</string>
+    <string name="delete_param_button">刪除</string>
+    <string name="delete_plural_files_confirm">確定刪除該檔案？</string>
+    <string name="delete_script_popup_cancel_button">取消</string>
+    <string name="delete_script_popup_delete_button">刪除</string>
+    <string name="delete_single_file">檔案刪除</string>
+    <string name="delete_this_flight_plan">要刪除此飛行計劃嗎？</string>
+    <string name="delete_this_plan">刪除計劃？</string>
+    <string name="delete_this_road_plan">刪除計劃？</string>
+    <string name="denmark">丹麥</string>
+    <string name="details_on_the_last_connected_drone">上次連線的無人機詳細資料</string>
+    <string name="device_internal_memory">內置記憶體</string>
+    <string name="direct_pairing_connect_now">立即連接</string>
+    <string name="direct_pairing_direct_connection_message">"無人機直接與控制器連接能增加最大距離
+。您的智能手機連接將斷開。"</string>
+    <string name="direct_pairing_direct_connection_to_controller">直接連接控制器</string>
+    <string name="direction_of_rotation">旋轉方向</string>
+    <string name="director_mode">"導演
+模式"</string>
+    <string name="disable_wpa2">停用 WPA2</string>
+    <string name="disabled">未啟動</string>
+    <string name="discover_parrot_drones">"探索
+Parrot無人機"</string>
+    <string name="dismiss">取消</string>
+    <string name="distance_param_name">距離</string>
+    <string name="do_you_want_to_change_the_channel">您要從頻道</string>
+    <string name="do_you_want_to_connect_the_skycontroller_to">您想將SkyController連線到</string>
+    <string name="do_you_want_to_exit">您要關閉程式嗎？</string>
+    <string name="do_you_want_to_exit_the_piloting_interface">您要關閉駕駛介面嗎？</string>
+    <string name="do_you_wish_to_modify_your_wpa2_password_or_deactivate_wpa2_security_">您希望修改WPA2密碼或取消WPA2加密？</string>
+    <string name="do_you_wish_to_share_your_photo_on_facebook_">你是否想分享您的照片到Facebook？</string>
+    <string name="do_you_wish_to_share_your_video_on_facebook_">你是否想分享您的影片到Facebook？</string>
+    <string name="do_you_wish_to_update_your_drone_version">您要升級您的無人機版本嗎？</string>
+    <string name="do_you_wish_to_update_your_remote_control">您想要更新您的手柄嗎？</string>
+    <string name="doesnt_support_your_android_device">不支援您的 Android 裝置</string>
+    <string name="download">下載</string>
+    <string name="download_failed_retry">下載文件失敗。您要重新嘗試嗎？</string>
+    <string name="download_firmwares_step">下載固件</string>
+    <string name="download_latest_firmware">您希望為Parrot Minidrones下載最新的固件升級嗎</string>
+    <string name="download_latest_firmware_devices">您想下載最新更新嗎？</string>
+    <string name="drag_an_action_here">拖動一項操作到此處</string>
+    <string name="drone_academy">Parrot Cloud</string>
+    <string name="drone_academy_parrot__minidrones_minidrone_mini_drone_rolling_spider_rollingspider_parrot_rolling_spider_drone_academy_parrot_academy_freeflight3">無人機研究院，派諾特，迷你無人機，迷你無人機，迷你無人機，滾動蜘蛛，滾動蜘蛛，派諾特滾動蜘蛛，無人機研究院，派諾特學院，自由飛行3</string>
+    <string name="drone_academy_parrot_bebop_drone_bebop_parrot_bebop_drone_drone_academy_parrot_academy_freeflight3">無人機研究院，派諾特，比波普無人機，比波普，派諾特比波普無人機，無人機研究院，派諾特學院，自由飛行3</string>
+    <string name="drone_academy_parrot_minidrones_minidrone_mini_drone_jumping_sumo_parrot_jumping_sumo_jumpingsumo_drone_academy_parrot_academy_freeflight3">無人機研究院，派諾特，迷你無人機，迷你無人機，迷你無人機，跳躍相撲手，派諾特跳躍相撲手，跳躍相撲手，無人機研究院，派諾特學院，自由飛行3</string>
+    <string name="drone_academy_profile">%d 無人機</string>
+    <string name="drone_activated">無人機已啟動</string>
+    <string name="drone_calibration_required">需要對無人機進行校準！</string>
+    <string name="drone_initialization">無人機初期化</string>
+    <string name="drone_memory_deselect_all">Deselect All</string>
+    <string name="drone_memory_full">存儲已滿</string>
+    <string name="drone_memory_select_all">Select All</string>
+    <string name="drone_message_cancel">取消</string>
+    <string name="drone_message_ok">確定</string>
+    <string name="drone_message_warning">警告</string>
+    <string name="drone_renamed">無人機已重命名</string>
+    <string name="drone_reset">無人機重置</string>
+    <string name="drone_school">指導</string>
+    <string name="drone_store">無人機商店</string>
+    <string name="drone_up_to_date">無人機已更新</string>
+    <string name="dronenacademy">"Parrot
+Cloud"</string>
+    <string name="drones_in_plural_academy_profile">%d 無人機</string>
+    <string name="drones_profile">無人機</string>
+    <string name="duration_param_name">持續時間</string>
+    <string name="duration_time_line">持續時間：</string>
+    <string name="edit">編輯</string>
+    <string name="edit_country_none">None</string>
+    <string name="email">電子郵件地址</string>
+    <string name="emergency_stop">緊急停止</string>
+    <string name="enable_wpa2">啟用 WPA2</string>
+    <string name="enabled">已啟動</string>
+    <string name="error">錯誤</string>
+    <string name="error__flight_plan">錯誤</string>
+    <string name="error_sending_flight_plan_please_try_again">啓動飛行計劃時發生錯誤，請重試。</string>
+    <string name="estonia">愛沙尼亞</string>
+    <string name="exit">退出</string>
+    <string name="exponential">指數曲線</string>
+    <string name="facebook">Facebook</string>
+    <string name="failed_to_access_memory">記憶體不能讀取</string>
+    <string name="failed_to_communicate_with_motor">無法與電機通訊</string>
+    <string name="failed_to_send_piloting_to_your_email">将驾驶傳送到電子郵件时失败</string>
+    <string name="failed_to_start_video">無法開始錄製</string>
+    <string name="failed_to_stop_video">無法停止錄製</string>
+    <string name="fast">快速</string>
+    <string name="feet_per_second_unit">ft/s</string>
+    <string name="feet_unit">ft</string>
+    <string name="file_enum" formatted="false">%d（共 %d）</string>
+    <string name="files_transferred_do_you_want_to_delete_the_original_files_">檔案已傳輸。要刪除原始檔案嗎？</string>
+    <string name="film_my_drone">拍攝我的遙控飛機</string>
+    <string name="film_plan">飛行計畫</string>
+    <string name="finishing_file_transfer_please_wait">等待傳輸完畢……請稍等……</string>
+    <string name="finland">芬蘭</string>
+    <string name="firmware">固件</string>
+    <string name="firmware_update_will_take_2_hours_with_bluetooth_40_it_will_take_less_than_one_minute_by_usb_do_you_want_to_continue">使用 Bluetooth 4.0 進行韌體更新需要 2 小時，而使用 USB 更新僅需要不到一分鐘，您要繼續嗎？</string>
+    <string name="firmware_update_will_take_35_minutes_with_bluetooth_40_it_will_take_less_than_one_minute_by_usb_do_you_want_to_continue_">"使用Bluetooth 4.0進行固件更新需要35分鐘，
+使用USB更新需要不到一分鐘，
+您要繼續嗎？"</string>
+    <string name="flight_limits_settings">飛行限制設定</string>
+    <string name="flight_plan_alert_title">Flight Plan</string>
+    <string name="flight_plan_angle">角度：</string>
+    <string name="flight_plan_angle_speed">角速度：</string>
+    <string name="flight_plan_default_value">預設值</string>
+    <string name="flight_plan_format">格式：</string>
+    <string name="flight_plan_fps">每秒幀數</string>
+    <string name="flight_plan_interval">間隔時間 :</string>
+    <string name="flight_plan_jpeg">JPEG</string>
+    <string name="flight_plan_jpeg_180">JPEG 180°</string>
+    <string name="flight_plan_landing">著陸</string>
+    <string name="flight_plan_pause">暫停</string>
+    <string name="flight_plan_raw">Raw</string>
+    <string name="flight_plan_rotate">轉</string>
+    <string name="flight_plan_snapshot">螢幕截圖</string>
+    <string name="flight_plan_take_off">起飛</string>
+    <string name="flight_plan_take_picture">拍攝照片</string>
+    <string name="flight_plan_tilt">方向</string>
+    <string name="flight_plan_title">"Flight
+plan"</string>
+    <string name="flight_plan_video_recording">Video recording</string>
+    <string name="flight_settings">飛行設定</string>
+    <string name="flightplan_component_calibration">請校準無人機，以便發送計畫</string>
+    <string name="flightplan_component_file">無人機檢測到一個計畫錯誤。請糾正之後重試</string>
+    <string name="flightplan_component_gps">請等待GPS最佳信號時再發送計畫</string>
+    <string name="flightplan_component_take_off">無人機拒絕起飛。請確認無人機沒有受阻</string>
+    <string name="flightplan_components_unknown">未知錯誤</string>
+    <string name="flightplan_constant_course">持續航線</string>
+    <string name="flightplan_edit_altitude">高度：</string>
+    <string name="flightplan_edit_speed">速度：</string>
+    <string name="flightplan_fw_update_needed">請下載無人機最近一次更新，以便使用FlightPlan。</string>
+    <string name="flightplan_pois_not_supported">您的無人機不支援目前FlightPlan所使用的功能。將在不啟用這些功能的情況下實行計畫。</string>
+    <string name="flightplan_progressive_course">漸進航線</string>
+    <string name="flightplan_sending_error">發送計畫時出錯。</string>
+    <string name="flightplan_speed_bridle">在低空時無人機的速度將被限制</string>
+    <string name="flights_number">飛行</string>
+    <string name="fly_and_film">飛行&amp;航拍</string>
+    <string name="follow_beboopt_recorded_video_text_explanation">"影片由派諾特比波普無人機記錄
+
+官方網站：http://www.parrot.com/products/bebop-drone
+ 關注派諾特：https://twitter.com/Parrot
+ 成為粉絲：http://www.facebook.com/parrot"</string>
+    <string name="follow_beebop_taken_photos_text_explanation">"照片由派諾特比波普無人機記錄
+
+官方網站：http://www.parrot.com/products/bebop-drone
+ 關注派諾特：https://twitter.com/Parrot
+ 成為粉絲：http://www.facebook.com/parrot"</string>
+    <string name="follow_jumping_sumo_recorded_video_text_explanation">"影片由派諾特跳躍相撲手記錄
+
+官方網站：http://www.parrot.com/products/bebop-drone
+ 關注派諾特：https://twitter.com/Parrot
+ 成為粉絲：http://www.facebook.com/parrot"</string>
+    <string name="follow_jumping_sumo_taken_photos_text_explanation">"照片由派諾特跳躍相撲手記錄
+
+官方網站：http://www.parrot.com/products/bebop-drone
+ 關注派諾特：https://twitter.com/Parrot
+ 成為粉絲：http://www.facebook.com/parrot"</string>
+    <string name="follow_me_allow_ffpro_location">請允許FreeFlight Pro使用您的位置</string>
+    <string name="follow_me_anim_boomerang">迴旋鏢</string>
+    <string name="follow_me_anim_orbit">軌道</string>
+    <string name="follow_me_anim_parabola">拋物線</string>
+    <string name="follow_me_anim_zenith">頂點</string>
+    <string name="follow_me_choice_popup_description">請選擇一種模式開始：</string>
+    <string name="follow_me_device_barometer">您的設備沒有氣壓計</string>
+    <string name="follow_me_device_gps_accuracy">您設備的GPS精度不夠。</string>
+    <string name="follow_me_disclamer_text">無人機將自動跟蹤您。飛行時請注意安全。</string>
+    <string name="follow_me_drone_gps_accuracy">您無人機的GPS精度不夠</string>
+    <string name="follow_me_drone_not_far_enough">您的無人機距離不夠</string>
+    <string name="follow_me_drone_not_high_enough">您的無人機高度不夠</string>
+    <string name="follow_me_explanation_smartphone">GPS跟蹤性能取決於您的智能手機。請免費試用，使用您的設備進行測試。請點擊&lt;u>此處&lt;/u>查看推薦設備清單。</string>
+    <string name="follow_me_first_use_description">按下此按鈕即可從您的控制介面啟動新的跟蹤模式。</string>
+    <string name="follow_me_first_use_lock_button_description">當處於自動跟蹤模式時，您可以鎖定視角，以使無人機始終用同一側對準取景目標。</string>
+    <string name="follow_me_first_use_lock_button_title">鎖定視角</string>
+    <string name="follow_me_first_use_title">跟蹤模式按鈕</string>
+    <string name="follow_me_go_to_settings">前往\"設置\"</string>
+    <string name="follow_me_image_detection">圖像探測出現問題</string>
+    <string name="follow_me_inapp_description">應用內購買將解鎖新的自動飛行模式：</string>
+    <string name="follow_me_lock_screen">鎖定</string>
+    <string name="follow_me_mode_description">借助智能手機GPS和圖像識別功能跟蹤目標</string>
+    <string name="follow_me_not_calibrated">您的無人機沒有校準</string>
+    <string name="follow_me_plurals_days_left">剩餘%d天</string>
+    <string name="follow_me_single_days_left">剩餘%d天</string>
+    <string name="follow_me_stop_follow">停止</string>
+    <string name="follow_me_subtitle">GPS和視頻跟蹤</string>
+    <string name="follow_me_tips">選擇一個與周圍環境不同的彩色目標</string>
+    <string name="follow_me_title">自動跟蹤</string>
+    <string name="follow_me_title_full">follow me</string>
+    <string name="follow_me_unlock_screen">解鎖</string>
+    <string name="follow_me_wait_gps_description">您的無人機和智能手機的GPS功能應足夠精確方可啟動自動跟蹤功能。</string>
+    <string name="follow_me_wait_gps_signal">等待GPS信號……</string>
+    <string name="follow_rolling_spider_recorded_video_text_explanation">"使用 Parrot Rolling Spider 拍攝的短片！
+
+官方網站：http://www.parrot.com/products/rolling-spider 
+在 Twitter 上關注 Parrot：https://twitter.com/Parrot 
+在 Facebook 上成為粉絲：http://www.facebook.com/parrot"</string>
+    <string name="follow_rolling_spider_taken_photos_text_explanation">"照片由派諾特滾動蜘蛛記錄
+
+官方網站：http://www.parrot.com/products/bebop-drone
+ 關注派諾特：https://twitter.com/Parrot
+ 成為粉絲：http://www.facebook.com/parrot"</string>
+    <string name="forget">忽略</string>
+    <string name="forwards_jump_not_possible_jump_unavailability_reason">無法跳遠</string>
+    <string name="fps_time_line">每秒幀數:</string>
+    <string name="fpv">FPV</string>
+    <string name="fpv_signal_display" formatted="false">%d / %d</string>
+    <string name="france">法國</string>
+    <string name="free_fall">自由落體</string>
+    <string name="free_trial">免費試用</string>
+    <string name="freeflight_3">Freeflight 3</string>
+    <string name="full_control">完全控制</string>
+    <string name="gamepad_joystick_sensibility_exponential">持續快速</string>
+    <string name="gamepad_joystick_sensibility_linear">線性</string>
+    <string name="gamepad_joystick_sensibility_title">軸線敏感度</string>
+    <string name="gamepad_mapping_button_dpad">DPAD</string>
+    <string name="gamepad_mapping_button_j1">J1</string>
+    <string name="gamepad_mapping_button_j1_key">J1-Key</string>
+    <string name="gamepad_mapping_button_j2">J2</string>
+    <string name="gamepad_mapping_button_j2_key">J2-Key</string>
+    <string name="gamepad_mapping_button_j3">J3</string>
+    <string name="gamepad_mapping_button_j3_key">J3-Key</string>
+    <string name="gamepad_mapping_button_j4">J4</string>
+    <string name="gamepad_mapping_button_j4_key">J4-Key</string>
+    <string name="gamepad_mapping_button_l1">L1</string>
+    <string name="gamepad_mapping_button_l2">L2</string>
+    <string name="gamepad_mapping_button_r1">R1</string>
+    <string name="gamepad_mapping_button_r2">R2</string>
+    <string name="gamepad_mapping_choose">Choose button type</string>
+    <string name="gamepad_mapping_cmd_auto_takeoff">啟動/禁用自動起飛</string>
+    <string name="gamepad_mapping_cmd_back">返回</string>
+    <string name="gamepad_mapping_cmd_backswap">向後翻轉</string>
+    <string name="gamepad_mapping_cmd_barrel_roll_left">向左側滾</string>
+    <string name="gamepad_mapping_cmd_barrel_roll_right">向右側滾</string>
+    <string name="gamepad_mapping_cmd_camera_pan">鏡頭平移</string>
+    <string name="gamepad_mapping_cmd_claw">開啟/關閉鉗子</string>
+    <string name="gamepad_mapping_cmd_emergency">緊急情況</string>
+    <string name="gamepad_mapping_cmd_fast_turn_back">快速回轉</string>
+    <string name="gamepad_mapping_cmd_fast_turn_left">快速左轉</string>
+    <string name="gamepad_mapping_cmd_fast_turn_right">快速右轉</string>
+    <string name="gamepad_mapping_cmd_flip_back">向後翻轉</string>
+    <string name="gamepad_mapping_cmd_flip_front">向前翻轉</string>
+    <string name="gamepad_mapping_cmd_flip_left">向左翻轉</string>
+    <string name="gamepad_mapping_cmd_flip_right">向右翻轉</string>
+    <string name="gamepad_mapping_cmd_fpv_display_mode">Cockpit Glasses：顯示模式</string>
+    <string name="gamepad_mapping_cmd_fpv_video_pov">Cockpit Glasses：改變視角</string>
+    <string name="gamepad_mapping_cmd_gaz">油門</string>
+    <string name="gamepad_mapping_cmd_gun">射擊</string>
+    <string name="gamepad_mapping_cmd_left_right">90°左 &amp; 90°右</string>
+    <string name="gamepad_mapping_cmd_light_blink">燈光閃爍</string>
+    <string name="gamepad_mapping_cmd_light_on_off">開啟/關閉燈光</string>
+    <string name="gamepad_mapping_cmd_light_toggle">燈光開關</string>
+    <string name="gamepad_mapping_cmd_light_wave">燈光變化</string>
+    <string name="gamepad_mapping_cmd_loitering">懸停</string>
+    <string name="gamepad_mapping_cmd_looping">向前翻轉</string>
+    <string name="gamepad_mapping_cmd_no_action">無動作</string>
+    <string name="gamepad_mapping_cmd_not_used">未使用動作</string>
+    <string name="gamepad_mapping_cmd_photo">相片</string>
+    <string name="gamepad_mapping_cmd_pitch">傾角</string>
+    <string name="gamepad_mapping_cmd_plane">飛行</string>
+    <string name="gamepad_mapping_cmd_plane_gear_down">低速</string>
+    <string name="gamepad_mapping_cmd_plane_gear_up">高速</string>
+    <string name="gamepad_mapping_cmd_plane_mode">飛行模式</string>
+    <string name="gamepad_mapping_cmd_quad_mode">四軸模式</string>
+    <string name="gamepad_mapping_cmd_record">錄製</string>
+    <string name="gamepad_mapping_cmd_reset_back">返回</string>
+    <string name="gamepad_mapping_cmd_reset_camera">重設相機</string>
+    <string name="gamepad_mapping_cmd_return_home">Return Home</string>
+    <string name="gamepad_mapping_cmd_roll">橫滾</string>
+    <string name="gamepad_mapping_cmd_stop">停止</string>
+    <string name="gamepad_mapping_cmd_take_control">Take Control</string>
+    <string name="gamepad_mapping_cmd_take_photo">拍照</string>
+    <string name="gamepad_mapping_cmd_takeoff">起飛/著陸</string>
+    <string name="gamepad_mapping_cmd_validate">確認</string>
+    <string name="gamepad_mapping_cmd_video">錄制</string>
+    <string name="gamepad_mapping_cmd_video_camera_tilt">鏡頭傾斜</string>
+    <string name="gamepad_mapping_cmd_wingx_flyingmode_plane_backward">向後飛行</string>
+    <string name="gamepad_mapping_cmd_wingx_flyingmode_plane_forward">向前飛行</string>
+    <string name="gamepad_mapping_cmd_wingx_flyingmode_quadricopter">四軸飛行器</string>
+    <string name="gamepad_mapping_cmd_yaw">偏航</string>
+    <string name="gamepad_mapping_inverse">Inverse</string>
+    <string name="gamepad_mapping_main_calib">Main calibration</string>
+    <string name="gamepad_mapping_main_calib_info">To start, place all buttons and joysticks to the 0 position</string>
+    <string name="gamepad_mapping_main_calib_ready">"I'm ready"</string>
+    <string name="gamepad_mapping_move_button">move the control from max to min</string>
+    <string name="gamepad_mapping_rc_button">Button</string>
+    <string name="gamepad_mapping_rc_joystick_signed">Joystick (2)</string>
+    <string name="gamepad_mapping_rc_joystick_unsigned">Joystick (1)</string>
+    <string name="gamepad_mapping_rc_rotary_button">Potentiometer</string>
+    <string name="gamepad_mapping_rc_switch2">Switch (2)</string>
+    <string name="gamepad_mapping_rc_switch3">Switch (3)</string>
+    <string name="gamepad_mapping_required">Required</string>
+    <string name="gamepad_mapping_sky_2_cmd_camera_exp_dec">減小攝像機曝光度</string>
+    <string name="gamepad_mapping_sky_2_cmd_camera_exp_inc">增加攝像機曝光度</string>
+    <string name="gamepad_mapping_sky_2_cmd_cancel">取消/返回</string>
+    <string name="gamepad_mapping_sky_2_cmd_settings">打開/關閉設置</string>
+    <string name="gamepad_mapping_sky_2_cmd_validate">確認</string>
+    <string name="gamepad_mapping_sky_cmd_back">返回</string>
+    <string name="gamepad_mapping_sky_cmd_camera_pan">鏡頭平移</string>
+    <string name="gamepad_mapping_sky_cmd_camera_tilt">鏡頭傾斜</string>
+    <string name="gamepad_mapping_sky_cmd_emergency">緊急情況</string>
+    <string name="gamepad_mapping_sky_cmd_gaz">油門</string>
+    <string name="gamepad_mapping_sky_cmd_photo">相片</string>
+    <string name="gamepad_mapping_sky_cmd_pitch">傾角</string>
+    <string name="gamepad_mapping_sky_cmd_record">錄製</string>
+    <string name="gamepad_mapping_sky_cmd_reset_camera">重設相機</string>
+    <string name="gamepad_mapping_sky_cmd_return_home">回位</string>
+    <string name="gamepad_mapping_sky_cmd_roll">橫滾</string>
+    <string name="gamepad_mapping_sky_cmd_settings">設定</string>
+    <string name="gamepad_mapping_sky_cmd_takeoff_landing">起飛/著陸</string>
+    <string name="gamepad_mapping_sky_cmd_yaw">偏航</string>
+    <string name="gamepad_mapping_warning">Place all buttons and joysticks to the 0 position to avoid undesirable behaviour</string>
+    <string name="gaz">油門</string>
+    <string name="general_information">一般資訊</string>
+    <string name="general_terms_of_use_profile_creation">使用條款</string>
+    <string name="generic_error_message">出錯了，請重試</string>
+    <string name="germany">德國</string>
+    <string name="give_me_a_cool_name_on_drone_academy">給我在無人機研究院起一個很酷的名字！</string>
+    <string name="google_photos">Google Photos</string>
+    <string name="got_it">我明白了！</string>
+    <string name="gps_label">GPS</string>
+    <string name="gps_map">全球定位系統</string>
+    <string name="gps_version">GPS 版本</string>
+    <string name="greece">希臘</string>
+    <string name="green_led_name">綠色</string>
+    <string name="green_ledparam_name">（兩）側</string>
+    <string name="hardware_version">硬體版本</string>
+    <string name="home">主頁</string>
+    <string name="home_my_flights">我的飛行</string>
+    <string name="hong_kong">香港</string>
+    <string name="horizontal_sensibility">水平靈敏度</string>
+    <string name="how_to_connect_to_your_drone_explanation">"請使用您的Wi-Fi系統連接至無人機的Wi-Fi。
+在可用的Wi-Fi熱點列表中找到您的無人機。"</string>
+    <string name="how_to_connect_to_your_drone_title">如何連接至無人機？</string>
+    <string name="hull_protection">機身保護</string>
+    <string name="hungary">匈牙利</string>
+    <string name="i_agree_to_receive_information_about_parrot_products_and_services_by_email_text_message_or_post">我希望透過電子郵件、簡訊或郵寄信件獲知Parrot產品和服務相關消息。</string>
+    <string name="i_want_to_receive_emails_from_my__and_parrot">我想從我的%s收到電子郵件（以及Parrot）</string>
+    <string name="if_you_want_to_access_your_media_gallery_enable_it_in_your_devices_settings">如果您想訪問媒體庫, 請在設備上啟用該選項。</string>
+    <string name="image_format_dng">DNG</string>
+    <string name="image_format_jpeg">JPEG</string>
+    <string name="image_format_jpeg_180">JPEG 180°</string>
+    <string name="image_settings">影像設定</string>
+    <string name="impossible_to_delete_this_run">無法刪除此次駕駛</string>
+    <string name="in_this_position_jump_unavailability_reason">採用這個姿勢。</string>
+    <string name="incorrect_value_in_motor_settings">電機設定值不正確</string>
+    <string name="india">印度</string>
+    <string name="indonesia">印尼</string>
+    <string name="information_help">協助</string>
+    <string name="information_message">資訊</string>
+    <string name="informations_title">信息</string>
+    <string name="insect">昆蟲</string>
+    <string name="insert">插入</string>
+    <string name="internal_memory">內置記憶體</string>
+    <string name="internet">互聯網</string>
+    <string name="internet_connection_is_too_slow">網速太慢</string>
+    <string name="interval">間隔時間</string>
+    <string name="invalid_coordinates">無效</string>
+    <string name="invalid_login_or_password">無效的登錄名或密碼</string>
+    <string name="invite">邀請</string>
+    <string name="invite_friend">"邀請
+朋友"</string>
+    <string name="invite_your_friends">邀請您的朋友</string>
+    <string name="invite_your_friends_to_join_the_drone_academy">邀請朋友加入Parrot Cloud！</string>
+    <string name="ireland">愛爾蘭</string>
+    <string name="israel">以色列</string>
+    <string name="it_marks_a_camera_tilt_changing">"
+- 它標誌方向的改變。"</string>
+    <string name="it_marks_a_landing">"
+- it marks a landing."</string>
+    <string name="it_marks_a_pause">"
+- it marks a pause."</string>
+    <string name="it_marks_a_rotation">"
+- it marks a rotation."</string>
+    <string name="it_marks_a_take_off">"
+- it marks a take off."</string>
+    <string name="it_marks_the_beginning_of_a_video_recording">"
+- 它標誌視頻錄製開始。"</string>
+    <string name="it_marks_the_beginning_of_an_image_capture">"
+- 它標誌圖像拍攝開始。"</string>
+    <string name="it_marks_the_end_of_a_video_recording">"
+- 它標誌視頻錄製結束。"</string>
+    <string name="it_marks_the_end_of_an_image_capture">"
+- 它標誌圖像拍攝結束。"</string>
+    <string name="italy">義大利</string>
+    <string name="japan">日本</string>
+    <string name="join_today_improve_your_skills_and_start_your_own_adventure">現在就加入，加強技能並開始您自己的歷險</string>
+    <string name="joypad_inverted">手柄倒置</string>
+    <string name="joystick_configuration">搖桿設定</string>
+    <string name="jpeg_180">JPEG 180°</string>
+    <string name="jump_action_name">跳躍</string>
+    <string name="jump_already_loaded_jump_unavailability_reason">：跳躍已載入。</string>
+    <string name="jump_error_jump_unavailability_reason">跳躍錯誤</string>
+    <string name="jump_high_choice">高跳</string>
+    <string name="jump_kick_choice">踢跳</string>
+    <string name="jump_load_choice">蓄力</string>
+    <string name="jump_loading_not_possible_jump_unavailability_reason">無法載入跳躍</string>
+    <string name="jump_long_choice">長跳</string>
+    <string name="jump_parm_name">跳躍</string>
+    <string name="jump_stop_choice">停止</string>
+    <string name="jumper_posture_choice">Jumper</string>
+    <string name="jumping_sumo_vesion_too_old_message">您的%s是舊版，請查找可用的更新</string>
+    <string name="keep">保存</string>
+    <string name="kicker_posture_choice">Kicker</string>
+    <string name="kilometer_per_hour_unit">km/h</string>
+    <string name="kilometer_unit">km</string>
+    <string name="korea">韓國</string>
+    <string name="kuwait">科威特</string>
+    <string name="landing_point_missing">計畫必須以著陸結束。</string>
+    <string name="last_error">上一個錯誤</string>
+    <string name="last_flight">上次飛行時間</string>
+    <string name="last_flight_time">上次飛行時間</string>
+    <string name="last_motor_error">上次馬達錯誤</string>
+    <string name="last_motors_error_last_drone_data">上次馬達錯誤</string>
+    <string name="latitude__longitude">緯度，經度</string>
+    <string name="latvia">拉脫維亞</string>
+    <string name="learn_to_fly">學習飛行</string>
+    <string name="learning_gps_position_">正在確定 GPS 位置...</string>
+    <string name="lebanon">黎巴嫩</string>
+    <string name="leds_action_name">Leds</string>
+    <string name="left_side_green_led_choise">左側</string>
+    <string name="left_side_red_led_choice">左側</string>
+    <string name="line">線路</string>
+    <string name="linear">直線</string>
+    <string name="linear_landing">直線著陸</string>
+    <string name="lithuania">立陶宛</string>
+    <string name="loading">載入中……</string>
+    <string name="loading_list_of_networks">網路清單載入中⋯⋯</string>
+    <string name="loading_web_veiw">載入中……</string>
+    <string name="location_settings">地點設置</string>
+    <string name="log_error">發送時出現錯誤</string>
+    <string name="log_sent">無錯誤發送日誌</string>
+    <string name="login_academy">登錄中……</string>
+    <string name="logout_facebook">登出 Facebook</string>
+    <string name="logout_from_youtube_google_photos">登出 Youtube/Google Photos</string>
+    <string name="look_at_me">自動取景</string>
+    <string name="look_at_me_mode_description">憑藉圖像識別技術，在飛行期間保持對準取景目標</string>
+    <string name="looking_for_parrot_drones">尋找Parrot的無人機……</string>
+    <string name="low_battery_jump_unavailability_reason">：電量不足。</string>
+    <string name="luxembourg">盧森堡</string>
+    <string name="m_per_second_unit">m/s</string>
+    <string name="magnetometer">磁強計</string>
+    <string name="magnetometer_calibration">地磁計校準</string>
+    <string name="make_a_movie_with_replay">利用 REPLAY（重播）製作影片</string>
+    <string name="make_sure_a_nonfull_usb_media_is_plugged_in_your_drone">請確認一個有效的 USB 設備已接入您的無人機</string>
+    <string name="malaysia">馬來西亞</string>
+    <string name="malta">馬爾他</string>
+    <string name="map">地圖</string>
+    <string name="map_my_house_add_current">添加當前</string>
+    <string name="map_my_house_saved_plans">已儲存的地圖</string>
+    <string name="map_my_house_title">"地圖
+我的家"</string>
+    <string name="map_preloading">預加載地圖</string>
+    <string name="mapping">地圖</string>
+    <string name="master_volume">主音量</string>
+    <string name="mavlink_cd_load">載入</string>
+    <string name="mavlink_cd_save">儲存</string>
+    <string name="mavlink_cd_save_as">另存新檔</string>
+    <string name="max_inclination">最大傾角</string>
+    <string name="max_speed">最高速度</string>
+    <string name="max_turn">最大轉彎</string>
+    <string name="media">媒體</string>
+    <string name="media_access_denied">拒絕進入</string>
+    <string name="media_alert_message_cancel">取消</string>
+    <string name="media_alert_message_checking">檢查中……</string>
+    <string name="media_alert_message_error">錯誤</string>
+    <string name="media_alert_message_file_selected">已選文件</string>
+    <string name="media_alert_message_files_selected">已選文件</string>
+    <string name="media_alert_message_files_transferred_do_you_want_to_delete_them_from_usb_">文件已傳輸。您希望從USB中刪除嗎？</string>
+    <string name="media_alert_message_keep_files">保存文件</string>
+    <string name="media_alert_message_ok">確定</string>
+    <string name="media_alert_message_transfer_delete">刪除</string>
+    <string name="media_alert_message_transfer_error">傳輸錯誤</string>
+    <string name="media_alert_message_usb_key">USB密鑰</string>
+    <string name="media_available_space_on_device">您的設備上僅有%s可用</string>
+    <string name="media_cd_date">日期</string>
+    <string name="media_cd_time">Time</string>
+    <string name="media_drone_memory">Drone memory</string>
+    <string name="media_gallery">媒體庫</string>
+    <string name="media_gellery_select">選擇</string>
+    <string name="media_gigabyte">Gb</string>
+    <string name="media_keep_files_in_plural">保存多個檔</string>
+    <string name="media_keep_singlr_file">保存該檔</string>
+    <string name="media_megabyte">Mb</string>
+    <string name="media_multiple_files_transferred">%d 檔已傳送。您想刪除原文件嗎？</string>
+    <string name="media_not_supported">您的設備不支援內部記憶體</string>
+    <string name="media_one">%d 媒體</string>
+    <string name="media_play_button_text">播放</string>
+    <string name="media_please_wait">請稍等……</string>
+    <string name="media_plurals_file_transferred_keep">"%d個文件已匯出。
+您是否想要保存原件？"</string>
+    <string name="media_select_items">選擇項目</string>
+    <string name="media_selected_file">%d 所選文件</string>
+    <string name="media_selected_files_in_plural">%d 所選文件</string>
+    <string name="media_settings">媒體設定</string>
+    <string name="media_several">%d 媒體</string>
+    <string name="media_single_file_transferred">%d 檔已傳送。您想要刪除原文件嗎？</string>
+    <string name="media_single_file_transferred_keep">"%d file was successfully transferred to your device.
+Do you want to keep the original?"</string>
+    <string name="media_stop_button_text">停止</string>
+    <string name="media_storage_free">免費</string>
+    <string name="media_title">媒體</string>
+    <string name="media_transfer">媒體傳送</string>
+    <string name="media_transfer_deleting">刪除無人機的檔</string>
+    <string name="media_transfer_total">總計</string>
+    <string name="media_transfer_transfering">將檔案傳輸至您的設備</string>
+    <string name="media_type_all">全部</string>
+    <string name="media_type_photo">照片</string>
+    <string name="media_type_photos">圖片</string>
+    <string name="media_type_video">視頻</string>
+    <string name="media_type_videos">影片</string>
+    <string name="media_unread_count_bar_message">您想要傳輸最近一次飛行時的 {0} 拍攝嗎？</string>
+    <string name="media_unread_many">您想要傳輸最近一次飛行時的%d媒體拍攝嗎？</string>
+    <string name="media_unread_one">您想要傳輸最近一次飛行時的媒體拍攝嗎？</string>
+    <string name="mediaplayer_upload">發送</string>
+    <string name="medias_map">媒體</string>
+    <string name="memory_full">存儲已滿</string>
+    <string name="memory_full_error">您的設備儲存已滿，無法進行下載。</string>
+    <string name="menu_manager_back_action">返回</string>
+    <string name="meter_unit">m</string>
+    <string name="metronome">節拍器</string>
+    <string name="metronome_led_animation">節拍器</string>
+    <string name="mexico">墨西哥</string>
+    <string name="miles_per_hour_unit">mph</string>
+    <string name="miles_unit">mi</string>
+    <string name="mode_50_hz">50 Hz</string>
+    <string name="mode_60_hz">60 Hz</string>
+    <string name="monster">怪獸</string>
+    <string name="motor">電機</string>
+    <string name="motor_controller_error_">電機控制器故障</string>
+    <string name="motor_error_go_to_motor_settings_for_more_information">引擎錯誤(%d)</string>
+    <string name="motor_hardware_version">硬體</string>
+    <string name="motor_information">電機信息</string>
+    <string name="motor_information_error">錯誤</string>
+    <string name="motor_software_version">軟體</string>
+    <string name="motor_software_version_last_drone_data">馬達軟體版本</string>
+    <string name="motor_stage_broken">電機相損壞</string>
+    <string name="motor_stalled">電機堵轉</string>
+    <string name="motor_type">類型</string>
+    <string name="my_drones">我無人機</string>
+    <string name="my_drones_delete">刪除</string>
+    <string name="my_drones_drone_deleted">無人機已刪除</string>
+    <string name="my_drones_drone_name">無人機名稱</string>
+    <string name="my_drones_drone_registered">無人機已被註冊</string>
+    <string name="my_drones_no_drone_found">沒有找到無人機</string>
+    <string name="my_drones_registered">已註冊</string>
+    <string name="my_drones_registered_with_exclamation_mark">已註冊！</string>
+    <string name="my_drones_registration">註冊...</string>
+    <string name="my_drones_registration_has_failed">註冊失敗</string>
+    <string name="my_drones_searching_for_drones">搜索無人機...</string>
+    <string name="my_flights_battery_used">{0} %</string>
+    <string name="my_flights_captures_content_description">捕獲</string>
+    <string name="my_flights_crashes">{0,choice,0#無任何墜機|1#一次墜機|1&lt;{0}墜機}</string>
+    <string name="my_flights_crashes_content_description">碰撞</string>
+    <string name="my_flights_date_content_description">日期</string>
+    <string name="my_flights_details_gps_unavailable">GPS不可用</string>
+    <string name="my_flights_details_graphics_altitude_title">高度（米）</string>
+    <string name="my_flights_details_graphics_battery_title">電池電量 (%)</string>
+    <string name="my_flights_details_graphics_high_jump">高跳</string>
+    <string name="my_flights_details_graphics_jump_title">跳躍</string>
+    <string name="my_flights_details_graphics_long_jump">長跳</string>
+    <string name="my_flights_details_graphics_speed_title">速遞（米/秒）</string>
+    <string name="my_flights_details_run_type_private">私人</string>
+    <string name="my_flights_details_run_type_public">公開</string>
+    <string name="my_flights_details_title_gps">GPS</string>
+    <string name="my_flights_details_title_graphics">圖表</string>
+    <string name="my_flights_details_title_medias">媒體</string>
+    <string name="my_flights_details_title_summary">摘要</string>
+    <string name="my_flights_duration_content_description">持續時間</string>
+    <string name="my_flights_load_more_flights">載入其他飛行</string>
+    <string name="my_flights_signin">請連接至Parrot Cloud</string>
+    <string name="my_flights_time_content_description">Time</string>
+    <string name="my_flights_time_hour">%d 小時</string>
+    <string name="my_flights_time_minute">%d 分鐘</string>
+    <string name="my_flights_time_minute_or_second">{0} m {1,choice,0#|1&lt;{1} s}</string>
+    <string name="my_flights_time_second">%d 秒</string>
+    <string name="my_flights_title">我的飛行</string>
+    <string name="my_flights_unknown_value">\???</string>
+    <string name="my_flights_videos_content_description">影片</string>
+    <string name="my_gallery">"我的
+多媒體"</string>
+    <string name="my_last_flight_photo_just_shared_on_google_photos">我最後一次飛行的照片剛剛在Google Photos上分享</string>
+    <string name="my_last_flight_video_just_shared_on_youtube">我最後一次飛行的影片剛剛在YouTube上分享</string>
+    <string name="my_piloting">我的駕駛</string>
+    <string name="my_piloting_altitude">高度</string>
+    <string name="my_piloting_battery_usage">電池使用</string>
+    <string name="my_piloting_delete_run">刪除駕駛</string>
+    <string name="my_piloting_deleting_run">刪除駕駛</string>
+    <string name="my_piloting_gps_path">GPS路線</string>
+    <string name="my_piloting_impossible_to_load_pilotings">無法載入簡介</string>
+    <string name="my_piloting_load_more_pilotings">載入更多簡介</string>
+    <string name="my_piloting_media">媒體</string>
+    <string name="my_piloting_my_flights">我的飛行</string>
+    <string name="my_piloting_myndrones">"我的
+無人機"</string>
+    <string name="my_piloting_no_data_available">無資料可用</string>
+    <string name="my_piloting_no_gps_data_available">無 GPS 資料可用</string>
+    <string name="my_piloting_no_piloting_found">沒有找到簡介</string>
+    <string name="my_piloting_piloting">駕駛</string>
+    <string name="my_piloting_rank">排名</string>
+    <string name="my_piloting_rating">評分</string>
+    <string name="my_piloting_runs_summary">駕駛摘要</string>
+    <string name="my_piloting_send_piloting">傳送驾驶</string>
+    <string name="my_piloting_sending_piloting">正在傳送驾驶</string>
+    <string name="my_piloting_speed">速遞</string>
+    <string name="my_piloting_type">類型</string>
+    <string name="my_piloting_unknown_position">未知位置</string>
+    <string name="my_pilotings">我的簡介</string>
+    <string name="my_pilotings_title">"我的
+簡介"</string>
+    <string name="my_plans">"我的
+計劃"</string>
+    <string name="my_runs_map">我的試驗</string>
+    <string name="navigation">導航</string>
+    <string name="need_update">需要更新</string>
+    <string name="netherlands">荷蘭</string>
+    <string name="network_settings_auto">(自動)</string>
+    <string name="network_settings_drone_reset">無人機重置</string>
+    <string name="network_settings_outdoor">室外</string>
+    <string name="never_ask_me_again">不再詢問</string>
+    <string name="new_">開啓新檔</string>
+    <string name="new_update">新的更新</string>
+    <string name="new_zeland">紐西蘭</string>
+    <string name="next_charge">下次充電</string>
+    <string name="no">否</string>
+    <string name="no_action">無動作</string>
+    <string name="no_connection_message">No connection</string>
+    <string name="no_controller_detected">No controller detected</string>
+    <string name="no_controller_detected_description">You can connect to a controller via wi-fi (Skycontroller), USB cable (Skycontroller 2) or Bluetooth (Flypad and others).</string>
+    <string name="no_drone_detected">未探測到任何無人機</string>
+    <string name="no_drones">無無人機</string>
+    <string name="no_message">否</string>
+    <string name="no_permission_granted">未授予權限</string>
+    <string name="no_remotes">無手柄</string>
+    <string name="no_result_map">沒有結果</string>
+    <string name="no_settings_available">沒有可用的設置</string>
+    <string name="no_update_found">沒有新的更新</string>
+    <string name="no_user_authenticated_map">沒有用戶經過身份驗證</string>
+    <string name="no_user_registered">沒有用戶註冊</string>
+    <string name="number_of_flights">飛行次數</string>
+    <string name="off_red_led_state">關閉</string>
+    <string name="ok">確定</string>
+    <string name="ok_alert_message">確定</string>
+    <string name="ok_param_button">確定</string>
+    <string name="on_red_led_state">開啟</string>
+    <string name="ondulation">波動</string>
+    <string name="ondulation_led_animation">波動</string>
+    <string name="open">開啟</string>
+    <string name="open_flight_plan">解開</string>
+    <string name="overheat_reached_">溫度過高！</string>
+    <string name="password">密碼</string>
+    <string name="password__1s">密碼：%1$s</string>
+    <string name="pause">暫停</string>
+    <string name="permission_denied">許可被拒絕</string>
+    <string name="permission_explanation_camera">以啟動see-Through視頻</string>
+    <string name="permission_explanation_camera_minidrone">記錄您與Parrot minidrone的美好時光</string>
+    <string name="permission_location">我們需獲得定位許可以尋找您的無人機。無該許可應用程式則無法使用！</string>
+    <string name="permission_location_denied">我們必須獲得定位許可以尋找您的無人機。請在下列對話框中進行授權</string>
+    <string name="permission_location_denied_permanently">我們需獲得定位許以找尋您的無人機。請在下列螢幕中勾選授權，重新啟用定位。</string>
+    <string name="permission_location_needed">Access your location</string>
+    <string name="permission_need">我們需要如下許可：</string>
+    <string name="permission_request">獲取許可</string>
+    <string name="permission_save_video">將視頻保存至SD卡</string>
+    <string name="permission_storage">我們需進入設備的記憶體以保存您無人機的照片。</string>
+    <string name="permission_storage_academy">我們需進入設備的記憶體以保存您從Parrot Cloud下載的飛行記錄。</string>
+    <string name="permission_use_camera">使用相機並保存視頻</string>
+    <string name="philippines">菲律賓</string>
+    <string name="photoLibrary_privacy_mini">存儲飛行時的照片</string>
+    <string name="photo_mode">照相模式</string>
+    <string name="photo_popup_title">照片</string>
+    <string name="photo_unread_many">您想要傳輸最後一次飛行時拍攝的%d照片嗎？</string>
+    <string name="photo_unread_one">您想要傳輸最近一次飛行時拍攝的照片嗎？</string>
+    <string name="photos_map">圖片</string>
+    <string name="pilot_map">飛行員</string>
+    <string name="piloting">操控</string>
+    <string name="piloting_alert_connection_list">連接丟失，重新聯繫……</string>
+    <string name="piloting_alert_max_distance">最大警報距離</string>
+    <string name="piloting_cd_altitude">高度</string>
+    <string name="piloting_cd_battery_level">電池電量</string>
+    <string name="piloting_cd_distance">距離</string>
+    <string name="piloting_cd_duration">持續時間</string>
+    <string name="piloting_cd_emergency">緊急情況</string>
+    <string name="piloting_cd_flat_trim">Flat trim</string>
+    <string name="piloting_cd_not_connected">未連接</string>
+    <string name="piloting_cd_photo">相片</string>
+    <string name="piloting_cd_posture">姿勢</string>
+    <string name="piloting_cd_record">錄製</string>
+    <string name="piloting_cd_return_home">Return Home</string>
+    <string name="piloting_cd_settings">設置</string>
+    <string name="piloting_cd_speed">速度</string>
+    <string name="piloting_cd_stop">停止</string>
+    <string name="piloting_cd_take_off">起飛</string>
+    <string name="piloting_gps_version">GPS</string>
+    <string name="piloting_has_been_sent_to_your_email">驾驶已傳送到您的電子郵件</string>
+    <string name="piloting_remote_required">需用遙控器操控無人機。</string>
+    <string name="piloting_settings">駕駛設置</string>
+    <string name="piloting_settings_accessory_type">配件</string>
+    <string name="piloting_settings_accessory_type_hull">機身</string>
+    <string name="piloting_settings_accessory_type_hydrofoil">水翼</string>
+    <string name="piloting_settings_accessory_type_none">無</string>
+    <string name="piloting_settings_accessory_type_truck_wheels">卡車輪</string>
+    <string name="piloting_settings_accessory_type_unconfigured">配件未配置</string>
+    <string name="piloting_settings_accessory_type_unknown">未知配件</string>
+    <string name="piloting_settings_accessory_type_wheels">輪子</string>
+    <string name="piloting_settings_application_software_version">FreeFlight軟體版本</string>
+    <string name="piloting_settings_bank_turn">傾斜轉彎</string>
+    <string name="piloting_settings_calibration">校準</string>
+    <string name="piloting_settings_camera">錄影機</string>
+    <string name="piloting_settings_camera_autorecord">自動錄製</string>
+    <string name="piloting_settings_camera_directions">"相機：
+方向"</string>
+    <string name="piloting_settings_cd_help">協助</string>
+    <string name="piloting_settings_circling_altitude">懸停高度</string>
+    <string name="piloting_settings_circling_direction">懸停方向</string>
+    <string name="piloting_settings_circling_direction_clockwise">順時針</string>
+    <string name="piloting_settings_circling_direction_counter_clockwise">逆時針</string>
+    <string name="piloting_settings_circling_radius">懸停範圍</string>
+    <string name="piloting_settings_close">近</string>
+    <string name="piloting_settings_controller">控制器</string>
+    <string name="piloting_settings_cut_out">切斷</string>
+    <string name="piloting_settings_distance_max_enable">物理限制</string>
+    <string name="piloting_settings_drone">無人機</string>
+    <string name="piloting_settings_far">遠</string>
+    <string name="piloting_settings_fast">快速</string>
+    <string name="piloting_settings_flat_trim">水準修正</string>
+    <string name="piloting_settings_fpv">FPV</string>
+    <string name="piloting_settings_fpv_auto_launch">自動啟動</string>
+    <string name="piloting_settings_fpv_description">第一人稱視角</string>
+    <string name="piloting_settings_fpv_drone">無人機視野</string>
+    <string name="piloting_settings_fpv_eyes_spacing">雙眼間距</string>
+    <string name="piloting_settings_fpv_glasses">FPV頭盔</string>
+    <string name="piloting_settings_fpv_mode">模式</string>
+    <string name="piloting_settings_fpv_see_through">透視</string>
+    <string name="piloting_settings_fpv_state">狀態</string>
+    <string name="piloting_settings_gps_signal">GPS信號</string>
+    <string name="piloting_settings_gyroscope">感測器</string>
+    <string name="piloting_settings_gyroscope_description_jog_settings">"陀螺儀：
+方向"</string>
+    <string name="piloting_settings_gyroscope_directions">陀螺儀：方向</string>
+    <string name="piloting_settings_gyroscope_speed_and_directions">"陀螺儀：
+速度和方向"</string>
+    <string name="piloting_settings_high">高跳</string>
+    <string name="piloting_settings_home_position">起點位置</string>
+    <string name="piloting_settings_hydrofoil_pool_size">容器尺寸</string>
+    <string name="piloting_settings_hydrofoil_speed">水翼式速度</string>
+    <string name="piloting_settings_infos">信息</string>
+    <string name="piloting_settings_infos_descritpion">版本</string>
+    <string name="piloting_settings_jog_directions">"JOG：
+方向"</string>
+    <string name="piloting_settings_jog_elevation_rotation">"JOG：
+升高和翻轉"</string>
+    <string name="piloting_settings_jog_swipe">"控制：
+快速基準"</string>
+    <string name="piloting_settings_low">低</string>
+    <string name="piloting_settings_max_altitude">最大高度</string>
+    <string name="piloting_settings_max_distance">最大距離</string>
+    <string name="piloting_settings_max_inclination_speed">最大傾斜速度</string>
+    <string name="piloting_settings_max_pitch">最大高度</string>
+    <string name="piloting_settings_max_pitch_speed">最大傾斜速度</string>
+    <string name="piloting_settings_max_rotation_speed">"最大旋轉
+速度"</string>
+    <string name="piloting_settings_max_tilt">最大傾斜度</string>
+    <string name="piloting_settings_max_vertical_speed">"最大垂直
+速度"</string>
+    <string name="piloting_settings_min_altitude">最低高度</string>
+    <string name="piloting_settings_minidrone_hardware_version">硬體版本</string>
+    <string name="piloting_settings_minidrone_software_version">軟體版本</string>
+    <string name="piloting_settings_network">網路</string>
+    <string name="piloting_settings_network_2_4">2.4 GHz</string>
+    <string name="piloting_settings_network_5">5 GHz</string>
+    <string name="piloting_settings_network_all">全部</string>
+    <string name="piloting_settings_network_band">Band</string>
+    <string name="piloting_settings_network_description">網路設置</string>
+    <string name="piloting_settings_network_hint">您的密碼須包含至少8個字元。</string>
+    <string name="piloting_settings_network_localisation">定位</string>
+    <string name="piloting_settings_network_manual">手動</string>
+    <string name="piloting_settings_network_network_name">網路名稱</string>
+    <string name="piloting_settings_network_security">安全</string>
+    <string name="piloting_settings_network_security_deactivated">輸入密碼以啟動WPA2安全狀態。</string>
+    <string name="piloting_settings_network_security_desc">"在修改密碼或關閉WPA2安全狀態之後，您的無人機必須重新啟動。
+下次登陸時需輸入新的密碼。"</string>
+    <string name="piloting_settings_network_security_reboot">在修改密碼或關閉WPA2安全狀態之後，無人機必須重新開機。</string>
+    <string name="piloting_settings_normal">普通</string>
+    <string name="piloting_settings_outdoor">室外</string>
+    <string name="piloting_settings_piloting">檢驗</string>
+    <string name="piloting_settings_piloting_description">檢驗參數</string>
+    <string name="piloting_settings_piloting_type">駕駛模式</string>
+    <string name="piloting_settings_piloting_type_ace">高手</string>
+    <string name="piloting_settings_piloting_type_joypad">手柄</string>
+    <string name="piloting_settings_piloting_type_normal">普通</string>
+    <string name="piloting_settings_pitch_mode">俯仰模式</string>
+    <string name="piloting_settings_pitch_mode_inverted">倒轉</string>
+    <string name="piloting_settings_pitch_mode_normal">普通</string>
+    <string name="piloting_settings_position">位置</string>
+    <string name="piloting_settings_position_description">速度設置</string>
+    <string name="piloting_settings_position_title">位置，距離和邊界</string>
+    <string name="piloting_settings_return_home_delay">"返回時間
+斷開連接之後"</string>
+    <string name="piloting_settings_return_home_drone">"返回起點
+（無人機選擇）"</string>
+    <string name="piloting_settings_return_home_first_fix">首次修理</string>
+    <string name="piloting_settings_return_home_pilot_position">飛行員位置</string>
+    <string name="piloting_settings_return_home_take_off_position">起飛點</string>
+    <string name="piloting_settings_return_home_user">"返回起點
+（操作者選擇）"</string>
+    <string name="piloting_settings_slider_direction">"SLIDER：
+方向"</string>
+    <string name="piloting_settings_slider_speed">"SLIDER：
+速度"</string>
+    <string name="piloting_settings_slow">慢速</string>
+    <string name="piloting_settings_unknown_application_version">未知版本</string>
+    <string name="piloting_settings_unused_value">未使用</string>
+    <string name="piloting_settings_very_close">過近</string>
+    <string name="piloting_settings_very_far">過遠</string>
+    <string name="piloting_settings_very_fast">過快</string>
+    <string name="piloting_settings_very_high">過高</string>
+    <string name="piloting_settings_very_low">過低</string>
+    <string name="piloting_settings_very_slow">過慢</string>
+    <string name="piloting_shake_drone_start">拋出無人機以起動。</string>
+    <string name="piloting_shake_drone_take_off">開啟您的無人機準備起飛</string>
+    <string name="pilotings_profile">駕駛</string>
+    <string name="pitch">傾角</string>
+    <string name="pitot_tube">皮託管</string>
+    <string name="place_map">地點</string>
+    <string name="plan_already_exist">「%s」已經存在</string>
+    <string name="plan_not_saved">計劃未儲存</string>
+    <string name="plan_not_saved_warning">計劃未儲存</string>
+    <string name="plan_replace">您想替換它？</string>
+    <string name="please_allow_pairing">請檢查通知欄並允許藍牙配對請求</string>
+    <string name="please_check_the_email_format">請檢查電子郵件的格式</string>
+    <string name="please_connect_to_internet">請連接到互聯網</string>
+    <string name="please_connect_to_internet_message">請連入網路</string>
+    <string name="please_connect_your_device_to_internet_to_preload_the_flight_plan_background_map">請將您的裝置連接網際網路，預先加載飛行計劃背景地圖。</string>
+    <string name="please_connect_your_drone">請連入您的無人機</string>
+    <string name="please_create_a_channel_on_youtube">請在http://www.youtube.com 上創建一個頻道</string>
+    <string name="please_enter_your_email_address_to_activate_your_drone">請輸入郵件地址以啟動您的無人機</string>
+    <string name="please_free_up_storage_space_on_your_device_to_make_download">要進行下載，請釋放您設備上的磁盤空間</string>
+    <string name="please_put_the_drone_on_a_flat_surface">請將無人機置於平坦表面上</string>
+    <string name="please_switch_off_and_switch_on_again_your_bluetooth_to_restart_it">請關閉然後重新開啟藍牙，以進行重啟</string>
+    <string name="please_switch_to_indoor_settings">請切換到室內設置</string>
+    <string name="please_switch_to_outdoor_settings">請切換到室外設置</string>
+    <string name="please_wait_while_the_drone_lands">請稍候，無人機正在降落⋯⋯</string>
+    <string name="poi">興趣點</string>
+    <string name="poi_types_map">POI類型</string>
+    <string name="poland">波蘭</string>
+    <string name="pool_size">池大小</string>
+    <string name="portugal">葡萄牙</string>
+    <string name="posture_action_name">姿勢</string>
+    <string name="posture_param_name">姿勢</string>
+    <string name="preload_a_section_of_the_world_map_for_offline_use">預加載基本地圖，用於離線使用。</string>
+    <string name="preload_cancel_button_text">取消</string>
+    <string name="preload_text_button">預先載入</string>
+    <string name="preloader_status_text_canceled">已取消</string>
+    <string name="preloader_status_text_preloading">預先載入中⋯⋯</string>
+    <string name="preloader_status_text_preloading_failed">預先載入失敗。</string>
+    <string name="preloader_status_text_preloading_in_progress">預先載入中⋯⋯</string>
+    <string name="preloader_status_text_preloading_successful">預先載入已完成。</string>
+    <string name="preloader_status_text_ready">待命中</string>
+    <string name="preloading_help_text">在駕駛時如想查看同步顯示無人機位置的地圖，請預先載入地圖背景，這樣即使在無連線狀況下也可顯示地圖。請將下圖的中央對準您將使用無人機的地點，然後按一下「預先載入」按鈕。</string>
+    <string name="processing_update">正在更新</string>
+    <string name="product_choice">產品選擇</string>
+    <string name="product_name">產品名稱</string>
+    <string name="product_type">產品類型</string>
+    <string name="product_up_to_date">設備已更新</string>
+    <string name="profile_address">地址</string>
+    <string name="profile_biography">簡介</string>
+    <string name="profile_birthday">生日</string>
+    <string name="profile_city">城市</string>
+    <string name="profile_country">國家</string>
+    <string name="profile_creation">創建個人帳戶</string>
+    <string name="profile_edit">編輯</string>
+    <string name="profile_edit_academy_error">本頁面暫時無法訪問。請稍後再試</string>
+    <string name="profile_edit_avatar_bad_picture">無法選中此圖像</string>
+    <string name="profile_edit_canceling">取消</string>
+    <string name="profile_edit_connect_account">Connect帳戶</string>
+    <string name="profile_edit_delete_account_button">刪除帳戶</string>
+    <string name="profile_edit_delete_account_description">通過刪除您的帳戶，所有的簡介數據和表現都將丟失</string>
+    <string name="profile_edit_delete_account_question">您想刪除您的帳戶？</string>
+    <string name="profile_edit_invalid_email">電子郵件無效</string>
+    <string name="profile_edit_invalid_website">網站無效</string>
+    <string name="profile_edit_loading">加載中...</string>
+    <string name="profile_edit_register">記錄您的資料</string>
+    <string name="profile_edit_registration_success">您的資料已更新</string>
+    <string name="profile_edit_registration_title">註冊</string>
+    <string name="profile_edit_save">保存</string>
+    <string name="profile_edit_sharing">請為您的駕駛選擇默認共用設置。如果您選擇了公開，您所有的操控將可直接在Parrot Cloud中看到。</string>
+    <string name="profile_edit_sharing_private">私人</string>
+    <string name="profile_edit_sharing_public">公開</string>
+    <string name="profile_edit_title">編輯個人資料</string>
+    <string name="profile_email">電子郵件地址</string>
+    <string name="profile_facebook">Facebook</string>
+    <string name="profile_first_name">名</string>
+    <string name="profile_gcu">"自由飛行3應用程序
+
+
+1. 法律聲明
+
+ 2. 自由飛行3應用程序（及其以後最新版本）由派諾特 SA發佈.派諾特 SA依據法國法律成立，是一個擁有合併資本1,934,920.57歐元的公司，其總部位於法國巴黎174-178, quai de Jemmapes（75015），其巴黎貿易註冊所的註冊編號為394 149 496。
+
+
+使用條款
+
+自由飛行3應用程序（及其今後版本）允許您對AR 無人機和AR 無人機3進行試駕，拍照，製作視頻，共享內容和通過AR 無人機學會參與駕駛論壇。
+
+使用條款的認可
+AR自由飛行3程序的使用及訪問要求用戶接受其使用條款。若您不同意現有的使用條款，我們將要求您放棄對程序的咨詢、瀏覽或使用我們的服務。
+
+將隨時修改使用條款。已修改的使用條款在我們網站或程序上發佈后生效。我們建議您定期檢閱。此外，特殊程序和條件須適用于內容、產品、材料、服務或派諾特或第三方網點、程序裡所包含的特殊信息。此類特殊條件應附加于使用條款之上，或在定義明確的情況下取代使用條款。
+
+派諾特保留在未事先通知的情況下，隨時對本程序內容或界面作出替換或更新的權利，並保留出於任何原因對本程序進行移除或限制對其訪問的所有權利。
+
+使用政策.
+當您使用本程序駕駛AR 無人機時，您同意遵守以下規則：
+.仔細閱讀AR 無人機提供的用戶指南。
+.使用時確保隨時對AR 無人機進行可視化操縱，以避免設備與人、動物或財物發生接觸。
+.AR 無人機在某些公共場所（如機場、火車站等）或公路上不允許使用。請確保AR 無人機在您的範圍內可以使用。
+.使用AR 無人機時請尊重個人的肖像權和私隱權。
+.當在強烈磁場、無線電波或強輻射範圍內使用，AR 無人機的攝像頭將不能準確地處理視頻數據流。一旦沙子或塵埃進入AR 無人機，尤其是攝像頭，將造成永久性損壞。
+.請勿在惡劣的氣象條件（大雨、強風、暴雪）之下或是低照明條件下（夜晚）使用AR 無人機。
+. 使用時請遠離高壓線、樹木、高樓或其他潛在的危險範圍。
+. 避免在WIFI、網絡信號強烈的環境內(路由器、網絡設備)使用AR 無人機。微弱的WIFI網絡即可增進AR 無人機的使用性能。
+.請勿將本程序用作任何非法或未經允許的用途。跨國用戶需同意遵守當地無人飛機駕駛和在線內容發佈的相關法律。
+.您不得發佈含有煽動仇恨或暴力、威脅、色情、裸露或不正當暴力等內容。
+.您不得出於不正當、非法、惡意的或歧視性目的使用本程序和/或AR 無人機。
+
+創建AR 無人機學會賬戶
+.您可創建一個AR 無人機學會賬戶（以下簡稱賬戶），以便更好地利用AR 無人機學會的服務（簡稱服務）如記錄您的飛行信息（數據、位置、圖片和視頻）、與社區用戶共享圖片和視頻等。
+1．所有您創建賬戶時提供的信息必須準確，同時您須同意更新您的註冊數據，以便保持其精確性和完整性。
+2．所有與您賬戶有關的郵件應發送至與您提供的郵箱地址。
+3．我們有權拒絕任何賬戶創建的請求。
+4．您須同意派諾特儲存和使用您的註冊數據以對您的賬戶進行管理。
+5．在未獲得他人批准的情況下您不得創建自己以外的賬戶。
+6．您須對您的密碼和其他賬戶信息保密並不向任何人透露，以避免您的賬戶被不正當使用。
+7．您須對您賬戶的機密性和安全性和所有您賬戶的運行操作負責，一旦發現來自您賬戶的安全威脅，您須立即通知派諾特。
+8．若您違背使用條件，使用您的賬戶向第三方透露您的賬戶信息，若我們認為您的賬戶受到懷疑，您的賬戶和/或對服務的使用將被暫停或刪除。
+9．我們對您的賬戶未經批准的使用不負責任。
+
+尊重私隱
+通過本程序和服務完成的個人數據搜集和處理是在遵循私隱政策和數據保護法的基礎上進行的。我們建議您咨詢我們的私隱政策以便了解更多詳情。
+
+知識財產——商標——版權
+您的原創內容
+派諾特對您在本程序和/或服務上發佈的圖片、視頻、聲頻、文本或其他內容（簡稱內容）不作任何知識產權聲明。此類內容應作為您的知識財產。當您在本程序的服務器上發佈內容，您即同意向派諾特授予在全球範圍內免費地享有非獨佔地使用、修改、改編、刪除、增加、代理、展示、複製、散佈和翻譯您共享在服務器上的內容的權利，派諾特可以通過任何形式、任何媒體共享您的部分或所有內容，除非這些內容不能在公開共享和不能散佈至其他服務器上。
+
+您可篩選您原創內容的訪客。若您在社交網站和在其他用戶可以訪問的在線服務及應用程序上共享了您的內容，任何參與您共享的用戶都可訪問。當您允許其他用戶訪問您的內容，您即授予他們非獨佔、免除費用地使用、複製、散佈、展示、傳播您的內容的權利。
+
+若您允許本程序記錄您的圖片及視頻的位置，請注意，向社交網站、派諾特和第三方在線程序和服務等共享您的內容將帶來向他們和其他方洩露信息位置的風險。當您使用本程序功能下載內容並與Facebook、Youtube、Twitter或其他在線服務共享時，您可以進行設置，刪除所共享內容的定位信息。我們建議您在使用與共享您的內容前進一步了解並熟悉這些在線服務和程序的政策、條件和保密性設置。
+
+您須對您儲存在本程序和/或服務上的內容副本負責。若該服務被替換或取消，您的數據和/或內容將被永久性刪除。一旦該服務被替換或取消，我們將無義務向您歸還您的數據和/或內容。已被刪除的數據和/或內容不可被回復。派諾特對任何服務的修改、替換、中斷或您的內容的損失不負任何責任。
+
+派諾特內容
+派諾特以及派諾特 AR 無人機的名字和標誌都是派諾特 SA公司的註冊商標。派諾特的產品、服務和復件都受知識產權和工業產權的保護，包括商標、版權、模型和專利。派諾特網站和應用程序的版權和知識產權（包括模型、設計、圖片、文本、音頻、視頻和圖表）都是並應作為派諾特 SA公司的專屬財產，或應遵循許可協議進行使用。所有其他的商標和標誌都是並應作為其各自所有者的財產。
+
+保證條款
+您須在此聲明(i)您是您在本服務上發佈內容的知識產權的法定所有人，您有足夠權限授權予本條款並保證對內容的使用不違背任何法規；(ii)通過服務對您的內容進行的展示、使用和共享不妨礙版權、知識產權、其他財產權、公共權力或第三方私隱權。
+
+我們可以出於任何原因拒絕您內容的發佈。我們可以出於任何原因隨時從服務上刪除您的內容，尤其是在以下情況下：(i)您違背本協議；(ii)該內容不符合文件大小及容量的要求；(iii)我們取消或替換了該服務。
+
+您應保證派諾特免受來自第三方對任何權利的違背行為的傷害，如任何關於內容的聲明或異議，尤其是免受來自第三方在使用您的內容時發生的侵權行為和/或不正當競爭和/或搭便車行為，授權協議須將此原則貫徹始終。若第三方需要在與派諾特立場相對的情況下就關於您的內容實施任何法律程序，您須同意承擔一切可能由此帶來的破壞，也應賠償派諾特因相關程序遭受的損失和費用。
+
+責任限制
+為促進本程序和服務的開發，派諾特已謹慎保持所提供信息的準確性、精密性和完整性，無論派諾特還是其分公司都不應對不正確的信息負有任何責任。所有內容都視其可用性而酌情提供。派諾特不需作出任何保證、說明，包括但不限於保證所有產品和服務都具備有效性、暢銷性並符合某一特定目的，可以在不侵犯第三方權利的情況下進行使用，也不對本程序的相關運行或其內容作任何保證。在此我們向所有用戶聲明，您所發送的信息有可能被第三方攔截。派諾特不保證向本程序和其服務提供訪問途徑的程序或服務或是派諾特發送的電子通信不受病毒或其他破壞性因素影響。
+
+派諾特和/或其子公司在任何情況下絕不對任何間接或意外的破壞、由關於使用或由於使用產生的道德偏見、本程序、服務或其內容的使用失效等負任何責任，儘管在被事先告知這些破壞可能發生的情況下亦不負責任何用戶的起訴必須在破壞產生即日起一年內提出。這些條件符合法國法律的條款，隨時適用。
+
+本程序和服務將包含其他不受派諾特 SA公司控制的網站或程序的鏈接。提供這些鏈接旨在緩解導航的壓力。派諾特 SA和其子公司在任何情況下都不對這些鏈接通往的網站功能和內容負責。派諾特 SA和其子公司在此聲明不保證其內容和功能的準確性、合法性、可靠性或有效性。另外，派諾特 SA及其子公司都不建議用戶訪問這些網站。您對這些網站的咨詢與我們無關。
+
+聯繫
+如對使用條件有任何疑问，请通過電郵形式發送到以下地址：http://www.parrot.com，點擊菜單內“郵件聯繫我們”的按鈕。
+
+3．私隱政策
+
+適用範疇：派諾特尊重所有用戶的私隱權。我們的私隱政策旨在說明我們如何搜集、使用和保護您的個人數據。
+
+個人數據：即所有可以用於確定個人身份、潛在客戶、原有客戶或是直接或間接的聯繫方式的數據。
+
+可識別的非個人數據：即所有不可用於鑒定個人身份，但可以在您對網站和程序的導覽過程中被搜集的數據。
+
+息搜集：我們將搜集以下信息：(i)您在我們網站和/或程序的促銷活動、訂購簡訊和/或服務、創建賬戶、關於產品和服務的信息請求、尋求技術幫助及展示的請求時進行的問卷調查所提供的所有可識別的個人數據如姓氏和名字、年齡、性別、郵箱地址、電郵地址、電話號碼、人口學和社會行為學數據；(ii)非個人信息如在您導覽我們網站和程序時所用的瀏覽器類型、語言、日期、時間和使用時長、瀏覽過的網頁、瀏覽過的視頻或圖片數目等等。此類數據可被以可識別或統計的形式保存（如此一來，個人身份則不可辨認）。當可識別的非個人信息數據與個人數據有所聯繫，我們將以對待個人數據的方式對待，並保留其鏈接。您可以本程序設置中拒絕可識別的非個人信息搜集。
+
+信息使用：派諾特將使用您的個人和可識別的非個人信息。
+1.在www.parrotpartners.com、www.certified.parrot.com 、www.parrotoem.com 、www.parrotcorp.com 、www.parrot.com和其他派諾特創建的所有網站上驗證您的註冊；
+2.在派諾特發佈的手機程序上驗證您的註冊；
+3.您的產品購買記錄；
+4.邀請您加入遊戲、比賽或製圖；
+5.邀請您參與我們產品或服務的調查；
+ 6.邀請您試驗我們的新產品；
+7.向您發送關於我們產品和服務的簡訊或信息；
+8.開發和試驗新產品；
+9.增進客戶關係，特別是售後服務；
+10.幫助我們提供產品和服務的信息；
+ 11.提升產品和服務水平並進行統計分析。
+
+派諾特不得將您的個人信息作商業用途，尤其是作商業租借，不得向非子公司轉讓此類信息。
+
+信息轉讓：派諾特集團內的公司之間可以在全世界範圍內透露和使用個人信息，如有需要，將進行授權。我們只會向集團外以我們名義處理個人信息的簽約服務供應商透露個人信息。當我們向其透露信息時，我們保證按照合同所述採取適當的手段維護信息的機密性。
+
+ 
+
+個人權利：用戶可以利用其權利訪問、改正或刪除其個人信息，或隨時撤回其同意的內容。進行此類操作，可以根據特定正在瀏覽的網站或被cookie拒絕訪問的技術問題通過書面形式發送至webmastersparrot.com，或contactsparrotpartners.com，聯繫市場部
+
+遵循個人數據保護法：派諾特通過其網站和程序搜集的所有個人信息將按照歐洲的個人信息保護標準和其他適用的、隨時可作修改的地方法律法規進行使用和處理。
+
+地理位置定位：派諾特將搜集、使用和共享特定的位置數據，包括您計算機、智能手機或AR 無人機裡的實時地位數據，以便提供與其產品和服務有關的定位服務。此類定位數據以不能識別您身份的方式匿名搜集，用於提供派諾特產品和服務，並提高其質量。
+
+Cookie：Cookie是可以在您計算機硬盤內儲存信息的文本文件，如IP地址和可以幫助我們辨認您的瀏覽器以致優化您的導航的運行系統。Cookie不包含任何個人數據。瀏覽器可以設置提醒人們接收cookie，如此一來，人們就可以選擇是否接受cookie。
+
+其他網站的鏈接：派諾特網站將包含其他不受派諾特控制的網站的鏈接，這些網站也不在私隱政策的範疇內。若用戶使用這些鏈接訪問其他網站，這些網站的操作者將處於其個人目的，依據他們的私隱政策搜集用戶的個人數據。
+
+安全性：派諾特保障其信息系統的安全性，以保護其收發的個人數據，並採取必要的措施避免向未經許可者洩露個人數據。
+
+私隱政策修改：派諾特保留隨時更新和修改政策的權利，以便將任何法律的改變或其他進展予納入考慮範疇。任何私隱政策的變更將會連同最近更新日期在本頁發佈。
+
+
+
+
+© 派諾特 SA. 版權所有. 
+ 
+更新于2012年6月"</string>
+    <string name="profile_general_infos">一般資訊</string>
+    <string name="profile_google_plus">Google +</string>
+    <string name="profile_last_name">姓</string>
+    <string name="profile_logout">登出</string>
+    <string name="profile_phone">電話號碼</string>
+    <string name="profile_postal_code">郵政信箱</string>
+    <string name="profile_psn">PSN</string>
+    <string name="profile_status">狀態</string>
+    <string name="profile_steam">Steam</string>
+    <string name="profile_tab_about">關於</string>
+    <string name="profile_tab_my_infos">我的資料</string>
+    <string name="profile_title">簡介</string>
+    <string name="profile_twitter">Twitter</string>
+    <string name="profile_web_contacts">網路連絡人</string>
+    <string name="profile_website">網站</string>
+    <string name="profile_xbox_live">Xbox Live</string>
+    <string name="profile_youtube">Youtube</string>
+    <string name="propeller_safety_cutout_triggered">螺旋槳為了安全而自動停止</string>
+    <string name="qatar">卡達</string>
+    <string name="radius">半徑</string>
+    <string name="radius_param_name">半徑</string>
+    <string name="rate">評分</string>
+    <string name="rate_now">立即評分</string>
+    <string name="ready_to_update">準備更新</string>
+    <string name="receiving_drone_information">連接到該無人機……</string>
+    <string name="receiving_file_step">"接受
+文件"</string>
+    <string name="record_action_name">錄製</string>
+    <string name="record_has_been_auto_stopped">錄製已自動停止</string>
+    <string name="record_state_value_off">關閉</string>
+    <string name="record_state_value_on">開啟</string>
+    <string name="recording_param_name">錄製</string>
+    <string name="recording_settings">儲存模式</string>
+    <string name="red_action_name">紅色</string>
+    <string name="red_led_side_param_name">（兩）側</string>
+    <string name="refuse">拒絕</string>
+    <string name="register_me">新用戶註冊</string>
+    <string name="regular">常速</string>
+    <string name="remind_me_later">稍後提醒我</string>
+    <string name="remote_control_reset">重啟手柄</string>
+    <string name="remote_control_upload_failed_retry">發送檔至手柄失敗。您希望重試嗎？</string>
+    <string name="rename">重命名</string>
+    <string name="rename_my_drone">重命名我的無人機</string>
+    <string name="rename_road_plan">重命名計劃</string>
+    <string name="rename_script_popup_cancel_button">取消</string>
+    <string name="rename_script_popup_rename_button">重命名</string>
+    <string name="renamed">%s已重命名</string>
+    <string name="replace">更換</string>
+    <string name="requires_a_charger_with_a_minimum_intensity_of_1f_a_and_a_minimum_power_of_1f_w" formatted="false">需要最低強度為 %.1f A 且最低功率為 %.1f W 的充電器。</string>
+    <string name="reset">重置</string>
+    <string name="reset_camera">重設相機</string>
+    <string name="restart_drone">重啟無人機</string>
+    <string name="restore_in_app_purchase">恢復應用程式內購買商品</string>
+    <string name="restore_in_app_purchase_button_text">恢復</string>
+    <string name="retry">重試</string>
+    <string name="return_delay_if_connection_is_lost">若連線斷開，則返回延遲 (秒)</string>
+    <string name="return_position_of_the_bebop">返回 Bebop 的位置</string>
+    <string name="return_to_homepage">返回首頁</string>
+    <string name="return_to_starting_point">Return Home</string>
+    <string name="right_side_green_led_choise">右側</string>
+    <string name="right_side_red_led_choice">右側</string>
+    <string name="road_plan_script_thumbnail_delete_button">刪除</string>
+    <string name="road_plan_script_thumbnail_unknown_duration">N/A</string>
+    <string name="roadnplan">"路線
+計劃"</string>
+    <string name="robot">機器人</string>
+    <string name="roll">橫滾</string>
+    <string name="roll_stabilization">轉動防抖</string>
+    <string name="rolling__spider_version_too_old_message" formatted="false">您的%s是舊版，請在下頁查找可用的更新 %s</string>
+    <string name="romania">羅馬尼亞</string>
+    <string name="rotate">轉</string>
+    <string name="russia">俄羅斯</string>
+    <string name="saudi_arabia">沙烏地阿拉伯</string>
+    <string name="save_your_current_plan">要儲存您目前的飛行計劃嗎？</string>
+    <string name="saved_flight_plans">已儲存的計劃</string>
+    <string name="saved_plan">保存的地圖</string>
+    <string name="saved_plan_no">否</string>
+    <string name="saved_plan_yes">是</string>
+    <string name="saved_road_plans">已儲存的路線計劃</string>
+    <string name="saving_flight_plan">擬定飛行計劃</string>
+    <string name="scanning">搜尋</string>
+    <string name="sd_card">SD卡</string>
+    <string name="search_map">搜尋</string>
+    <string name="searching_map">正在搜索...</string>
+    <string name="second_unit">s</string>
+    <string name="see_details_last_drone_data">查看詳細資料</string>
+    <string name="see_my_flight_statistics">查看我的飛行數據</string>
+    <string name="see_my_piloting_statistics">查看我的駕駛數據</string>
+    <string name="select_country">選擇國家</string>
+    <string name="select_medias_to_make_a_movie_with_replay">選擇媒體，利用 REPLAY（重播）功能製作影片</string>
+    <string name="select_product_to_update">請選擇更新產品</string>
+    <string name="select_your_category">選擇類別</string>
+    <string name="send_alert_message">發送</string>
+    <string name="sending_all_settings">發送所有設置……</string>
+    <string name="sending_all_states">發送所有狀態……</string>
+    <string name="sending_current_date">發送當前日期……</string>
+    <string name="sending_current_time">發送當前時間……</string>
+    <string name="sending_file">發送文件</string>
+    <string name="sending_flight_plan">發送飛行計劃</string>
+    <string name="sensibility">靈敏度</string>
+    <string name="sensor_alert_GPS">GPS 感應器故障警示</string>
+    <string name="sensor_alert_IMU">慣性測量單元感應器故障警示</string>
+    <string name="sensor_alert_barometer">氣壓計感應器故障警示</string>
+    <string name="sensor_alert_magnetometer">磁力計感應器故障警示</string>
+    <string name="sensor_alert_ultrasound">超聲波感應器故障警示</string>
+    <string name="sensor_alert_vertical_camera">垂直相機故障</string>
+    <string name="serial_number">序號</string>
+    <string name="settings">設定</string>
+    <string name="share">共享</string>
+    <string name="share_item_selected">已選1項目</string>
+    <string name="share_items_selected">已選%d項目</string>
+    <string name="sharing_setting">共用設定</string>
+    <string name="sharing_your_photo_on_facebook">分享您的照片到Facebook</string>
+    <string name="sign_in_profile">登入</string>
+    <string name="singapore">新加坡</string>
+    <string name="skip">跳過</string>
+    <string name="skycontroller2_calibration_explanation_text">請圍繞三個軸線旋轉您的SkyController 2（如動畫所示）</string>
+    <string name="skycontroller_calibration_explanation_text">請在三軸上旋轉 SkyController (如圖所示)</string>
+    <string name="skycontroller_connected">已連線</string>
+    <string name="skycontroller_no_visible_wifi_networks">沒有可見的 Wi-Fi 網路</string>
+    <string name="skycontroller_password">密碼</string>
+    <string name="skycontroller_please_enable_wifi">請啓動WiFi連線功能</string>
+    <string name="skycontroller_refresh">重新載入</string>
+    <string name="skycontroller_settings">SkyController 參數</string>
+    <string name="skycontroller_settings_back">返回</string>
+    <string name="skycontroller_title">SkyController</string>
+    <string name="skycontroller_wifi_saved">已儲存</string>
+    <string name="skycontroller_wifi_secured">已有安全保護</string>
+    <string name="slalom">迴旋</string>
+    <string name="slalom_animation">迴旋</string>
+    <string name="slovakia">斯洛伐克</string>
+    <string name="slovenia">斯洛維尼亞</string>
+    <string name="slow">慢速</string>
+    <string name="slow_shake">慢搖</string>
+    <string name="slow_shake_animation">慢搖</string>
+    <string name="social_network__photo_" formatted="false">%s 照片： %s</string>
+    <string name="social_network_bebop">比波普</string>
+    <string name="social_network_cancel">取消</string>
+    <string name="social_network_invalid_login_or_password">無效的登錄名或密碼</string>
+    <string name="social_network_jumping_sumo">跳躍相撲手</string>
+    <string name="social_network_loading_albums">載入相簿...</string>
+    <string name="social_network_login">登錄</string>
+    <string name="social_network_login_and_password_need_to_be_filled">需要填補登錄名和密碼</string>
+    <string name="social_network_no_permission_granted">未授予權限</string>
+    <string name="social_network_no_user_registered">沒有用戶註冊</string>
+    <string name="social_network_ok">確定</string>
+    <string name="social_network_password">密碼</string>
+    <string name="social_network_rolling_spider">滾動蜘蛛</string>
+    <string name="social_network_select_your_album">選擇您的相冊</string>
+    <string name="social_network_sharing_your_video_on_facebook">分享您的影片到Facebook</string>
+    <string name="social_network_uploading_photo">上傳照片中......</string>
+    <string name="social_network_uploading_video">上傳影片中...</string>
+    <string name="social_network_video_" formatted="false">%s 影片： %s</string>
+    <string name="social_networks">社交網絡</string>
+    <string name="software_version">軟體版本</string>
+    <string name="south_africa">南非</string>
+    <string name="spain">西班牙</string>
+    <string name="speak_through">語音通訊</string>
+    <string name="special_characters_are_not_authorized_for_the_drones_nickname">無人機的綽號不能使用特殊字符</string>
+    <string name="speed_action_name">速度</string>
+    <string name="speed_neutral_zone">速度中立區</string>
+    <string name="speed_param_name">速度</string>
+    <string name="spin_animation">旋轉</string>
+    <string name="spin_animation_road_plan">旋轉</string>
+    <string name="spin_jump">旋轉跳</string>
+    <string name="spin_jump_animation">旋轉跳</string>
+    <string name="spin_to_posture">旋轉至姿勢</string>
+    <string name="spiral_animation">螺旋</string>
+    <string name="standing_posture_choice">站立</string>
+    <string name="start_free_trial">試用15天</string>
+    <string name="start_piloting">開始駕駛</string>
+    <string name="starting_flight_plan">啓動飛行計劃</string>
+    <string name="state_led_parm_name">狀態</string>
+    <string name="stay_tuned">隨時獲知最新動態</string>
+    <string name="stay_tuned__an_error_has_occurred_please_try_again">發生錯誤，請重試。</string>
+    <string name="stay_tuned_email_sent">電子郵件已寄出</string>
+    <string name="stay_tuned_ok">確定</string>
+    <string name="stay_tuned_please_check_that_the_email_address_is_in_the_correct_format_">請檢查您的電子郵件格式。</string>
+    <string name="stay_tuned_send">寄出</string>
+    <string name="stay_tuned_yes">是</string>
+    <string name="stay_tuned_your_email_address">您的電子郵件地址</string>
+    <string name="stop_animation_road_plan">停止</string>
+    <string name="straight_action_name">直行</string>
+    <string name="succeeded_alert_message">成功</string>
+    <string name="successfully_shared_your_photo_on_facebook">成功分享您的照片到Facebook</string>
+    <string name="successfully_shared_your_video_on_facebook">成功分享您的影片到Facebook</string>
+    <string name="sweden">瑞典</string>
+    <string name="switch_off">關閉</string>
+    <string name="switzerland">瑞士</string>
+    <string name="sync_data_failed">同步失敗。請檢查您的網路連接。</string>
+    <string name="syncing_data">資料同步……</string>
+    <string name="taiwan">台灣</string>
+    <string name="take_off_landing">起飛/著陸</string>
+    <string name="take_picture_action_name">照相</string>
+    <string name="take_pictures">拍攝照片</string>
+    <string name="taking_off_with_an_uncalibrated_drone_can_lead_to_an_unpredictable_behaviour_do_you_really_want_to_take_off">Taking off with an uncalibrated drone can lead to an unpredictable behaviour. Do you really want to take off?</string>
+    <string name="tap__animation">敲擊</string>
+    <string name="tap_animation">點擊</string>
+    <string name="temperature_error">溫度錯誤</string>
+    <string name="thailand">泰國</string>
+    <string name="thank_you_enjoy_your_runs">謝謝！您可以大顯神通了！</string>
+    <string name="thank_you_now_its_over_to_you_to_play">謝謝！您可以大顯神通了！</string>
+    <string name="the_application_is_not_authorized_to_use_bluetooth_low_energy">應用程式未授權使用低功耗藍牙</string>
+    <string name="the_current_flight_plan_has_not_been_saved_do_you_really_want">目前的飛行計劃尚未儲存。您真的要</string>
+    <string name="the_drone_is_not_calibrated">"
+- 無人機未校準"</string>
+    <string name="the_drones_speed_will_be_bridled_when_flying_low">"
+- The drone's speed will be bridled when flying low"</string>
+    <string name="the_flight_plan_file_is_corrupted">"
+- FlightPlan 檔案已損毀"</string>
+    <string name="the_skycontroller2_is_calibrated">SkyController 2已校準</string>
+    <string name="the_skycontroller_is_calibrated">SkyController 已校準</string>
+    <string name="the_wifi_connection_is_not_protected">Wi-Fi 連接未受保護</string>
+    <string name="the_wifi_connection_will_not_be_protected">Wi-Fi 連接將不受保護</string>
+    <string name="this_module_requires_the_google_play_services">此模塊需要 Google Play 功能才能運行</string>
+    <string name="this_password_will_be_asked_for_the_next_connection">下次連接時將會詢問本密碼</string>
+    <string name="this_software_update_will_take_more_than_four_hours_using_bluetooth_40_and_wifi_will_be_disabled_but_it_will_take_less_than_one_minute_via_usb_do_you_want_to_continue">使用Bluetooth 4.0進行固件更新需要超過4小時，而且WiFi功能將關閉，使用USB更新則需要不到一分鐘，您要繼續嗎？</string>
+    <string name="this_waypoint_can_not_be_deleted_because">此航點無法被刪除，因為：</string>
+    <string name="tilt_modification_is_impossible">傾斜修改無法進行。</string>
+    <string name="time_in_days">%d 天</string>
+    <string name="time_in_hours">%d 小時</string>
+    <string name="time_in_minutes">%d 分鐘</string>
+    <string name="time_in_seconds">%d 秒</string>
+    <string name="time_unit_in_second">秒</string>
+    <string name="timelapse_mode">慢速拍攝模式</string>
+    <string name="title_for_drones">"自由
+飛行"</string>
+    <string name="title_text">標題</string>
+    <string name="tittle_for_jumping_sumo">"自由
+路線"</string>
+    <string name="to_channel">切換到頻道</string>
+    <string name="to_control_your_drone_please_use">駕駛%s請使用：</string>
+    <string name="to_control_your_drones_please_use">駕駛Minidrones請使用：</string>
+    <string name="to_record_please_plug_a_storage_media_in_your_drone">請把存儲設備接入您的無人機</string>
+    <string name="too_much_angle_alert">角度過大警報</string>
+    <string name="total_flight_time">總飛行時間</string>
+    <string name="total_flight_time_last_drone_data">總飛行時間</string>
+    <string name="transfer">傳輸</string>
+    <string name="transfer_completed">傳輸完成</string>
+    <string name="truck_wheels_accessory">輪子</string>
+    <string name="turkey">土耳其</string>
+    <string name="turn_action_name">轉彎</string>
+    <string name="turn_neutral_zone">旋轉中立區</string>
+    <string name="turn_on_bluetooth">開啟藍牙</string>
+    <string name="twitter">Twitter</string>
+    <string name="type_of_charge">充電類型</string>
+    <string name="unable_to_record_video">無法錄影</string>
+    <string name="unable_to_take_off">"
+- Unable to take off"</string>
+    <string name="unavailable">不可用</string>
+    <string name="unavailable_hur_first_line">頂端雷達不可用，</string>
+    <string name="unavailable_hur_second_line">因為資料缺失</string>
+    <string name="united_arab_emirates">阿拉伯聯合大公國</string>
+    <string name="united_kingdom">英國</string>
+    <string name="united_states">美國</string>
+    <string name="unknown">未知</string>
+    <string name="unnamed_script">未命名腳本</string>
+    <string name="upate_google">Google</string>
+    <string name="update">更新</string>
+    <string name="update_completed">已成功更新</string>
+    <string name="update_connect_remote_controle">請連接您的手柄</string>
+    <string name="update_device">您想更新您的無人機嗎？</string>
+    <string name="update_drone">"您想要更新無人機的版本嗎？
+%1$s -> %2$s"</string>
+    <string name="update_firmware">固件更新</string>
+    <string name="update_found_do_you_want_to_download">發現更新，您是否希望下載？</string>
+    <string name="update_in_progress_">正在更新……</string>
+    <string name="update_mandatory">必要更新</string>
+    <string name="update_profile">更新</string>
+    <string name="update_required">需要更新</string>
+    <string name="update_server_failure">更新伺服器失敗</string>
+    <string name="update_title">更新</string>
+    <string name="updating_runs_mpa">更新試驗</string>
+    <string name="upload_failed_retry">無人機上載檔案失敗。您要重啟嗎？</string>
+    <string name="upwards_jump_not_possible_jump_unavailability_reason">無法跳高</string>
+    <string name="usa_registration_explanation_text">美國境內的無人機擁有者，必須到聯邦航空管理局的無人駕駛飛行器系統（UAS）註冊。2015年12月21日生效的一項聯邦法律要求無人駕駛飛行器註冊，如不註冊將會面臨民事和刑事處罰。</string>
+    <string name="usa_registration_go_to_web_browser">請輕拍下方按鈕離開自由飛行模式並通過網頁流覽器註冊您的無人機（請注意：需聯網）</string>
+    <string name="usa_registration_register">註冊</string>
+    <string name="usa_registration_title">UAS註冊（美國）</string>
+    <string name="usb_key_not_found">找不到 USB 金鑰</string>
+    <string name="use_commas_to_separate_multiple_email_addresses">用逗號分隔多個電郵地址</string>
+    <string name="user_script_animation">用戶腳本</string>
+    <string name="username_or_email_is_already_registered">{0} 已保存</string>
+    <string name="using_joypad_mode_you_can_film_your_drone_while_piloting">使用手柄模式，您可以在駕駛的同時對您的無人機錄影</string>
+    <string name="venezuela">委內瑞拉</string>
+    <string name="ventilate">通風</string>
+    <string name="vertical_sensibility">垂直靈敏度</string>
+    <string name="video_autorecord">自動錄影</string>
+    <string name="video_mode">錄影模式</string>
+    <string name="video_mode_title">視訊模式</string>
+    <string name="video_popup_title">視頻</string>
+    <string name="video_recording_is_busy_please_wait_until_it_is_ready">視頻錄製繁忙，請等待錄製準備就緒</string>
+    <string name="video_settings">影片設置</string>
+    <string name="video_settings_anti_flickering_description">此選項可減少人造光線造成的閃爍。</string>
+    <string name="video_settings_frame_rate">幀率</string>
+    <string name="video_settings_priority">優先</string>
+    <string name="video_settings_priority_2">最大化</string>
+    <string name="video_settings_priority_quality">畫質</string>
+    <string name="video_settings_priority_time">錄影時間</string>
+    <string name="video_settings_record_quality">錄製畫質</string>
+    <string name="video_settings_record_quality_description">使用標準畫質可增加錄製時長。</string>
+    <string name="video_settings_record_quality_high">高</string>
+    <string name="video_settings_record_quality_standard">標準</string>
+    <string name="video_settings_record_resolution">錄製解析度</string>
+    <string name="video_settings_record_resolution_description">使用720p可提高視頻解析度。</string>
+    <string name="video_settings_roll_stabilization_description">如果啟用，天際線在轉彎時將保持直線。</string>
+    <string name="video_settings_short">視頻</string>
+    <string name="video_settings_stream_resolution">流媒體解析度：</string>
+    <string name="video_settings_video_resolution">視頻解析度</string>
+    <string name="video_settings_video_resolution_priority_record">錄製優先</string>
+    <string name="video_settings_video_resolution_priority_stream">流媒體優先</string>
+    <string name="video_stabilization">影片防抖</string>
+    <string name="videos_map">影片</string>
+    <string name="vietnam">越南</string>
+    <string name="wait_action_name">等待</string>
+    <string name="warning">警告</string>
+    <string name="warning__jump_motor_blocked">警告：跳躍馬達已封鎖</string>
+    <string name="warning__jump_motor_overheated">警告：跳躍馬達已過熱</string>
+    <string name="warning_time_line">FlightPlan 不可用</string>
+    <string name="warning_your_media_on_the_drone_will_be_lost_do_you_wish_to_update_your_drone_version">注意：此更新將刪除您保存在無人機中的照片和視頻。確定現在更新嗎？</string>
+    <string name="watch_my_new_video">觀看我在 Parrot %s 上錄製的新視頻</string>
+    <string name="watch_this_photo_taken_from_my_parrot_">看看這張由我的 Parrot %s 拍攝的相片</string>
+    <string name="watch_this_video_taken_from_my_parrot_drone" formatted="false">觀看從我的Parrot %s #%s 上錄製的此視頻</string>
+    <string name="waypoint">航點</string>
+    <string name="weak_gps_signal">"
+- GPS 未固定"</string>
+    <string name="welcome_buy_a_drone">購買一台無人機</string>
+    <string name="welcome_to_drone_academy">歡迎進入Parrot Cloud！</string>
+    <string name="welcome_to_the_world_of_parrot_drones">歡迎使用Parrot無人機！</string>
+    <string name="wifi_band">Wi-Fi無線網路波段</string>
+    <string name="wifi_band_2.4_ghz_last_drone_data">2.4 GHz</string>
+    <string name="wifi_band_5_ghz_last_drone_data">5 GHz</string>
+    <string name="wifi_band_last_drone_data">Wifi 頻帶</string>
+    <string name="wifi_channel">Wi-Fi無線網路頻道</string>
+    <string name="wifi_channel_last_drone_data">Wifi 通道</string>
+    <string name="wifi_manager">WiFi管理員</string>
+    <string name="wifi_settings">Wi-Fi參數</string>
+    <string name="wifi_specify_country">為了配置wi-fi網路，您需要注明國別。</string>
+    <string name="wifi_type">Wi-Fi無線網路類型</string>
+    <string name="with_wpa2_protection_nobody_else_will_be_able_to_connect_your_drone">使用 WPA2 保護，他人將無法連接您的無人機</string>
+    <string name="would_you_like_to_save_the_current_plan_before_creating_a_new_one_creat_new_script">在建立新計劃前，是否要儲存目前計劃？</string>
+    <string name="would_you_like_to_save_the_current_plan_before_loading_a_new_one_load_script">在載入新計劃前，是否要儲存目前計劃？</string>
+    <string name="wpa2">WPA2</string>
+    <string name="wpa2_security">WPA2加密</string>
+    <string name="wpa_password">密碼WPA2</string>
+    <string name="wpa_password_8_chars_min__">WPA 密碼（最少 8 個字元）：</string>
+    <string name="wpa_password_error">"密碼不正確。
+"</string>
+    <string name="wrong_battery_cell_count">電池數目不正確</string>
+    <string name="y_axis_inverted">Y軸反轉</string>
+    <string name="yaw">偏航</string>
+    <string name="yes">是</string>
+    <string name="yes_message">是</string>
+    <string name="you_are_not_authorized_to_switch_to_channel_">您尚未取得切換到頻道的授權</string>
+    <string name="you_have_an_old_version_more_information_chek_web_site" formatted="false">您使用的是舊版 %s。請前往 %s 瞭解更多詳細資訊。</string>
+    <string name="you_have_an_old_version_of_rolling_spider_go_to__for_more_information">您的Rolling Spider是舊版，請用您的電腦瀏覽%s網頁查閱相關資訊。</string>
+    <string name="you_must_be_connected_to_a_bebop_2">您必須與Bebop2連接</string>
+    <string name="you_must_be_connected_to_a_bebop_drone">您必須與Bebop無人機連接</string>
+    <string name="you_must_be_connected_to_a_disco">您必須與Disco連接</string>
+    <string name="you_need_to_connect_a_headset_to_stream_audio">您需要連接耳機以供串流音訊</string>
+    <string name="you_will_need_to_calibrate_your_drone_before_using_this_flight_plan">在使用這飛行計劃前，您必須先校準您的無人機。</string>
+    <string name="your_application_is_to_old_you_have_to_update_it_before_using_your_drone__">您的應用版本過舊！您需要在使用無人機之前進行更新。</string>
+    <string name="your_device_doesnt_support_bluetooth_low_energy">您的設備不支援低功耗藍牙</string>
+    <string name="your_drone_hasnt_been_deleted_successfully_please_try_later">對您的無人機刪除失敗。請稍候再試</string>
+    <string name="your_drone_hasnt_been_renamed_successfully_please_try_later">對您的無人機重命名失敗。請稍候再試</string>
+    <string name="your_drone_needs_an_update_to_support_flight_plan">您的裝置之一需要更新，以支援 FlightPlan</string>
+    <string name="your_drone_needs_an_update_to_support_points_of_interest_and_progressive_courses">您的無人機需升級才能支持興趣點和漸進航線</string>
+    <string name="your_drone_will_restart_to_activate_wpa2_you_will_be_disconnected">您的無人機將重啟以啟用 WPA2。您的裝置即將斷開。</string>
+    <string name="your_drone_will_restart_to_disable_wpa2_you_will_be_disconnected">您的無人機將重啟以停用 WPA2。您的裝置即將斷開。</string>
+    <string name="your_email">您的郵件地址</string>
+    <string name="your_email_is_invalid">您的郵件地址無效</string>
+    <string name="your_friends_email">您朋友的電郵地址</string>
+    <string name="your_invitation_has_been_delivered_with_success">您的邀請已成功發送</string>
+    <string name="youtube">YouTube</string>
+    <string name="youtube_error_time_out">超時</string>
+    <string name="youtube_unknown_error">未知錯誤</string>
+    <string name="unknown_jump_unavailability_reason">.</string>
+</resources>

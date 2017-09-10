@@ -1,0 +1,8 @@
+.class public interface abstract Lcom/parrot/arsdk/arcommands/ARCommandSkyControllerAccessPointSettingsStateWifiSelectionChangedListener;
+.super Ljava/lang/Object;
+.source "ARCommandSkyControllerAccessPointSettingsStateWifiSelectionChangedListener.java"
+
+
+# virtual methods
+.method public abstract onSkyControllerAccessPointSettingsStateWifiSelectionChangedUpdate(Lcom/parrot/arsdk/arcommands/ARCOMMANDS_SKYCONTROLLER_ACCESSPOINTSETTINGSSTATE_WIFISELECTIONCHANGED_TYPE_ENUM;Lcom/parrot/arsdk/arcommands/ARCOMMANDS_SKYCONTROLLER_ACCESSPOINTSETTINGSSTATE_WIFISELECTIONCHANGED_BAND_ENUM;B)V
+.end method

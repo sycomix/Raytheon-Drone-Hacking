@@ -1,0 +1,1755 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="abc_action_bar_home_description">Vai alla home page</string>
+    <string name="abc_action_bar_home_description_format">%1$s, %2$s</string>
+    <string name="abc_action_bar_home_subtitle_description_format">%1$s, %2$s, %3$s</string>
+    <string name="abc_action_bar_up_description">Vai in alto</string>
+    <string name="abc_action_menu_overflow_description">Altre opzioni</string>
+    <string name="abc_action_mode_done">Fine</string>
+    <string name="abc_activity_chooser_view_see_all">Visualizza tutte</string>
+    <string name="abc_activitychooserview_choose_application">"Scegli un'applicazione"</string>
+    <string name="abc_capital_off">OFF</string>
+    <string name="abc_capital_on">ON</string>
+    <string name="abc_search_hint">Cerca…</string>
+    <string name="abc_searchview_description_clear">Cancella query</string>
+    <string name="abc_searchview_description_query">Query di ricerca</string>
+    <string name="abc_searchview_description_search">Cerca</string>
+    <string name="abc_searchview_description_submit">Invia query</string>
+    <string name="abc_searchview_description_voice">Ricerca vocale</string>
+    <string name="abc_shareactionprovider_share_with">Condividi con</string>
+    <string name="abc_shareactionprovider_share_with_application">Condividi con %s</string>
+    <string name="abc_toolbar_collapse_description">Comprimi</string>
+    <string name="common_google_play_services_api_unavailable_text">%1$s richiede uno o più servizi di Google Play che non sono attualmente disponibili. Contatta lo sviluppatore per ricevere assistenza.</string>
+    <string name="common_google_play_services_enable_button">Attiva Google Play Services</string>
+    <string name="common_google_play_services_enable_text">%1$s non funzionerà se non attivi Google Play Services.</string>
+    <string name="common_google_play_services_enable_title">Attiva Google Play Services</string>
+    <string name="common_google_play_services_install_button">Installa Google Play Services</string>
+    <string name="common_google_play_services_install_text_phone">%1$s non funzionerà senza Google Play Services, non presente sul tuo telefono.</string>
+    <string name="common_google_play_services_install_text_tablet">%1$s non funzionerà senza Google Play Services, non presente sul tuo tablet.</string>
+    <string name="common_google_play_services_install_title">Installa Google Play Services</string>
+    <string name="common_google_play_services_invalid_account_text">"L'account specificato non esiste su questo dispositivo. Scegli un altro account."</string>
+    <string name="common_google_play_services_invalid_account_title">Account non valido</string>
+    <string name="common_google_play_services_network_error_text">È necessaria una connessione dati per connettersi a Google Play Services.</string>
+    <string name="common_google_play_services_network_error_title">Errore di rete</string>
+    <string name="common_google_play_services_notification_ticker">Errore Google Play Services</string>
+    <string name="common_google_play_services_restricted_profile_text">"L'accesso agli account da un profilo con limitazioni non è supportato."</string>
+    <string name="common_google_play_services_restricted_profile_title">Profilo con limitazioni</string>
+    <string name="common_google_play_services_sign_in_failed_text">"Errore durante l'accesso all'account specificato. Scegli un altro account."</string>
+    <string name="common_google_play_services_sign_in_failed_title">Accesso non riuscito</string>
+    <string name="common_google_play_services_unknown_issue">%1$s sta riscontrando problemi con Google Play Services. Se il problema persiste, contatta lo sviluppatore per ricevere assistenza.</string>
+    <string name="common_google_play_services_unsupported_text">%1$s si basa su Google Play Services, che non è supportato sul tuo dispositivo. Contatta il produttore per ricevere assistenza.</string>
+    <string name="common_google_play_services_unsupported_title">Google Play Services</string>
+    <string name="common_google_play_services_update_button">Aggiorna</string>
+    <string name="common_google_play_services_update_text">%1$s non funzionerà se non aggiorni Google Play Services.</string>
+    <string name="common_google_play_services_update_title">Aggiorna Google Play Services</string>
+    <string name="common_google_play_services_updating_text">%1$s non funzionerà senza Google Play Services, attualmente in fase di aggiornamento.</string>
+    <string name="common_google_play_services_updating_title">Aggiornamento di Google Play Services</string>
+    <string name="common_google_play_services_wear_update_text">"È richiesta una nuova versione di Google Play Services. L'aggiornamento automatico verrà eseguito a breve."</string>
+    <string name="common_open_on_phone">Apri sul telefono</string>
+    <string name="common_signin_button_text">Accedi</string>
+    <string name="common_signin_button_text_long">Accedi con Google</string>
+    <string name="place_autocomplete_clear_button">Cancella ricerca</string>
+    <string name="place_autocomplete_search_hint">Cerca</string>
+    <string name="status_bar_notification_info_overflow">999+</string>
+    <string name="BluetoothPeripheral_privacy_mini">per pilotare i vostri minidroni e collegare i controllori</string>
+    <string name="BluetoothPeripheral_privacy_pro">per collegare dei controllori Bluetooth</string>
+    <string name="CameraUsage_privacy_mini">per filmare il vostro drone in volo</string>
+    <string name="CameraUsage_privacy_pro">per utilizzare i Cockpitglasses Parrot</string>
+    <string name="Coordiante_last_drone_data">N/D</string>
+    <string name="ME003004">Recupero in corso...</string>
+    <string name="ME003005">Impossibile connettersi al prodotto</string>
+    <string name="ME003006">Impossibile connettersi...</string>
+    <string name="ME003010">Elimina</string>
+    <string name="ME003011">Vuoi eliminare questo supporto?</string>
+    <string name="ME003012">Trasferimento</string>
+    <string name="ME003013">Vuoi trasferire questo supporto?</string>
+    <string name="ME003014">Trasferimento in corso...</string>
+    <string name="ME003018">File</string>
+    <string name="ME003020">Eliminazione in corso...</string>
+    <string name="ME004003">Nessun supporto</string>
+    <string name="PI100003">Allarme emergenza utente</string>
+    <string name="PI100004">Allarme blocco</string>
+    <string name="PI100005">Allarme batteria critica</string>
+    <string name="PI100006">Allarme batteria bassa</string>
+    <string name="PhotoLibrary_privacy_pro">per salvare le foto e i video dei vostri voli</string>
+    <string name="Plan_cd_edit">Modifica</string>
+    <string name="Plan_cd_folder">Dossier</string>
+    <string name="Plan_cd_go_back">Ritornare</string>
+    <string name="Plan_cd_invalidate">Invalidare</string>
+    <string name="Plan_cd_location">Localizzazione</string>
+    <string name="Plan_cd_play">Riproduzione</string>
+    <string name="Plan_cd_speed">Velocità</string>
+    <string name="Plan_cd_stop">Stop</string>
+    <string name="Plan_cd_switch_view_type">Cambiare la vista</string>
+    <string name="Plan_cd_timeline">Timeline</string>
+    <string name="Plan_cd_undo">Annulla</string>
+    <string name="Plan_cd_validate">Conferma</string>
+    <string name="a_axis">Asse A</string>
+    <string name="a_new_plan">un nuovo piano?</string>
+    <string name="abort">Annulla</string>
+    <string name="about">Informazioni su</string>
+    <string name="about_enter_email">Inserisci la tua e-mail</string>
+    <string name="about_enter_valid_email">Si prega di inserire un indirizzo e-mail valido</string>
+    <string name="about_information">Informazioni su</string>
+    <string name="about_legal_mentions">Note legali</string>
+    <string name="about_legal_mentions_accept">Accetto</string>
+    <string name="about_legal_mentions_refuse">Rifiuto</string>
+    <string name="about_share_data_title">Accetto di fornire i miei dati</string>
+    <string name="about_title">Informazioni su</string>
+    <string name="academy_error_already_registered">%s è già registrato</string>
+    <string name="academy_error_cannot_reset_password">"L'account associato a questo indirizzo e-mail non può resettare la password."</string>
+    <string name="academy_error_connection">"Connessione internet
+non disponibile"</string>
+    <string name="academy_error_email_not_associated">Questo indirizzo e-mail non è associato ad alcun account.</string>
+    <string name="academy_error_empty_fields">Il login e la password devono essere indicati</string>
+    <string name="academy_error_generic">"C'è un errore, riprova"</string>
+    <string name="academy_error_invalid">%s non è valido</string>
+    <string name="academy_error_required">%s è obbligatorio</string>
+    <string name="academy_error_too_long">%s è troppo lungo</string>
+    <string name="academy_login_connection">Connessione</string>
+    <string name="academy_login_description">Creare un conto per accedere alle statistiche avanzate sul pilotaggio e condividerle con la community.</string>
+    <string name="academy_login_error_auth">Errore di login o password</string>
+    <string name="academy_login_error_dialog_title">Login non riuscito</string>
+    <string name="academy_login_forgotten_password">Penso di avere dimenticato la password</string>
+    <string name="academy_login_not_signed_up">Non ancora registrato?</string>
+    <string name="academy_login_password">Password</string>
+    <string name="academy_login_remember_me">Restare connessi</string>
+    <string name="academy_login_sign_up">Iscriviti ora</string>
+    <string name="academy_login_title">Login</string>
+    <string name="academy_login_username">Username</string>
+    <string name="academy_map">Carta Parrot Cloud</string>
+    <string name="academy_profile_cd_adress">Indirizzo</string>
+    <string name="academy_profile_cd_biography">Biografia</string>
+    <string name="academy_profile_cd_birthday">Data di nascita</string>
+    <string name="academy_profile_cd_city">Città</string>
+    <string name="academy_profile_cd_country">Paese</string>
+    <string name="academy_profile_cd_crash">Crash</string>
+    <string name="academy_profile_cd_drone">Drone</string>
+    <string name="academy_profile_cd_email">e-mail</string>
+    <string name="academy_profile_cd_facebook">Facebook</string>
+    <string name="academy_profile_cd_firstname">Nome</string>
+    <string name="academy_profile_cd_google_plus">Google +</string>
+    <string name="academy_profile_cd_lastname">Cognome</string>
+    <string name="academy_profile_cd_name">Cognome</string>
+    <string name="academy_profile_cd_phone">Telefono</string>
+    <string name="academy_profile_cd_pilotings">Pilotaggi</string>
+    <string name="academy_profile_cd_psn">PSN</string>
+    <string name="academy_profile_cd_save">Salva</string>
+    <string name="academy_profile_cd_status">Status</string>
+    <string name="academy_profile_cd_steam">Steam</string>
+    <string name="academy_profile_cd_time">Tempi</string>
+    <string name="academy_profile_cd_twitter">Twitter</string>
+    <string name="academy_profile_cd_website">Sito web</string>
+    <string name="academy_profile_cd_xbox_live">Xbox Live</string>
+    <string name="academy_profile_cd_youtube">YouTube</string>
+    <string name="academy_profile_time_hms">%1$d h %2$d m %3$d s</string>
+    <string name="academy_profile_time_ms">%1$d m %2$d s</string>
+    <string name="academy_profile_time_s">%d s</string>
+    <string name="academy_retrieve_password_dialog_title">Recuperare la password</string>
+    <string name="academy_retrieve_password_email_hint">Indirizzo e-mail</string>
+    <string name="academy_retrieve_password_error_cannot_reset_password">"L'account associato a questo indirizzo e-mail non può resettare la password."</string>
+    <string name="academy_retrieve_password_error_email">Indirizzo e-mail</string>
+    <string name="academy_retrieve_password_error_email_invalid">E-mail non valida</string>
+    <string name="academy_retrieve_password_error_email_not_associated">Questo indirizzo e-mail non è associato ad alcun account.</string>
+    <string name="academy_retrieve_password_error_password">Password</string>
+    <string name="academy_retrieve_password_error_something_is_already_registered">{0} è già registrato</string>
+    <string name="academy_retrieve_password_error_something_is_invalid">{0} è valido</string>
+    <string name="academy_retrieve_password_error_something_is_required">{0} è richiesto</string>
+    <string name="academy_retrieve_password_error_something_is_too_long">{0} è troppo lungo</string>
+    <string name="academy_retrieve_password_error_username">Username</string>
+    <string name="academy_retrieve_password_success">È stata inviata al tuo indirizzo una e-mail contenente la password.</string>
+    <string name="academy_sign_up_agree_info">Accetto di ricevere informazioni sui prodotti e servizi Parrot via e-mail, SMS o per corrispondenza</string>
+    <string name="academy_sign_up_agree_terms">Accetto le Condizioni generali di utilizzo</string>
+    <string name="academy_sign_up_confirm_password">Conferma password</string>
+    <string name="academy_sign_up_default_error">"Lo username o l'e-mail sono già registrati"</string>
+    <string name="academy_sign_up_email">e-mail</string>
+    <string name="academy_sign_up_error_email">E-mail non valida</string>
+    <string name="academy_sign_up_error_failure">La registrazione è fallita</string>
+    <string name="academy_sign_up_error_login">I caratteri speciali non sono autorizzati per il login</string>
+    <string name="academy_sign_up_error_passwords">Le password non sono identiche</string>
+    <string name="academy_sign_up_error_terms">Accettare le Condizioni generali di utilizzo</string>
+    <string name="academy_sign_up_register">Registra il tuo profilo</string>
+    <string name="academy_signup_title">Registrarsi</string>
+    <string name="accept">Accetto</string>
+    <string name="accessory_choose_accessory_title">"Scegliere l'accessorio"</string>
+    <string name="accessory_configuration_question">Qual è la tua configurazione?</string>
+    <string name="accessory_no_hull">Senza carena</string>
+    <string name="accessory_selection">Scelta degli accessori</string>
+    <string name="ace_piloting">Pilotaggio esperto</string>
+    <string name="activate">Attiva</string>
+    <string name="activate_your_account_now">Attiva ora il tuo account</string>
+    <string name="activate_your_drone_now">Attiva il tuo drone!</string>
+    <string name="add_a_new_drone">Aggiungi un nuovo drone</string>
+    <string name="add_current">Aggiungi la mappa attuale</string>
+    <string name="alert_battery_level">Livello di batteria insufficiente per completare l’aggiornamento</string>
+    <string name="all_map">Tutto</string>
+    <string name="all_runs_map">Tutti i tragitti</string>
+    <string name="all_side_green_led_choise">Tutto</string>
+    <string name="all_side_red_led_choice">Tutto</string>
+    <string name="an_unknown_error_occured">"
+- Si è verificato un errore"</string>
+    <string name="angle_param_name">Angolo</string>
+    <string name="animation_action_name">Animazione</string>
+    <string name="animation_param_name">Animazione</string>
+    <string name="antiflickering_auto">Auto</string>
+    <string name="antiflickering_mode">Antiflickering mode</string>
+    <string name="applying_new_configuration">Applicazione della nuova configurazione in corso...</string>
+    <string name="are_you_sure">Sei sicuro/a?</string>
+    <string name="are_you_sure_you_want_to_delete_me_">Si desidera veramente eliminarmi?</string>
+    <string name="are_you_sure_you_want_to_delete_this_run_">Si desidera veramente eliminare questo pilotaggio?</string>
+    <string name="are_you_sure_you_want_to_delete_your_account">"Si desidera veramente eliminare l'account?"</string>
+    <string name="are_you_sure_you_want_to_disable_the_wpa2_protection_someone_else_might_be_able_to_connect_to_your_drone">Se disattivi la protezione WPA2, qualcun altro potrebbe connettersi al tuo drone</string>
+    <string name="argentina">Argentina</string>
+    <string name="ask_checking_for_updates">Controlla gli aggiornamenti</string>
+    <string name="ask_drone_reboot">Vuoi riavviare il drone? Verrai disconnesso.</string>
+    <string name="ask_for_rating">"La tua opinione è importante per noi.
+Se ti piace FreeFlight 3, potresti valutarlo?
+Ci vorrà solo un minuto.
+Grazie!"</string>
+    <string name="ask_uploading_last_files_from_flight">"Caricare l'ultima foto o video realizzati durante il volo?"</string>
+    <string name="ask_uploading_last_files_from_ride">"Caricare l'ultima foto o video realizzati durante il percorso?"</string>
+    <string name="ask_uploading_last_pictures_from_flight">"Caricare l'ultima foto scattata durante il volo?"</string>
+    <string name="audio_settings_default">Predefinito</string>
+    <string name="australia">Australia</string>
+    <string name="austria">Austria</string>
+    <string name="auto">Auto</string>
+    <string name="available_drones">Selezionare un drone</string>
+    <string name="awaiting_response_from_the_drone">In attesa di risposta da parte del drone...</string>
+    <string name="banked_turn">Curva inclinata</string>
+    <string name="battery_info_charge_characteristics" formatted="false">Caratteristiche della ricarica: %.1f A - %.1f W.</string>
+    <string name="battery_info_charged">Carico</string>
+    <string name="battery_info_charging">In carica</string>
+    <string name="battery_info_current_charge">Carica attuale</string>
+    <string name="battery_info_discharging">Scarico</string>
+    <string name="battery_info_estimated_charge_time">Tempo di carica completa previsto:</string>
+    <string name="battery_info_last_charge">Ultima carica</string>
+    <string name="battery_info_rate_fast">Rapida</string>
+    <string name="battery_info_rate_moderate">Limitata</string>
+    <string name="battery_info_rate_slow">Lenta</string>
+    <string name="battery_info_rate_unknown">Sconosciuta</string>
+    <string name="battery_too_low_to_record">Livello batteria insufficiente per registrare</string>
+    <string name="battery_voltage_out_of_bounds">tensione batteria errata</string>
+    <string name="be_sure_that_bluethooth_is_turned_on">Assicurarsi che il Bluetooth sia attivato</string>
+    <string name="be_sure_that_your_drone_is_turned_on">Assicurarsi che il drone sia acceso</string>
+    <string name="be_sure_to_be_connected_to_your_drone_wifi_network">Connettersi alla rete wi-fi del drone</string>
+    <string name="beebop_version_too_old_message">La versione del %s è troppo vecchia, verificare gli aggiornamenti disponibili</string>
+    <string name="belgium">Belgio</string>
+    <string name="black_list_bebop">Il prodotto necessita di un aggiornamento</string>
+    <string name="black_list_jumping_sumo">Per motivi di sicurezza, prima di pilotarlo dovrai aggiornare il tuo %s.</string>
+    <string name="black_list_remotes">Il prodotto necessita di un aggiornamento</string>
+    <string name="black_list_rolling_spider" formatted="false">Per motivi di sicurezza, prima di pilotarlo dovrai aggiornare il tuo %s. Per ulteriori informazioni, passa a %s.</string>
+    <string name="boost">Boost</string>
+    <string name="bootloader_error">errore di bootloader</string>
+    <string name="brazil">Brasile</string>
+    <string name="brightness_param">Luminosità</string>
+    <string name="bulgaria">Bulgaria</string>
+    <string name="buy">Acquista</string>
+    <string name="buy_a_drone">"Acquista
+un drone"</string>
+    <string name="buy_a_minidrone">Acquistare un minidrone</string>
+    <string name="calibration_calibrate">Calibra</string>
+    <string name="calibration_description">"Stai per calibrare il drone. Questa rapida operazione ti consentirà di effettuare voli all'esterno."</string>
+    <string name="calibration_error">Si è verificato un problema!!</string>
+    <string name="calibration_j1">Calibratura J1</string>
+    <string name="calibration_j2">Calibratura J2</string>
+    <string name="calibration_land">Atterraggio</string>
+    <string name="calibration_landing">Atterraggio</string>
+    <string name="calibration_landing_drone">Aspettare mentre il drone atterra...</string>
+    <string name="calibration_message_dialog">"Per volare all'esterno, è necessario calibrare il drone."</string>
+    <string name="calibration_need_landing">"Stai per calibrare il drone. Questa rapida operazione ti consentirà di effettuare voli all'esterno.
+Per eseguire la calibratura, dovrai tenere in mano il drone. Devi pertanto farlo atterrare oppure rimandare la calibratura a più tardi."</string>
+    <string name="calibration_needed">"Calibrazione
+necessaria"</string>
+    <string name="calibration_pitot_tube_title">Mantenere il drone in posizione verticale durante 5 secondi</string>
+    <string name="calibration_success">Calibratura terminata!</string>
+    <string name="calibration_title_dialog">Calibrare il drone</string>
+    <string name="calibration_waiting_for_drone">In attesa del drone…</string>
+    <string name="calibration_x_axis">Asse X (Roll)</string>
+    <string name="calibration_x_axis_procedure">"Ruota il drone attorno all'asse x (come indicato nell'animazione)"</string>
+    <string name="calibration_y_axis">Asse Y (Pitch)</string>
+    <string name="calibration_y_axis_procedure">"Ruota il drone attorno all'asse y (come indicato nell'animazione)"</string>
+    <string name="calibration_z_axis">Asse Z (Yaw)</string>
+    <string name="calibration_z_axis_procedure">"Ruota il drone attorno all'asse z (come indicato nell'animazione)"</string>
+    <string name="camera_is_busy_please_retry_later">Telecamera non disponibile, riprovare più tardi</string>
+    <string name="camera_pan">Panoramica telecamera</string>
+    <string name="camera_settings_cd_aperture">Apertura</string>
+    <string name="camera_settings_cd_frame_rate">Frequenza delle immagini</string>
+    <string name="camera_settings_cd_mode">modalità di regolazione della telecamera</string>
+    <string name="camera_settings_cd_recording_mode">Modalità di registrazione</string>
+    <string name="camera_settings_cd_recording_time">Tempo di registrazione</string>
+    <string name="camera_settings_cd_shutter_speed">shutter speed</string>
+    <string name="camera_settings_cd_white_balance">Bilanciamento dei bianchi</string>
+    <string name="camera_tilt">Inclinazione telecamera</string>
+    <string name="canada">Canada</string>
+    <string name="cancel">Annulla</string>
+    <string name="cancel_alert_message">Annulla</string>
+    <string name="cant_take_picture">Impossibile scattare una foto</string>
+    <string name="cardboard_drone_disconnected">Drone disconnesso</string>
+    <string name="cardboard_drone_landing">Atterraggio</string>
+    <string name="cardboard_emergency">"Atterraggio d'emergenza"</string>
+    <string name="cardboard_loiter">Loiter</string>
+    <string name="cardboard_no_recording">No registrazione</string>
+    <string name="cardboard_taking_off">Decollo</string>
+    <string name="cardboard_throw_your_drone">Avviare il drone</string>
+    <string name="center_map_on_your_current_location">Centra sulla tua posizione</string>
+    <string name="change_channel">Cambio canale</string>
+    <string name="change_password">Modificare la password</string>
+    <string name="channel">Channel</string>
+    <string name="charge_settings_title">Impostazioni di carica</string>
+    <string name="check_for_updates">Controlla gli aggiornamenti</string>
+    <string name="checking_version">Test della versione</string>
+    <string name="china">Cina</string>
+    <string name="circling_settings">Impostazioni volteggio</string>
+    <string name="circular_landing">Atterraggio circolare</string>
+    <string name="ckycontroller_b_button">Pulsante B</string>
+    <string name="close">Chiudere</string>
+    <string name="configure">Configura</string>
+    <string name="confirmation_error">errore di asserzione</string>
+    <string name="connect">Connetti</string>
+    <string name="connect_headset">Collegare le cuffie</string>
+    <string name="connect_to">Si prega di connettere il dispositivo a %1$s</string>
+    <string name="connect_to_drone">Connettersi a un drone</string>
+    <string name="connect_to_internet">Collegati ad internet</string>
+    <string name="connect_to_remote_control">Connettersi a un controllo remoto</string>
+    <string name="connect_to_your_drone">Collegati al tuo drone</string>
+    <string name="connect_with_facebook">Collegati con Facebook</string>
+    <string name="connect_your_remote_contoller">Connetti il joystick</string>
+    <string name="connected_to_controller">Connesso a un altro controller</string>
+    <string name="connected_to_flypad">Connesso a un Flypad</string>
+    <string name="connecting">Connessione in corso</string>
+    <string name="connecting_in_progress">Connessione in corso...</string>
+    <string name="connecting_to_wifi_popin">Connessione in corso...</string>
+    <string name="connection_has_failed_profile_creation">Connessione non riuscita</string>
+    <string name="connection_state_connected">Connesso</string>
+    <string name="connection_state_connecting">Connessione in corso...</string>
+    <string name="connection_state_disconnecting">Disconnessione in corso...</string>
+    <string name="connection_state_impossible_to_connect">Connessione impossibile</string>
+    <string name="connection_to_wifi_popin_failed">Connessione non riuscita</string>
+    <string name="continue_message">Continuare</string>
+    <string name="controller_calibration_needed">Necessaria calibratura</string>
+    <string name="controller_calibration_ok">Calibratura OK</string>
+    <string name="controller_channel_error">Per effettuare un cambio di canale WI-FI il drone deve essere fermo</string>
+    <string name="controller_channel_warning">Cambiare il canale WI-FI disconnette il drone</string>
+    <string name="controller_hardware">(Hardware: %s)</string>
+    <string name="controller_mapping">Modificare la mappatura</string>
+    <string name="controller_settings">Controller</string>
+    <string name="controller_settings_short_title">Controller</string>
+    <string name="controller_version">Versione %s</string>
+    <string name="copiloting_mode_disabled">Modalità di co-pilotaggio disattivata</string>
+    <string name="copiloting_mode_engaged">Modalità di co-pilotaggio attivata</string>
+    <string name="copy_plan_button_text">Duplica</string>
+    <string name="crach_academy_profile">%d incidente</string>
+    <string name="craches_in_plurall_academy_profile">%d incidenti</string>
+    <string name="create">Creare</string>
+    <string name="create_an_academy_account_to_access_advanced_stats_about_your_pilotings_and_to_share_them_with_the_community">Creare un conto Parrot Cloud per accedere alle statistiche avanzate sui pilotaggi e condividerle con la community </string>
+    <string name="croatia">Croazia</string>
+    <string name="current_channel">Current Channel</string>
+    <string name="current_version">Versione attuale</string>
+    <string name="curve">Curva</string>
+    <string name="cyprus">Cipro</string>
+    <string name="czech_republic">Repubblica Ceca</string>
+    <string name="data_collection_cancel">Annulla</string>
+    <string name="default_value">Valore predefinito</string>
+    <string name="degree_per_second_unit">°/s</string>
+    <string name="degree_unit">°</string>
+    <string name="delete">Elimina</string>
+    <string name="delete_file">Eliminazione dei file</string>
+    <string name="delete_file_confirm">Sei sicuro di voler cancellare questi file?</string>
+    <string name="delete_file_singular_confirm">Do you really want to delete this file?</string>
+    <string name="delete_many_item">Elimina</string>
+    <string name="delete_param_button">Elimina</string>
+    <string name="delete_plural_files_confirm">Eliminare definitivamente questo file?</string>
+    <string name="delete_script_popup_cancel_button">Annulla</string>
+    <string name="delete_script_popup_delete_button">Elimina</string>
+    <string name="delete_single_file">Eliminazione del file</string>
+    <string name="delete_this_flight_plan">Eliminare questo piano di volo?</string>
+    <string name="delete_this_plan">Eliminare questa mappa?</string>
+    <string name="delete_this_road_plan">Eliminare questa mappa?</string>
+    <string name="denmark">Danimarca</string>
+    <string name="details_on_the_last_connected_drone">"Dettagli sull'ultimo drone connesso"</string>
+    <string name="device_internal_memory">Memoria interna</string>
+    <string name="direct_pairing_connect_now">Connettersi subito</string>
+    <string name="direct_pairing_direct_connection_message">"Una connessione diretta tra il drone e il controller aumenta
+la distanza massima. Disconnessione dallo smartphone."</string>
+    <string name="direct_pairing_direct_connection_to_controller">Connessione diretta a un controller</string>
+    <string name="direction_of_rotation">Direzione della rotazione</string>
+    <string name="director_mode">"Director
+mode"</string>
+    <string name="disable_wpa2">Disattiva WPA2</string>
+    <string name="disabled">Disattivato</string>
+    <string name="discover_parrot_drones">"Scopri i
+droni Parrot"</string>
+    <string name="dismiss">Annulla</string>
+    <string name="distance_param_name">Distanza</string>
+    <string name="do_you_want_to_change_the_channel">Vuoi passare dal canale</string>
+    <string name="do_you_want_to_connect_the_skycontroller_to">Connettere lo SkyController a</string>
+    <string name="do_you_want_to_exit">Uscire?</string>
+    <string name="do_you_want_to_exit_the_piloting_interface">"Uscire dall'interfaccia di pilotaggio?"</string>
+    <string name="do_you_wish_to_modify_your_wpa2_password_or_deactivate_wpa2_security_">Modificare la password WPA2 o disattivare la protezione WPA2?</string>
+    <string name="do_you_wish_to_share_your_photo_on_facebook_">Vuoi condividere la tua foto su Facebook?</string>
+    <string name="do_you_wish_to_share_your_video_on_facebook_">Vuoi condividere il tuo video su Facebook?</string>
+    <string name="do_you_wish_to_update_your_drone_version">Vuoi aggiornare la versione del drone?</string>
+    <string name="do_you_wish_to_update_your_remote_control">Vuoi aggiornare il joystick?</string>
+    <string name="doesnt_support_your_android_device">non supporta il tuo dispositivo Android</string>
+    <string name="download">Download</string>
+    <string name="download_failed_retry">Download del file non riuscito. Vuoi riavviarlo?</string>
+    <string name="download_firmwares_step">Download firmware</string>
+    <string name="download_latest_firmware">Vuoi scaricare gli ultimi aggiornamenti firmware per i MiniDroni Parrot?</string>
+    <string name="download_latest_firmware_devices">Vuoi scaricare gli ultimi aggiornamenti?</string>
+    <string name="drag_an_action_here">"Trascina qui un'azione"</string>
+    <string name="drone_academy">Parrot Cloud</string>
+    <string name="drone_academy_parrot__minidrones_minidrone_mini_drone_rolling_spider_rollingspider_parrot_rolling_spider_drone_academy_parrot_academy_freeflight3">Droneacademy, Parrot, MiniDrones, MiniDrone, Mini Drone, Rolling Spider, RollingSpider, Parrot Rolling Spider, Drone Academy, Parrot Academy, FreeFlight3</string>
+    <string name="drone_academy_parrot_bebop_drone_bebop_parrot_bebop_drone_drone_academy_parrot_academy_freeflight3">Droneacademy, Parrot, Bebop Drone, Bebop, Parrot Bebop Drone, Drone Academy, Parrot Academy, FreeFlight3</string>
+    <string name="drone_academy_parrot_minidrones_minidrone_mini_drone_jumping_sumo_parrot_jumping_sumo_jumpingsumo_drone_academy_parrot_academy_freeflight3">Droneacademy, Parrot, MiniDrones, MiniDrone, Mini Drone, Jumping Sumo, Parrot Jumping Sumo, JumpingSumo, Drone Academy, Parrot Academy, FreeFlight3</string>
+    <string name="drone_academy_profile">%d drone</string>
+    <string name="drone_activated">Attivazione del drone</string>
+    <string name="drone_calibration_required">È necessario calibrare il drone!</string>
+    <string name="drone_initialization">Inizializzazione drone</string>
+    <string name="drone_memory_deselect_all">Deselect All</string>
+    <string name="drone_memory_full">Memoria piena</string>
+    <string name="drone_memory_select_all">Select All</string>
+    <string name="drone_message_cancel">Annulla</string>
+    <string name="drone_message_ok">OK</string>
+    <string name="drone_message_warning">Attenzione</string>
+    <string name="drone_renamed">Drone rinominato</string>
+    <string name="drone_reset">Reset drone</string>
+    <string name="drone_school">Tutorial</string>
+    <string name="drone_store">Acquisti per il drone</string>
+    <string name="drone_up_to_date">Il drone è aggiornato</string>
+    <string name="dronenacademy">"Parrot
+Cloud"</string>
+    <string name="drones_in_plural_academy_profile">%d droni</string>
+    <string name="drones_profile">droni</string>
+    <string name="duration_param_name">Durata</string>
+    <string name="duration_time_line">Durata:</string>
+    <string name="edit">Modifica</string>
+    <string name="edit_country_none">None</string>
+    <string name="email">e-mail</string>
+    <string name="emergency_stop">"arresto d'emergenza"</string>
+    <string name="enable_wpa2">Attiva WPA2</string>
+    <string name="enabled">Attivato</string>
+    <string name="error">Errore</string>
+    <string name="error__flight_plan">Errore</string>
+    <string name="error_sending_flight_plan_please_try_again">Errore di invio piano di volo, riprovare.</string>
+    <string name="estonia">Estonia</string>
+    <string name="exit">Uscire</string>
+    <string name="exponential">Esponenziale</string>
+    <string name="facebook">Facebook</string>
+    <string name="failed_to_access_memory">accesso alla memoria non riuscito</string>
+    <string name="failed_to_communicate_with_motor">comunicazione con il motore non riuscita</string>
+    <string name="failed_to_send_piloting_to_your_email">Non è stato possibile inviare il pilotaggio alla tua e-mail</string>
+    <string name="failed_to_start_video">Impossibile avviare il video</string>
+    <string name="failed_to_stop_video">Impossibile interrompere il video</string>
+    <string name="fast">Rapida</string>
+    <string name="feet_per_second_unit">ft/s</string>
+    <string name="feet_unit">ft</string>
+    <string name="file_enum" formatted="false">%d di %d</string>
+    <string name="files_transferred_do_you_want_to_delete_the_original_files_">file trasferito/i. Desideri cancellare il/i file originale/i?</string>
+    <string name="film_my_drone">"Riprendere 
+il mio drone"</string>
+    <string name="film_plan">Flight Plan</string>
+    <string name="finishing_file_transfer_please_wait">Fine trasferimento...attendere...</string>
+    <string name="finland">Finlandia</string>
+    <string name="firmware">Firmware</string>
+    <string name="firmware_update_will_take_2_hours_with_bluetooth_40_it_will_take_less_than_one_minute_by_usb_do_you_want_to_continue">L’aggiornamento del firmware richiede 2 ore con Bluetooth 4.0, mentre impiega meno di un minuto tramite USB. Desideri continuare?</string>
+    <string name="firmware_update_will_take_35_minutes_with_bluetooth_40_it_will_take_less_than_one_minute_by_usb_do_you_want_to_continue_">"L'aggiornamento del firmware richiede 35 minuti con Bluetooth 4.0,
+mentre impiega meno di un minuto tramite USB.
+Vuoi continuare?"</string>
+    <string name="flight_limits_settings">Impostazione dei limiti di volo</string>
+    <string name="flight_plan_alert_title">Flight Plan</string>
+    <string name="flight_plan_angle">Angolo:</string>
+    <string name="flight_plan_angle_speed">Velocità angolare:</string>
+    <string name="flight_plan_default_value">Valore predefinito</string>
+    <string name="flight_plan_format">Formato:</string>
+    <string name="flight_plan_fps">fps</string>
+    <string name="flight_plan_interval">Intervallo:</string>
+    <string name="flight_plan_jpeg">JPEG</string>
+    <string name="flight_plan_jpeg_180">JPEG 180°</string>
+    <string name="flight_plan_landing">Atterraggio</string>
+    <string name="flight_plan_pause">Pausa</string>
+    <string name="flight_plan_raw">Raw</string>
+    <string name="flight_plan_rotate">Girare</string>
+    <string name="flight_plan_snapshot">"Cattura d'immagine"</string>
+    <string name="flight_plan_take_off">Decollo</string>
+    <string name="flight_plan_take_picture">Scattare foto</string>
+    <string name="flight_plan_tilt">Orientamento</string>
+    <string name="flight_plan_title">"Flight
+plan"</string>
+    <string name="flight_plan_video_recording">Registrazione video</string>
+    <string name="flight_settings">Impostazioni di volo</string>
+    <string name="flightplan_component_calibration">Si prega di calibrare il drone prima di lanciare il piano</string>
+    <string name="flightplan_component_file">Il drone ha rilevato un errore nel piano. Modificarlo e riprovare</string>
+    <string name="flightplan_component_gps">Attendere un segnale GPS migliore prima di lanciare il piano</string>
+    <string name="flightplan_component_take_off">Il drone non può decollare. Verificare che il drone non sia bloccato</string>
+    <string name="flightplan_components_unknown">Errore sconosciuto</string>
+    <string name="flightplan_constant_course">Andamento costante</string>
+    <string name="flightplan_edit_altitude">Altezza:</string>
+    <string name="flightplan_edit_speed">Velocità:</string>
+    <string name="flightplan_fw_update_needed">"Per utilizzare FlightPlan è necessario scaricare l'ultimo aggiornamento del drone"</string>
+    <string name="flightplan_pois_not_supported">Il FlightPlan attuale utilizza funzionalità non supportate dal drone. Il piano verrà lanciato senza queste funzioni.</string>
+    <string name="flightplan_progressive_course">Andamento progressivo</string>
+    <string name="flightplan_sending_error">Errore durante la valutazione del piano.</string>
+    <string name="flightplan_speed_bridle">La velocità del drone verrà diminuita a bassa altitudine</string>
+    <string name="flights_number">Voli</string>
+    <string name="fly_and_film">Fly &amp; Film</string>
+    <string name="follow_beboopt_recorded_video_text_explanation">"Video registrato con un Parrot Bebop Drone!
+
+Sito web ufficiale: http://www.parrot.com/products/bebop-drone
+ Segui Parrot su:  https://twitter.com/Parrot 
+Diventa fan su: http://www.facebook.com/parrot"</string>
+    <string name="follow_beebop_taken_photos_text_explanation">"Foto scattata con un Parrot Bebop Drone!
+
+Sito web ufficiale: http://www.parrot.com/products/bebop-drone
+ Segui Parrot su:  https://twitter.com/Parrot 
+Diventa fan su: http://www.facebook.com/parrot"</string>
+    <string name="follow_jumping_sumo_recorded_video_text_explanation">"Video registrato con un Parrot Jumping Sumo!
+
+Sito web ufficiale:  http://www.parrot.com/products/jumping-sumo
+ Segui Parrot su:  https://twitter.com/Parrot 
+Diventa Fan su: http://www.facebook.com/parrot"</string>
+    <string name="follow_jumping_sumo_taken_photos_text_explanation">"Foto scattata con un Parrot Jumping Sumo!
+
+Sito web ufficiale:  http://www.parrot.com/products/jumping-sumo
+ Segui Parrot su:  https://twitter.com/Parrot 
+Diventa Fan su: http://www.facebook.com/parrot"</string>
+    <string name="follow_me_allow_ffpro_location">Autorizzare FreeFlight Pro a utilizzare la vostra posizione</string>
+    <string name="follow_me_anim_boomerang">Boomerang</string>
+    <string name="follow_me_anim_orbit">Orbita</string>
+    <string name="follow_me_anim_parabola">Parabola</string>
+    <string name="follow_me_anim_zenith">Zenith</string>
+    <string name="follow_me_choice_popup_description">per iniziare, selezionare una modalità:</string>
+    <string name="follow_me_device_barometer">Il vostro dispositivo non dispone di un barometro</string>
+    <string name="follow_me_device_gps_accuracy">La precisione GPS del dispositivo non è sufficiente</string>
+    <string name="follow_me_disclamer_text">Il drone vi seguirà automaticamente. Siate prudenti e responsabili durante il volo.</string>
+    <string name="follow_me_drone_gps_accuracy">La precisione GPS del drone non è sufficiente</string>
+    <string name="follow_me_drone_not_far_enough">Il drone non è abbastanza lontano</string>
+    <string name="follow_me_drone_not_high_enough">Il drone non è abbastanza alto</string>
+    <string name="follow_me_explanation_smartphone">Le prestazioni del monitoraggio GPS e visivo dipendono dallo smartphone utilizzato. Provatelo con il vostro dispositivo approfittando della prova gratuita. Una lista dei dispositivi raccomandati è consultabile &lt;u>qui&lt;/u>.</string>
+    <string name="follow_me_first_use_description">Premere nuovamente il pulsante per lanciare una modalità di monitoraggio dall’interfaccia di pilotaggio.</string>
+    <string name="follow_me_first_use_lock_button_description">In modalità di monitoraggio automatico, è possibile bloccare l’angolo di visione in modo che il drone vi inquadri sempre dallo stesso lato.</string>
+    <string name="follow_me_first_use_lock_button_title">Blocco dell’angolo di visione</string>
+    <string name="follow_me_first_use_title">Pulsante modalità di monitoraggio</string>
+    <string name="follow_me_go_to_settings">Andare a \"Impostazioni</string>
+    <string name="follow_me_image_detection">"Problema con il rilevamento dell'immagine"</string>
+    <string name="follow_me_inapp_description">Questo acquisto in-App permette di sbloccare nuove modalità di volo automatico:</string>
+    <string name="follow_me_lock_screen">Bloccare</string>
+    <string name="follow_me_mode_description">Monitoraggio del target grazie al GPS dello smartphone e al riconoscimento di immagini</string>
+    <string name="follow_me_not_calibrated">Il drone non è calibrato</string>
+    <string name="follow_me_plurals_days_left">%d giorni rimanenti</string>
+    <string name="follow_me_single_days_left">%d giorno rimanente</string>
+    <string name="follow_me_stop_follow">Atterraggio</string>
+    <string name="follow_me_subtitle">monitoraggio GPS e visivo</string>
+    <string name="follow_me_tips">"Scegliere un target colorato che si distingua dall'ambiente circostante"</string>
+    <string name="follow_me_title">Monitoraggio automatico</string>
+    <string name="follow_me_title_full">follow me</string>
+    <string name="follow_me_unlock_screen">Sbloccare</string>
+    <string name="follow_me_wait_gps_description">Per poter lanciare il monitoraggio automatico, la precisione del GPS del drone e quella dello smartphone devono essere sufficienti.</string>
+    <string name="follow_me_wait_gps_signal">In attesa dei segnali GPS...</string>
+    <string name="follow_rolling_spider_recorded_video_text_explanation">"Video registrato con un Parrot Rolling Spider!
+
+Sito web ufficiale:  http://www.parrot.com/products/rolling-spider 
+ Segui Parrot su:  https://twitter.com/Parrot 
+Diventa fan su: http://www.facebook.com/parrot"</string>
+    <string name="follow_rolling_spider_taken_photos_text_explanation">"Foto scattata con un Parrot Rolling Spider!
+
+Sito web ufficiale:  http://www.parrot.com/products/rolling-spider 
+ Segui Parrot su:  https://twitter.com/Parrot 
+Diventa Fan su: http://www.facebook.com/parrot"</string>
+    <string name="forget">Ometti</string>
+    <string name="forwards_jump_not_possible_jump_unavailability_reason">Salto in lungo non disponibile</string>
+    <string name="fps_time_line">Fps:</string>
+    <string name="fpv">FPV</string>
+    <string name="fpv_signal_display" formatted="false">%d / %d</string>
+    <string name="france">Francia</string>
+    <string name="free_fall">caduta libera</string>
+    <string name="free_trial">Prova gratuita</string>
+    <string name="freeflight_3">Freeflight 3</string>
+    <string name="full_control">Controllo assoluto</string>
+    <string name="gamepad_joystick_sensibility_exponential">Esponenziale</string>
+    <string name="gamepad_joystick_sensibility_linear">Lineare</string>
+    <string name="gamepad_joystick_sensibility_title">"Sensibilità dell'asse"</string>
+    <string name="gamepad_mapping_button_dpad">DPAD</string>
+    <string name="gamepad_mapping_button_j1">J1</string>
+    <string name="gamepad_mapping_button_j1_key">J1-Key</string>
+    <string name="gamepad_mapping_button_j2">J2</string>
+    <string name="gamepad_mapping_button_j2_key">J2-Key</string>
+    <string name="gamepad_mapping_button_j3">J3</string>
+    <string name="gamepad_mapping_button_j3_key">J3-Key</string>
+    <string name="gamepad_mapping_button_j4">J4</string>
+    <string name="gamepad_mapping_button_j4_key">J4-Key</string>
+    <string name="gamepad_mapping_button_l1">L1</string>
+    <string name="gamepad_mapping_button_l2">L2</string>
+    <string name="gamepad_mapping_button_r1">R1</string>
+    <string name="gamepad_mapping_button_r2">R2</string>
+    <string name="gamepad_mapping_choose">Choose button type</string>
+    <string name="gamepad_mapping_cmd_auto_takeoff">Decollo auto attivato/disattivato</string>
+    <string name="gamepad_mapping_cmd_back">Indietro</string>
+    <string name="gamepad_mapping_cmd_backswap">Backswap</string>
+    <string name="gamepad_mapping_cmd_barrel_roll_left">Tonneau a sinistra</string>
+    <string name="gamepad_mapping_cmd_barrel_roll_right">Tonneau a destra</string>
+    <string name="gamepad_mapping_cmd_camera_pan">Panoramica telecamera</string>
+    <string name="gamepad_mapping_cmd_claw">Pinza aperta/chiusa</string>
+    <string name="gamepad_mapping_cmd_emergency">Emergenza</string>
+    <string name="gamepad_mapping_cmd_fast_turn_back">Mezzo giro rapido</string>
+    <string name="gamepad_mapping_cmd_fast_turn_left">Pivot rapida sinistra</string>
+    <string name="gamepad_mapping_cmd_fast_turn_right">Pivot rapida destra</string>
+    <string name="gamepad_mapping_cmd_flip_back">Flip anteriore</string>
+    <string name="gamepad_mapping_cmd_flip_front">Flip avanti</string>
+    <string name="gamepad_mapping_cmd_flip_left">Flip sinistro</string>
+    <string name="gamepad_mapping_cmd_flip_right">Flip destro</string>
+    <string name="gamepad_mapping_cmd_fpv_display_mode">Vetri del cockpit: Modalità di visualizzazione</string>
+    <string name="gamepad_mapping_cmd_fpv_video_pov">Vetri del cockpit: Cambio del punto di vista</string>
+    <string name="gamepad_mapping_cmd_gaz">Gas</string>
+    <string name="gamepad_mapping_cmd_gun">Gun Shot</string>
+    <string name="gamepad_mapping_cmd_left_right">90°S &amp; 90°D</string>
+    <string name="gamepad_mapping_cmd_light_blink">Luce a intermittenza</string>
+    <string name="gamepad_mapping_cmd_light_on_off">Luce accesa/spenta</string>
+    <string name="gamepad_mapping_cmd_light_toggle">Interruttore luce</string>
+    <string name="gamepad_mapping_cmd_light_wave">Variazione della luce</string>
+    <string name="gamepad_mapping_cmd_loitering">Loiter</string>
+    <string name="gamepad_mapping_cmd_looping">Looping</string>
+    <string name="gamepad_mapping_cmd_no_action">Nessuna azione</string>
+    <string name="gamepad_mapping_cmd_not_used">Azione non utilizzata</string>
+    <string name="gamepad_mapping_cmd_photo">Foto</string>
+    <string name="gamepad_mapping_cmd_pitch">Beccheggio</string>
+    <string name="gamepad_mapping_cmd_plane">Aereo</string>
+    <string name="gamepad_mapping_cmd_plane_gear_down">Velocità inferiore</string>
+    <string name="gamepad_mapping_cmd_plane_gear_up">Velocità superiore</string>
+    <string name="gamepad_mapping_cmd_plane_mode">Modalità Aereo</string>
+    <string name="gamepad_mapping_cmd_quad_mode">Modalità Quad</string>
+    <string name="gamepad_mapping_cmd_record">Registrare</string>
+    <string name="gamepad_mapping_cmd_reset_back">Indietro</string>
+    <string name="gamepad_mapping_cmd_reset_camera">Resettaggio telecamera</string>
+    <string name="gamepad_mapping_cmd_return_home">Return Home</string>
+    <string name="gamepad_mapping_cmd_roll">Rollio</string>
+    <string name="gamepad_mapping_cmd_stop">Stop</string>
+    <string name="gamepad_mapping_cmd_take_control">Take Control</string>
+    <string name="gamepad_mapping_cmd_take_photo">Scattare una foto</string>
+    <string name="gamepad_mapping_cmd_takeoff">Decollo/Atterraggio</string>
+    <string name="gamepad_mapping_cmd_validate">Validare</string>
+    <string name="gamepad_mapping_cmd_video">Registrazione</string>
+    <string name="gamepad_mapping_cmd_video_camera_tilt">Inclinazione telecamera</string>
+    <string name="gamepad_mapping_cmd_wingx_flyingmode_plane_backward">Aereo in indietro</string>
+    <string name="gamepad_mapping_cmd_wingx_flyingmode_plane_forward">Aereo in avanti</string>
+    <string name="gamepad_mapping_cmd_wingx_flyingmode_quadricopter">Quadricottero</string>
+    <string name="gamepad_mapping_cmd_yaw">Imbardata</string>
+    <string name="gamepad_mapping_inverse">Inverse</string>
+    <string name="gamepad_mapping_main_calib">Main calibration</string>
+    <string name="gamepad_mapping_main_calib_info">To start, place all buttons and joysticks to the 0 position</string>
+    <string name="gamepad_mapping_main_calib_ready">"I'm ready"</string>
+    <string name="gamepad_mapping_move_button">move the control from max to min</string>
+    <string name="gamepad_mapping_rc_button">Button</string>
+    <string name="gamepad_mapping_rc_joystick_signed">Joystick (2)</string>
+    <string name="gamepad_mapping_rc_joystick_unsigned">Joystick (1)</string>
+    <string name="gamepad_mapping_rc_rotary_button">Potentiometer</string>
+    <string name="gamepad_mapping_rc_switch2">Switch (2)</string>
+    <string name="gamepad_mapping_rc_switch3">Switch (3)</string>
+    <string name="gamepad_mapping_required">Required</string>
+    <string name="gamepad_mapping_sky_2_cmd_camera_exp_dec">"Ridurre l'esposizione della videocamera"</string>
+    <string name="gamepad_mapping_sky_2_cmd_camera_exp_inc">"Aumentare l'esposizione della videocamera"</string>
+    <string name="gamepad_mapping_sky_2_cmd_cancel">Annullare/Tornare</string>
+    <string name="gamepad_mapping_sky_2_cmd_settings">Aprire/Chiudere le impostazioni</string>
+    <string name="gamepad_mapping_sky_2_cmd_validate">Conferma</string>
+    <string name="gamepad_mapping_sky_cmd_back">Indietro</string>
+    <string name="gamepad_mapping_sky_cmd_camera_pan">Panoramica telecamera</string>
+    <string name="gamepad_mapping_sky_cmd_camera_tilt">Inclinazione telecamera</string>
+    <string name="gamepad_mapping_sky_cmd_emergency">Emergenza</string>
+    <string name="gamepad_mapping_sky_cmd_gaz">Gas</string>
+    <string name="gamepad_mapping_sky_cmd_photo">Foto</string>
+    <string name="gamepad_mapping_sky_cmd_pitch">Beccheggio</string>
+    <string name="gamepad_mapping_sky_cmd_record">Registrare</string>
+    <string name="gamepad_mapping_sky_cmd_reset_camera">Resettaggio telecamera</string>
+    <string name="gamepad_mapping_sky_cmd_return_home">Ritorno al punto di partenza</string>
+    <string name="gamepad_mapping_sky_cmd_roll">Rollio</string>
+    <string name="gamepad_mapping_sky_cmd_settings">Impostazioni</string>
+    <string name="gamepad_mapping_sky_cmd_takeoff_landing">Decollo/Atterraggio</string>
+    <string name="gamepad_mapping_sky_cmd_yaw">Imbardata</string>
+    <string name="gamepad_mapping_warning">Place all buttons and joysticks to the 0 position to avoid undesirable behaviour</string>
+    <string name="gaz">Gas</string>
+    <string name="general_information">Informazioni generali</string>
+    <string name="general_terms_of_use_profile_creation">Condizioni generali di utilizzo</string>
+    <string name="generic_error_message">"C'è un errore, riprova"</string>
+    <string name="germany">Germania</string>
+    <string name="give_me_a_cool_name_on_drone_academy">Dammi un nome interessante su Drone Academy!</string>
+    <string name="google_photos">Google Photos</string>
+    <string name="got_it">Ho capito!</string>
+    <string name="gps_label">GPS</string>
+    <string name="gps_map">Gps</string>
+    <string name="gps_version">Versione GPS</string>
+    <string name="greece">Grecia</string>
+    <string name="green_led_name">Verde</string>
+    <string name="green_ledparam_name">Lato/i</string>
+    <string name="hardware_version">Versione hardware</string>
+    <string name="home">Home</string>
+    <string name="home_my_flights">I miei voli</string>
+    <string name="hong_kong">Hong Kong</string>
+    <string name="horizontal_sensibility">Sensibilità orizzontale</string>
+    <string name="how_to_connect_to_your_drone_explanation">"Per connettervi al Wi-Fi del drone, utilizzate semplicemente il vostro sistema Wi-Fi. 
+Individuate il vostro drone nella lista di punti Wi-Fi disponibili."</string>
+    <string name="how_to_connect_to_your_drone_title">Come connettersi al drone?</string>
+    <string name="hull_protection">Carena</string>
+    <string name="hungary">Ungheria</string>
+    <string name="i_agree_to_receive_information_about_parrot_products_and_services_by_email_text_message_or_post">Accetto di ricevere informazioni relative ai prodotti e servizi Parrot via e-mail, SMS o per corrispondenza</string>
+    <string name="i_want_to_receive_emails_from_my__and_parrot">Voglio ricevere e-mail da %s (e Parrot)</string>
+    <string name="if_you_want_to_access_your_media_gallery_enable_it_in_your_devices_settings">"Per accedere alla galleria multimediale, è necessario attivare questa opzione sull'apparecchio."</string>
+    <string name="image_format_dng">DNG</string>
+    <string name="image_format_jpeg">JPEG</string>
+    <string name="image_format_jpeg_180">JPEG 180°</string>
+    <string name="image_settings">"Impostazioni dell'immagine"</string>
+    <string name="impossible_to_delete_this_run">Impossibile eliminare il pilotaggio</string>
+    <string name="in_this_position_jump_unavailability_reason"> in questa postura.</string>
+    <string name="incorrect_value_in_motor_settings">valore errato nelle impostazioni motore</string>
+    <string name="india">India</string>
+    <string name="indonesia">Indonesia</string>
+    <string name="information_help">Guida</string>
+    <string name="information_message">Informazioni</string>
+    <string name="informations_title">Informazioni</string>
+    <string name="insect">Insetto</string>
+    <string name="insert">Inserisci</string>
+    <string name="internal_memory">Memoria interna</string>
+    <string name="internet">Internet</string>
+    <string name="internet_connection_is_too_slow">La connessione a Internet è troppo lenta</string>
+    <string name="interval">Intervallo</string>
+    <string name="invalid_coordinates">Non valido</string>
+    <string name="invalid_login_or_password">Login o password non validi</string>
+    <string name="invite">Invitare</string>
+    <string name="invite_friend">"Invita
+un amico"</string>
+    <string name="invite_your_friends">Invita i tuoi amici</string>
+    <string name="invite_your_friends_to_join_the_drone_academy">Invita i tuoi amici su Parrot Cloud!</string>
+    <string name="ireland">Irlanda</string>
+    <string name="israel">Israele</string>
+    <string name="it_marks_a_camera_tilt_changing">"
+- segna un cambio di orientamento."</string>
+    <string name="it_marks_a_landing">"
+- segna un atterraggio."</string>
+    <string name="it_marks_a_pause">"
+- segna una pausa."</string>
+    <string name="it_marks_a_rotation">"
+- segna una rotazione."</string>
+    <string name="it_marks_a_take_off">"
+- segna un decollo."</string>
+    <string name="it_marks_the_beginning_of_a_video_recording">"
+- segna l'inizio di una registrazione video."</string>
+    <string name="it_marks_the_beginning_of_an_image_capture">"
+- segna l'inizio di una cattura d'immagine."</string>
+    <string name="it_marks_the_end_of_a_video_recording">"
+- segna la fine di una registrazione video."</string>
+    <string name="it_marks_the_end_of_an_image_capture">"
+- segna la fine di una cattura d'immagine."</string>
+    <string name="italy">Italia</string>
+    <string name="japan">Giappone</string>
+    <string name="join_today_improve_your_skills_and_start_your_own_adventure">Iscriviti oggi, migliora le tue abilità e partecipa alla tua avventura personale</string>
+    <string name="joypad_inverted">Joypad invertito</string>
+    <string name="joystick_configuration">Configurazione joystick</string>
+    <string name="jpeg_180">JPEG 180°</string>
+    <string name="jump_action_name">Salto</string>
+    <string name="jump_already_loaded_jump_unavailability_reason"> : salto già caricato.</string>
+    <string name="jump_error_jump_unavailability_reason"> Errore di salto</string>
+    <string name="jump_high_choice">Alto</string>
+    <string name="jump_kick_choice">Kick</string>
+    <string name="jump_load_choice">Carica</string>
+    <string name="jump_loading_not_possible_jump_unavailability_reason">Caricamento salto non disponibile</string>
+    <string name="jump_long_choice">Lungo</string>
+    <string name="jump_parm_name">Salto</string>
+    <string name="jump_stop_choice">Stop</string>
+    <string name="jumper_posture_choice">Jumper</string>
+    <string name="jumping_sumo_vesion_too_old_message">La versione del %s è troppo vecchia, verificare gli aggiornamenti disponibili</string>
+    <string name="keep">Mantenere</string>
+    <string name="kicker_posture_choice">Kicker</string>
+    <string name="kilometer_per_hour_unit">km/h</string>
+    <string name="kilometer_unit">km</string>
+    <string name="korea">Corea</string>
+    <string name="kuwait">Kuwait</string>
+    <string name="landing_point_missing">Il piano deve finire con un atterraggio</string>
+    <string name="last_error">Ultimo errore</string>
+    <string name="last_flight">Ultimo volo</string>
+    <string name="last_flight_time">"Tempo dell'ultimo volo"</string>
+    <string name="last_motor_error">Ultimo errore del motore</string>
+    <string name="last_motors_error_last_drone_data">Ultimo errore dei motori</string>
+    <string name="latitude__longitude">Latitudine, Longitudine</string>
+    <string name="latvia">Lettonia</string>
+    <string name="learn_to_fly">Imparare a volare</string>
+    <string name="learning_gps_position_">Acquisizione della posizione GPS...</string>
+    <string name="lebanon">Libano</string>
+    <string name="leds_action_name">LED</string>
+    <string name="left_side_green_led_choise">Sinistro</string>
+    <string name="left_side_red_led_choice">Sinistro</string>
+    <string name="line">Riga</string>
+    <string name="linear">Lineare</string>
+    <string name="linear_landing">Atterraggio lineare</string>
+    <string name="lithuania">Lituania</string>
+    <string name="loading">Caricamento in corso...</string>
+    <string name="loading_list_of_networks">Caricamento elenco delle reti...</string>
+    <string name="loading_web_veiw">Caricamento in corso...</string>
+    <string name="location_settings">Impostazioni di localizzazione</string>
+    <string name="log_error">"Errore durante l'invio"</string>
+    <string name="log_sent">Logaritmi inviati senza errore</string>
+    <string name="login_academy">Login in corso…</string>
+    <string name="logout_facebook">Logout Facebook</string>
+    <string name="logout_from_youtube_google_photos">Logout Youtube/Google Photos</string>
+    <string name="look_at_me">Inquadratura automatica</string>
+    <string name="look_at_me_mode_description">Inquadratura sul target mantenuta durante il pilotaggio grazie al riconoscimento di immagini</string>
+    <string name="looking_for_parrot_drones">Ricerca dei droni Parrot...</string>
+    <string name="low_battery_jump_unavailability_reason"> : batteria insufficiente.</string>
+    <string name="luxembourg">Lussemburgo</string>
+    <string name="m_per_second_unit">m/s</string>
+    <string name="magnetometer">Magnetometro</string>
+    <string name="magnetometer_calibration">Calibratura magnetometro</string>
+    <string name="make_a_movie_with_replay">Crea un video con REPLAY</string>
+    <string name="make_sure_a_nonfull_usb_media_is_plugged_in_your_drone">Assicurarsi che una chiave USB valida sia collegata al drone</string>
+    <string name="malaysia">Malesia</string>
+    <string name="malta">Malta</string>
+    <string name="map">Mappa</string>
+    <string name="map_my_house_add_current">Aggiungi la mappa attuale</string>
+    <string name="map_my_house_saved_plans">Mappe salvate</string>
+    <string name="map_my_house_title">"Mappa
+della mia casa"</string>
+    <string name="map_preloading">Precaricamento mappa</string>
+    <string name="mapping">Mappatura</string>
+    <string name="master_volume">"Volume
+principale"</string>
+    <string name="mavlink_cd_load">Carica</string>
+    <string name="mavlink_cd_save">Salva</string>
+    <string name="mavlink_cd_save_as">Salva con nome</string>
+    <string name="max_inclination">"Inclinazione
+max."</string>
+    <string name="max_speed">Velocità max.</string>
+    <string name="max_turn">Rotazione max.</string>
+    <string name="media">Supporti</string>
+    <string name="media_access_denied">Accesso rifiutato</string>
+    <string name="media_alert_message_cancel">Annulla</string>
+    <string name="media_alert_message_checking">Controllo in corso...</string>
+    <string name="media_alert_message_error">Errore</string>
+    <string name="media_alert_message_file_selected">file selezionato</string>
+    <string name="media_alert_message_files_selected">file selezionati</string>
+    <string name="media_alert_message_files_transferred_do_you_want_to_delete_them_from_usb_">file trasferito/i. Vuoi eliminarli dalla chiavetta USB?</string>
+    <string name="media_alert_message_keep_files">Conserva file</string>
+    <string name="media_alert_message_ok">OK</string>
+    <string name="media_alert_message_transfer_delete">Elimina</string>
+    <string name="media_alert_message_transfer_error">Errore trasferimento</string>
+    <string name="media_alert_message_usb_key">Chiavetta USB</string>
+    <string name="media_available_space_on_device">solo %s disponibili sul dispositivo</string>
+    <string name="media_cd_date">Data</string>
+    <string name="media_cd_time">Time</string>
+    <string name="media_drone_memory">Drone memory</string>
+    <string name="media_gallery">Galleria supporti</string>
+    <string name="media_gellery_select">Seleziona</string>
+    <string name="media_gigabyte">Gb</string>
+    <string name="media_keep_files_in_plural">Salvare i file</string>
+    <string name="media_keep_singlr_file">Salvare il file</string>
+    <string name="media_megabyte">Mb</string>
+    <string name="media_multiple_files_transferred">"%d i file sono stati trasferiti. Cancellare i file d'origine?"</string>
+    <string name="media_not_supported">La memoria interna non è supportata dal dispositivo.</string>
+    <string name="media_one">%d contenuto multimediale</string>
+    <string name="media_play_button_text">Riproduzione</string>
+    <string name="media_please_wait">Attendere prego...</string>
+    <string name="media_plurals_file_transferred_keep">"%d file sono stati trasferiti.
+Conservare gli originali?"</string>
+    <string name="media_select_items">Scegliere elementi</string>
+    <string name="media_selected_file">%d file selezionato</string>
+    <string name="media_selected_files_in_plural">%d file selezionati</string>
+    <string name="media_settings">Impostazioni media</string>
+    <string name="media_several">%d contenuti multimediali</string>
+    <string name="media_single_file_transferred">"%d il file è stato trasferito. Cancellare il file d'origine?"</string>
+    <string name="media_single_file_transferred_keep">"%d file was successfully transferred to your device.
+Do you want to keep the original?"</string>
+    <string name="media_stop_button_text">Stop</string>
+    <string name="media_storage_free">Libero</string>
+    <string name="media_title">Supporti</string>
+    <string name="media_transfer">Trasferimento dei contenuti multimediali</string>
+    <string name="media_transfer_deleting">Eliminazione dei file del drone</string>
+    <string name="media_transfer_total">Totale</string>
+    <string name="media_transfer_transfering">Trasferimento dei file sul dispositivo</string>
+    <string name="media_type_all">Tutto</string>
+    <string name="media_type_photo">Foto</string>
+    <string name="media_type_photos">Foto</string>
+    <string name="media_type_video">Video</string>
+    <string name="media_type_videos">Video</string>
+    <string name="media_unread_count_bar_message">"Trasferire il {0} scattato durante l'ultimo volo?"</string>
+    <string name="media_unread_many">"Trasferire i %d contenuti multimediali acquisiti durante l'ultimo volo?"</string>
+    <string name="media_unread_one">"Trasferire il contenuto multimediale acquisito durante l'ultimo volo?"</string>
+    <string name="mediaplayer_upload">Invio</string>
+    <string name="medias_map">Media</string>
+    <string name="memory_full">Memoria piena</string>
+    <string name="memory_full_error">La memoria del dispositivo è piena. Trasferimento non riuscito.</string>
+    <string name="menu_manager_back_action">Indietro</string>
+    <string name="meter_unit">m</string>
+    <string name="metronome">Metronomo</string>
+    <string name="metronome_led_animation">Metronomo</string>
+    <string name="mexico">Messico</string>
+    <string name="miles_per_hour_unit">mph</string>
+    <string name="miles_unit">mi</string>
+    <string name="mode_50_hz">50 Hz</string>
+    <string name="mode_60_hz">60 Hz</string>
+    <string name="monster">Mostro</string>
+    <string name="motor">Motore</string>
+    <string name="motor_controller_error_">problema controllore motore</string>
+    <string name="motor_error_go_to_motor_settings_for_more_information">Errore motore (%d)</string>
+    <string name="motor_hardware_version">Hardware</string>
+    <string name="motor_information">Informazioni motori</string>
+    <string name="motor_information_error">Errore</string>
+    <string name="motor_software_version">Software</string>
+    <string name="motor_software_version_last_drone_data">Versione software dei motori</string>
+    <string name="motor_stage_broken">fase motore guasta</string>
+    <string name="motor_stalled">motore bloccato</string>
+    <string name="motor_type">Tipo</string>
+    <string name="my_drones">I miei droni</string>
+    <string name="my_drones_delete">Eliminare</string>
+    <string name="my_drones_drone_deleted">Drone eliminato</string>
+    <string name="my_drones_drone_name">Nome del drone</string>
+    <string name="my_drones_drone_registered">Drone registrato</string>
+    <string name="my_drones_no_drone_found">Nessun drone trovato</string>
+    <string name="my_drones_registered">Registrato</string>
+    <string name="my_drones_registered_with_exclamation_mark">registrato!</string>
+    <string name="my_drones_registration">Registrazione...</string>
+    <string name="my_drones_registration_has_failed">La registrazione è fallita</string>
+    <string name="my_drones_searching_for_drones">Ricerca di droni in corso...</string>
+    <string name="my_flights_battery_used">{0} %</string>
+    <string name="my_flights_captures_content_description">Sensori</string>
+    <string name="my_flights_crashes">{0,choice,0#nessun crash|1#un crash|1&lt;{0} crashs}</string>
+    <string name="my_flights_crashes_content_description">crash</string>
+    <string name="my_flights_date_content_description">Data</string>
+    <string name="my_flights_details_gps_unavailable">GPS non disponibile</string>
+    <string name="my_flights_details_graphics_altitude_title">ALTITUDINE (m)</string>
+    <string name="my_flights_details_graphics_battery_title">Batteria (%)</string>
+    <string name="my_flights_details_graphics_high_jump">Alto</string>
+    <string name="my_flights_details_graphics_jump_title">Salto</string>
+    <string name="my_flights_details_graphics_long_jump">Lungo</string>
+    <string name="my_flights_details_graphics_speed_title">VELOCITÀ (m/s)</string>
+    <string name="my_flights_details_run_type_private">Privato</string>
+    <string name="my_flights_details_run_type_public">Pubblico</string>
+    <string name="my_flights_details_title_gps">GPS</string>
+    <string name="my_flights_details_title_graphics">Grafici</string>
+    <string name="my_flights_details_title_medias">Materiali multimediali</string>
+    <string name="my_flights_details_title_summary">Sintesi</string>
+    <string name="my_flights_duration_content_description">Durata</string>
+    <string name="my_flights_load_more_flights">Caricare altri voli</string>
+    <string name="my_flights_signin">Connettersi a Parrot Cloud</string>
+    <string name="my_flights_time_content_description">Time</string>
+    <string name="my_flights_time_hour">%d h</string>
+    <string name="my_flights_time_minute">%d m</string>
+    <string name="my_flights_time_minute_or_second">{0} m {1,choice,0#|1&lt;{1} s}</string>
+    <string name="my_flights_time_second">%d s</string>
+    <string name="my_flights_title">I miei voli</string>
+    <string name="my_flights_unknown_value">\???</string>
+    <string name="my_flights_videos_content_description">Video</string>
+    <string name="my_gallery">"La mia
+galleria"</string>
+    <string name="my_last_flight_photo_just_shared_on_google_photos">Il foto del mio ultimo volo appena condiviso su Google Photos</string>
+    <string name="my_last_flight_video_just_shared_on_youtube">Il video del mio ultimo volo appena condiviso su Youtube</string>
+    <string name="my_piloting">Il mio pilotaggio</string>
+    <string name="my_piloting_altitude">ALTITUDINE</string>
+    <string name="my_piloting_battery_usage">Uso della batteria</string>
+    <string name="my_piloting_delete_run">Eliminare il pilotaggio</string>
+    <string name="my_piloting_deleting_run">Eliminazione pilotaggio</string>
+    <string name="my_piloting_gps_path">Percorsi GPS</string>
+    <string name="my_piloting_impossible_to_load_pilotings">Impossibile caricare i pilotaggi</string>
+    <string name="my_piloting_load_more_pilotings">Carica più pilotaggi</string>
+    <string name="my_piloting_media">Materiali multimediali</string>
+    <string name="my_piloting_my_flights">I miei voli</string>
+    <string name="my_piloting_myndrones">"I miei
+droni"</string>
+    <string name="my_piloting_no_data_available">Nessun dato disponibile</string>
+    <string name="my_piloting_no_gps_data_available">Nessun dato GPS disponibile</string>
+    <string name="my_piloting_no_piloting_found">Nessun pilotaggio trovato</string>
+    <string name="my_piloting_piloting">Pilotaggio</string>
+    <string name="my_piloting_rank">Posizione</string>
+    <string name="my_piloting_rating">Valutazione</string>
+    <string name="my_piloting_runs_summary">Sintesi pilotaggio</string>
+    <string name="my_piloting_send_piloting">Invio pilotaggio in corso</string>
+    <string name="my_piloting_sending_piloting">Invio pilotaggio in corso</string>
+    <string name="my_piloting_speed">VELOCITÀ</string>
+    <string name="my_piloting_type">Tipo</string>
+    <string name="my_piloting_unknown_position">Posizione sconosciuta</string>
+    <string name="my_pilotings">I miei pilotaggi</string>
+    <string name="my_pilotings_title">"I miei
+pilotaggi"</string>
+    <string name="my_plans">"Le mie
+mappe"</string>
+    <string name="my_runs_map">I miei tragitti</string>
+    <string name="navigation">Navigazione</string>
+    <string name="need_update">Necessità di aggiornamento</string>
+    <string name="netherlands">Paesi Bassi</string>
+    <string name="network_settings_auto">(AUTO)</string>
+    <string name="network_settings_drone_reset">Reset drone</string>
+    <string name="network_settings_outdoor">Esterno</string>
+    <string name="never_ask_me_again">Non chiedermelo più</string>
+    <string name="new_">Nuovo</string>
+    <string name="new_update">Nuovo aggiornamento</string>
+    <string name="new_zeland">Nuova Zelanda</string>
+    <string name="next_charge">Carica successiva</string>
+    <string name="no">NO</string>
+    <string name="no_action">Nessuna azione</string>
+    <string name="no_connection_message">No connection</string>
+    <string name="no_controller_detected">No controller detected</string>
+    <string name="no_controller_detected_description">You can connect to a controller via wi-fi (Skycontroller), USB cable (Skycontroller 2) or Bluetooth (Flypad and others).</string>
+    <string name="no_drone_detected">Nessun drone rilevato</string>
+    <string name="no_drones">Nessun drone</string>
+    <string name="no_message">No</string>
+    <string name="no_permission_granted">Nessuna autorizzazione concessa</string>
+    <string name="no_remotes">Nessun joystick</string>
+    <string name="no_result_map">Nessun risultato</string>
+    <string name="no_settings_available">Nessuna impostazione disponibile</string>
+    <string name="no_update_found">Nessun nuovo aggiornamento</string>
+    <string name="no_user_authenticated_map">Nessun utente autenticato</string>
+    <string name="no_user_registered">Nessun utente registrato</string>
+    <string name="number_of_flights">Numero di voli</string>
+    <string name="off_red_led_state">off</string>
+    <string name="ok">OK</string>
+    <string name="ok_alert_message">OK</string>
+    <string name="ok_param_button">OK</string>
+    <string name="on_red_led_state">on</string>
+    <string name="ondulation">Ondulazione</string>
+    <string name="ondulation_led_animation">Ondulazione</string>
+    <string name="open">Apri</string>
+    <string name="open_flight_plan">Aprire</string>
+    <string name="overheat_reached_">Surriscaldamento!</string>
+    <string name="password">Password</string>
+    <string name="password__1s">Password: %1$s</string>
+    <string name="pause">Pausa</string>
+    <string name="permission_denied">Autorizzazione rifiutata</string>
+    <string name="permission_explanation_camera">per attivare il video see-Through</string>
+    <string name="permission_explanation_camera_minidrone">per registrare i bei momenti con Parrot minidrone</string>
+    <string name="permission_location">"Abbiamo bisogno dell'autorizzazione a localizzare il drone. Non si può utilizzare l'applicazione senza!"</string>
+    <string name="permission_location_denied">"Abbiamo assolutamente bisogno dell'autorizzazione a localizzare il drone. Si prega di selezionare AUTORIZZARE nella finestra di dialogo seguente"</string>
+    <string name="permission_location_denied_permanently">"Abbiamo bisogno dell'autorizzazione a localizzare il drone. Si prega di selezionare le autorizzazioni nella schermata seguente, poi riattivare la localizzazione."</string>
+    <string name="permission_location_needed">Access your location</string>
+    <string name="permission_need">Abbiamo bisogno delle seguenti autorizzazioni:</string>
+    <string name="permission_request">Richiesta di autorizzazione</string>
+    <string name="permission_save_video">registrare il video sulla scheda SD</string>
+    <string name="permission_storage">Abbiamo bisogno di accedere alla memoria di archiviazione del dispositivo per registrare le foto del drone.</string>
+    <string name="permission_storage_academy">Abbiamo bisogno di accedere alla memoria del dispositivo per registrare i voli scaricati da Parrot Cloud.</string>
+    <string name="permission_use_camera">utilizzare la macchina fotografica e registrare video</string>
+    <string name="philippines">Filippine</string>
+    <string name="photoLibrary_privacy_mini">per salvare le foto dei vostri voli</string>
+    <string name="photo_mode">Modalità foto</string>
+    <string name="photo_popup_title">Foto</string>
+    <string name="photo_unread_many">"Trasferire le %d foto scattate durante l'ultimo volo?"</string>
+    <string name="photo_unread_one">"Trasferire la foto scattata durante l'ultimo volo?"</string>
+    <string name="photos_map">Foto</string>
+    <string name="pilot_map">Pilota</string>
+    <string name="piloting">Pilotaggio</string>
+    <string name="piloting_alert_connection_list">Connessione persa, riconnessione...</string>
+    <string name="piloting_alert_max_distance">Allerta distanza max</string>
+    <string name="piloting_cd_altitude">Altitudine</string>
+    <string name="piloting_cd_battery_level">Livello batteria</string>
+    <string name="piloting_cd_distance">Distanza</string>
+    <string name="piloting_cd_duration">Durata</string>
+    <string name="piloting_cd_emergency">Emergenza</string>
+    <string name="piloting_cd_flat_trim">Flat trim</string>
+    <string name="piloting_cd_not_connected">Non connesso</string>
+    <string name="piloting_cd_photo">Foto</string>
+    <string name="piloting_cd_posture">Posizione</string>
+    <string name="piloting_cd_record">Registrare</string>
+    <string name="piloting_cd_return_home">Return Home</string>
+    <string name="piloting_cd_settings">Impostazioni</string>
+    <string name="piloting_cd_speed">Velocità</string>
+    <string name="piloting_cd_stop">Stop</string>
+    <string name="piloting_cd_take_off">Decollo</string>
+    <string name="piloting_gps_version">GPS</string>
+    <string name="piloting_has_been_sent_to_your_email">Il pilotaggio è stato inviato alla tua e-mail</string>
+    <string name="piloting_remote_required">Per pilotare il drone è necessario un telecomando.</string>
+    <string name="piloting_settings">Impostazioni di pilotaggio</string>
+    <string name="piloting_settings_accessory_type">Accessorio</string>
+    <string name="piloting_settings_accessory_type_hull">Scafo</string>
+    <string name="piloting_settings_accessory_type_hydrofoil">Hydrofoil</string>
+    <string name="piloting_settings_accessory_type_none">Nessuno</string>
+    <string name="piloting_settings_accessory_type_truck_wheels">Truck wheels</string>
+    <string name="piloting_settings_accessory_type_unconfigured">Accessorio non configurato</string>
+    <string name="piloting_settings_accessory_type_unknown">Accessorio non riconosciuto</string>
+    <string name="piloting_settings_accessory_type_wheels">Ruote</string>
+    <string name="piloting_settings_application_software_version">Versione del software di FreeFlight</string>
+    <string name="piloting_settings_bank_turn">Curva inclinata</string>
+    <string name="piloting_settings_calibration">Calibratura</string>
+    <string name="piloting_settings_camera">Telecamera</string>
+    <string name="piloting_settings_camera_autorecord">Autoregistrazione</string>
+    <string name="piloting_settings_camera_directions">"CAMERA:
+Direzioni"</string>
+    <string name="piloting_settings_cd_help">Guida</string>
+    <string name="piloting_settings_circling_altitude">Altitudine del loiter</string>
+    <string name="piloting_settings_circling_direction">Senso del loiter</string>
+    <string name="piloting_settings_circling_direction_clockwise">Senso orario</string>
+    <string name="piloting_settings_circling_direction_counter_clockwise">Senso antiorario</string>
+    <string name="piloting_settings_circling_radius">Raggio del loiter</string>
+    <string name="piloting_settings_close">Vicino</string>
+    <string name="piloting_settings_controller">Controller</string>
+    <string name="piloting_settings_cut_out">Blocco</string>
+    <string name="piloting_settings_distance_max_enable">Limite fisico</string>
+    <string name="piloting_settings_drone">Drone</string>
+    <string name="piloting_settings_far">In linea</string>
+    <string name="piloting_settings_fast">Rapida</string>
+    <string name="piloting_settings_flat_trim">Flat trim</string>
+    <string name="piloting_settings_fpv">FPV</string>
+    <string name="piloting_settings_fpv_auto_launch">Avvio automatico</string>
+    <string name="piloting_settings_fpv_description">First Person View</string>
+    <string name="piloting_settings_fpv_drone">Vista del drone</string>
+    <string name="piloting_settings_fpv_eyes_spacing">Distanza dagli occhi</string>
+    <string name="piloting_settings_fpv_glasses">Caschi FPV</string>
+    <string name="piloting_settings_fpv_mode">Modalità</string>
+    <string name="piloting_settings_fpv_see_through">See-Through</string>
+    <string name="piloting_settings_fpv_state">Stato</string>
+    <string name="piloting_settings_gps_signal">Segnale Gps</string>
+    <string name="piloting_settings_gyroscope">Sensori</string>
+    <string name="piloting_settings_gyroscope_description_jog_settings">"GIROSCOPIO:
+Direzioni"</string>
+    <string name="piloting_settings_gyroscope_directions">GIROSCOPIO: Direzioni</string>
+    <string name="piloting_settings_gyroscope_speed_and_directions">"GIROSCOPIO:
+Velocità e direzione"</string>
+    <string name="piloting_settings_high">Alto</string>
+    <string name="piloting_settings_home_position">Posizione del ritorno al punto di partenza</string>
+    <string name="piloting_settings_hydrofoil_pool_size">Dimensioni della zona</string>
+    <string name="piloting_settings_hydrofoil_speed">Velocità in Hydrofoil</string>
+    <string name="piloting_settings_infos">Info</string>
+    <string name="piloting_settings_infos_descritpion">Versioni</string>
+    <string name="piloting_settings_jog_directions">"JOG:
+Direzioni"</string>
+    <string name="piloting_settings_jog_elevation_rotation">"JOG:
+Elevazioni e rotazioni"</string>
+    <string name="piloting_settings_jog_swipe">"SWIPE:
+Pivot rapide"</string>
+    <string name="piloting_settings_low">Basso</string>
+    <string name="piloting_settings_max_altitude">Altitudine max.</string>
+    <string name="piloting_settings_max_distance">Distanza max.</string>
+    <string name="piloting_settings_max_inclination_speed">Velocità di inclinazione max</string>
+    <string name="piloting_settings_max_pitch">altezza massima</string>
+    <string name="piloting_settings_max_pitch_speed">Velocità di inclinazione max.</string>
+    <string name="piloting_settings_max_rotation_speed">"Velocità
+di rotazione max."</string>
+    <string name="piloting_settings_max_tilt">Inclinazione max.</string>
+    <string name="piloting_settings_max_vertical_speed">"Velocità
+verticale max."</string>
+    <string name="piloting_settings_min_altitude">Altitudine min.</string>
+    <string name="piloting_settings_minidrone_hardware_version">Versione hardware</string>
+    <string name="piloting_settings_minidrone_software_version">Versione software</string>
+    <string name="piloting_settings_network">Rete</string>
+    <string name="piloting_settings_network_2_4">2.4 GHz</string>
+    <string name="piloting_settings_network_5">5 GHz</string>
+    <string name="piloting_settings_network_all">Tutto</string>
+    <string name="piloting_settings_network_band">Band</string>
+    <string name="piloting_settings_network_description">Impostazioni di rete</string>
+    <string name="piloting_settings_network_hint">La password deve contenere almeno 8 caratteri.</string>
+    <string name="piloting_settings_network_localisation">Localizzazione</string>
+    <string name="piloting_settings_network_manual">Manuale</string>
+    <string name="piloting_settings_network_network_name">Nome rete</string>
+    <string name="piloting_settings_network_security">Sicurezza</string>
+    <string name="piloting_settings_network_security_deactivated">Inserire una password per attivare la sicurezza WPA2</string>
+    <string name="piloting_settings_network_security_desc">"Il drone deve ripartire dopo aver modificato la password o dopo la disattivazione di sicurezza WPA2. 
+Questa password verrà richiesta alla prossima connessione."</string>
+    <string name="piloting_settings_network_security_reboot">Il drone deve ripartire dopo aver modificato la password o dopo la disattivazione di sicurezza WPA2.</string>
+    <string name="piloting_settings_normal">Normale</string>
+    <string name="piloting_settings_outdoor">Esterno</string>
+    <string name="piloting_settings_piloting">Controlli</string>
+    <string name="piloting_settings_piloting_description">Parametri del controllo</string>
+    <string name="piloting_settings_piloting_type">Modalità Pilotaggio</string>
+    <string name="piloting_settings_piloting_type_ace">Esperto</string>
+    <string name="piloting_settings_piloting_type_joypad">Joypad</string>
+    <string name="piloting_settings_piloting_type_normal">Normale</string>
+    <string name="piloting_settings_pitch_mode">Modalità beccheggio</string>
+    <string name="piloting_settings_pitch_mode_inverted">Invertito</string>
+    <string name="piloting_settings_pitch_mode_normal">Normale</string>
+    <string name="piloting_settings_position">Posizione</string>
+    <string name="piloting_settings_position_description">Impostazioni di velocità</string>
+    <string name="piloting_settings_position_title">Posizione, distanze e limiti</string>
+    <string name="piloting_settings_return_home_delay">"Tempo di attesa
+in seguito allo scollegamento"</string>
+    <string name="piloting_settings_return_home_drone">"Ritorno al punto di partenza
+(scelta del drone)"</string>
+    <string name="piloting_settings_return_home_first_fix">Primo fix</string>
+    <string name="piloting_settings_return_home_pilot_position">Posizione del pilota</string>
+    <string name="piloting_settings_return_home_take_off_position">Punto di decollo</string>
+    <string name="piloting_settings_return_home_user">"Ritorno al punto di partenza
+(scelta del pilota)"</string>
+    <string name="piloting_settings_slider_direction">"SLIDER:
+Direzioni"</string>
+    <string name="piloting_settings_slider_speed">"SLIDER:
+Velocità"</string>
+    <string name="piloting_settings_slow">Lenta</string>
+    <string name="piloting_settings_unknown_application_version">versione non riconosciuta</string>
+    <string name="piloting_settings_unused_value">Non utilizzato</string>
+    <string name="piloting_settings_very_close">Molto vicino</string>
+    <string name="piloting_settings_very_far">Molto in linea</string>
+    <string name="piloting_settings_very_fast">Molto rapido</string>
+    <string name="piloting_settings_very_high">Molto alto</string>
+    <string name="piloting_settings_very_low">Molto basso</string>
+    <string name="piloting_settings_very_slow">Molto lento</string>
+    <string name="piloting_shake_drone_start">Lanciare il drone per iniziare.</string>
+    <string name="piloting_shake_drone_take_off">Avviare il drone per decollare</string>
+    <string name="pilotings_profile">pilotaggi</string>
+    <string name="pitch">Beccheggio</string>
+    <string name="pitot_tube">Tubo di Pitot</string>
+    <string name="place_map">Luogo</string>
+    <string name="plan_already_exist">“%s” esiste già</string>
+    <string name="plan_not_saved">Piano di volo non salvato</string>
+    <string name="plan_not_saved_warning">Mappa non salvata</string>
+    <string name="plan_replace">Vuoi cambiarlo?</string>
+    <string name="please_allow_pairing">Controlla la barra di notifica e consenti la richiesta di associazione Bluetooth</string>
+    <string name="please_check_the_email_format">"Controlla il formato dell'e-mail"</string>
+    <string name="please_connect_to_internet">Collegati ad internet</string>
+    <string name="please_connect_to_internet_message">Collegati ad internet</string>
+    <string name="please_connect_your_device_to_internet_to_preload_the_flight_plan_background_map">Collega il dispositivo a Internet per precaricare la mappa in background del piano di volo.</string>
+    <string name="please_connect_your_drone">Collega il tuo drone</string>
+    <string name="please_create_a_channel_on_youtube">Creare un canale su http://www.youtube.com</string>
+    <string name="please_enter_your_email_address_to_activate_your_drone">Inserisci il tuo indirizzo e-mail per attivare il drone</string>
+    <string name="please_free_up_storage_space_on_your_device_to_make_download">"Per effettuare il download è necessario liberare spazio sul disco dell'apparecchio"</string>
+    <string name="please_put_the_drone_on_a_flat_surface">Posiziona il drone su una superficie piana</string>
+    <string name="please_switch_off_and_switch_on_again_your_bluetooth_to_restart_it">Per riavviare il Bluetooth, occorre disattivarlo e riattivarlo</string>
+    <string name="please_switch_to_indoor_settings">Passare al parametro Interno</string>
+    <string name="please_switch_to_outdoor_settings">Passare al parametro Esterno</string>
+    <string name="please_wait_while_the_drone_lands">Attendere, il drone sta atterrando…</string>
+    <string name="poi">Punto di interesse</string>
+    <string name="poi_types_map">Tipi di POI</string>
+    <string name="poland">Polonia</string>
+    <string name="pool_size">Dimensioni piscina</string>
+    <string name="portugal">Portogallo</string>
+    <string name="posture_action_name">Posizione</string>
+    <string name="posture_param_name">Posizione</string>
+    <string name="preload_a_section_of_the_world_map_for_offline_use">Precaricare uno sfondo mappa per utilizzo off-line.</string>
+    <string name="preload_cancel_button_text">Annulla</string>
+    <string name="preload_text_button">Precarica</string>
+    <string name="preloader_status_text_canceled">Annullato</string>
+    <string name="preloader_status_text_preloading">Precaricamento…</string>
+    <string name="preloader_status_text_preloading_failed">Precaricamento non riuscito.</string>
+    <string name="preloader_status_text_preloading_in_progress">Precaricamento in corso...</string>
+    <string name="preloader_status_text_preloading_successful">Precaricamento terminato.</string>
+    <string name="preloader_status_text_ready">Pronto</string>
+    <string name="preloading_help_text">Per visualizzare una mappa che mostra la posizione del drone in tempo reale durante il pilotaggio, è innanzitutto necessario precaricare lo sfondo per mostrarla anche in assenza di connessione internet. Centrare la mappa sul luogo in cui si intende utilizzare il drone e premere il pulsante Precarica.</string>
+    <string name="processing_update">Aggiornamento in corso</string>
+    <string name="product_choice">Scelta prodotto</string>
+    <string name="product_name">Nome del prodotto</string>
+    <string name="product_type">Tipo di prodotto</string>
+    <string name="product_up_to_date">Il dispositivo è aggiornato</string>
+    <string name="profile_address">Indirizzo</string>
+    <string name="profile_biography">Bio</string>
+    <string name="profile_birthday">Data di nascita</string>
+    <string name="profile_city">Città</string>
+    <string name="profile_country">Paese</string>
+    <string name="profile_creation">Creazione profilo</string>
+    <string name="profile_edit">Modifica</string>
+    <string name="profile_edit_academy_error">Questa pagina non è accessibile per il momento. Riprovare più tardi</string>
+    <string name="profile_edit_avatar_bad_picture">Impossibile scegliere questa immagine</string>
+    <string name="profile_edit_canceling">Annullamento</string>
+    <string name="profile_edit_connect_account">"Connetti l'account"</string>
+    <string name="profile_edit_delete_account_button">"Cancellazione dell'account"</string>
+    <string name="profile_edit_delete_account_description">Cancellando il tuo account, tutti i tuoi dati di pilotaggio e le prestazioni andranno persi</string>
+    <string name="profile_edit_delete_account_question">Vuoi cancellare il tuo account?</string>
+    <string name="profile_edit_invalid_email">E-mail non valida</string>
+    <string name="profile_edit_invalid_website">Sito web non valido</string>
+    <string name="profile_edit_loading">Caricamento in corso...</string>
+    <string name="profile_edit_register">Registra il tuo profilo</string>
+    <string name="profile_edit_registration_success">Profilo aggiornato</string>
+    <string name="profile_edit_registration_title">Registrazione</string>
+    <string name="profile_edit_save">Salva</string>
+    <string name="profile_edit_sharing">Scegliere le impostazioni di condivisione di default per i tuoi pilotaggi. Selezionando “Pubblico”, tutti i pilotaggi saranno visibili direttamente in Parrot Cloud.</string>
+    <string name="profile_edit_sharing_private">Privato</string>
+    <string name="profile_edit_sharing_public">Pubblico</string>
+    <string name="profile_edit_title">Modifica profilo</string>
+    <string name="profile_email">e-mail</string>
+    <string name="profile_facebook">Facebook</string>
+    <string name="profile_first_name">Nome</string>
+    <string name="profile_gcu">"Applicazione AR.FreeFlight 3
+
+
+1. Note legali
+
+L'applicazione AR.FreeFlight 3 (e le sue versioni successive) è pubblicata da PARROT SA, una società di diritto francese con un capitale sociale di 1.934.920.57 euro la cui sede centrale è situata al 174-178 di quai de Jemmapes a Parigi (75010) Francia, iscritta al Registro del commercio di Parigi con il numero 394 149 496. 
+
+
+2. Termini d'uso
+
+L'applicazione AR.FreeFlight 3 (e le sue versioni successive) ti consentirà di pilotare l'AR.Drone e l'AR.Drone 3, scattare foto, fare video, condividere contenuto e partecipare al forum dei piloti attraverso l'AR.Drone Academy.
+
+Accettazione dei termini d'uso
+L'accesso e l'utilizzo dell'applicazione AR.FreeFlight 3 (\"l'Applicazione\") implica l'accettazione di questi termini d'uso. Se non accetti i presenti termini d'uso, ti chiediamo di non consultare, navigare nell'applicazione, né usare i nostri servizi.
+
+Questi termini d'uso possono essere modificati da Parrot in qualsiasi momento. Tali termini d'uso modificati entreranno in vigore al momento della pubblicazione sul nostro sito web o le nostre applicazioni. Ti incoraggiamo a verificarli regolarmente. Inoltre, specifiche procedure e condizioni possono essere applicate al contenuto, ai prodotti, ai materiali, ai servizi o a specifiche informazioni contenute o disponibili in altri siti o applicazioni Parrot o di terzi. Queste specifiche condizioni possono essere in aggiunta a questi termini d'uso o sostituirli in casi definiti espressamente. 
+
+Parrot si riserva il diritto di effettuare modifiche o aggiornamenti al contenuto o alle visualizzazioni dell'Applicazione in qualsiasi momento senza preavviso. Parrot si riserva il diritto di eliminare o limitare l'accesso all'Applicazione per qualsiasi motivo, a sua esclusiva discrezione. 
+
+Politica di utilizzo
+Quando usi l'Applicazione per pilotare l'AR.Drone, accetti di rispettare le seguenti regole: 
+Leggere attentamente la guida d'uso fornita con l'AR.Drone.
+Accertarsi di mantenere costantemente il controllo visivo dell'AR.Drone quando lo si usa, soprattutto per evitare il contatto tra il dispositivo e persone, animali o beni.
+L'uso dell'AR.Drone in alcuni luoghi pubblici (esempio: aeroporti, stazioni ferroviarie, ecc.) o su strade pubbliche può non essere autorizzato. Accertarsi che l'uso dell'AR.Drone sia autorizzato nel luogo in cui ci si trova. 
+Usare l'AR.Drone in modo da rispettare la privacy e i diritti d'immagine personali. 
+Quando il drone è usato nelle vicinanze di forti campi magnetici, onde radio o forte radiazione, la telecamera dell'AR.Drone può non trasmettere correttamente il video. La penetrazione di sabbia o polvere nell'AR.Drone, soprattutto nella telecamera, può causare la perdita permanente del funzionamento. 
+Non usare l'AR.Drone in condizioni meteorologiche sfavorevoli (pioggia, forte vento, neve) o quando le condizioni di visibilità non sono adeguate (di notte). 
+Tenere l'AR.Drone lontano da linee ad alta tensione, alberi, edifici, o qualsiasi altra area potenzialmente pericolosa. 
+Evitare l'uso dell'AR.Drone in un ambiente pieno di reti Wi-Fi® (router, apparecchi internet). Un piccolo numero di reti Wi-Fi vicine migliorerà l'uso dell'AR.Drone. 
+Non usare l'Applicazione per scopi illegali o non autorizzati. Gli utenti internazionali accettano di rispettare tutte le leggi locali relative al pilotaggio di droni e alla pubblicazione del contenuto online. 
+Non si può pubblicare contenuto che incita all'odio o alla violenza, è minaccioso, è di natura pornografica, contiene nudità o violenza gratuita. 
+Non si può usare l'Applicazione e/o l'AR.Drone per scopi illeciti, illegali, dolosi o discriminatori.
+
+[###]Creare un account AR.Drone Academy
+Puoi creare un account AR.Drone Academy (\"l'Account\") per sfruttare i servizi dell'AR.Drone Academy come la registrazione di informazioni sui tuoi voli (dati, posizioni, foto e video), condividere foto e video con una community di utenti, ecc. (i \"Servizi\"):
+Tutte le informazioni che fornisci come parte della creazione di questo account devono essere accurate, e accetti di aggiornare i tuoi dati di registrazione per mantenerli accurati e completi. 
+Tutte le e-mail relative al tuo Account saranno inviate all'indirizzo e-mail associato al tuo Account. 
+Possiamo, a nostra discrezione, rifiutare la richiesta di creazione di un Account. 
+Acconsenti che Parrot possa memorizzare e utilizzare i tuoi dati di registrazione per gestire il tuo Account. 
+Non puoi creare un Account per qualcun altro senza l'autorizzazione di quella persona. 
+Devi tenere segreta la tua password così come le altre informazioni sul tuo Account e non comunicarle a nessun altro, per evitare l'uso illecito del tuo Account. 
+Sarai completamente responsabile della riservatezza e della sicurezza del tuo Account, e tutte le operazioni effettuate sul tuo Account o da esso, e acconsenti a informare immediatamente Parrot di qualsiasi violazione della sicurezza del tuo Account. 
+Se comunichi le informazioni del tuo Account a terzi usando il tuo Account in violazione di queste Condizioni o se ritieni che il tuo Account sia stato compromesso, il tuo Account e/o l'accesso ai Servizi possono essere sospesi o annullati. 
+Non saremo responsabili dell'uso non autorizzato del tuo Account. 
+
+Politica sulla privacy 
+La raccolta e l'elaborazione di dati personali attraverso l'Applicazione e i Servizi sono effettuate in conformità con la nostra Politica sulla privacy e le leggi di protezione dei dati. Ti incoraggiamo a consultare la nostra Politica sulla privacy per avere maggiori dettagli. 
+
+Proprietà intellettuale - marchi commerciali - copyright 
+Il tuo contenuto
+Parrot non reclama alcun diritto di proprietà intellettuale su foto, video, suoni, testi o qualsiasi altro contenuto (il \"Contenuto\") che posti attraverso l'Applicazione e/o i Servizi. Tale Contenuto rimarrà di tua proprietà. Pubblicando Contenuto sui Servizi attraverso l'Applicazione, garantisci a Parrot un diritto non esclusivo, gratuito e universale di usare, modificare, adattare, cancellare, rappresentare, visualizzare, riprodurre, distribuire e tradurre il tuo Contenuto condiviso sui Servizi, in tutto o in parte, in qualsiasi formato, su qualsiasi mezzo, ad eccezione del Contenuto che non è pubblicamente condiviso e non sarà distribuito al di fuori dei Servizi. 
+
+Sei tu a decidere chi può accedere al tuo Contenuto. Se condividi il tuo Contenuto sui social network così come sui servizi online e le applicazioni accessibili ad altri utenti, qualsiasi utente con cui condividi il tuo Contenuto può accedervi. Quando autorizzi altri utenti ad accedere al tuo Contenuto garantisci loro il diritto non esclusivo di usare, riprodurre, distribuire, visualizzare, trasmettere e comunicare il tuo Contenuto gratuitamente e pubblicamente. 
+
+Se autorizzi l'Applicazione a registrare la localizzazione delle tue foto e video, ti ricordiamo che la decisione di condividere il tuo Contenuto sui social network così come sui servizi online e applicazioni di Parrot e di terzi rischia di esporre queste informazioni sulla localizzazione a quelle applicazioni e servizi online così come ad altri. Quando scarichi il Contenuto usando funzioni di condivisione con Facebook, YouTube, Twitter, o qualsiasi altro servizio online, puoi usare le impostazioni per cancellare le informazioni sulla localizzazione rispetto al Contenuto che stai condividendo. Ti raccomandiamo di familiarizzarti con le politiche, le condizioni e le impostazioni di riservatezza di questi servizi e applicazioni online prima di usarli per condividere il tuo Contenuto. 
+
+Sarà tua responsabilità effettuare il backup del tuo Contenuto che memorizzi sull'Applicazione e/o sui Servizi. I tuoi dati e/o il tuo Contenuto possono essere cancellati in modo permanente se i Servizi sono sospesi o annullati. Non siamo obbligati in alcun caso a restituire i tuoi dati e/o il tuo Contenuto una volta che i Servizi sono sospesi o annullati. I dati e/o il Contenuto cancellati possono risultare irrecuperabili. Parrot non può essere considerata responsabile di qualsiasi modifica, sospensione o interruzione dei Servizi, o di perdita del tuo Contenuto. 
+
+Contenuto di Parrot
+Il nome e i loghi Parrot e Parrot AR.Drone sono marchi commerciali registrati di Parrot SA. I prodotti, servizi e accessori Parrot sono protetti da diritti di proprietà intellettuale e industriale, compresi i marchi commerciali, copyright, modelli e brevetti. I copyright e tutti i diritti di proprietà intellettuale nel contenuto di un sito Parrot e un'applicazione Parrot (compresi i modelli, i progetti, le fotografie, i testi, l'audio, i video e la grafica) sono e rimarranno di esclusiva proprietà di Parrot SA o usati con accordi di licenza. Tutti gli altri marchi commerciali e loghi sono e rimarranno di proprietà dei loro rispettivi proprietari. 
+
+[###]Garanzie
+Con la presente rappresenti e garantisci (i) che sei il legittimo proprietario di tutti i diritti di proprietà intellettuale del Contenuto pubblicato da te su o attraverso i Servizi e/o hai tutte le necessarie autorizzazioni per garantire i diritti in tale articolo e che l'uso del Contenuto non viola alcuna legge; (ii) la visualizzazione, l'uso e la condivisione del tuo Contenuto su o attraverso i Servizi non interferisce con copyright, diritti di proprietà intellettuale, o altri diritti di proprietà o diritti di pubblicità, o diritti alla privacy di terzi. 
+
+Possiamo rifiutare di pubblicare il tuo Contenuto per qualsiasi motivo. Possiamo cancellare il tuo Contenuto dai Servizi in qualsiasi momento per una qualsiasi ragione, specificatamente se: (i) violi questo accordo; (ii) il Contenuto non rispetta i limiti stabiliti nei termini di memorizzazione e dimensioni del file; o (iii) annulliamo o sospendiamo i Servizi. 
+
+Manleverai e terrai indenne PARROT da ogni reclamo o obiezione collegati al Contenuto, proveniente da terzi che invocano violazioni di qualsiasi diritto, e specificatamente contro ogni azione per trasgressione e/o concorrenza sleale e/o parassitismo eseguito da qualsiasi terzo sull'esecuzione o l'uso del tuo Contenuto, e questo per tutto il termine della cessione accordata. Nel caso in cui fossero avviati procedimenti giudiziari da terzi contro PARROT in relazione al tuo Contenuto, con il presente riconosci e accetti la responsabilità per tutte le conseguenze pregiudizievoli che potrebbero risultare da tali procedimenti e indennizzerai PARROT per tutte le perdite subite e/o le spese sostenute in relazione a tale procedimento. 
+
+Limitazione di responsabilità
+Nonostante tutta l'attenzione che Parrot ha posto nello sviluppo dell'Applicazione e dei Servizi in termini di accuratezza, precisione e completezza delle informazioni fornite, Parrot né alcuna delle sue società affiliate accetterà responsabilità nel caso di informazioni non accurate. TUTTO IL CONTENUTO È FORNITO \"COSÌ COM'È\" E SECONDO LA DISPONIBILITÀ. PARROT NON OFFRE ALCUNA GARANZIA DI NESSUN GENERE, ESPRESSA O IMPLICITA, INCLUSA MA NON LIMITATA ALLA GARANZIA CHE TUTTI I PRODOTTI E SERVIZI SONO DISPONIBILI, COMMERCIABILI, ADATTI PER UNO SCOPO PARTICOLARE, POSSONO ESSERE USATI SENZA VIOLARE I DIRITTI DI TERZI, NÉ ALCUNA GARANZIA RELATIVA AL FUNZIONAMENTO DELL'APPLICAZIONE STESSA O IL SUO CONTENUTO. L'UTENTE CON LA PRESENTE È AVVISATO CHE TUTTE LE INFORMAZIONI CHE INVIA POSSONO ESSERE INTERCETTATE DA TERZI. PARROT NON GARANTISCE CHE L'APPLICAZIONE O I SERVER CHE FORNISCONO L'ACCESSO A QUESTA APPLICAZIONE E AI SUOI SERVIZI O COMUNICAZIONI ELETTRONICHE INVIATE DA PARROT SIANO PRIVE DI VIRUS O ALTRI ELEMENTI DISTRUTTIVI. 
+
+IN NESSUN CASO PARROT E/O LE SUE SOCIETÀ AFFILIATE POTRANNO ESSERE CONSIDERATE RESPONSABILI PER QUALSIASI DANNO INDIRETTO O INCIDENTALE, O DANNO MORALE RISULTANTE, PROVENIENTE O IN COLLEGAMENTO CON L'USO O L'IMPOSSIBILITÀ DI USARE L'APPLICAZIONE, I SERVIZI O IL LORO CONTENUTO, ANCHE NEL CASO IN CUI PARROT FOSSE INFORMATO DELLA POSSIBILITÀ DI TALE DANNO. QUALSIASI AZIONE EFFETTUTA DALL'UTENTE DEVE ESSERE ESEGUITA ENTRO IL PERIODO DI UN ANNO DALLA DATA IN CUI LA CAUSA DEL DANNO È COMPARSA. Queste condizioni si applicano nel rispetto di qualsiasi norma obbligatoria della legge francese che è applicabile. 
+
+L'Applicazione e i Servizi possono contenere link ad altri siti web o applicazioni che non sono controllati da Parrot SA. Questi link sono forniti per la facilità di navigazione e né Parrot SA né alcuna delle sue società affiliate possono essere considerate responsabili per il contenuto o le funzionalità dei siti web accessibili attraverso questi link in alcun caso. Parrot SA e le sue società affiliate con il presente declinano ogni garanzia, espressa o implicita, relativa all'accuratezza, la legalità, l'affidabilità o la validità del contenuto e delle funzionalità di questi siti. Inoltre, né Parrot SA né le sue società affiliate raccomandano questi altri siti web. La consultazione di questi siti sarà sotto la tua responsabilità. 
+
+Contatto 
+Per qualsiasi domanda relativa a queste condizioni d'uso, usare il modulo di contatto via e-mail disponibile sul nostro sito al seguente indirizzo: http://www.parrot.com, Menu assistenza, usando il pulsante \"Contattaci via e-mail\".
+
+
+[###]3. Politica sulla privacy
+
+Ambito: Parrot rispetta i diritti alla privacy di tutte le persone. La nostra Politica sulla privacy ha l'obiettivo di spiegare come raccogliamo, usiamo e proteggiamo i tuoi dati personali. 
+
+Dati personali: designa tutti i dati che potrebbero identificare un individuo, un potenziale cliente, un cliente o un contatto professionale in modo diretto o indiretto. 
+
+Dati non personalmente identificabili: designa ogni dato che non potrebbe essere usato per identificare un individuo e che può essere raccolto automaticamente durante la tua navigazione di siti web e applicazioni. 
+
+Raccolta di informazioni: Possiamo raccogliere (i) dati personali identificabili come primo e secondo nome, cognome, età, sesso, indirizzi di posta, indirizzi e-mail, numeri di telefono, dati demografici e socio-comportamentali attraverso questionari online sui nostri siti web e/o attraverso le nostre applicazioni in occasione di promozioni, iscrizioni a una newsletter e/o servizi, creazione di un account, richieste di informazioni relative ai nostri prodotti e servizi, richieste per dimostrazioni e assistenza tecnica; e (ii) informazioni non personali come tipo di browser, lingua, data, ora e durata d'uso, pagine visitate, numero di video o foto visualizzati, ecc. durante la tua navigazione sui nostri siti e applicazioni. Questi dati possono essere conservati in forma identificabile o aggregata (in modo che gli individui non possano essere identificati). Quando dei dati non personalmente identificabili sono associati a dati personali, li tratteremo come dati personali mentre rimangono collegati. Puoi rifiutare la raccolta di dati non personalmente identificabili nelle impostazioni dell'applicazione. 
+
+Uso delle informazioni: Parrot può usare i tuoi dati personali e dati non personalmente identificabili: 
+
+• Per convalidare la tua registrazione su www.parrotpartners.com e www.certified.parrot.com, www.parrotoem.com, www.parrotcorp.com, www.parrot.com e tutti gli altri siti che Parrot può creare,
+• Per convalidare la tua registrazione sulle applicazioni mobili pubblicate da Parrot,
+• Per registrare l'acquisto dei tuoi prodotti, 
+• Per invitarti a partecipare a giochi, gare o estrazioni a sorte,
+• Per farti partecipare a sondaggi sui nostri prodotti o servizi, 
+• Per invitarti a testare i nostri nuovi prodotti, 
+• Per inviarti le nostre newsletter o informazioni sui nostri prodotti e servizi,
+• Per lo sviluppo e il test di nuovi prodotti, 
+• Per migliorare le relazioni con i consumatori, specificatamente in termini di servizio post-vendita, 
+• Per aiutarci a fornire informazioni sull'uso dei nostri prodotti e servizi,
+• Per migliorare i nostri prodotti e servizi ed effettuare analisi statistiche.
+
+Parrot non userà le tue informazioni personali per scopi commerciali, particolarmente per scopi di vendita di file e non trasferirà tali informazioni a società non affiliate.
+
+Trasferimento di informazioni: I dati personali possono essere divulgati e usati da società del Gruppo Parrot attraverso il mondo, a cond ione che siano state ottenute le necessarie autorizzazioni, se necessario. Divulgheremo i dati personali al di fuori del gruppo solo a qualsiasi fornitore di servizio contrattuale che elaborerà i dati personali a tuo beneficio. Quando lo facciamo, ci assicuriamo che siano adottate le adeguate misure per la protezione e la riservatezza come previsto contrattualmente. 
+
+Diritti individuali: Gli individui possono esercitare il loro diritto di accedere, correggere o cancellare i loro dati personali, o ritirare il loro consenso in qualsiasi momento, contattando il nostro Reparto Marketing scrivendo a webmastersparrot.com o contactsparrotpartners.com a seconda del sito che stanno visitando o anche rifiutando l'accesso a tecnologie come i cookie. 
+
+Conformità con la legge sulla protezione dei dati personali: Tutti i dati personali raccolti da Parrot sui siti web e le applicazioni sono usati ed elaborati in conformità con le norme europee che regolano la protezione dei dati personali e in adempimento di tutte le altre leggi e regolamenti locali applicabili, come eventualmente modificati di volta in volta. 
+
+Geolocalizzazione: Parrot può raccogliere, usare e condividere specifici dati di localizzazione, compresi dati di localizzazione in tempo reale dal tuo computer, smartphone, o AR.Drone per fornire servizi di geolocalizzazione relativi ai prodotti e servizi Parrot. Questi dati di localizzazione sono raccolti in modo anonimo in un formato che non può identificarti ed è usato da Parrot per fornire e migliorare i prodotti e servizi Parrot. 
+
+Cookie: I cookie sono file di testo capaci di memorizzare informazioni sull'hard disk del tuo computer come l'indirizzo IP e il sistema operativo che ci aiutano a riconoscere il tuo browser per ottimizzare la tua navigazione. I cookie non contengono alcun dato personale. I browser possono essere installati per informare le persone che è ricevuto un cookie. Questo consente alle persone di scegliere se accettare o no i cookie. 
+
+Link ad altri siti web: Il sito Parrot può contenere link ad altri siti web che non sono controllati da Parrot e non sono coperti dalla politica sulla privacy qui descritta. Se una persona accede ad altri siti usando questi link, gli operatori di questi siti possono raccogliere dati personali per le loro esigenze e secondo la loro politica sulla privacy. 
+
+Sicurezza: Parrot garantisce la sicurezza dei suoi sistemi informatici per proteggere i dati personali che riceve o invia e adotta le misure necessarie per evitare ogni accesso o divulgazione di questi dati a persone non autorizzate. 
+
+Modifìche alla politica sulla privacy: Parrot si riserva il diritto di aggiornare e rivedere questa politica di volta in volta per prendere in considerazione qualsiasi cambiamento nella legge o qualsiasi altro sviluppo. Qualsiasi cambiamento alla nostra politica sulla privacy sarà pubblicato su questa pagina che contiene la data dell'aggiornamento più recente. 
+
+
+© PARROT SA. Tutti i diritti riservati. 
+Aggiornato: Giugno 2012"</string>
+    <string name="profile_general_infos">Informazioni generali</string>
+    <string name="profile_google_plus">Google +</string>
+    <string name="profile_last_name">Cognome</string>
+    <string name="profile_logout">Logout</string>
+    <string name="profile_phone">Telefono</string>
+    <string name="profile_postal_code">Casella postale</string>
+    <string name="profile_psn">PSN</string>
+    <string name="profile_status">Status</string>
+    <string name="profile_steam">Steam</string>
+    <string name="profile_tab_about">Informazioni su</string>
+    <string name="profile_tab_my_infos">Le mie info</string>
+    <string name="profile_title">Profilo</string>
+    <string name="profile_twitter">Twitter</string>
+    <string name="profile_web_contacts">Contatti web</string>
+    <string name="profile_website">Sito web</string>
+    <string name="profile_xbox_live">Xbox Live</string>
+    <string name="profile_youtube">YouTube</string>
+    <string name="propeller_safety_cutout_triggered">arresto automatico di sicurezza delle eliche</string>
+    <string name="qatar">Qatar</string>
+    <string name="radius">Raggio</string>
+    <string name="radius_param_name">Raggio</string>
+    <string name="rate">Valuta</string>
+    <string name="rate_now">Valuta ora</string>
+    <string name="ready_to_update">"Pronto per l'aggiornamento"</string>
+    <string name="receiving_drone_information">Connessione al drone...</string>
+    <string name="receiving_file_step">"Ricevimento
+file"</string>
+    <string name="record_action_name">Registrare</string>
+    <string name="record_has_been_auto_stopped">La registrazione è stata fermata</string>
+    <string name="record_state_value_off">off</string>
+    <string name="record_state_value_on">on</string>
+    <string name="recording_param_name">Registrazione</string>
+    <string name="recording_settings">Impostazioni di registrazione</string>
+    <string name="red_action_name">Rosso</string>
+    <string name="red_led_side_param_name">Lato/i</string>
+    <string name="refuse">Rifiuto</string>
+    <string name="register_me">Registrami</string>
+    <string name="regular">Normale</string>
+    <string name="remind_me_later">Ricorda più tardi</string>
+    <string name="remote_control_reset">Riavvio del joystick</string>
+    <string name="remote_control_upload_failed_retry">"L'invio del file sul joystick è fallito. Vuoi ricominciare?"</string>
+    <string name="rename">Rinominare</string>
+    <string name="rename_my_drone">Rinominare drone</string>
+    <string name="rename_road_plan">Rinomina mappa</string>
+    <string name="rename_script_popup_cancel_button">Annulla</string>
+    <string name="rename_script_popup_rename_button">Rinomina</string>
+    <string name="renamed">%s rinominato</string>
+    <string name="replace">Sostituire</string>
+    <string name="requires_a_charger_with_a_minimum_intensity_of_1f_a_and_a_minimum_power_of_1f_w" formatted="false">"È necessario un caricatore con un'intensità minima di %.1f A e una potenza minima di %.1f W."</string>
+    <string name="reset">Riavviare</string>
+    <string name="reset_camera">Resettaggio telecamera</string>
+    <string name="restart_drone">Riavviare il drone</string>
+    <string name="restore_in_app_purchase">Ripristinare gli acquisti integrati</string>
+    <string name="restore_in_app_purchase_button_text">Ripristinare</string>
+    <string name="retry">Riprovare</string>
+    <string name="return_delay_if_connection_is_lost">Ritardo di ritorno in caso di perdita di connessione (secondi)</string>
+    <string name="return_position_of_the_bebop">Posizione di ritorno del Bebop</string>
+    <string name="return_to_homepage">Torna alla home page</string>
+    <string name="return_to_starting_point">Return Home</string>
+    <string name="right_side_green_led_choise">Destro</string>
+    <string name="right_side_red_led_choice">Destro</string>
+    <string name="road_plan_script_thumbnail_delete_button">Elimina</string>
+    <string name="road_plan_script_thumbnail_unknown_duration">N/D</string>
+    <string name="roadnplan">"Mappa
+del percorso"</string>
+    <string name="robot">Robot</string>
+    <string name="roll">Rollio</string>
+    <string name="roll_stabilization">Stabilizzazione rollio</string>
+    <string name="rolling__spider_version_too_old_message" formatted="false">La versione del %s è troppo vecchia, verificare gli aggiornamenti alla pagina internet seguente %s</string>
+    <string name="romania">Romania</string>
+    <string name="rotate">Girare</string>
+    <string name="russia">Russia</string>
+    <string name="saudi_arabia">Arabia Saudita</string>
+    <string name="save_your_current_plan">Salvare il piano di volo attuale?</string>
+    <string name="saved_flight_plans">Piani di volo salvati</string>
+    <string name="saved_plan">Piano salvato</string>
+    <string name="saved_plan_no">No</string>
+    <string name="saved_plan_yes">Sì</string>
+    <string name="saved_road_plans">Mappe salvate</string>
+    <string name="saving_flight_plan">Salvataggio piano di volo</string>
+    <string name="scanning">Ricerca</string>
+    <string name="sd_card">Scheda SD</string>
+    <string name="search_map">Ricerca</string>
+    <string name="searching_map">Ricerca in corso...</string>
+    <string name="second_unit">s</string>
+    <string name="see_details_last_drone_data">Vedi dettagli</string>
+    <string name="see_my_flight_statistics">Guardare le performance di volo</string>
+    <string name="see_my_piloting_statistics">Guardare le performance di pilotaggio</string>
+    <string name="select_country">Scelta del paese</string>
+    <string name="select_medias_to_make_a_movie_with_replay">Seleziona supporti multimediali per creare un video con REPLAY</string>
+    <string name="select_product_to_update">Scegliere il prodotto da aggiornare</string>
+    <string name="select_your_category">Seleziona la tua categoria</string>
+    <string name="send_alert_message">Inviare</string>
+    <string name="sending_all_settings">Invio di tutte le impostazioni...</string>
+    <string name="sending_all_states">Invio di tutti gli stati...</string>
+    <string name="sending_current_date">Invio della data corrente...</string>
+    <string name="sending_current_time">"Invio dell'ora corrente..."</string>
+    <string name="sending_file">Invio file</string>
+    <string name="sending_flight_plan">Invio piano di volo</string>
+    <string name="sensibility">Sensibilità</string>
+    <string name="sensor_alert_GPS">Notifica di sensore GPS difettoso</string>
+    <string name="sensor_alert_IMU">Notifica di sensore IMU difettoso</string>
+    <string name="sensor_alert_barometer">Notifica di sensore del barometro difettoso</string>
+    <string name="sensor_alert_magnetometer">Notifica di sensore del magnetometro difettoso</string>
+    <string name="sensor_alert_ultrasound">Notifica di sensore degli ultrasuoni difettoso</string>
+    <string name="sensor_alert_vertical_camera">Fotocamera verticale difettosa</string>
+    <string name="serial_number">Numero di serie</string>
+    <string name="settings">Impostazioni</string>
+    <string name="share">Condividere</string>
+    <string name="share_item_selected">1 elemento selezionato</string>
+    <string name="share_items_selected">%d elementi selezionati</string>
+    <string name="sharing_setting">Impostazioni di condivisione</string>
+    <string name="sharing_your_photo_on_facebook">Condivisione della tua foto su Facebook</string>
+    <string name="sign_in_profile">Iscrizione</string>
+    <string name="singapore">Singapore</string>
+    <string name="skip">Salta</string>
+    <string name="skycontroller2_calibration_explanation_text">"Ruotare SkyController 2 attorno ai suoi tre assi (come indicato nell'animazione)"</string>
+    <string name="skycontroller_calibration_explanation_text">"Ruotare lo SkyController sui tre assi (come mostrato nell'immagine)"</string>
+    <string name="skycontroller_connected">Connesso</string>
+    <string name="skycontroller_no_visible_wifi_networks">Nessuna rete Wi-Fi visibile</string>
+    <string name="skycontroller_password">Password</string>
+    <string name="skycontroller_please_enable_wifi">Attiva il Wi-Fi</string>
+    <string name="skycontroller_refresh">Aggiorna</string>
+    <string name="skycontroller_settings">Impostazioni SkyController</string>
+    <string name="skycontroller_settings_back">Indietro</string>
+    <string name="skycontroller_title">SkyController</string>
+    <string name="skycontroller_wifi_saved">Salvato</string>
+    <string name="skycontroller_wifi_secured">Protetto</string>
+    <string name="slalom">Slalom</string>
+    <string name="slalom_animation">Slalom</string>
+    <string name="slovakia">Slovacchia</string>
+    <string name="slovenia">Slovenia</string>
+    <string name="slow">Lenta</string>
+    <string name="slow_shake">Scossa</string>
+    <string name="slow_shake_animation">Scossa</string>
+    <string name="social_network__photo_" formatted="false">%s foto: %s</string>
+    <string name="social_network_bebop">bebop</string>
+    <string name="social_network_cancel">Annulla</string>
+    <string name="social_network_invalid_login_or_password">Login o password non validi</string>
+    <string name="social_network_jumping_sumo">jumpingsumo</string>
+    <string name="social_network_loading_albums">Album in caricamento…</string>
+    <string name="social_network_login">Login</string>
+    <string name="social_network_login_and_password_need_to_be_filled">Il login e la password devono essere indicati</string>
+    <string name="social_network_no_permission_granted">Nessuna autorizzazione concessa</string>
+    <string name="social_network_no_user_registered">Nessun utente registrato</string>
+    <string name="social_network_ok">OK</string>
+    <string name="social_network_password">Password</string>
+    <string name="social_network_rolling_spider">rollingspider</string>
+    <string name="social_network_select_your_album">Seleziona il tuo album</string>
+    <string name="social_network_sharing_your_video_on_facebook">Condividi il tuo video su Facebook</string>
+    <string name="social_network_uploading_photo">Foto in caricamento...</string>
+    <string name="social_network_uploading_video">Video in caricamento...</string>
+    <string name="social_network_video_" formatted="false">%s video: %s</string>
+    <string name="social_networks">Social Network</string>
+    <string name="software_version">Versione software</string>
+    <string name="south_africa">Sudafrica</string>
+    <string name="spain">Spagna</string>
+    <string name="speak_through">"Trasmissione 
+vocale"</string>
+    <string name="special_characters_are_not_authorized_for_the_drones_nickname">I caratteri speciali non sono autorizzati per il nickname dei Droni</string>
+    <string name="speed_action_name">Velocità</string>
+    <string name="speed_neutral_zone">"Zona neutra
+di velocità"</string>
+    <string name="speed_param_name">Velocità</string>
+    <string name="spin_animation">Rotazione</string>
+    <string name="spin_animation_road_plan">Rotazione</string>
+    <string name="spin_jump">Trottola saltata</string>
+    <string name="spin_jump_animation">Trottola saltata</string>
+    <string name="spin_to_posture">Trottola in posizione</string>
+    <string name="spiral_animation">Spirale</string>
+    <string name="standing_posture_choice">Standing</string>
+    <string name="start_free_trial">15 giorni di prova</string>
+    <string name="start_piloting">Inizia a pilotare</string>
+    <string name="starting_flight_plan">Avvio piano di volo</string>
+    <string name="state_led_parm_name">Stato</string>
+    <string name="stay_tuned">Rimani sintonizzato</string>
+    <string name="stay_tuned__an_error_has_occurred_please_try_again">Si è verificato un errore, riprovare.</string>
+    <string name="stay_tuned_email_sent">E-mail inviata</string>
+    <string name="stay_tuned_ok">Ok</string>
+    <string name="stay_tuned_please_check_that_the_email_address_is_in_the_correct_format_">"Verificare il formato dell'e-mail."</string>
+    <string name="stay_tuned_send">Invia</string>
+    <string name="stay_tuned_yes">Sì</string>
+    <string name="stay_tuned_your_email_address">La tua e-mail</string>
+    <string name="stop_animation_road_plan">Stop</string>
+    <string name="straight_action_name">Diritto</string>
+    <string name="succeeded_alert_message">Riuscita</string>
+    <string name="successfully_shared_your_photo_on_facebook">Foto condivisa con successo su Facebook</string>
+    <string name="successfully_shared_your_video_on_facebook">Video condiviso con successo su Facebook</string>
+    <string name="sweden">Svezia</string>
+    <string name="switch_off">Spegnere</string>
+    <string name="switzerland">Svizzera</string>
+    <string name="sync_data_failed">Sincronizzazione interrotta. Controllare la connessione internet.</string>
+    <string name="syncing_data">Sincronizzazione dei dati...</string>
+    <string name="taiwan">Taiwan</string>
+    <string name="take_off_landing">Decollo/Atterraggio</string>
+    <string name="take_picture_action_name">Scattare una foto</string>
+    <string name="take_pictures">Scattare foto</string>
+    <string name="taking_off_with_an_uncalibrated_drone_can_lead_to_an_unpredictable_behaviour_do_you_really_want_to_take_off">Taking off with an uncalibrated drone can lead to an unpredictable behaviour. Do you really want to take off?</string>
+    <string name="tap__animation">Tocco</string>
+    <string name="tap_animation">Tocco</string>
+    <string name="temperature_error">errore di temperatura</string>
+    <string name="thailand">Thailandia</string>
+    <string name="thank_you_enjoy_your_runs">Grazie! Divertiti a volare!</string>
+    <string name="thank_you_now_its_over_to_you_to_play">Grazie. Ora sta a te giocare!</string>
+    <string name="the_application_is_not_authorized_to_use_bluetooth_low_energy">"L'applicazione non è autorizzata a utilizzare il Bluetooth Low Energy"</string>
+    <string name="the_current_flight_plan_has_not_been_saved_do_you_really_want">Il piano di volo attuale NON è stato salvato. Vuoi davvero</string>
+    <string name="the_drone_is_not_calibrated">"
+- Il drone non è calibrato"</string>
+    <string name="the_drones_speed_will_be_bridled_when_flying_low">"
+- La velocità del drone sarà limitata alle basse altitudini"</string>
+    <string name="the_flight_plan_file_is_corrupted">"
+- Il file del piano di volo è corrotto"</string>
+    <string name="the_skycontroller2_is_calibrated">SkyController 2 è calibrato</string>
+    <string name="the_skycontroller_is_calibrated">Lo SkyController è calibrato</string>
+    <string name="the_wifi_connection_is_not_protected">La connessione Wi-Fi non è protetta</string>
+    <string name="the_wifi_connection_will_not_be_protected">La connessione Wi-Fi non sarà protetta</string>
+    <string name="this_module_requires_the_google_play_services">Questo modulo necessita dei servizi Google Play per funzionare</string>
+    <string name="this_password_will_be_asked_for_the_next_connection">Questa password verrà chiesta per la prossima connessione</string>
+    <string name="this_software_update_will_take_more_than_four_hours_using_bluetooth_40_and_wifi_will_be_disabled_but_it_will_take_less_than_one_minute_via_usb_do_you_want_to_continue">"L'aggiornamento del software integrato richiederà oltre 4 ore con Bluetooth 4.0 e il Wi-Fi sarà disattivato, ma richiederà meno di un minuto tramite USB. Continuare?"</string>
+    <string name="this_waypoint_can_not_be_deleted_because">Questo waypoint non può essere eliminato perché:</string>
+    <string name="tilt_modification_is_impossible">"Modifica dell'inclinazione non possibile."</string>
+    <string name="time_in_days">%d d</string>
+    <string name="time_in_hours">%d h</string>
+    <string name="time_in_minutes">%d m</string>
+    <string name="time_in_seconds">%d s</string>
+    <string name="time_unit_in_second">s</string>
+    <string name="timelapse_mode">Modalità timelapse</string>
+    <string name="title_for_drones">"Volo
+libero"</string>
+    <string name="title_text">Titolo</string>
+    <string name="tittle_for_jumping_sumo">"Percorso
+libero"</string>
+    <string name="to_channel">al canale</string>
+    <string name="to_control_your_drone_please_use">Per pilotare il vostro %s, utilizzate:</string>
+    <string name="to_control_your_drones_please_use">Per pilotare i vostri Minidroni, utilizzate:</string>
+    <string name="to_record_please_plug_a_storage_media_in_your_drone">Collegare una periferica di archiviazione al drone</string>
+    <string name="too_much_angle_alert">Avviso angolo eccessivo</string>
+    <string name="total_flight_time">Tempo di volo totale</string>
+    <string name="total_flight_time_last_drone_data">Tempo di volo totale</string>
+    <string name="transfer">Trasferimento</string>
+    <string name="transfer_completed">Trasferimento terminato</string>
+    <string name="truck_wheels_accessory">Ruote</string>
+    <string name="turkey">Turchia</string>
+    <string name="turn_action_name">Rotazione</string>
+    <string name="turn_neutral_zone">"Zona neutra
+di rotazione"</string>
+    <string name="turn_on_bluetooth">Attivare il Bluetooth</string>
+    <string name="twitter">Twitter</string>
+    <string name="type_of_charge">Tipo di carica</string>
+    <string name="unable_to_record_video">Impossibile registrare un video</string>
+    <string name="unable_to_take_off">"
+- Impossibile decollare"</string>
+    <string name="unavailable">Non disponibile</string>
+    <string name="unavailable_hur_first_line">Il radar a testa alta non è disponibile</string>
+    <string name="unavailable_hur_second_line">a causa dei dati mancanti</string>
+    <string name="united_arab_emirates">Emirati Arabi Uniti</string>
+    <string name="united_kingdom">Regno Unito</string>
+    <string name="united_states">Stati Uniti</string>
+    <string name="unknown">Sconosciuta</string>
+    <string name="unnamed_script">Script senza nome</string>
+    <string name="upate_google">Google</string>
+    <string name="update">Aggiornamento</string>
+    <string name="update_completed">Aggiornamento avvenuto correttamente</string>
+    <string name="update_connect_remote_controle">Collegare il joystick</string>
+    <string name="update_device">Vuoi aggiornare il drone?</string>
+    <string name="update_drone">"Vuoi aggiornare il drone?
+%1$s -> %2$s"</string>
+    <string name="update_firmware">Aggiornamento firmware</string>
+    <string name="update_found_do_you_want_to_download">Aggiornamento trovato. Vuoi scaricarlo?</string>
+    <string name="update_in_progress_">Aggiornamento in corso…</string>
+    <string name="update_mandatory">Aggiornamento richiesto</string>
+    <string name="update_profile">Aggiornamento</string>
+    <string name="update_required">Aggiornamento richiesto</string>
+    <string name="update_server_failure">Impossibile aggiornare il server</string>
+    <string name="update_title">Aggiornamento</string>
+    <string name="updating_runs_mpa">Aggiornamento tragitti</string>
+    <string name="upload_failed_retry">Caricamento del file sul drone fallito. Vuoi riavviarlo?</string>
+    <string name="upwards_jump_not_possible_jump_unavailability_reason">Salto in alto non disponibile</string>
+    <string name="usa_registration_explanation_text">"Sul territorio degli Stati Uniti, i proprietari di un drone devono iscriversi al registro UAS (Sistemi aerei senza pilota) della Federal Aviation Administration (FAA). Una legge federale del 21 dicembre 2015 impone l'iscrizione al registro UAS. In caso di mancata iscrizione, si può incorrere in sanzioni civili o penali."</string>
+    <string name="usa_registration_go_to_web_browser">La preghiamo di cliccare sul pulsante qui sotto per abbandonare FreeFlight e registrare il drone nel browser (connessione a Internet necessaria).</string>
+    <string name="usa_registration_register">Registra</string>
+    <string name="usa_registration_title">Registrazione UAS (USA)</string>
+    <string name="usb_key_not_found">Chiave USB non trovata</string>
+    <string name="use_commas_to_separate_multiple_email_addresses">Usa le virgole per separare più indirizzi e-mail</string>
+    <string name="user_script_animation">Script utente</string>
+    <string name="username_or_email_is_already_registered">{0} è già registrato</string>
+    <string name="using_joypad_mode_you_can_film_your_drone_while_piloting">Con la modalità JOYPAD è possibile filmare il drone durante il pilotaggio.</string>
+    <string name="venezuela">Venezuela</string>
+    <string name="ventilate">Ventilare</string>
+    <string name="vertical_sensibility">Sensibilità verticale</string>
+    <string name="video_autorecord">Autoregistrazione video</string>
+    <string name="video_mode">Modalità video</string>
+    <string name="video_mode_title">"Modalità 
+video"</string>
+    <string name="video_popup_title">Video</string>
+    <string name="video_recording_is_busy_please_wait_until_it_is_ready">Registrazione video non disponibile, attendere</string>
+    <string name="video_settings">Impostazioni video</string>
+    <string name="video_settings_anti_flickering_description">Questa opzione permette di ridurre il lampeggiamento causato dalla luce artificiale.</string>
+    <string name="video_settings_frame_rate">Frequenza delle immagini</string>
+    <string name="video_settings_priority">Priorità</string>
+    <string name="video_settings_priority_2">Massimizzare</string>
+    <string name="video_settings_priority_quality">Qualità del video</string>
+    <string name="video_settings_priority_time">Tempo di registrazione</string>
+    <string name="video_settings_record_quality">Qualità della registrazione</string>
+    <string name="video_settings_record_quality_description">Utilizzare la qualità Standard permette di aumentare la durata di registrazione.</string>
+    <string name="video_settings_record_quality_high">ALTA</string>
+    <string name="video_settings_record_quality_standard">STANDARD</string>
+    <string name="video_settings_record_resolution">Risoluzione della registrazione</string>
+    <string name="video_settings_record_resolution_description">Utilizzare 720p permette di migliorare la ritrasmissione video.</string>
+    <string name="video_settings_roll_stabilization_description">Se attivata, la linea dell’orizzonte si mantiene dritta durante le virate.</string>
+    <string name="video_settings_short">Video</string>
+    <string name="video_settings_stream_resolution">Risoluzione dello streaming:</string>
+    <string name="video_settings_video_resolution">Risoluzione del video</string>
+    <string name="video_settings_video_resolution_priority_record">Priorità registrazione</string>
+    <string name="video_settings_video_resolution_priority_stream">Priorità streaming</string>
+    <string name="video_stabilization">Stabilizzazione video</string>
+    <string name="videos_map">Video</string>
+    <string name="vietnam">Vietnam</string>
+    <string name="wait_action_name">Attesa</string>
+    <string name="warning">Attenzione</string>
+    <string name="warning__jump_motor_blocked">Attenzione: motore di salto bloccato</string>
+    <string name="warning__jump_motor_overheated">Attenzione: motore di salto surriscaldato</string>
+    <string name="warning_time_line">Attenzione</string>
+    <string name="warning_your_media_on_the_drone_will_be_lost_do_you_wish_to_update_your_drone_version">Attenzione, questo aggiornamento provoca la perdita delle foto e dei video salvati sul vostro drone. Procedere ora con l’aggiornamento?</string>
+    <string name="watch_my_new_video">Guardare questo nuovo video registrato su %s</string>
+    <string name="watch_this_photo_taken_from_my_parrot_">Guarda questa foto scattata dal mio Parrot %s</string>
+    <string name="watch_this_video_taken_from_my_parrot_drone" formatted="false">Guardare questo video registrato su %s #%s Parrot</string>
+    <string name="waypoint">Waypoint</string>
+    <string name="weak_gps_signal">"
+- Segnale GPS debole"</string>
+    <string name="welcome_buy_a_drone">Acquistare un drone</string>
+    <string name="welcome_to_drone_academy">Benvenuto su Parrot Cloud!</string>
+    <string name="welcome_to_the_world_of_parrot_drones">Benvenuto nel mondo dei droni Parrot!</string>
+    <string name="wifi_band">Banda Wi-Fi</string>
+    <string name="wifi_band_2.4_ghz_last_drone_data">2.4 GHz</string>
+    <string name="wifi_band_5_ghz_last_drone_data">5 GHz</string>
+    <string name="wifi_band_last_drone_data">Banda Wi-Fi</string>
+    <string name="wifi_channel">Canale Wi-Fi</string>
+    <string name="wifi_channel_last_drone_data">Canale Wi-Fi</string>
+    <string name="wifi_manager">Wi-Fi Manager</string>
+    <string name="wifi_settings">Parametri Wi-Fi</string>
+    <string name="wifi_specify_country">Si prega di specificare un paese per configurare la rete wi-fi.</string>
+    <string name="wifi_type">Tipo di Wi-Fi</string>
+    <string name="with_wpa2_protection_nobody_else_will_be_able_to_connect_your_drone">Con la protezione WPA2, nessun altro potrà connettersi al tuo drone</string>
+    <string name="would_you_like_to_save_the_current_plan_before_creating_a_new_one_creat_new_script">Desideri salvare il piano corrente prima di crearne uno nuovo?</string>
+    <string name="would_you_like_to_save_the_current_plan_before_loading_a_new_one_load_script">Desideri salvare il piano corrente prima di caricarne uno nuovo?</string>
+    <string name="wpa2">WPA2</string>
+    <string name="wpa2_security">Protezione WPA2</string>
+    <string name="wpa_password">Password WPA2</string>
+    <string name="wpa_password_8_chars_min__">Password WPA (min. 8 caratteri):</string>
+    <string name="wpa_password_error">"Password errata.
+"</string>
+    <string name="wrong_battery_cell_count">numero di celle errato nella batteria</string>
+    <string name="y_axis_inverted">Asse Y invertito</string>
+    <string name="yaw">Imbardata</string>
+    <string name="yes">SÌ</string>
+    <string name="yes_message">Sì</string>
+    <string name="you_are_not_authorized_to_switch_to_channel_">Non è consentito passare al canale</string>
+    <string name="you_have_an_old_version_more_information_chek_web_site" formatted="false">Hai una vecchia versione di %s. Per ulteriori informazioni, passa a %s.</string>
+    <string name="you_have_an_old_version_of_rolling_spider_go_to__for_more_information">La versione del Rolling Spider è troppo vecchia. Per ulteriori informazioni accedere dal computer alla pagina %s.</string>
+    <string name="you_must_be_connected_to_a_bebop_2">Occorre connettersi a un Bebop 2</string>
+    <string name="you_must_be_connected_to_a_bebop_drone">Occorre connettersi a un drone Bebop</string>
+    <string name="you_must_be_connected_to_a_disco">Occorre connettersi a Disco</string>
+    <string name="you_need_to_connect_a_headset_to_stream_audio">Per utilizzare lo streaming audio è necessario collegare le cuffie</string>
+    <string name="you_will_need_to_calibrate_your_drone_before_using_this_flight_plan">Prima di utilizzare questo piano di volo, è necessario calibrare il drone.</string>
+    <string name="your_application_is_to_old_you_have_to_update_it_before_using_your_drone__">"L'applicazione è troppo vecchia! Devi aggiornarla prima di utilizzare il drone."</string>
+    <string name="your_device_doesnt_support_bluetooth_low_energy">Questo dispositivo non supporta il Bluetooth Low Energy</string>
+    <string name="your_drone_hasnt_been_deleted_successfully_please_try_later">Il drone non è stato eliminato. Riprovare più tardi</string>
+    <string name="your_drone_hasnt_been_renamed_successfully_please_try_later">Il drone non è stato rinominato. Riprovare più tardi</string>
+    <string name="your_drone_needs_an_update_to_support_flight_plan">Il drone richiede un aggiornamento per supportare il piano di volo</string>
+    <string name="your_drone_needs_an_update_to_support_points_of_interest_and_progressive_courses">"È necessario un aggiornamento affinché il drone supporti i punti di interesse e l'andamento lineare"</string>
+    <string name="your_drone_will_restart_to_activate_wpa2_you_will_be_disconnected">Il tuo drone si riavvierà per attivare WPA2. Verrai disconnesso.</string>
+    <string name="your_drone_will_restart_to_disable_wpa2_you_will_be_disconnected">Il tuo drone si riavvierà per disattivare WPA2. Verrai disconnesso.</string>
+    <string name="your_email">Indirizzo e-mail</string>
+    <string name="your_email_is_invalid">Indirizzo e-mail non valido</string>
+    <string name="your_friends_email">"L'e-mail dei tuoi amici"</string>
+    <string name="your_invitation_has_been_delivered_with_success">Il tuo invito è stato inviato con successo</string>
+    <string name="youtube">YouTube</string>
+    <string name="youtube_error_time_out">Limite tempo superato</string>
+    <string name="youtube_unknown_error">Errore sconosciuto</string>
+    <string name="unknown_jump_unavailability_reason">.</string>
+</resources>

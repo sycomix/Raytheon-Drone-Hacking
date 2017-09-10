@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<merge
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <FrameLayout android:id="@id/layout_button_claw" android:padding="@dimen/piloting_accessory_button_padding" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_centerInParent="true">
+        <ImageView android:layout_gravity="center" android:id="@id/button_claw_switch" android:background="@drawable/pinch_closed" android:duplicateParentState="true" android:layout_width="@dimen/piloting_accessory_button_size" android:layout_height="@dimen/piloting_accessory_button_size" android:scaleType="centerInside" />
+        <View android:background="@drawable/circle_pressed_drawable" android:duplicateParentState="true" android:layout_width="@dimen/piloting_accessory_button_size" android:layout_height="@dimen/piloting_accessory_button_size" />
+    </FrameLayout>
+</merge>

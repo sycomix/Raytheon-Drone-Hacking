@@ -1,0 +1,8 @@
+.class public interface abstract Lcom/parrot/arsdk/arcommands/ARCommandARDrone3PilotingSettingsStateAutonomousFlightMaxHorizontalSpeedListener;
+.super Ljava/lang/Object;
+.source "ARCommandARDrone3PilotingSettingsStateAutonomousFlightMaxHorizontalSpeedListener.java"
+
+
+# virtual methods
+.method public abstract onARDrone3PilotingSettingsStateAutonomousFlightMaxHorizontalSpeedUpdate(F)V
+.end method

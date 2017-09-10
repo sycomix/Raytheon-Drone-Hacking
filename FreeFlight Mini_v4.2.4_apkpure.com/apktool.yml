@@ -1,0 +1,58 @@
+!!brut.androlib.meta.MetaInfo
+apkFileName: FreeFlight Mini_v4.2.4_apkpure.com.apk
+compressionType: false
+doNotCompress:
+- arsc
+- assets/embedded_firmware/090b_Mambo_plf_name_mandatory
+- assets/embedded_firmware/090b_is_delos3
+- assets/embedded_firmware/0910_Swing_plf_name_mandatory
+- assets/embedded_firmware/0910_is_wingx
+isFrameworkApk: false
+packageInfo:
+  forcedPackageId: '127'
+  renameManifestPackage: null
+sdkInfo:
+  minSdkVersion: '19'
+  targetSdkVersion: '23'
+sharedLibrary: false
+unknownFiles:
+  com/fasterxml/jackson/core/json/VERSION.txt: '8'
+  com/google/api/client/googleapis/google.jks: '8'
+  javax/servlet/LocalStrings.properties: '8'
+  javax/servlet/http/LocalStrings.properties: '8'
+  javax/servlet/jsp/resources/jsp_2_0.xsd: '8'
+  javax/servlet/jsp/resources/jsp_2_1.xsd: '8'
+  javax/servlet/jsp/resources/jspxml.dtd: '8'
+  javax/servlet/jsp/resources/jspxml.xsd: '8'
+  javax/servlet/jsp/resources/web-jsptaglibrary_1_1.dtd: '8'
+  javax/servlet/jsp/resources/web-jsptaglibrary_1_2.dtd: '8'
+  javax/servlet/jsp/resources/web-jsptaglibrary_2_0.xsd: '8'
+  javax/servlet/jsp/resources/web-jsptaglibrary_2_1.xsd: '8'
+  javax/servlet/resources/XMLSchema.dtd: '8'
+  javax/servlet/resources/datatypes.dtd: '8'
+  javax/servlet/resources/j2ee_1_4.xsd: '8'
+  javax/servlet/resources/j2ee_web_services_1_1.xsd: '8'
+  javax/servlet/resources/j2ee_web_services_client_1_1.xsd: '8'
+  javax/servlet/resources/javaee_5.xsd: '8'
+  javax/servlet/resources/javaee_web_services_client_1_2.xsd: '8'
+  javax/servlet/resources/jsp_2_0.xsd: '8'
+  javax/servlet/resources/jsp_2_1.xsd: '8'
+  javax/servlet/resources/web-app_2_2.dtd: '8'
+  javax/servlet/resources/web-app_2_3.dtd: '8'
+  javax/servlet/resources/web-app_2_4.xsd: '8'
+  javax/servlet/resources/web-app_2_5.xsd: '8'
+  javax/servlet/resources/xml.xsd: '8'
+  org/mortbay/jetty/encoding.properties: '8'
+  org/mortbay/jetty/favicon.ico: '8'
+  org/mortbay/jetty/mime.properties: '8'
+  org/mortbay/jetty/useragents: '8'
+  org/mortbay/jetty/webapp/webdefault.xml: '8'
+  org/mortbay/xml/configure_6_0.dtd: '8'
+usesFramework:
+  ids:
+  - 1
+  tag: null
+version: 2.2.4
+versionInfo:
+  versionCode: '4020400'
+  versionName: 4.2.4

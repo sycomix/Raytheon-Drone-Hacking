@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout android:orientation="vertical" android:id="@id/layout_force_update" android:padding="@dimen/force_update_layout_padding" android:layout_width="fill_parent" android:layout_height="fill_parent"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <TextView android:textSize="@dimen/force_update_title_size" android:gravity="center" android:layout_width="fill_parent" android:layout_height="wrap_content" android:text="@string/update" />
+    <LinearLayout android:gravity="center" android:orientation="vertical" android:layout_width="fill_parent" android:layout_height="fill_parent">
+        <ImageView android:id="@id/image_force_update" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginTop="@dimen/force_update_view_margin" android:layout_marginBottom="@dimen/force_update_view_margin" android:src="@drawable/icn_force_update" />
+        <TextView android:textSize="@dimen/force_update_title_size" android:gravity="center" android:id="@id/text_update_required" android:layout_width="fill_parent" android:layout_height="wrap_content" android:text="@string/update_required" android:textAllCaps="true" />
+        <TextView android:textSize="@dimen/force_update_text_size" android:gravity="center" android:id="@id/text_update_message" android:layout_width="fill_parent" android:layout_height="wrap_content" android:layout_marginTop="@dimen/force_update_view_half_margin" />
+        <Button android:textSize="@dimen/force_update_text_size" android:gravity="center" android:id="@id/button_update_ok" android:background="@drawable/button_selector" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginTop="@dimen/force_update_view_margin" android:layout_marginBottom="@dimen/force_update_view_margin" android:text="@string/ok" android:textAllCaps="true" android:paddingStart="@dimen/force_update_button_padding" android:paddingEnd="@dimen/force_update_button_padding" style="@style/SettingsButton" />
+    </LinearLayout>
+</LinearLayout>

@@ -1,0 +1,8 @@
+.class public interface abstract Lcom/parrot/arsdk/arcommands/ARCommandARDrone3GPSSettingsStateGPSUpdateStateChangedListener;
+.super Ljava/lang/Object;
+.source "ARCommandARDrone3GPSSettingsStateGPSUpdateStateChangedListener.java"
+
+
+# virtual methods
+.method public abstract onARDrone3GPSSettingsStateGPSUpdateStateChangedUpdate(Lcom/parrot/arsdk/arcommands/ARCOMMANDS_ARDRONE3_GPSSETTINGSSTATE_GPSUPDATESTATECHANGED_STATE_ENUM;)V
+.end method

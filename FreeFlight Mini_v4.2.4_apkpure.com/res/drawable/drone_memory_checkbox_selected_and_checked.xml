@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<layer-list
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <item>
+        <shape android:shape="rectangle"
+          xmlns:android="http://schemas.android.com/apk/res/android">
+            <solid android:color="@color/transparent_yellow" />
+            <stroke android:width="2.0dip" android:color="@color/yellow" />
+            <size android:height="@dimen/drone_memory_checkbox_size" android:width="@dimen/drone_memory_checkbox_size" />
+            <corners android:topLeftRadius="@dimen/drone_memory_checkbox_round_corner_size" android:topRightRadius="@dimen/drone_memory_checkbox_round_corner_size" android:bottomLeftRadius="@dimen/drone_memory_checkbox_round_corner_size" android:bottomRightRadius="@dimen/drone_memory_checkbox_round_corner_size" />
+        </shape>
+    </item>
+</layer-list>

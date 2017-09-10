@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout android:orientation="horizontal" android:id="@id/layout_piloting_info" android:padding="@dimen/profile_bloc_padding" android:layout_width="fill_parent" android:layout_height="wrap_content"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <LinearLayout android:orientation="horizontal" android:layout_width="0.0dip" android:layout_height="fill_parent" android:layout_weight="1.0">
+        <ImageView android:layout_gravity="center_vertical" android:id="@id/icon_time" android:layout_width="@dimen/profile_infos_icon_size" android:layout_height="@dimen/profile_infos_icon_size" android:src="@drawable/common_icn_duration" />
+        <TextView android:textSize="@dimen/profile_secondary_text_size" android:layout_gravity="center_vertical" android:id="@id/text_time" android:layout_width="wrap_content" android:layout_height="wrap_content" android:contentDescription="@string/academy_profile_cd_time" android:layout_marginStart="@dimen/profile_infos_margin" />
+    </LinearLayout>
+    <LinearLayout android:orientation="horizontal" android:layout_width="0.0dip" android:layout_height="fill_parent" android:layout_weight="1.0">
+        <ImageView android:layout_gravity="center_vertical" android:id="@id/icon_pilotings" android:layout_width="@dimen/profile_infos_icon_size" android:layout_height="@dimen/profile_infos_icon_size" android:src="@drawable/academy_icn_pilotings" />
+        <TextView android:textSize="@dimen/profile_secondary_text_size" android:layout_gravity="center_vertical" android:id="@id/text_pilotings" android:layout_width="wrap_content" android:layout_height="wrap_content" android:contentDescription="@string/academy_profile_cd_pilotings" android:layout_marginStart="@dimen/profile_infos_margin" />
+    </LinearLayout>
+    <LinearLayout android:orientation="horizontal" android:layout_width="0.0dip" android:layout_height="fill_parent" android:layout_weight="1.0">
+        <ImageView android:layout_gravity="center_vertical" android:id="@id/icon_crashes" android:layout_width="@dimen/profile_infos_icon_size" android:layout_height="@dimen/profile_infos_icon_size" android:src="@drawable/academy_icn_crash" />
+        <TextView android:textSize="@dimen/profile_secondary_text_size" android:layout_gravity="center_vertical" android:id="@id/text_crashes" android:layout_width="wrap_content" android:layout_height="wrap_content" android:contentDescription="@string/academy_profile_cd_crash" android:layout_marginStart="@dimen/profile_infos_margin" />
+    </LinearLayout>
+    <LinearLayout android:orientation="horizontal" android:layout_width="0.0dip" android:layout_height="fill_parent" android:layout_weight="1.0">
+        <ImageView android:layout_gravity="center_vertical" android:id="@id/icon_drones" android:layout_width="@dimen/profile_infos_icon_size" android:layout_height="@dimen/profile_infos_icon_size" android:src="@drawable/sidebar_icn_product_0900" />
+        <TextView android:textSize="@dimen/profile_secondary_text_size" android:layout_gravity="center_vertical" android:id="@id/text_drones" android:layout_width="wrap_content" android:layout_height="wrap_content" android:contentDescription="@string/academy_profile_cd_drone" android:layout_marginStart="@dimen/profile_infos_margin" />
+    </LinearLayout>
+</LinearLayout>

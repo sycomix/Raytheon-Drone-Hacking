@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<layer-list android:paddingBottom="5.0dip"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <item android:id="@id/thumb_background">
+        <shape android:shape="oval">
+            <solid android:color="@color/piloting_button_icon_tint" />
+        </shape>
+    </item>
+    <item android:id="@id/thumb_drawable">
+        <bitmap android:src="@drawable/common_light_button" android:tint="@color/piloting_button_icon_tint" />
+    </item>
+</layer-list>

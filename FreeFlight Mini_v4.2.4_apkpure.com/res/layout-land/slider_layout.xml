@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout android:orientation="horizontal" android:id="@id/layout_root_slider" android:background="@drawable/item_background_selector" android:paddingLeft="@dimen/settings_padding_row" android:paddingRight="@dimen/settings_padding_row" android:layout_width="fill_parent" android:layout_height="@dimen/settings_row_height"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <LinearLayout android:gravity="center" android:orientation="vertical" android:layout_width="@dimen/settings_name_width" android:layout_height="fill_parent">
+        <TextView android:textColor="@color/colorText" android:layout_gravity="center|left" android:id="@id/text_view_name" android:layout_width="@dimen/settings_name_width" android:layout_height="wrap_content" android:layout_marginRight="@dimen/settings_name_right_margin" />
+        <TextView android:textColor="@drawable/item_text_color_selector" android:layout_gravity="center|left" android:id="@id/text_settings_interpreted_value" android:layout_width="@dimen/settings_name_width" android:layout_height="wrap_content" android:layout_marginRight="@dimen/settings_name_right_margin" />
+    </LinearLayout>
+    <TextView android:textColor="@drawable/item_text_color_selector" android:layout_gravity="center" android:id="@id/text_value" android:layout_width="@dimen/settings_value_text_width" android:layout_height="wrap_content" />
+    <com.parrot.freeflight.settings.widget.Slider android:layout_gravity="center" android:id="@id/seekbar" android:paddingLeft="@dimen/settings_slider_left_padding" android:paddingTop="@dimen/settings_slider_padding" android:paddingRight="@dimen/settings_padding_row" android:paddingBottom="@dimen/settings_slider_padding" android:layout_width="fill_parent" android:layout_height="wrap_content" android:maxWidth="1.0dip" android:progressDrawable="@drawable/progress_bar_selector" android:minWidth="1.0dip" android:thumb="@drawable/slider_thumb_selector" style="?android:attr/progressBarStyleHorizontal" />
+</LinearLayout>

@@ -1,0 +1,8 @@
+.class public interface abstract Lcom/parrot/arsdk/arcommands/ARCommandJumpingSumoMediaStreamingStateVideoEnableChangedListener;
+.super Ljava/lang/Object;
+.source "ARCommandJumpingSumoMediaStreamingStateVideoEnableChangedListener.java"
+
+
+# virtual methods
+.method public abstract onJumpingSumoMediaStreamingStateVideoEnableChangedUpdate(Lcom/parrot/arsdk/arcommands/ARCOMMANDS_JUMPINGSUMO_MEDIASTREAMINGSTATE_VIDEOENABLECHANGED_ENABLED_ENUM;)V
+.end method

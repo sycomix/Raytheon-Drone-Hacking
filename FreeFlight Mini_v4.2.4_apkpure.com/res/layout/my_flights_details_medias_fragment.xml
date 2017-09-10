@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout android:orientation="vertical" android:layout_width="fill_parent" android:layout_height="fill_parent"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <GridView android:gravity="center" android:id="@id/gridview_my_flights_medias" android:layout_width="fill_parent" android:layout_height="fill_parent" android:horizontalSpacing="1.0dip" android:verticalSpacing="1.0dip" android:stretchMode="columnWidth" android:columnWidth="@dimen/my_flights_details_media_thumbnail_size" android:numColumns="auto_fit" />
+</LinearLayout>

@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<android.support.percent.PercentFrameLayout android:background="@drawable/splash_bg" android:layout_width="fill_parent" android:layout_height="fill_parent"
+  xmlns:android="http://schemas.android.com/apk/res/android" xmlns:app="http://schemas.android.com/apk/res-auto">
+    <ImageView android:layout_gravity="center|top" android:id="@id/image_loading" android:layout_width="fill_parent" android:layout_height="wrap_content" android:src="@drawable/helice" app:layout_widthPercent="7.0000052%" app:layout_marginTopPercent="14.999998%" />
+    <ImageView android:layout_gravity="center" android:id="@id/image_logo" android:layout_width="fill_parent" android:layout_height="wrap_content" android:src="@drawable/splash_title" android:contentDescription="@string/splash_logo_description" app:layout_widthPercent="29.999996%" app:layout_marginTopPercent="10.000002%" />
+</android.support.percent.PercentFrameLayout>

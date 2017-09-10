@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<merge
+  xmlns:android="http://schemas.android.com/apk/res/android" xmlns:custom="http://schemas.android.com/apk/res-auto">
+    <com.parrot.freeflight.piloting.ui.accessory.Swiper android:id="@id/swiper_gear_box" android:background="@drawable/drawable_wingx_swiper_background" android:layout_width="@dimen/wingx_accessory_swiper_width" android:layout_height="@dimen/wingx_accessory_swiper_height" android:layout_centerInParent="true" custom:thumbImage="@drawable/drawable_wingx_swiper_thumb" />
+    <ImageView android:id="@id/image_wingx_fly_mode" android:layout_width="wrap_content" android:layout_height="@dimen/light_close_button_size" android:src="@drawable/wingx_mode_quadri" android:scaleType="centerInside" android:tint="@color/piloting_button_icon_tint" android:layout_alignTop="@id/swiper_gear_box" android:layout_centerHorizontal="true" />
+    <Button android:textSize="@dimen/bottom_bar_font_size" android:id="@id/button_stop_plane_mode" android:background="@color/red" android:paddingLeft="@dimen/wingx_accessory_stop_bg_padding" android:paddingRight="@dimen/wingx_accessory_stop_bg_padding" android:visibility="invisible" android:layout_width="@dimen/drone_takeoff_button_width" android:layout_height="@dimen/drone_takeoff_button_height" android:tint="@color/piloting_button_icon_tint" android:text="@string/piloting_cd_stop" android:layout_alignParentBottom="true" android:layout_centerHorizontal="true" android:drawableTint="@color/piloting_button_icon_tint" />
+</merge>

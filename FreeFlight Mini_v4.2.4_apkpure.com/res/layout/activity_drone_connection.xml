@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout android:id="@id/layout_root" android:layout_width="fill_parent" android:layout_height="fill_parent"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <TextView android:textColor="@color/color_white_clickable_text_selector" android:gravity="center" android:id="@id/text_cancel" android:layout_width="wrap_content" android:layout_height="?android:actionBarSize" android:text="@string/cancel" android:layout_marginEnd="@dimen/toolbar_side_padding" android:layout_alignParentEnd="true" />
+    <FrameLayout android:layout_width="@dimen/drone_connection_status_layout_size" android:layout_height="@dimen/drone_connection_status_layout_size" android:layout_marginBottom="@dimen/drone_connection_image_margin" android:layout_above="@id/text_drone_name" android:layout_centerHorizontal="true">
+        <ImageView android:id="@id/image_done" android:visibility="gone" android:layout_width="fill_parent" android:layout_height="fill_parent" android:src="@drawable/ic_done_white_48dp" android:tint="@color/colorAccent" />
+        <ImageView android:layout_gravity="center" android:id="@id/image_loading" android:layout_width="fill_parent" android:layout_height="fill_parent" android:src="@drawable/ic_bluetooth_white_48dp" android:tint="@color/blue" />
+        <ImageView android:id="@id/image_error" android:visibility="gone" android:layout_width="fill_parent" android:layout_height="fill_parent" android:src="@drawable/ic_highlight_off_white_48dp" android:tint="@color/red" />
+    </FrameLayout>
+    <TextView android:textSize="@dimen/drone_connection_drone_name_text_size" android:textStyle="bold" android:gravity="center" android:id="@id/text_drone_name" android:layout_width="fill_parent" android:layout_height="wrap_content" android:layout_marginBottom="@dimen/drone_connection_drone_text_margin" android:layout_above="@id/text_discovering_status" />
+    <TextView android:gravity="center" android:id="@id/text_discovering_status" android:layout_width="fill_parent" android:layout_height="wrap_content" android:layout_centerInParent="true" />
+    <ImageView android:id="@id/image_product" android:layout_width="@dimen/drone_connection_drone_image_size" android:layout_height="@dimen/drone_connection_drone_image_size" android:layout_marginTop="@dimen/drone_connection_image_margin" android:layout_below="@id/text_discovering_status" android:layout_centerHorizontal="true" />
+</RelativeLayout>

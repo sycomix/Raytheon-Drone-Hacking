@@ -1,0 +1,1752 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="abc_action_bar_home_description">Navigeren naar startpositie</string>
+    <string name="abc_action_bar_home_description_format">%1$s, %2$s</string>
+    <string name="abc_action_bar_home_subtitle_description_format">%1$s, %2$s, %3$s</string>
+    <string name="abc_action_bar_up_description">Omhoog navigeren</string>
+    <string name="abc_action_menu_overflow_description">Meer opties</string>
+    <string name="abc_action_mode_done">Gereed</string>
+    <string name="abc_activity_chooser_view_see_all">Alles weergeven</string>
+    <string name="abc_activitychooserview_choose_application">Een app selecteren</string>
+    <string name="abc_capital_off">UIT</string>
+    <string name="abc_capital_on">AAN</string>
+    <string name="abc_search_hint">Zoeken…</string>
+    <string name="abc_searchview_description_clear">Zoekopdracht wissen</string>
+    <string name="abc_searchview_description_query">Zoekopdracht</string>
+    <string name="abc_searchview_description_search">Zoeken</string>
+    <string name="abc_searchview_description_submit">Zoekopdracht verzenden</string>
+    <string name="abc_searchview_description_voice">Gesproken zoekopdracht</string>
+    <string name="abc_shareactionprovider_share_with">Delen met</string>
+    <string name="abc_shareactionprovider_share_with_application">Delen met %s</string>
+    <string name="abc_toolbar_collapse_description">Samenvouwen</string>
+    <string name="common_google_play_services_api_unavailable_text">%1$s vereist een of meer Google Play-services die momenteel niet beschikbaar zijn. Neem contact op met de ontwikkelaar voor ondersteuning.</string>
+    <string name="common_google_play_services_enable_button">Google Play-services inschakelen</string>
+    <string name="common_google_play_services_enable_text">%1$s werkt niet, tenzij je Google Play-services inschakelt.</string>
+    <string name="common_google_play_services_enable_title">Google Play-services inschakelen</string>
+    <string name="common_google_play_services_install_button">Google Play-services ophalen</string>
+    <string name="common_google_play_services_install_text_phone">%1$s kan niet worden uitgevoerd zonder Google Play-services, die ontbreken op je telefoon.</string>
+    <string name="common_google_play_services_install_text_tablet">%1$s kan niet worden uitgevoerd zonder Google Play-services, die ontbreken op je tablet.</string>
+    <string name="common_google_play_services_install_title">Google Play-services ophalen</string>
+    <string name="common_google_play_services_invalid_account_text">Het opgegeven account bestaat niet op dit apparaat. Kies een ander account.</string>
+    <string name="common_google_play_services_invalid_account_title">Ongeldig account</string>
+    <string name="common_google_play_services_network_error_text">Er is een gegevensverbinding nodig om verbinding te maken met Google Play-services.</string>
+    <string name="common_google_play_services_network_error_title">Netwerkfout</string>
+    <string name="common_google_play_services_notification_ticker">Fout met Google Play-services</string>
+    <string name="common_google_play_services_restricted_profile_text">Toegang tot accounts uit een beperkt profiel wordt niet ondersteund.</string>
+    <string name="common_google_play_services_restricted_profile_title">Beperkt profiel</string>
+    <string name="common_google_play_services_sign_in_failed_text">Fout bij inloggen op het opgegeven account. Kies een ander account.</string>
+    <string name="common_google_play_services_sign_in_failed_title">Inloggen mislukt</string>
+    <string name="common_google_play_services_unknown_issue">%1$s ondervindt problemen met Google Play-services. Als het probleem aanhoudt, neem je contact op met de ontwikkelaar voor ondersteuning.</string>
+    <string name="common_google_play_services_unsupported_text">%1$s werkt met Google Play-services. Dit wordt niet ondersteund door je apparaat. Neem contact op met de fabrikant voor ondersteuning.</string>
+    <string name="common_google_play_services_unsupported_title">Google Play-services</string>
+    <string name="common_google_play_services_update_button">Updaten</string>
+    <string name="common_google_play_services_update_text">%1$s kan niet worden uitgevoerd, tenzij je Google Play-services updatet.</string>
+    <string name="common_google_play_services_update_title">Google Play-services updaten</string>
+    <string name="common_google_play_services_updating_text">%1$s kan niet worden uitgevoerd zonder Google Play-services, die momenteel worden geüpdatet.</string>
+    <string name="common_google_play_services_updating_title">Google Play-services worden geüpdatet</string>
+    <string name="common_google_play_services_wear_update_text">Er is een nieuwe versie van Google Play-services vereist. De update wordt binnenkort automatisch uitgevoerd.</string>
+    <string name="common_open_on_phone">Openen op telefoon</string>
+    <string name="common_signin_button_text">Inloggen</string>
+    <string name="common_signin_button_text_long">Inloggen met Google</string>
+    <string name="place_autocomplete_clear_button">Zoekopdracht wissen</string>
+    <string name="place_autocomplete_search_hint">Zoeken</string>
+    <string name="status_bar_notification_info_overflow">999+</string>
+    <string name="BluetoothPeripheral_privacy_mini">om uw minidrones te besturen en uw controller aan te sluiten</string>
+    <string name="BluetoothPeripheral_privacy_pro">om verbinding te maken met de Bluetooth-controllers</string>
+    <string name="CameraUsage_privacy_mini">om uw drone in vlucht te filmen</string>
+    <string name="CameraUsage_privacy_pro">om de Cockpitglasses Parrot te gebruiken</string>
+    <string name="Coordiante_last_drone_data">n.v.t.</string>
+    <string name="ME003004">Ophalen...</string>
+    <string name="ME003005">Kan het product niet verbinden</string>
+    <string name="ME003006">Kan geen verbinding maken...</string>
+    <string name="ME003010">Wissen</string>
+    <string name="ME003011">Wilt u deze media wissen?</string>
+    <string name="ME003012">Overdracht</string>
+    <string name="ME003013">Wilt u deze media overzetten?</string>
+    <string name="ME003014">Overzetten...</string>
+    <string name="ME003018">Bestand</string>
+    <string name="ME003020">Verwijderen…</string>
+    <string name="ME004003">Geen media</string>
+    <string name="PI100003">Noodwaarschuwing gebruiker</string>
+    <string name="PI100004">Waarschuwing stroomuitval</string>
+    <string name="PI100005">Waarschuwing kritische batterijspanning</string>
+    <string name="PI100006">Waarschuwing lage batterijspanning</string>
+    <string name="PhotoLibrary_privacy_pro">"om foto's en video's van uw vluchten op te slaan"</string>
+    <string name="Plan_cd_edit">Bewerken</string>
+    <string name="Plan_cd_folder">Map</string>
+    <string name="Plan_cd_go_back">Terugkeren</string>
+    <string name="Plan_cd_invalidate">Ongedaan maken</string>
+    <string name="Plan_cd_location">Lokalisatie</string>
+    <string name="Plan_cd_play">Spelen</string>
+    <string name="Plan_cd_speed">Snelheid</string>
+    <string name="Plan_cd_stop">Stoppen</string>
+    <string name="Plan_cd_switch_view_type">Weergave wijzigen</string>
+    <string name="Plan_cd_timeline">Timeline</string>
+    <string name="Plan_cd_undo">Annuleren</string>
+    <string name="Plan_cd_validate">Bevestigen</string>
+    <string name="a_axis">A-as</string>
+    <string name="a_new_plan">een nieuw vluchtplan?</string>
+    <string name="abort">Annuleren</string>
+    <string name="about">Over</string>
+    <string name="about_enter_email">Voer uw e-mail in</string>
+    <string name="about_enter_valid_email">Voer een geldig e-mailadres in</string>
+    <string name="about_information">Over</string>
+    <string name="about_legal_mentions">Wettelijke informatie</string>
+    <string name="about_legal_mentions_accept">Accepteren</string>
+    <string name="about_legal_mentions_refuse">Negeren</string>
+    <string name="about_share_data_title">Ik ga ermee akkoord mijn gegevens te verstrekken</string>
+    <string name="about_title">Over</string>
+    <string name="academy_error_already_registered">%s is al geregistreerd</string>
+    <string name="academy_error_cannot_reset_password">De aan dit e-mailadres gekoppelde gebruikersaccount kan het wachtwoord niet resetten.</string>
+    <string name="academy_error_connection">"Internetverbinding
+niet beschikbaar"</string>
+    <string name="academy_error_email_not_associated">Dit e-mailadres is niet gekoppeld aan een gebruikersaccount.</string>
+    <string name="academy_error_empty_fields">De gebruikersnaam en het wachtwoord zijn verplicht</string>
+    <string name="academy_error_generic">Er is een fout opgetreden, probeer het opnieuw</string>
+    <string name="academy_error_invalid">%s is ongeldig</string>
+    <string name="academy_error_required">%s is vereist</string>
+    <string name="academy_error_too_long">%s is te lang</string>
+    <string name="academy_login_connection">Verbinden</string>
+    <string name="academy_login_description">Maak een account aan om geavanceerde statistieken van uw vluchten te bekijken en te delen met de community.</string>
+    <string name="academy_login_error_auth">Verkeerde gebruikersnaam of wachtwoord</string>
+    <string name="academy_login_error_dialog_title">Aanmelding mislukt</string>
+    <string name="academy_login_forgotten_password">Ik ben mijn wachtwoord vergeten</string>
+    <string name="academy_login_not_signed_up">Nog niet aangemeld?</string>
+    <string name="academy_login_password">Wachtwoord</string>
+    <string name="academy_login_remember_me">Verbonden blijven</string>
+    <string name="academy_login_sign_up">Aanmelden</string>
+    <string name="academy_login_title">Gebruikersnaam</string>
+    <string name="academy_login_username">Gebruikersnaam</string>
+    <string name="academy_map">Parrot Cloud-kaart</string>
+    <string name="academy_profile_cd_adress">Adres</string>
+    <string name="academy_profile_cd_biography">Biografie</string>
+    <string name="academy_profile_cd_birthday">Verjaardag</string>
+    <string name="academy_profile_cd_city">Woonplaats</string>
+    <string name="academy_profile_cd_country">Land</string>
+    <string name="academy_profile_cd_crash">Crash</string>
+    <string name="academy_profile_cd_drone">Drone</string>
+    <string name="academy_profile_cd_email">E-mail</string>
+    <string name="academy_profile_cd_facebook">Facebook</string>
+    <string name="academy_profile_cd_firstname">Voornaam</string>
+    <string name="academy_profile_cd_google_plus">Google +</string>
+    <string name="academy_profile_cd_lastname">Achternaam</string>
+    <string name="academy_profile_cd_name">Naam</string>
+    <string name="academy_profile_cd_phone">Telefoon</string>
+    <string name="academy_profile_cd_pilotings">Besturingen</string>
+    <string name="academy_profile_cd_psn">PSN</string>
+    <string name="academy_profile_cd_save">Opslaan</string>
+    <string name="academy_profile_cd_status">Status</string>
+    <string name="academy_profile_cd_steam">Steam</string>
+    <string name="academy_profile_cd_time">Tijd</string>
+    <string name="academy_profile_cd_twitter">Twitter</string>
+    <string name="academy_profile_cd_website">Website</string>
+    <string name="academy_profile_cd_xbox_live">Xbox Live</string>
+    <string name="academy_profile_cd_youtube">Youtube</string>
+    <string name="academy_profile_time_hms">%1$d h %2$d m %3$d s</string>
+    <string name="academy_profile_time_ms">%1$d m %2$d s</string>
+    <string name="academy_profile_time_s">%d s</string>
+    <string name="academy_retrieve_password_dialog_title">Wachtwoord ophalen</string>
+    <string name="academy_retrieve_password_email_hint">E-mailadres</string>
+    <string name="academy_retrieve_password_error_cannot_reset_password">De aan dit e-mailadres gekoppelde gebruikersaccount kan het wachtwoord niet resetten.</string>
+    <string name="academy_retrieve_password_error_email">E-mailadres</string>
+    <string name="academy_retrieve_password_error_email_invalid">E-mailadres ongeldig</string>
+    <string name="academy_retrieve_password_error_email_not_associated">Dit e-mailadres is niet gekoppeld aan een gebruikersaccount.</string>
+    <string name="academy_retrieve_password_error_password">Wachtwoord</string>
+    <string name="academy_retrieve_password_error_something_is_already_registered">{0} is al geregistreerd</string>
+    <string name="academy_retrieve_password_error_something_is_invalid">{0} is geldig</string>
+    <string name="academy_retrieve_password_error_something_is_required">{0} is verplicht</string>
+    <string name="academy_retrieve_password_error_something_is_too_long">{0} is te lang</string>
+    <string name="academy_retrieve_password_error_username">Gebruikersnaam</string>
+    <string name="academy_retrieve_password_success">Uw wachtwoord is naar uw e-mailadres verzonden.</string>
+    <string name="academy_sign_up_agree_info">Ik wil per e-mail, sms of post informatie ontvangen over de producten en diensten van Parrot</string>
+    <string name="academy_sign_up_agree_terms">Ik ga akkoord met de algemene gebruiksvoorwaarden</string>
+    <string name="academy_sign_up_confirm_password">Wachtwoord bevestigen</string>
+    <string name="academy_sign_up_default_error">Gebruikersnaam of e-mailadres is al in gebruik</string>
+    <string name="academy_sign_up_email">E-mail</string>
+    <string name="academy_sign_up_error_email">E-mailadres ongeldig</string>
+    <string name="academy_sign_up_error_failure">Registratie mislukt</string>
+    <string name="academy_sign_up_error_login">Speciale tekens zijn niet toegestaan voor de gebruikersnaam</string>
+    <string name="academy_sign_up_error_passwords">De wachtwoorden zijn niet identiek</string>
+    <string name="academy_sign_up_error_terms">Accepteer de algemene gebruiksvoorwaarden</string>
+    <string name="academy_sign_up_register">Meld uw profiel aan</string>
+    <string name="academy_signup_title">Aanmelden</string>
+    <string name="accept">Accepteren</string>
+    <string name="accessory_choose_accessory_title">Kies uw accessoire</string>
+    <string name="accessory_configuration_question">Wat is uw configuratie?</string>
+    <string name="accessory_no_hull">Zonder kiel</string>
+    <string name="accessory_selection">Accessoires selecteren</string>
+    <string name="ace_piloting">Gevorderde besturing</string>
+    <string name="activate">Activeren</string>
+    <string name="activate_your_account_now">Activeer nu je account</string>
+    <string name="activate_your_drone_now">Activeer je drone!</string>
+    <string name="add_a_new_drone">Nieuwe drone toevoegen</string>
+    <string name="add_current">Huidige toevoegen</string>
+    <string name="alert_battery_level">Onvoldoende batterijniveau om de update uit te voeren</string>
+    <string name="all_map">Alles</string>
+    <string name="all_runs_map">Alle vluchten</string>
+    <string name="all_side_green_led_choise">Alles</string>
+    <string name="all_side_red_led_choice">Alles</string>
+    <string name="an_unknown_error_occured">"
+- Er is een onbekende fout opgetreden"</string>
+    <string name="angle_param_name">Hoek</string>
+    <string name="animation_action_name">Animatie</string>
+    <string name="animation_param_name">Animatie</string>
+    <string name="antiflickering_auto">Auto</string>
+    <string name="antiflickering_mode">Antiflickering mode</string>
+    <string name="applying_new_configuration">Nieuwe configuratie toepassen...</string>
+    <string name="are_you_sure">Weet je het zeker?</string>
+    <string name="are_you_sure_you_want_to_delete_me_">Weet u zeker dat u mij wilt verwijderen?</string>
+    <string name="are_you_sure_you_want_to_delete_this_run_">Weet u zeker dat u deze besturing wilt verwijderen?</string>
+    <string name="are_you_sure_you_want_to_delete_your_account">Weet u zeker dat u uw account wilt verwijderen?</string>
+    <string name="are_you_sure_you_want_to_disable_the_wpa2_protection_someone_else_might_be_able_to_connect_to_your_drone">Weet je zeker dat je de WPA2-beveiliging wilt uitschakelen? Iemand anders kan dan namelijk verbinding met je drone maken</string>
+    <string name="argentina">Argentinië</string>
+    <string name="ask_checking_for_updates">Zoeken naar updates</string>
+    <string name="ask_drone_reboot">Wilt u uw drone opnieuw opstarten? De verbinding wordt verbroken.</string>
+    <string name="ask_for_rating">"Uw mening is belangrijk voor ons.
+Als u plezier beleeft aan FreeFlight3, zou u dan even de tijd willen nemen om het te beoordelen?
+Het duurt maar even.
+Bedankt!"</string>
+    <string name="ask_uploading_last_files_from_flight">Wilt u de laatste foto of video uploaden die u tijdens het vliegen hebt opgenomen?</string>
+    <string name="ask_uploading_last_files_from_ride">Wilt u de laatste foto of video uploaden die u tijdens het rijden hebt opgenomen?</string>
+    <string name="ask_uploading_last_pictures_from_flight">Wilt u de laatste foto uploaden die u tijdens het vliegen hebt genomen?</string>
+    <string name="audio_settings_default">Standaard</string>
+    <string name="australia">Australië</string>
+    <string name="austria">Oostenrijk</string>
+    <string name="auto">Auto</string>
+    <string name="available_drones">Selecteer een drone</string>
+    <string name="awaiting_response_from_the_drone">Wachten op antwoord van de drone...</string>
+    <string name="banked_turn">Hellende bocht</string>
+    <string name="battery_info_charge_characteristics" formatted="false">Batterij-kenmerken: %.1f A - %.1f W.</string>
+    <string name="battery_info_charged">Geladen</string>
+    <string name="battery_info_charging">Wordt geladen</string>
+    <string name="battery_info_current_charge">Huidige lading</string>
+    <string name="battery_info_discharging">Ontladen</string>
+    <string name="battery_info_estimated_charge_time">Geschatte duur van een volledige oplading:</string>
+    <string name="battery_info_last_charge">Laatste oplading</string>
+    <string name="battery_info_rate_fast">Snel</string>
+    <string name="battery_info_rate_moderate">Middelmatig</string>
+    <string name="battery_info_rate_slow">Langzaam</string>
+    <string name="battery_info_rate_unknown">Onbekend</string>
+    <string name="battery_too_low_to_record">Batterijspanning te laag om op te nemen</string>
+    <string name="battery_voltage_out_of_bounds">onjuiste accuspanning</string>
+    <string name="be_sure_that_bluethooth_is_turned_on">Zorg ervoor dat Bluetooth is ingeschakeld</string>
+    <string name="be_sure_that_your_drone_is_turned_on">Zorg ervoor dat uw drone is ingeschakeld</string>
+    <string name="be_sure_to_be_connected_to_your_drone_wifi_network">Maak verbinding met het Wi-Fi-netwerk van uw drone</string>
+    <string name="beebop_version_too_old_message">De versie van je %s is te oud, kijk of er updates beschikbaar zijn</string>
+    <string name="belgium">België</string>
+    <string name="black_list_bebop">Uw product moet bijgewerkt worden</string>
+    <string name="black_list_jumping_sumo">Om veiligheidsredenen moet je je %s bijwerken voordat je hem kunt gebruiken.</string>
+    <string name="black_list_remotes">Uw product moet bijgewerkt worden</string>
+    <string name="black_list_rolling_spider" formatted="false">Om veiligheidsredenen moet je je %s bijwerken voordat je hem kunt gebruiken. Ga naar %s voor meer informatie.</string>
+    <string name="boost">Boost</string>
+    <string name="bootloader_error">fout bootloader</string>
+    <string name="brazil">Brazilië</string>
+    <string name="brightness_param">Helderheid</string>
+    <string name="bulgaria">Bulgarije</string>
+    <string name="buy">Kopen</string>
+    <string name="buy_a_drone">"Drone
+Kopen"</string>
+    <string name="buy_a_minidrone">Een minidrone kopen</string>
+    <string name="calibration_calibrate">Kalibreren</string>
+    <string name="calibration_description">Je gaat de drone kalibreren. Na deze snelle bewerking kun je buiten vliegen.</string>
+    <string name="calibration_error">Er is een probleem opgetreden!!</string>
+    <string name="calibration_j1">Kalibratie J1</string>
+    <string name="calibration_j2">Kalibratie J2</string>
+    <string name="calibration_land">Landen</string>
+    <string name="calibration_landing">Landen</string>
+    <string name="calibration_landing_drone">Wacht tot de drone is geland...</string>
+    <string name="calibration_message_dialog">Om buiten te vliegen moet de drone gekalibreerd worden.</string>
+    <string name="calibration_need_landing">"Je gaat de drone kalibreren. Na deze snelle bewerking kun je buiten vliegen. 
+Om de drone te kalibreren moet je hem vasthouden. Je moet hem dus laten landen of anders de kalibratie later uitvoeren."</string>
+    <string name="calibration_needed">"Kalibratie
+vereist"</string>
+    <string name="calibration_pitot_tube_title">Houd uw drone 5 seconden verticaal</string>
+    <string name="calibration_success">Kalibratie voltooid!</string>
+    <string name="calibration_title_dialog">Kalibreer de drone</string>
+    <string name="calibration_waiting_for_drone">Wachten op de drone…</string>
+    <string name="calibration_x_axis">As X (Roll)</string>
+    <string name="calibration_x_axis_procedure">Draai de drone om de x-as (zoals getoond in de animatie)</string>
+    <string name="calibration_y_axis">As Y (Pitch)</string>
+    <string name="calibration_y_axis_procedure">Draai de drone om de y-as (zoals getoond in de animatie)</string>
+    <string name="calibration_z_axis">As Z (Yaw)</string>
+    <string name="calibration_z_axis_procedure">Draai de drone om de z-as (zoals getoond in de animatie)</string>
+    <string name="camera_is_busy_please_retry_later">Camera is bezig, probeer het later opnieuw</string>
+    <string name="camera_pan">Camera pannen</string>
+    <string name="camera_settings_cd_aperture">Opening</string>
+    <string name="camera_settings_cd_frame_rate">Frequentie van de afbeeldingen</string>
+    <string name="camera_settings_cd_mode">instelmodus van de camera</string>
+    <string name="camera_settings_cd_recording_mode">Opnamemodus</string>
+    <string name="camera_settings_cd_recording_time">Opnametijd</string>
+    <string name="camera_settings_cd_shutter_speed">sluitersnelheid</string>
+    <string name="camera_settings_cd_white_balance">Witbalans</string>
+    <string name="camera_tilt">Camera kantelen</string>
+    <string name="canada">Canada</string>
+    <string name="cancel">Annuleren</string>
+    <string name="cancel_alert_message">Annuleren</string>
+    <string name="cant_take_picture">Kan geen foto maken</string>
+    <string name="cardboard_drone_disconnected">Verbinding met drone verbroken</string>
+    <string name="cardboard_drone_landing">Landen</string>
+    <string name="cardboard_emergency">Noodlanding</string>
+    <string name="cardboard_loiter">Zweven</string>
+    <string name="cardboard_no_recording">Neemt niet op</string>
+    <string name="cardboard_taking_off">Opstijgen</string>
+    <string name="cardboard_throw_your_drone">Start uw drone</string>
+    <string name="center_map_on_your_current_location">Centreren op positie</string>
+    <string name="change_channel">Kanaal wijzigen</string>
+    <string name="change_password">Wachtwoord wijzigen</string>
+    <string name="channel">Channel</string>
+    <string name="charge_settings_title">Laadinstellingen</string>
+    <string name="check_for_updates">Zoeken naar updates</string>
+    <string name="checking_version">Versie testen</string>
+    <string name="china">China</string>
+    <string name="circling_settings">Draai-instellingen</string>
+    <string name="circular_landing">Circulaire landing</string>
+    <string name="ckycontroller_b_button">B-knop</string>
+    <string name="close">Sluiten</string>
+    <string name="configure">Configureren</string>
+    <string name="confirmation_error">fout in bewering</string>
+    <string name="connect">Verbinden</string>
+    <string name="connect_headset">Koptelefoon aansluiten</string>
+    <string name="connect_to">Gelieve verbinding te maken met uw apparaat in %1$s</string>
+    <string name="connect_to_drone">Verbinding maken met een drone</string>
+    <string name="connect_to_internet">Maak verbinding met internet</string>
+    <string name="connect_to_remote_control">Verbinding maken met een afstandsbediening</string>
+    <string name="connect_to_your_drone">Maak verbinding met de drone</string>
+    <string name="connect_with_facebook">Verbinden met Facebook</string>
+    <string name="connect_your_remote_contoller">Verbinding maken met uw joystick</string>
+    <string name="connected_to_controller">Verbonden met een andere bediener</string>
+    <string name="connected_to_flypad">Verbonden met een Flypad</string>
+    <string name="connecting">Verbinden</string>
+    <string name="connecting_in_progress">Verbinden...</string>
+    <string name="connecting_to_wifi_popin">Verbinden...</string>
+    <string name="connection_has_failed_profile_creation">Inloggen mislukt</string>
+    <string name="connection_state_connected">Aangemeld</string>
+    <string name="connection_state_connecting">Verbinden...</string>
+    <string name="connection_state_disconnecting">Verbinding verbreken...</string>
+    <string name="connection_state_impossible_to_connect">Kan geen verbinding maken</string>
+    <string name="connection_to_wifi_popin_failed">Verbinden mislukt</string>
+    <string name="continue_message">Verder</string>
+    <string name="controller_calibration_needed">Kalibratie vereist</string>
+    <string name="controller_calibration_ok">Kalibratie OK</string>
+    <string name="controller_channel_error">De drone moet stilliggen om het Wi-Fi-kanaal te wijzigen</string>
+    <string name="controller_channel_warning">Door het Wi-Fi-kanaal te wijzigen, wordt de verbinding met de drone verbroken</string>
+    <string name="controller_hardware">(Hardware: %s)</string>
+    <string name="controller_mapping">De mapping bewerken</string>
+    <string name="controller_settings">Bediener</string>
+    <string name="controller_settings_short_title">Bediener</string>
+    <string name="controller_version">Versie %s</string>
+    <string name="copiloting_mode_disabled">Copilootmodus uitgeschakeld</string>
+    <string name="copiloting_mode_engaged">Copilootmodus ingeschakeld</string>
+    <string name="copy_plan_button_text">Kopiëren</string>
+    <string name="crach_academy_profile">%d ongeval</string>
+    <string name="craches_in_plurall_academy_profile">%d ongevallen</string>
+    <string name="create">Aanmaken</string>
+    <string name="create_an_academy_account_to_access_advanced_stats_about_your_pilotings_and_to_share_them_with_the_community">Maak een Parrot Cloud-account aan om geavanceerde statistieken van uw vluchten te bekijken en te delen met de community </string>
+    <string name="croatia">Kroatië</string>
+    <string name="current_channel">Current Channel</string>
+    <string name="current_version">Huidige versie</string>
+    <string name="curve">Kromme</string>
+    <string name="cyprus">Cyprus</string>
+    <string name="czech_republic">Tsjechische Republiek</string>
+    <string name="data_collection_cancel">Annuleren</string>
+    <string name="default_value">Standaardwaarde</string>
+    <string name="degree_per_second_unit">°/s</string>
+    <string name="degree_unit">°</string>
+    <string name="delete">Verwijderen</string>
+    <string name="delete_file">Bestanden verwijderen</string>
+    <string name="delete_file_confirm">Weet u zeker dat u deze bestanden wilt verwijderen?</string>
+    <string name="delete_file_singular_confirm">Do you really want to delete this file?</string>
+    <string name="delete_many_item">Wissen</string>
+    <string name="delete_param_button">Wissen</string>
+    <string name="delete_plural_files_confirm">Weet u het zeker dat u dit bestand wilt verwijderen?</string>
+    <string name="delete_script_popup_cancel_button">Annuleren</string>
+    <string name="delete_script_popup_delete_button">Wissen</string>
+    <string name="delete_single_file">Verwijderen van bestanden</string>
+    <string name="delete_this_flight_plan">Dit vliegplan verwijderen?</string>
+    <string name="delete_this_plan">Deze kaart verwijderen?</string>
+    <string name="delete_this_road_plan">Deze kaart verwijderen?</string>
+    <string name="denmark">Denemarken</string>
+    <string name="details_on_the_last_connected_drone">Gegevens van de laatst verbonden drone</string>
+    <string name="device_internal_memory">Intern geheugen</string>
+    <string name="direct_pairing_connect_now">Nu verbinding maken</string>
+    <string name="direct_pairing_direct_connection_message">"Een rechtstreekse verbinding tussen de drone en de bediener
+verhoogt de maximale afstand. De verbinding met uw smartphone wordt verbroken."</string>
+    <string name="direct_pairing_direct_connection_to_controller">Rechtstreekse verbinding met een controller</string>
+    <string name="direction_of_rotation">Rotatierichting</string>
+    <string name="director_mode">"Director
+mode"</string>
+    <string name="disable_wpa2">WPA2 uitschakelen</string>
+    <string name="disabled">Gedeactiveerd</string>
+    <string name="discover_parrot_drones">"Ontdek de 
+drones van Parrot"</string>
+    <string name="dismiss">Annuleren</string>
+    <string name="distance_param_name">Afstand</string>
+    <string name="do_you_want_to_change_the_channel">Wilt u het kanaal wijzigen</string>
+    <string name="do_you_want_to_connect_the_skycontroller_to">Wil je de SkyController verbinden met</string>
+    <string name="do_you_want_to_exit">Wil je stoppen?</string>
+    <string name="do_you_want_to_exit_the_piloting_interface">Wil je de besturingsinterface afsluiten?</string>
+    <string name="do_you_wish_to_modify_your_wpa2_password_or_deactivate_wpa2_security_">Wilt u uw WPA2-wachtwoord wijzigen of de WPA2-beveiliging deactiveren?</string>
+    <string name="do_you_wish_to_share_your_photo_on_facebook_">Wil je je foto delen op Facebook?</string>
+    <string name="do_you_wish_to_share_your_video_on_facebook_">Wil je je video delen op Facebook?</string>
+    <string name="do_you_wish_to_update_your_drone_version">Wilt u uw droneversie bijwerken?</string>
+    <string name="do_you_wish_to_update_your_remote_control">Wilt u uw joystick bijwerken?</string>
+    <string name="doesnt_support_your_android_device">ondersteunt uw Android-apparaat niet</string>
+    <string name="download">Downloaden</string>
+    <string name="download_failed_retry">Het downloaden is mislukt. Wilt u het opnieuw proberen?</string>
+    <string name="download_firmwares_step">Firmware downloaden</string>
+    <string name="download_latest_firmware">Wil je de laatste firmware-updates voor Parrot Minidrones downloaden</string>
+    <string name="download_latest_firmware_devices">Wilt u de laatste versie downloaden?</string>
+    <string name="drag_an_action_here">Sleep hier een actie naartoe</string>
+    <string name="drone_academy">Parrot Cloud</string>
+    <string name="drone_academy_parrot__minidrones_minidrone_mini_drone_rolling_spider_rollingspider_parrot_rolling_spider_drone_academy_parrot_academy_freeflight3">Droneacademy, Parrot, , MiniDrones, MiniDrone, Mini Drone, Rolling Spider, RollingSpider, Parrot Rolling Spider, Drone Academy, Parrot Academy, FreeFlight3</string>
+    <string name="drone_academy_parrot_bebop_drone_bebop_parrot_bebop_drone_drone_academy_parrot_academy_freeflight3">Droneacademy, Parrot, Bebop Drone, Bebop, Parrot Bebop Drone, Drone Academy, Parrot Academy, FreeFlight3</string>
+    <string name="drone_academy_parrot_minidrones_minidrone_mini_drone_jumping_sumo_parrot_jumping_sumo_jumpingsumo_drone_academy_parrot_academy_freeflight3">Droneacademy, Parrot, MiniDrones, MiniDrone, Mini Drone, Jumping Sumo, Parrot Jumping Sumo, JumpingSumo, Drone Academy, Parrot Academy, FreeFlight3</string>
+    <string name="drone_academy_profile">%d drone</string>
+    <string name="drone_activated">Activering van de drone</string>
+    <string name="drone_calibration_required">De drone moet worden gekalibreerd!</string>
+    <string name="drone_initialization">Gebruik van drone</string>
+    <string name="drone_memory_deselect_all">Deselect All</string>
+    <string name="drone_memory_full">Geheugen vol</string>
+    <string name="drone_memory_select_all">Select All</string>
+    <string name="drone_message_cancel">Annuleren</string>
+    <string name="drone_message_ok">OK</string>
+    <string name="drone_message_warning">Waarschuwing</string>
+    <string name="drone_renamed">Naam drone gewijzigd</string>
+    <string name="drone_reset">Drone resetten</string>
+    <string name="drone_school">Tutorial</string>
+    <string name="drone_store">Dronewinkel</string>
+    <string name="drone_up_to_date">De drone is up-to-date</string>
+    <string name="dronenacademy">"Parrot
+Cloud"</string>
+    <string name="drones_in_plural_academy_profile">%d drones</string>
+    <string name="drones_profile">drones</string>
+    <string name="duration_param_name">Duur</string>
+    <string name="duration_time_line">Duur:</string>
+    <string name="edit">Bewerken</string>
+    <string name="edit_country_none">None</string>
+    <string name="email">E-mail</string>
+    <string name="emergency_stop">noodstop</string>
+    <string name="enable_wpa2">WPA2 inschakelen</string>
+    <string name="enabled">Geactiveerd</string>
+    <string name="error">Fout</string>
+    <string name="error__flight_plan">Fout</string>
+    <string name="error_sending_flight_plan_please_try_again">Fout bij verzenden vliegplan, probeer het opnieuw.</string>
+    <string name="estonia">Estland</string>
+    <string name="exit">Verlaten</string>
+    <string name="exponential">Exponentieel</string>
+    <string name="facebook">Facebook</string>
+    <string name="failed_to_access_memory">geen toegang tot het geheugen</string>
+    <string name="failed_to_communicate_with_motor">communicatie met de motor mislukt</string>
+    <string name="failed_to_send_piloting_to_your_email">Fout bij het verzenden van de besturingen naar je e-mailadres</string>
+    <string name="failed_to_start_video">Video kon niet gestart worden</string>
+    <string name="failed_to_stop_video">Video kon niet gestopt worden</string>
+    <string name="fast">Snel</string>
+    <string name="feet_per_second_unit">ft/s</string>
+    <string name="feet_unit">ft</string>
+    <string name="file_enum" formatted="false">%d van %d</string>
+    <string name="files_transferred_do_you_want_to_delete_the_original_files_">bestand(en) overgezet. Wilt u het/de oorspronkelijke bestand(en) verwijderen?</string>
+    <string name="film_my_drone">"Mijn drone 
+filmen"</string>
+    <string name="film_plan">Flight Plan</string>
+    <string name="finishing_file_transfer_please_wait">Bezig met overdracht... Even geduld, aub...</string>
+    <string name="finland">Finland</string>
+    <string name="firmware">Firmware</string>
+    <string name="firmware_update_will_take_2_hours_with_bluetooth_40_it_will_take_less_than_one_minute_by_usb_do_you_want_to_continue">De firmware-update duurt 2 uur met Bluetooth 4.0, via USB duurt het minder dan een minuut. Doorgaan?</string>
+    <string name="firmware_update_will_take_35_minutes_with_bluetooth_40_it_will_take_less_than_one_minute_by_usb_do_you_want_to_continue_">"Firmware-update duurt 35 minuten met Bluetooth 4.0,
+via USB duurt het minder dan een minuut,
+doorgaan?"</string>
+    <string name="flight_limits_settings">Instellingen vluchtlimieten</string>
+    <string name="flight_plan_alert_title">Flight Plan</string>
+    <string name="flight_plan_angle">Hoek:</string>
+    <string name="flight_plan_angle_speed">Hoeksnelheid:</string>
+    <string name="flight_plan_default_value">Standaardwaarde</string>
+    <string name="flight_plan_format">Formaat:</string>
+    <string name="flight_plan_fps">fps</string>
+    <string name="flight_plan_interval">Interval:</string>
+    <string name="flight_plan_jpeg">JPEG</string>
+    <string name="flight_plan_jpeg_180">JPEG 180°</string>
+    <string name="flight_plan_landing">Landing</string>
+    <string name="flight_plan_pause">Pauze</string>
+    <string name="flight_plan_raw">Raw</string>
+    <string name="flight_plan_rotate">Draaien</string>
+    <string name="flight_plan_snapshot">Screenshot</string>
+    <string name="flight_plan_take_off">Vertrek</string>
+    <string name="flight_plan_take_picture">"Foto's nemen"</string>
+    <string name="flight_plan_tilt">Richting</string>
+    <string name="flight_plan_title">"Flight
+plan"</string>
+    <string name="flight_plan_video_recording">Video-opname</string>
+    <string name="flight_settings">Vlieginstellingen</string>
+    <string name="flightplan_component_calibration">Gelieve de drone te kalibreren om het plan te starten</string>
+    <string name="flightplan_component_file">De drone heeft een fout in het plan gedetecteerd. Gelieve dit te wijzigen en vervolgens opnieuw te proberen</string>
+    <string name="flightplan_component_gps">Gelieve te wachten op een beter GPS-signaal om het plan te starten</string>
+    <string name="flightplan_component_take_off">De drone weigert op te stijgen. Controleer of de drone geblokkeerd is</string>
+    <string name="flightplan_components_unknown">Onbekende fout</string>
+    <string name="flightplan_constant_course">Constant traject</string>
+    <string name="flightplan_edit_altitude">Hoogte:</string>
+    <string name="flightplan_edit_speed">Snelheid:</string>
+    <string name="flightplan_fw_update_needed">Download de laatste versie van FlightPlan voor uw drone om deze te kunnen gebruiken</string>
+    <string name="flightplan_pois_not_supported">De huidige FlightPlan-versie maakt gebruik van functies die uw drone niet ondersteunt. Het plan wordt gestart zonder deze functies.</string>
+    <string name="flightplan_progressive_course">Progressief traject</string>
+    <string name="flightplan_sending_error">Fout tijdens verzending van het plan.</string>
+    <string name="flightplan_speed_bridle">De snelheid van de drone wordt beperkt bij lage hoogten</string>
+    <string name="flights_number">Vluchten</string>
+    <string name="fly_and_film">Fly &amp; Film</string>
+    <string name="follow_beboopt_recorded_video_text_explanation">"Video opgenomen met een Parrot Bebop Drone!
+
+Officiële website: http://www.parrot.com/products/bebop-drone
+ Follow Parrot on:  https://twitter.com/Parrot 
+Word fan op: http://www.facebook.com/parrot"</string>
+    <string name="follow_beebop_taken_photos_text_explanation">"Video opgenomen met een Parrot Bebop Drone!
+
+Officiële website: http://www.parrot.com/products/bebop-drone
+ Volg Parrot op:  https://twitter.com/Parrot 
+Word fan op: http://www.facebook.com/parrot"</string>
+    <string name="follow_jumping_sumo_recorded_video_text_explanation">"Video opgenomen met een Parrot Jumping Sumo!
+
+Officiële website:  http://www.parrot.com/products/jumping-sumo
+ Volg Parrot op:  https://twitter.com/Parrot 
+Word fan op: http://www.facebook.com/parrot"</string>
+    <string name="follow_jumping_sumo_taken_photos_text_explanation">"Foto genomen met een Parrot Jumping Sumo!
+
+Officiële website:  http://www.parrot.com/products/jumping-sumo
+ Volg Parrot op:  https://twitter.com/Parrot 
+Word fan op: http://www.facebook.com/parrot"</string>
+    <string name="follow_me_allow_ffpro_location">Bedankt om FreeFlight Pro toegang te geven tot uw locatie</string>
+    <string name="follow_me_anim_boomerang">Boemerang</string>
+    <string name="follow_me_anim_orbit">Baan</string>
+    <string name="follow_me_anim_parabola">Parabool</string>
+    <string name="follow_me_anim_zenith">Zenit</string>
+    <string name="follow_me_choice_popup_description">om te beginnen, selecteert u een modus:</string>
+    <string name="follow_me_device_barometer">Uw apparaat heeft geen barometer</string>
+    <string name="follow_me_device_gps_accuracy">De GPS-nauwkeurig van uw apparaat is onvoldoende</string>
+    <string name="follow_me_disclamer_text">De drone zal u automatisch volgen. Wees voorzichtig en verstandig tijdens de vlucht.</string>
+    <string name="follow_me_drone_gps_accuracy">De GPS-nauwkeurig van uw drone is onvoldoende</string>
+    <string name="follow_me_drone_not_far_enough">Uw drone is niet ver genoeg</string>
+    <string name="follow_me_drone_not_high_enough">Uw drone is niet hoog genoeg</string>
+    <string name="follow_me_explanation_smartphone">De prestaties van GPS tracking en de visuele prestaties zijn afhankelijk van uw smartphone. Maak gebruik van de gratis test. Raadpleeg de lijst met aanbevolen apparaten &lt;u>hier&lt;/u>.</string>
+    <string name="follow_me_first_use_description">Druk op deze nieuwe knop om de tracking-modus te starten vanaf uw bedieningsinterface.</string>
+    <string name="follow_me_first_use_lock_button_description">In de modus Automatische tracking kunt u de beeldhoek vergrendelen zodat de drone altijd dezelfde kant in beeld brengt.</string>
+    <string name="follow_me_first_use_lock_button_title">Vergrendelen van beeldhoek</string>
+    <string name="follow_me_first_use_title">De modusknop Tracking</string>
+    <string name="follow_me_go_to_settings">Naar \"Instellingen\" gaan</string>
+    <string name="follow_me_image_detection">Probleem bij beelddetectie</string>
+    <string name="follow_me_inapp_description">Deze betalende in-App deblokkeert nieuwe automatische vluchtmodi:</string>
+    <string name="follow_me_lock_screen">Vergrendelen</string>
+    <string name="follow_me_mode_description">Volgen van persoon via GPS van smartphone en beeldherkenning</string>
+    <string name="follow_me_not_calibrated">Uw drone is niet gekalibreerd</string>
+    <string name="follow_me_plurals_days_left">Nog %d resterende dagen</string>
+    <string name="follow_me_single_days_left">Nog %d resterende dag</string>
+    <string name="follow_me_stop_follow">Stoppen</string>
+    <string name="follow_me_subtitle">GPS en visuele tracking</string>
+    <string name="follow_me_tips">Kies een gekleurd voorwerp dat afsteekt tegen de omgeving</string>
+    <string name="follow_me_title">Automatische tracking</string>
+    <string name="follow_me_title_full">follow me</string>
+    <string name="follow_me_unlock_screen">Ontgrendelen</string>
+    <string name="follow_me_wait_gps_description">Om het automatisch volgen te beginnen, moet de GPS-nauwkeurigheid van uw drone en uw smartphone voldoende zijn.</string>
+    <string name="follow_me_wait_gps_signal">Wachten op GPS-signaal ...</string>
+    <string name="follow_rolling_spider_recorded_video_text_explanation">"Video opgenomen met een Parrot Rolling Spider!
+
+Officiële website:  http://www.parrot.com/products/rolling-spider 
+ Volg Parrot op:  https://twitter.com/Parrot 
+Word fan op: http://www.facebook.com/parrot"</string>
+    <string name="follow_rolling_spider_taken_photos_text_explanation">"Foto genomen met een Parrot Rolling Spider!
+
+Officiële website:  http://www.parrot.com/products/rolling-spider 
+ Volg Parrot op:  https://twitter.com/Parrot 
+Word fan op: http://www.facebook.com/parrot"</string>
+    <string name="forget">Vergeten</string>
+    <string name="forwards_jump_not_possible_jump_unavailability_reason">Sprong vooruit niet beschikbaar</string>
+    <string name="fps_time_line">Fps:</string>
+    <string name="fpv">FPV</string>
+    <string name="fpv_signal_display" formatted="false">%d / %d</string>
+    <string name="france">Frankrijk</string>
+    <string name="free_fall">vrije val</string>
+    <string name="free_trial">Gratis test</string>
+    <string name="freeflight_3">Freeflight 3</string>
+    <string name="full_control">Absolute Control</string>
+    <string name="gamepad_joystick_sensibility_exponential">Exponentieel</string>
+    <string name="gamepad_joystick_sensibility_linear">Lineair</string>
+    <string name="gamepad_joystick_sensibility_title">Gevoeligheid van de as</string>
+    <string name="gamepad_mapping_button_dpad">DPAD</string>
+    <string name="gamepad_mapping_button_j1">J1</string>
+    <string name="gamepad_mapping_button_j1_key">J1-toets</string>
+    <string name="gamepad_mapping_button_j2">J2</string>
+    <string name="gamepad_mapping_button_j2_key">J2-toets</string>
+    <string name="gamepad_mapping_button_j3">J3</string>
+    <string name="gamepad_mapping_button_j3_key">J3-toets</string>
+    <string name="gamepad_mapping_button_j4">J4</string>
+    <string name="gamepad_mapping_button_j4_key">J4-toets</string>
+    <string name="gamepad_mapping_button_l1">L1</string>
+    <string name="gamepad_mapping_button_l2">L2</string>
+    <string name="gamepad_mapping_button_r1">R1</string>
+    <string name="gamepad_mapping_button_r2">R2</string>
+    <string name="gamepad_mapping_choose">Choose button type</string>
+    <string name="gamepad_mapping_cmd_auto_takeoff">Automatisch opstijgen ingeschakeld/uitgeschakeld</string>
+    <string name="gamepad_mapping_cmd_back">Terug</string>
+    <string name="gamepad_mapping_cmd_backswap">Backswap</string>
+    <string name="gamepad_mapping_cmd_barrel_roll_left">Rol links</string>
+    <string name="gamepad_mapping_cmd_barrel_roll_right">Rol rechts</string>
+    <string name="gamepad_mapping_cmd_camera_pan">Camera pannen</string>
+    <string name="gamepad_mapping_cmd_claw">Landingsgestel open/gesloten</string>
+    <string name="gamepad_mapping_cmd_emergency">Nood</string>
+    <string name="gamepad_mapping_cmd_fast_turn_back">Snelle halve omwenteling</string>
+    <string name="gamepad_mapping_cmd_fast_turn_left">Snelle wending links</string>
+    <string name="gamepad_mapping_cmd_fast_turn_right">Snelle wending rechts</string>
+    <string name="gamepad_mapping_cmd_flip_back">Flip achter</string>
+    <string name="gamepad_mapping_cmd_flip_front">Flip voor</string>
+    <string name="gamepad_mapping_cmd_flip_left">Flip links</string>
+    <string name="gamepad_mapping_cmd_flip_right">Flip rechts</string>
+    <string name="gamepad_mapping_cmd_fpv_display_mode">Cockpitbril: Weergavemodus</string>
+    <string name="gamepad_mapping_cmd_fpv_video_pov">Cockpitbril: Gezichtspunt wijzigen</string>
+    <string name="gamepad_mapping_cmd_gaz">Gaz</string>
+    <string name="gamepad_mapping_cmd_gun">Gun Shot</string>
+    <string name="gamepad_mapping_cmd_left_right">90°L &amp; 90°R</string>
+    <string name="gamepad_mapping_cmd_light_blink">Knipperlicht</string>
+    <string name="gamepad_mapping_cmd_light_on_off">Verlichting aan/uit</string>
+    <string name="gamepad_mapping_cmd_light_toggle">Schakelverlichting</string>
+    <string name="gamepad_mapping_cmd_light_wave">Verlichtingsvariatie</string>
+    <string name="gamepad_mapping_cmd_loitering">Zweven</string>
+    <string name="gamepad_mapping_cmd_looping">Looping</string>
+    <string name="gamepad_mapping_cmd_no_action">Geen actie</string>
+    <string name="gamepad_mapping_cmd_not_used">Niet-gebruikte actie</string>
+    <string name="gamepad_mapping_cmd_photo">Foto</string>
+    <string name="gamepad_mapping_cmd_pitch">Stampen</string>
+    <string name="gamepad_mapping_cmd_plane">Vliegtuig</string>
+    <string name="gamepad_mapping_cmd_plane_gear_down">Laagste snelheid</string>
+    <string name="gamepad_mapping_cmd_plane_gear_up">Hoogste snelheid</string>
+    <string name="gamepad_mapping_cmd_plane_mode">Vluchtmodus</string>
+    <string name="gamepad_mapping_cmd_quad_mode">Quad-modus</string>
+    <string name="gamepad_mapping_cmd_record">Opnemen</string>
+    <string name="gamepad_mapping_cmd_reset_back">Terug</string>
+    <string name="gamepad_mapping_cmd_reset_camera">Camera resetten</string>
+    <string name="gamepad_mapping_cmd_return_home">Return Home</string>
+    <string name="gamepad_mapping_cmd_roll">Rollen</string>
+    <string name="gamepad_mapping_cmd_stop">Stoppen</string>
+    <string name="gamepad_mapping_cmd_take_control">Take Control</string>
+    <string name="gamepad_mapping_cmd_take_photo">Een foto nemen</string>
+    <string name="gamepad_mapping_cmd_takeoff">Opstijgen/Landen</string>
+    <string name="gamepad_mapping_cmd_validate">Bevestigen</string>
+    <string name="gamepad_mapping_cmd_video">Opname</string>
+    <string name="gamepad_mapping_cmd_video_camera_tilt">Camera kantelen</string>
+    <string name="gamepad_mapping_cmd_wingx_flyingmode_plane_backward">Vliegtuig achteraan</string>
+    <string name="gamepad_mapping_cmd_wingx_flyingmode_plane_forward">Vliegtuig vooraan</string>
+    <string name="gamepad_mapping_cmd_wingx_flyingmode_quadricopter">Quadricopter</string>
+    <string name="gamepad_mapping_cmd_yaw">Gieren</string>
+    <string name="gamepad_mapping_inverse">Inverse</string>
+    <string name="gamepad_mapping_main_calib">Main calibration</string>
+    <string name="gamepad_mapping_main_calib_info">To start, place all buttons and joysticks to the 0 position</string>
+    <string name="gamepad_mapping_main_calib_ready">"I'm ready"</string>
+    <string name="gamepad_mapping_move_button">move the control from max to min</string>
+    <string name="gamepad_mapping_rc_button">Button</string>
+    <string name="gamepad_mapping_rc_joystick_signed">Joystick (2)</string>
+    <string name="gamepad_mapping_rc_joystick_unsigned">Joystick (1)</string>
+    <string name="gamepad_mapping_rc_rotary_button">Potentiometer</string>
+    <string name="gamepad_mapping_rc_switch2">Switch (2)</string>
+    <string name="gamepad_mapping_rc_switch3">Switch (3)</string>
+    <string name="gamepad_mapping_required">Required</string>
+    <string name="gamepad_mapping_sky_2_cmd_camera_exp_dec">Camerabelichting verlagen</string>
+    <string name="gamepad_mapping_sky_2_cmd_camera_exp_inc">Camerabelichting verhogen</string>
+    <string name="gamepad_mapping_sky_2_cmd_cancel">Annuleren/terug</string>
+    <string name="gamepad_mapping_sky_2_cmd_settings">Instellingen openen/sluiten</string>
+    <string name="gamepad_mapping_sky_2_cmd_validate">Bevestigen</string>
+    <string name="gamepad_mapping_sky_cmd_back">Terug</string>
+    <string name="gamepad_mapping_sky_cmd_camera_pan">Camera pannen</string>
+    <string name="gamepad_mapping_sky_cmd_camera_tilt">Camera kantelen</string>
+    <string name="gamepad_mapping_sky_cmd_emergency">Nood</string>
+    <string name="gamepad_mapping_sky_cmd_gaz">Gaz</string>
+    <string name="gamepad_mapping_sky_cmd_photo">Foto</string>
+    <string name="gamepad_mapping_sky_cmd_pitch">Stampen</string>
+    <string name="gamepad_mapping_sky_cmd_record">Opnemen</string>
+    <string name="gamepad_mapping_sky_cmd_reset_camera">Camera resetten</string>
+    <string name="gamepad_mapping_sky_cmd_return_home">Naar startpositie</string>
+    <string name="gamepad_mapping_sky_cmd_roll">Rollen</string>
+    <string name="gamepad_mapping_sky_cmd_settings">Instellingen</string>
+    <string name="gamepad_mapping_sky_cmd_takeoff_landing">Opstijgen/Landen</string>
+    <string name="gamepad_mapping_sky_cmd_yaw">Gieren</string>
+    <string name="gamepad_mapping_warning">Place all buttons and joysticks to the 0 position to avoid undesirable behaviour</string>
+    <string name="gaz">Gaz</string>
+    <string name="general_information">Algemene informatie</string>
+    <string name="general_terms_of_use_profile_creation">Algemene gebruiksvoorwaarden</string>
+    <string name="generic_error_message">Er is een fout opgetreden, probeer het opnieuw</string>
+    <string name="germany">Duitsland</string>
+    <string name="give_me_a_cool_name_on_drone_academy">Geef mij een coole naam op de Drone Academy!</string>
+    <string name="google_photos">Google Photos</string>
+    <string name="got_it">Ik heb het begrepen!</string>
+    <string name="gps_label">GPS</string>
+    <string name="gps_map">Gps</string>
+    <string name="gps_version">Gps-versie</string>
+    <string name="greece">Griekenland</string>
+    <string name="green_led_name">Groene</string>
+    <string name="green_ledparam_name">Zijkant(en)</string>
+    <string name="hardware_version">Hardwareversie</string>
+    <string name="home">Home</string>
+    <string name="home_my_flights">Mijn vluchten</string>
+    <string name="hong_kong">Hongkong</string>
+    <string name="horizontal_sensibility">Horizontale gevoeligheid</string>
+    <string name="how_to_connect_to_your_drone_explanation">"Om verbinding te maken met de Wi-Fi van de drone gebruikt u gewoon uw Wi-Fi-systeem. 
+U vindt uw drone in de lijs met beschikbare Wi-Fi-netwerken."</string>
+    <string name="how_to_connect_to_your_drone_title">Hoe verbinding maken met uw drone?</string>
+    <string name="hull_protection">Romp</string>
+    <string name="hungary">Hongarije</string>
+    <string name="i_agree_to_receive_information_about_parrot_products_and_services_by_email_text_message_or_post">Ik wil informatie over de producten en diensten van Parrot ontvangen per e-mail, sms of post</string>
+    <string name="i_want_to_receive_emails_from_my__and_parrot">Ik wil e-mails ontvangen van mijn %s (en Parrot)</string>
+    <string name="if_you_want_to_access_your_media_gallery_enable_it_in_your_devices_settings">Als u uw multimediagalerij wilt openen, moet u deze optie op uw apparaat activeren.</string>
+    <string name="image_format_dng">DNG</string>
+    <string name="image_format_jpeg">JPEG</string>
+    <string name="image_format_jpeg_180">JPEG 180°</string>
+    <string name="image_settings">Beeldinstellingen</string>
+    <string name="impossible_to_delete_this_run">Deze besturing kan niet worden verwijderd</string>
+    <string name="in_this_position_jump_unavailability_reason"> in deze houding.</string>
+    <string name="incorrect_value_in_motor_settings">onjuiste waarde in de motorinstellingen</string>
+    <string name="india">India</string>
+    <string name="indonesia">Indonesië</string>
+    <string name="information_help">Hulp</string>
+    <string name="information_message">Informatie</string>
+    <string name="informations_title">Informatie</string>
+    <string name="insect">Insect</string>
+    <string name="insert">Invoegen</string>
+    <string name="internal_memory">Intern geheugen</string>
+    <string name="internet">Internet</string>
+    <string name="internet_connection_is_too_slow">Internetverbinding te traag</string>
+    <string name="interval">Interval</string>
+    <string name="invalid_coordinates">Ongeldig</string>
+    <string name="invalid_login_or_password">Gebruikersnaam of wachtwoord ongeldig</string>
+    <string name="invite">Uitnodigen</string>
+    <string name="invite_friend">"Vriend
+Uitnodigen"</string>
+    <string name="invite_your_friends">Nodig je vrienden uit</string>
+    <string name="invite_your_friends_to_join_the_drone_academy">Nodig uw vrienden uit op Parrot Cloud!</string>
+    <string name="ireland">Ierland</string>
+    <string name="israel">Israël</string>
+    <string name="it_marks_a_camera_tilt_changing">"
+- het een verandering van richting aangeeft."</string>
+    <string name="it_marks_a_landing">"
+- geeft een landing aan."</string>
+    <string name="it_marks_a_pause">"
+- geeft een pauze aan."</string>
+    <string name="it_marks_a_rotation">"
+- geeft een rotatie aan."</string>
+    <string name="it_marks_a_take_off">"
+- geeft een start aan."</string>
+    <string name="it_marks_the_beginning_of_a_video_recording">"
+- geeft het begin van een video-opname aan."</string>
+    <string name="it_marks_the_beginning_of_an_image_capture">"
+- het het begin van een screenshot aangeeft."</string>
+    <string name="it_marks_the_end_of_a_video_recording">"
+- geeft het einde van een video-opname aan."</string>
+    <string name="it_marks_the_end_of_an_image_capture">"
+- het het eind van een screenshot aangeeft."</string>
+    <string name="italy">Italië</string>
+    <string name="japan">Japan</string>
+    <string name="join_today_improve_your_skills_and_start_your_own_adventure">Meld je vandaag nog aan, perfectioneer je vaardigheden en start je eigen avontuur</string>
+    <string name="joypad_inverted">Joypad omgekeerd</string>
+    <string name="joystick_configuration">Joystickconfiguratie</string>
+    <string name="jpeg_180">JPEG 180°</string>
+    <string name="jump_action_name">Springen</string>
+    <string name="jump_already_loaded_jump_unavailability_reason"> : sprong al geladen.</string>
+    <string name="jump_error_jump_unavailability_reason"> Fout bij het springen</string>
+    <string name="jump_high_choice">Hoog</string>
+    <string name="jump_kick_choice">Kick</string>
+    <string name="jump_load_choice">Laden</string>
+    <string name="jump_loading_not_possible_jump_unavailability_reason">Laden van sprong niet beschikbaar</string>
+    <string name="jump_long_choice">Ver</string>
+    <string name="jump_parm_name">Springen</string>
+    <string name="jump_stop_choice">Stoppen</string>
+    <string name="jumper_posture_choice">Jumper</string>
+    <string name="jumping_sumo_vesion_too_old_message">De versie van je %s is te oud, kijk of er updates beschikbaar zijn</string>
+    <string name="keep">Opslaan</string>
+    <string name="kicker_posture_choice">Kicker</string>
+    <string name="kilometer_per_hour_unit">km/h</string>
+    <string name="kilometer_unit">km</string>
+    <string name="korea">Korea</string>
+    <string name="kuwait">Koeweit</string>
+    <string name="landing_point_missing">Het plan moet eindigen met een landing</string>
+    <string name="last_error">Laatste fout</string>
+    <string name="last_flight">Laatste vlucht</string>
+    <string name="last_flight_time">Laatste vliegtijd</string>
+    <string name="last_motor_error">Laatste motorstoring</string>
+    <string name="last_motors_error_last_drone_data">Laatste motorstoringen</string>
+    <string name="latitude__longitude">Breedtegraad, lengtegraad</string>
+    <string name="latvia">Letland</string>
+    <string name="learn_to_fly">Leer vliegen</string>
+    <string name="learning_gps_position_">Gps-positie leren...</string>
+    <string name="lebanon">Libanon</string>
+    <string name="leds_action_name">Leds</string>
+    <string name="left_side_green_led_choise">Links</string>
+    <string name="left_side_red_led_choice">Links</string>
+    <string name="line">Lijn</string>
+    <string name="linear">Lineair</string>
+    <string name="linear_landing">Lineaire landing</string>
+    <string name="lithuania">Litouwen</string>
+    <string name="loading">Laden...</string>
+    <string name="loading_list_of_networks">Lijst met netwerken laden...</string>
+    <string name="loading_web_veiw">Laden...</string>
+    <string name="location_settings">Lokalisatie-instellingen</string>
+    <string name="log_error">Fout tijdens verzending</string>
+    <string name="log_sent">Logboeken verzonden zonder fout</string>
+    <string name="login_academy">Gebruikersnaam...</string>
+    <string name="logout_facebook">Uitloggen Facebook</string>
+    <string name="logout_from_youtube_google_photos">Uitloggen Youtube/Google Photos</string>
+    <string name="look_at_me">Automatische beeldinstelling</string>
+    <string name="look_at_me_mode_description">Houdt de camera tijdens de vlucht op het voorwerp gericht met behulp van beeldherkenning</string>
+    <string name="looking_for_parrot_drones">Zoeken naar Parrot-drones...</string>
+    <string name="low_battery_jump_unavailability_reason"> : lage accuspanning.</string>
+    <string name="luxembourg">Luxemburg</string>
+    <string name="m_per_second_unit">m/s</string>
+    <string name="magnetometer">Magnetometer</string>
+    <string name="magnetometer_calibration">Kalibratie magnetometer</string>
+    <string name="make_a_movie_with_replay">Maak een video aan met REPLAY</string>
+    <string name="make_sure_a_nonfull_usb_media_is_plugged_in_your_drone">Verzeker u ervan dat er een geldige USB-media is aangesloten op uw drone</string>
+    <string name="malaysia">Maleisië</string>
+    <string name="malta">Malta</string>
+    <string name="map">Kaart</string>
+    <string name="map_my_house_add_current">Huidige toevoegen</string>
+    <string name="map_my_house_saved_plans">Opgeslagen kaarten</string>
+    <string name="map_my_house_title">"Breng
+mijn huis in kaart"</string>
+    <string name="map_preloading">De kaart voorladen</string>
+    <string name="mapping">Mapping</string>
+    <string name="master_volume">Mastervolume</string>
+    <string name="mavlink_cd_load">Laden</string>
+    <string name="mavlink_cd_save">Opslaan</string>
+    <string name="mavlink_cd_save_as">Opslaan als</string>
+    <string name="max_inclination">"Max.
+hellingshoek"</string>
+    <string name="max_speed">Max. snelheid</string>
+    <string name="max_turn">Max. draaiing</string>
+    <string name="media">Media</string>
+    <string name="media_access_denied">Toegang geweigerd</string>
+    <string name="media_alert_message_cancel">Annuleren</string>
+    <string name="media_alert_message_checking">Controleren...</string>
+    <string name="media_alert_message_error">Fout</string>
+    <string name="media_alert_message_file_selected">bestand geselecteerd</string>
+    <string name="media_alert_message_files_selected">bestanden geselecteerd</string>
+    <string name="media_alert_message_files_transferred_do_you_want_to_delete_them_from_usb_">bestand(en) overgezet. Wilt u ze van de USB-stick verwijderen?</string>
+    <string name="media_alert_message_keep_files">Bestand(en) bewaren</string>
+    <string name="media_alert_message_ok">OK</string>
+    <string name="media_alert_message_transfer_delete">Wissen</string>
+    <string name="media_alert_message_transfer_error">Fout bij overdracht</string>
+    <string name="media_alert_message_usb_key">USB-stick</string>
+    <string name="media_available_space_on_device">alleen %s beschikbaar op uw apparaat</string>
+    <string name="media_cd_date">Datum</string>
+    <string name="media_cd_time">Time</string>
+    <string name="media_drone_memory">Drone memory</string>
+    <string name="media_gallery">Mediagalerij</string>
+    <string name="media_gellery_select">Selecteren</string>
+    <string name="media_gigabyte">Gb</string>
+    <string name="media_keep_files_in_plural">Bestanden opslaan</string>
+    <string name="media_keep_singlr_file">Bestand opslaan</string>
+    <string name="media_megabyte">Mb</string>
+    <string name="media_multiple_files_transferred">%d bestanden zijn overgedragen. Wilt u de oorspronkelijke bestanden verwijderen?</string>
+    <string name="media_not_supported">Het interne geheugen wordt niet ondersteund op uw apparaat.</string>
+    <string name="media_one">%d media</string>
+    <string name="media_play_button_text">Spelen</string>
+    <string name="media_please_wait">Even geduld a.u.b.</string>
+    <string name="media_plurals_file_transferred_keep">"%d bestanden overgedragen.
+Wilt u de originele bestanden behouden?"</string>
+    <string name="media_select_items">Selecteer items</string>
+    <string name="media_selected_file">%d bestand geselecteerd</string>
+    <string name="media_selected_files_in_plural">%d bestanden geselecteerd</string>
+    <string name="media_settings">Media-instellingen</string>
+    <string name="media_several">%d media</string>
+    <string name="media_single_file_transferred">%d bestand is overgedragen. Wilt u het oorspronkelijke bestand verwijderen?</string>
+    <string name="media_single_file_transferred_keep">"%d file was successfully transferred to your device.
+Do you want to keep the original?"</string>
+    <string name="media_stop_button_text">Stoppen</string>
+    <string name="media_storage_free">Gratis</string>
+    <string name="media_title">Media</string>
+    <string name="media_transfer">Media overdragen</string>
+    <string name="media_transfer_deleting">Bestanden van uw drone verwijderen</string>
+    <string name="media_transfer_total">Totaal</string>
+    <string name="media_transfer_transfering">Bestandsoverdracht naar uw apparaat</string>
+    <string name="media_type_all">Alles</string>
+    <string name="media_type_photo">Foto</string>
+    <string name="media_type_photos">"Foto's"</string>
+    <string name="media_type_video">Video</string>
+    <string name="media_type_videos">"Video's"</string>
+    <string name="media_unread_count_bar_message">Wilt u de {0} genomen tijdens de laatste vlucht overdragen?</string>
+    <string name="media_unread_many">Wilt u de %d media die tijdens de laatste vlucht opgenomen zijn, overdragen?</string>
+    <string name="media_unread_one">Wilt u de media die tijdens de laatste vlucht opgenomen zijn, overdragen?</string>
+    <string name="mediaplayer_upload">Verzenden</string>
+    <string name="medias_map">Media</string>
+    <string name="memory_full">Geheugen vol</string>
+    <string name="memory_full_error">Het geheugen van uw apparaat is vol. Kan niet downloaden.</string>
+    <string name="menu_manager_back_action">Terug</string>
+    <string name="meter_unit">m</string>
+    <string name="metronome">Metronoom</string>
+    <string name="metronome_led_animation">Metronoom</string>
+    <string name="mexico">Mexico</string>
+    <string name="miles_per_hour_unit">mph</string>
+    <string name="miles_unit">mi</string>
+    <string name="mode_50_hz">50 Hz</string>
+    <string name="mode_60_hz">60 Hz</string>
+    <string name="monster">Monster</string>
+    <string name="motor">Motor</string>
+    <string name="motor_controller_error_">probleem met motorbesturing</string>
+    <string name="motor_error_go_to_motor_settings_for_more_information">Motorfout (%d)</string>
+    <string name="motor_hardware_version">Hardware</string>
+    <string name="motor_information">Motorgegevens</string>
+    <string name="motor_information_error">Fout</string>
+    <string name="motor_software_version">Software</string>
+    <string name="motor_software_version_last_drone_data">Versie motorsoftware</string>
+    <string name="motor_stage_broken">defecte motorfase</string>
+    <string name="motor_stalled">motor afgeslagen</string>
+    <string name="motor_type">Type</string>
+    <string name="my_drones">Mijn drones</string>
+    <string name="my_drones_delete">Verwijderen</string>
+    <string name="my_drones_drone_deleted">Drone verwijderd</string>
+    <string name="my_drones_drone_name">Naam van drone</string>
+    <string name="my_drones_drone_registered">Drone geregistreerd</string>
+    <string name="my_drones_no_drone_found">Geen drone gevonden</string>
+    <string name="my_drones_registered">Geregistreerd</string>
+    <string name="my_drones_registered_with_exclamation_mark">geregistreerd!</string>
+    <string name="my_drones_registration">Registratie...</string>
+    <string name="my_drones_registration_has_failed">Registratie mislukt</string>
+    <string name="my_drones_searching_for_drones">Drones zoeken...</string>
+    <string name="my_flights_battery_used">{0} %</string>
+    <string name="my_flights_captures_content_description">Opnamen</string>
+    <string name="my_flights_crashes">{0,choice,0#geen crash|1#een crash|1&lt;{0} crashes}</string>
+    <string name="my_flights_crashes_content_description">crashes</string>
+    <string name="my_flights_date_content_description">Datum</string>
+    <string name="my_flights_details_gps_unavailable">Gps niet beschikbaar</string>
+    <string name="my_flights_details_graphics_altitude_title">HOOGTE (m)</string>
+    <string name="my_flights_details_graphics_battery_title">Accu (%)</string>
+    <string name="my_flights_details_graphics_high_jump">Hoog</string>
+    <string name="my_flights_details_graphics_jump_title">Springen</string>
+    <string name="my_flights_details_graphics_long_jump">Ver</string>
+    <string name="my_flights_details_graphics_speed_title">SNELHEID (m/s)</string>
+    <string name="my_flights_details_run_type_private">Privé</string>
+    <string name="my_flights_details_run_type_public">Openbaar</string>
+    <string name="my_flights_details_title_gps">GPS</string>
+    <string name="my_flights_details_title_graphics">Grafieken</string>
+    <string name="my_flights_details_title_medias">Media</string>
+    <string name="my_flights_details_title_summary">Overzicht</string>
+    <string name="my_flights_duration_content_description">Duur</string>
+    <string name="my_flights_load_more_flights">Andere vluchten laden</string>
+    <string name="my_flights_signin">Meld u aan op Parrot Cloud</string>
+    <string name="my_flights_time_content_description">Time</string>
+    <string name="my_flights_time_hour">%d h</string>
+    <string name="my_flights_time_minute">%d m</string>
+    <string name="my_flights_time_minute_or_second">{0} m {1,choice,0#|1&lt;{1} s}</string>
+    <string name="my_flights_time_second">%d s</string>
+    <string name="my_flights_title">Mijn vluchten</string>
+    <string name="my_flights_unknown_value">\???</string>
+    <string name="my_flights_videos_content_description">"Video's"</string>
+    <string name="my_gallery">"Mijn
+Galerij"</string>
+    <string name="my_last_flight_photo_just_shared_on_google_photos">Mijn laatste foto, zojuist gedeeld op Google Photos</string>
+    <string name="my_last_flight_video_just_shared_on_youtube">Mijn laatste vluchtvideo, zojuist gedeeld op YouTube</string>
+    <string name="my_piloting">Mijn besturing</string>
+    <string name="my_piloting_altitude">HOOGTE</string>
+    <string name="my_piloting_battery_usage">Accugebruik</string>
+    <string name="my_piloting_delete_run">Besturing verwijderen</string>
+    <string name="my_piloting_deleting_run">Besturing verwijderen</string>
+    <string name="my_piloting_gps_path">GPS-parcours</string>
+    <string name="my_piloting_impossible_to_load_pilotings">Besturingen kunnen niet geladen worden</string>
+    <string name="my_piloting_load_more_pilotings">Meer besturingen laden</string>
+    <string name="my_piloting_media">Media</string>
+    <string name="my_piloting_my_flights">Mijn vluchten</string>
+    <string name="my_piloting_myndrones">"Mijn
+Drones"</string>
+    <string name="my_piloting_no_data_available">Geen gegevens beschikbaar</string>
+    <string name="my_piloting_no_gps_data_available">Geen gps-gegevens beschikbaar</string>
+    <string name="my_piloting_no_piloting_found">Geen besturing gevonden</string>
+    <string name="my_piloting_piloting">Besturing</string>
+    <string name="my_piloting_rank">Rang</string>
+    <string name="my_piloting_rating">Beoordeling</string>
+    <string name="my_piloting_runs_summary">Besturingsoverzicht</string>
+    <string name="my_piloting_send_piloting">Besturingen verzenden</string>
+    <string name="my_piloting_sending_piloting">Besturingen worden verzonden</string>
+    <string name="my_piloting_speed">SNELHEID</string>
+    <string name="my_piloting_type">Type</string>
+    <string name="my_piloting_unknown_position">Positie onbekend</string>
+    <string name="my_pilotings">Mijn Besturingen</string>
+    <string name="my_pilotings_title">"Mijn
+Besturingen"</string>
+    <string name="my_plans">"Mijn
+Plannen"</string>
+    <string name="my_runs_map">Mijn vluchten</string>
+    <string name="navigation">Navigatie</string>
+    <string name="need_update">Update vereist</string>
+    <string name="netherlands">Nederland</string>
+    <string name="network_settings_auto">(AUTO)</string>
+    <string name="network_settings_drone_reset">Drone resetten</string>
+    <string name="network_settings_outdoor">Outdoor</string>
+    <string name="never_ask_me_again">Nooit meer vragen</string>
+    <string name="new_">Nieuw</string>
+    <string name="new_update">Nieuwe update</string>
+    <string name="new_zeland">Nieuw-Zeeland</string>
+    <string name="next_charge">Volgende oplading</string>
+    <string name="no">NEE</string>
+    <string name="no_action">Geen actie</string>
+    <string name="no_connection_message">No connection</string>
+    <string name="no_controller_detected">No controller detected</string>
+    <string name="no_controller_detected_description">You can connect to a controller via wi-fi (Skycontroller), USB cable (Skycontroller 2) or Bluetooth (Flypad and others).</string>
+    <string name="no_drone_detected">Geen drone gevonden</string>
+    <string name="no_drones">Geen drone</string>
+    <string name="no_message">Nee</string>
+    <string name="no_permission_granted">Geen toestemming verleend</string>
+    <string name="no_remotes">Geen joystick</string>
+    <string name="no_result_map">Geen resultaat</string>
+    <string name="no_settings_available">Geen instelling beschikbaar</string>
+    <string name="no_update_found">Geen nieuwe update</string>
+    <string name="no_user_authenticated_map">Geen gebruiker gemachtigd</string>
+    <string name="no_user_registered">Geen gebruiker geregistreerd</string>
+    <string name="number_of_flights">Aantal vluchten</string>
+    <string name="off_red_led_state">uit</string>
+    <string name="ok">OK</string>
+    <string name="ok_alert_message">OK</string>
+    <string name="ok_param_button">OK</string>
+    <string name="on_red_led_state">aan</string>
+    <string name="ondulation">Golfbeweging</string>
+    <string name="ondulation_led_animation">Golfbeweging</string>
+    <string name="open">Openen</string>
+    <string name="open_flight_plan">Openen</string>
+    <string name="overheat_reached_">Oververhittingstemperatuur bereikt!</string>
+    <string name="password">Wachtwoord</string>
+    <string name="password__1s">Wachtwoord: %1$s</string>
+    <string name="pause">Pauze</string>
+    <string name="permission_denied">Goedkeuring geweigerd</string>
+    <string name="permission_explanation_camera">om de video see-Through te activeren</string>
+    <string name="permission_explanation_camera_minidrone">om uw mooie momenten met Parrot minidrone op te nemen</string>
+    <string name="permission_location">We hebben een lokalisatiegoedkeuring nodig om uw drone te zoeken. De toepassing kan zonder niet uitgevoerd worden!</string>
+    <string name="permission_location_denied">We hebben absoluut een lokalisatiegoedkeuring nodig om uw drone te zoeken. Gelieve TOESTAAN te selecteren in het volgende dialoogvenster</string>
+    <string name="permission_location_denied_permanently">We hebben een lokalisatiegoedkeuring nodig om uw drone te zoeken. Gelieve de goedkeuringen te selecteren in het volgende scherm, en start dan de lokalisatie opnieuw.</string>
+    <string name="permission_location_needed">Access your location</string>
+    <string name="permission_need">We hebben de volgende goedkeuring(en) nodig:</string>
+    <string name="permission_request">Aanvraag tot goedkeuring</string>
+    <string name="permission_save_video">De video op de SD-kaart opnemen</string>
+    <string name="permission_storage">We hebben toegang tot het opslaggeheugen van het apparaat nodig om foto’s van uw drone op te slaan.</string>
+    <string name="permission_storage_academy">We hebben toegang tot het geheugen van het apparaat nodig om vluchten gedownload op Parrot Cloud op te slaan.</string>
+    <string name="permission_use_camera">De camera gebruiken en video’s opnemen</string>
+    <string name="philippines">Filipijnen</string>
+    <string name="photoLibrary_privacy_mini">"om foto's van uw vluchten op te slaan"</string>
+    <string name="photo_mode">Fotomodus</string>
+    <string name="photo_popup_title">Foto</string>
+    <string name="photo_unread_many">Wilt u de %d foto’s die tijdens de laatste vlucht opgenomen zijn, overdragen?</string>
+    <string name="photo_unread_one">Wilt u de foto die tijdens de laatste vlucht genomen is, overdragen?</string>
+    <string name="photos_map">"Foto's"</string>
+    <string name="pilot_map">Piloot</string>
+    <string name="piloting">Besturing</string>
+    <string name="piloting_alert_connection_list">Verbinding verbroken, bezig met herstellen...</string>
+    <string name="piloting_alert_max_distance">Waarschuwing max. afstand</string>
+    <string name="piloting_cd_altitude">Hoogte</string>
+    <string name="piloting_cd_battery_level">Acculading</string>
+    <string name="piloting_cd_distance">Afstand</string>
+    <string name="piloting_cd_duration">Duur</string>
+    <string name="piloting_cd_emergency">Nood</string>
+    <string name="piloting_cd_flat_trim">Flat trim</string>
+    <string name="piloting_cd_not_connected">Niet verbonden</string>
+    <string name="piloting_cd_photo">Foto</string>
+    <string name="piloting_cd_posture">Stilstaan</string>
+    <string name="piloting_cd_record">Opnemen</string>
+    <string name="piloting_cd_return_home">Return Home</string>
+    <string name="piloting_cd_settings">Instellingen</string>
+    <string name="piloting_cd_speed">Snelheid</string>
+    <string name="piloting_cd_stop">Stoppen</string>
+    <string name="piloting_cd_take_off">Vertrek</string>
+    <string name="piloting_gps_version">GPS</string>
+    <string name="piloting_has_been_sent_to_your_email">De besturingen zijn naar je e-mailadres verzonden</string>
+    <string name="piloting_remote_required">Er is een afstandsbediening nodig om de drone te besturen.</string>
+    <string name="piloting_settings">Vlieginstellingen</string>
+    <string name="piloting_settings_accessory_type">Accessoire</string>
+    <string name="piloting_settings_accessory_type_hull">Romp</string>
+    <string name="piloting_settings_accessory_type_hydrofoil">Hydrofoil</string>
+    <string name="piloting_settings_accessory_type_none">Geen</string>
+    <string name="piloting_settings_accessory_type_truck_wheels">Truck wheels</string>
+    <string name="piloting_settings_accessory_type_unconfigured">Niet-geconfigureerd accessoire</string>
+    <string name="piloting_settings_accessory_type_unknown">Onbekend accessoire</string>
+    <string name="piloting_settings_accessory_type_wheels">Wielen</string>
+    <string name="piloting_settings_application_software_version">Softwareversie van Freeflight</string>
+    <string name="piloting_settings_bank_turn">Bocht met helling</string>
+    <string name="piloting_settings_calibration">Kalibratie</string>
+    <string name="piloting_settings_camera">Camera</string>
+    <string name="piloting_settings_camera_autorecord">Auto-opname</string>
+    <string name="piloting_settings_camera_directions">"CAMERA:
+Richtingen"</string>
+    <string name="piloting_settings_cd_help">Hulp</string>
+    <string name="piloting_settings_circling_altitude">Zweefhoogte</string>
+    <string name="piloting_settings_circling_direction">Zweefrichting</string>
+    <string name="piloting_settings_circling_direction_clockwise">Rechtsom</string>
+    <string name="piloting_settings_circling_direction_counter_clockwise">Linksom</string>
+    <string name="piloting_settings_circling_radius">Zweefstraal</string>
+    <string name="piloting_settings_close">Dicht</string>
+    <string name="piloting_settings_controller">Bediener</string>
+    <string name="piloting_settings_cut_out">Stroomuitval</string>
+    <string name="piloting_settings_distance_max_enable">Fysieke limiet</string>
+    <string name="piloting_settings_drone">Drone</string>
+    <string name="piloting_settings_far">Ver</string>
+    <string name="piloting_settings_fast">Snel</string>
+    <string name="piloting_settings_flat_trim">Flat trim</string>
+    <string name="piloting_settings_fpv">FPV</string>
+    <string name="piloting_settings_fpv_auto_launch">Automatisch inschakelen</string>
+    <string name="piloting_settings_fpv_description">First Person View</string>
+    <string name="piloting_settings_fpv_drone">Weergave van de drone</string>
+    <string name="piloting_settings_fpv_eyes_spacing">Afstand tussen ogen</string>
+    <string name="piloting_settings_fpv_glasses">FPV-helmen</string>
+    <string name="piloting_settings_fpv_mode">Modus</string>
+    <string name="piloting_settings_fpv_see_through">See-Through</string>
+    <string name="piloting_settings_fpv_state">Status</string>
+    <string name="piloting_settings_gps_signal">GPS-signaal</string>
+    <string name="piloting_settings_gyroscope">Sensoren</string>
+    <string name="piloting_settings_gyroscope_description_jog_settings">"GYROSCOOP:
+Richtingen"</string>
+    <string name="piloting_settings_gyroscope_directions">GYROSCOOP: Richtingen</string>
+    <string name="piloting_settings_gyroscope_speed_and_directions">"GYROSCOOP:
+Snelheid en richting"</string>
+    <string name="piloting_settings_high">Hoog</string>
+    <string name="piloting_settings_home_position">Positie van de Return Home</string>
+    <string name="piloting_settings_hydrofoil_pool_size">Grootte bekken</string>
+    <string name="piloting_settings_hydrofoil_speed">Hydrofoil-snelheid</string>
+    <string name="piloting_settings_infos">Info</string>
+    <string name="piloting_settings_infos_descritpion">Versies</string>
+    <string name="piloting_settings_jog_directions">"JOG:
+Richtingen"</string>
+    <string name="piloting_settings_jog_elevation_rotation">"JOG:
+Stijgingen en rotaties"</string>
+    <string name="piloting_settings_jog_swipe">"SWIPE:
+Snelle wendingen"</string>
+    <string name="piloting_settings_low">Onderaan</string>
+    <string name="piloting_settings_max_altitude">Max. hoogte</string>
+    <string name="piloting_settings_max_distance">Max. afstand</string>
+    <string name="piloting_settings_max_inclination_speed">Maximale stijgsnelheid</string>
+    <string name="piloting_settings_max_pitch">max. hoogte</string>
+    <string name="piloting_settings_max_pitch_speed">Maximale stijgsnelheid</string>
+    <string name="piloting_settings_max_rotation_speed">"Max. draai
+snelheid"</string>
+    <string name="piloting_settings_max_tilt">Maximale hellingshoek</string>
+    <string name="piloting_settings_max_vertical_speed">"Max. verticale
+snelheid"</string>
+    <string name="piloting_settings_min_altitude">Min. hoogte</string>
+    <string name="piloting_settings_minidrone_hardware_version">Hardwareversie</string>
+    <string name="piloting_settings_minidrone_software_version">Softwareversie</string>
+    <string name="piloting_settings_network">Netwerk</string>
+    <string name="piloting_settings_network_2_4">2.4 GHz</string>
+    <string name="piloting_settings_network_5">5 GHz</string>
+    <string name="piloting_settings_network_all">Alles</string>
+    <string name="piloting_settings_network_band">Band</string>
+    <string name="piloting_settings_network_description">Netwerkinstellingen</string>
+    <string name="piloting_settings_network_hint">Uw wachtwoord moet ten minste 8 tekens bevatten.</string>
+    <string name="piloting_settings_network_localisation">Lokalisatie</string>
+    <string name="piloting_settings_network_manual">Handbediend</string>
+    <string name="piloting_settings_network_network_name">Netwerknaam</string>
+    <string name="piloting_settings_network_security">Veiligheid</string>
+    <string name="piloting_settings_network_security_deactivated">Voer een wachtwoord in om de WPA2-beveiliging in te schakelen</string>
+    <string name="piloting_settings_network_security_desc">"Uw drone moet opnieuw opgestart worden nadat het wachtwoord is gewijzigd of nadat de WPA2-beveiliging is uitgeschakeld. 
+Dit wachtwoord moet u invoeren wanneer u opnieuw verbinding maakt."</string>
+    <string name="piloting_settings_network_security_reboot">De drone moet opnieuw opgestart worden nadat het wachtwoord is gewijzigd of nadat de WPA2-beveiliging is uitgeschakeld.</string>
+    <string name="piloting_settings_normal">Normaal</string>
+    <string name="piloting_settings_outdoor">Outdoor</string>
+    <string name="piloting_settings_piloting">Bediening</string>
+    <string name="piloting_settings_piloting_description">Bedieningsparameters</string>
+    <string name="piloting_settings_piloting_type">Besturingsmodus</string>
+    <string name="piloting_settings_piloting_type_ace">Gevorderd</string>
+    <string name="piloting_settings_piloting_type_joypad">Joypad</string>
+    <string name="piloting_settings_piloting_type_normal">Normaal</string>
+    <string name="piloting_settings_pitch_mode">Kantelmodus</string>
+    <string name="piloting_settings_pitch_mode_inverted">Omgekeerd</string>
+    <string name="piloting_settings_pitch_mode_normal">Normaal</string>
+    <string name="piloting_settings_position">Positie</string>
+    <string name="piloting_settings_position_description">Snelheidsinstellingen</string>
+    <string name="piloting_settings_position_title">Positie, afstanden en limieten</string>
+    <string name="piloting_settings_return_home_delay">"Terugkeertijd
+na verbroken verbinding"</string>
+    <string name="piloting_settings_return_home_drone">"Return home
+(keuze van de drone)"</string>
+    <string name="piloting_settings_return_home_first_fix">Eerste positiebepaling</string>
+    <string name="piloting_settings_return_home_pilot_position">Pilootpositie</string>
+    <string name="piloting_settings_return_home_take_off_position">Startpunt</string>
+    <string name="piloting_settings_return_home_user">"Return home
+(keuze van de piloot)"</string>
+    <string name="piloting_settings_slider_direction">"SLIDER:
+Richtingen"</string>
+    <string name="piloting_settings_slider_speed">"SLIDER:
+Snelheid"</string>
+    <string name="piloting_settings_slow">Langzaam</string>
+    <string name="piloting_settings_unknown_application_version">onbekende versie</string>
+    <string name="piloting_settings_unused_value">Niet gebruikt</string>
+    <string name="piloting_settings_very_close">Zeer dicht</string>
+    <string name="piloting_settings_very_far">Zeer ver</string>
+    <string name="piloting_settings_very_fast">Zeer snel</string>
+    <string name="piloting_settings_very_high">Zeer hoog</string>
+    <string name="piloting_settings_very_low">Zeer laag</string>
+    <string name="piloting_settings_very_slow">Zeer traag</string>
+    <string name="piloting_shake_drone_start">Start uw drone om te starten.</string>
+    <string name="piloting_shake_drone_take_off">Start uw drone om op te stijgen</string>
+    <string name="pilotings_profile">besturingen</string>
+    <string name="pitch">Stampen</string>
+    <string name="pitot_tube">Pitot</string>
+    <string name="place_map">Plaats</string>
+    <string name="plan_already_exist">“%s” bestaat al</string>
+    <string name="plan_not_saved">Vliegplan niet opgeslagen</string>
+    <string name="plan_not_saved_warning">Plan niet opgeslagen</string>
+    <string name="plan_replace">Wilt u die vervangen?</string>
+    <string name="please_allow_pairing">Controleer de berichtenbalk en geeft toestemming voor Bluetooth-koppelingsverzoeken</string>
+    <string name="please_check_the_email_format">Controleer het e-mailadres</string>
+    <string name="please_connect_to_internet">Maak verbinding met internet</string>
+    <string name="please_connect_to_internet_message">Maak verbinding met internet</string>
+    <string name="please_connect_your_device_to_internet_to_preload_the_flight_plan_background_map">Sluit je toestel aan op het internet op de achtergrondkaart van het vluchtplan te laden.</string>
+    <string name="please_connect_your_drone">Verbind de drone</string>
+    <string name="please_create_a_channel_on_youtube">Maak een kanaal aan op http://www.youtube.com</string>
+    <string name="please_enter_your_email_address_to_activate_your_drone">Voer je e-mailadres in om de drone te activeren</string>
+    <string name="please_free_up_storage_space_on_your_device_to_make_download">Maak ruimte vrij op de harde schijf van uw toestel om te kunnen downloaden</string>
+    <string name="please_put_the_drone_on_a_flat_surface">Plaats je drone op een horizontaal oppervlak</string>
+    <string name="please_switch_off_and_switch_on_again_your_bluetooth_to_restart_it">Schakel de Bluetooth uit (OFF) en opnieuw in (ON) om het opnieuw op te starten</string>
+    <string name="please_switch_to_indoor_settings">Ga naar de indoor-instellingen</string>
+    <string name="please_switch_to_outdoor_settings">Ga naar de outdoor-instellingen</string>
+    <string name="please_wait_while_the_drone_lands">Even geduld, de drone is aan het landen…</string>
+    <string name="poi">Bezienswaardigheid</string>
+    <string name="poi_types_map">POI-typen</string>
+    <string name="poland">Polen</string>
+    <string name="pool_size">Afmetingen pool</string>
+    <string name="portugal">Portugal</string>
+    <string name="posture_action_name">Stilstaan</string>
+    <string name="posture_param_name">Stilstaan</string>
+    <string name="preload_a_section_of_the_world_map_for_offline_use">Achtergrond voorladen voor offline gebruik.</string>
+    <string name="preload_cancel_button_text">Annuleren</string>
+    <string name="preload_text_button">Laden</string>
+    <string name="preloader_status_text_canceled">Geannuleerd</string>
+    <string name="preloader_status_text_preloading">Laden…</string>
+    <string name="preloader_status_text_preloading_failed">Laden mislukt.</string>
+    <string name="preloader_status_text_preloading_in_progress">Laden…</string>
+    <string name="preloader_status_text_preloading_successful">Laden voltooid.</string>
+    <string name="preloader_status_text_ready">Klaar</string>
+    <string name="preloading_help_text">Om een kaart met de realtime positie van de drone tijdens het vliegen weer te geven, moet eerst de kaartachtergrond gedownload worden om hem ook ook offline te kunnen weergeven. Centreer onderstaande kaart op de plaats waar je de drone denkt te gebruiken en druk vervolgens op de knop Laden.</string>
+    <string name="processing_update">Update wordt uitgevoerd</string>
+    <string name="product_choice">Productkeuze</string>
+    <string name="product_name">Productnaam</string>
+    <string name="product_type">Producttype</string>
+    <string name="product_up_to_date">Het apparaat is bijgewerkt</string>
+    <string name="profile_address">Adres</string>
+    <string name="profile_biography">Bio</string>
+    <string name="profile_birthday">Verjaardag</string>
+    <string name="profile_city">Woonplaats</string>
+    <string name="profile_country">Land</string>
+    <string name="profile_creation">Profiel aanmaken</string>
+    <string name="profile_edit">Bewerken</string>
+    <string name="profile_edit_academy_error">Deze pagina is momenteel niet beschikbaar. Probeer het later opnieuw</string>
+    <string name="profile_edit_avatar_bad_picture">Deze afbeelding kan niet worden gekozen</string>
+    <string name="profile_edit_canceling">Annuleren</string>
+    <string name="profile_edit_connect_account">Account verbinden</string>
+    <string name="profile_edit_delete_account_button">Account verwijderen</string>
+    <string name="profile_edit_delete_account_description">Door je account te verwijderen gaan alle gegevens en prestaties verloren</string>
+    <string name="profile_edit_delete_account_question">Wil je je account verwijderen?</string>
+    <string name="profile_edit_invalid_email">E-mailadres ongeldig</string>
+    <string name="profile_edit_invalid_website">Website ongeldig</string>
+    <string name="profile_edit_loading">Laden...</string>
+    <string name="profile_edit_register">Meld uw profiel aan</string>
+    <string name="profile_edit_registration_success">Uw profiel is bijgewerkt</string>
+    <string name="profile_edit_registration_title">Registratie</string>
+    <string name="profile_edit_save">Opslaan</string>
+    <string name="profile_edit_sharing">Kies de standaardinstelling om uw vluchten te delen. Als u “Openbaar” kiest, zullen al uw vluchten direct zichtbaar zijn in Parrot Cloud.</string>
+    <string name="profile_edit_sharing_private">Privé</string>
+    <string name="profile_edit_sharing_public">Openbaar</string>
+    <string name="profile_edit_title">Profiel bewerken</string>
+    <string name="profile_email">E-mail</string>
+    <string name="profile_facebook">Facebook</string>
+    <string name="profile_first_name">Voornaam</string>
+    <string name="profile_gcu">"AR.FreeFlight 3 App
+
+
+1. Juridische kennisgeving
+
+De toepassing AR.FreeFlight 3 (en latere versies daarvan) wordt gepubliceerd door PARROT SA, een bedrijf naar Frans recht met een aandelenkapitaal van € 1.934.920,57, waarvan het hoofdkantoor gevestigd is te 174 -178, quai de Jemmapes in Parijs (75010), Frankrijk, en dat is ingeschreven bij de Kamer van Koophandel van Parijs onder nummer 394149496. 
+
+
+2. Gebruiksvoorwaarden 
+
+Met behulp van de toepassing AR.FreeFlight 3 (en latere versies daarvan) kunt u de AR.Drone en AR.Drone 3 besturen, foto's nemen, video's opnemen, content delen en deelnemen aan het pilotenforum via de AR.Drone Academy.
+
+Aanvaarding van de gebruiksvoorwaarden
+Toegang tot en gebruik van de toepassing AR.FreeFlight 3 (\"de Toepassing\") impliceert aanvaarding van deze gebruiksvoorwaarden. Als u niet instemt met deze gebruiksvoorwaarden verzoeken we u onze toepassing niet te raadplegen of verkennen en geen gebruik te maken van onze diensten.
+
+Deze gebruiksvoorwaarden kunnen te allen tijde door Parrot worden gewijzigd. Gewijzigde gebruiksvoorwaarden gaan in na publicatie op onze website of in onze toepassingen. We verzoeken u ze regelmatig te controleren. Verder kunnen specifieke procedures en voorwaarden gelden voor de content, producten, materialen, diensten of de specifieke informatie vervat in of beschikbaar op andere sites of toepassingen van Parrot of derden. Deze specifieke voorwaarden kunnen een aanvulling zijn op deze gebruiksvoorwaarden of ze in uitdrukkelijk omschreven gevallen vervangen. 
+
+Parrot behoudt zich het recht voor om op enig moment zonder voorafgaande kennisgeving wijzigingen of updates in de content of weergaven van de Toepassing aan te brengen. Parrot behoudt zich het recht voor om de toegang tot de Toepassing om welke reden dan ook uitsluitend naar eigen goeddunken te beëindigen of beperken. 
+
+Gebruiksbeleid
+Wanneer u de Toepassing gebruikt om de AR.Drone te besturen, stemt u erin toe u aan de volgende regels te houden: 
+Lees de handleiding die bij de AR.Drone is geleverd zorgvuldig.
+Zorg dat u de AR.Drone tijdens het gebruik niet uit het oog verliest, vooral om contact tussen het apparaat en mensen, dieren of eigendommen te voorkomen.
+Gebruik van de AR.Drone op bepaalde openbare plaatsen (zoals luchthavens of treinstations) of op de openbare weg, is mogelijk niet toegestaan. Controleer of de AR.Drone op uw locatie toegestaan is. 
+Gebruik de AR.Drone op een manier die rekening houdt met de privacy en het portretrecht. 
+Bij gebruik in de buurt van sterke magnetische velden, radiogolven of krachtige straling, streamt de camera van de AR.Drone video's mogelijk niet correct. Binnendringing van zand of stof in de AR.Drone, vooral in de camera, kan leiden tot een permanent verlies van de werking. 
+Gebruik de AR.Drone niet bij ongunstige weersomstandigheden (regen, harde wind, sneeuw) of wanneer het zicht onvoldoende is ('s nachts). 
+Houd de AR.Drone uit de buurt van hoogspanningslijnen, bomen, gebouwen of enige andere potentieel gevaarlijke plaats. 
+Gebruik de AR.Drone niet in een omgeving die verzadigd is met Wi-Fi® netwerken (routers, internetapparaten). Wanneer het aantal Wi-Fi-netwerken in de buurt beperkt is, werkt de AR.Drone beter. 
+Gebruik de Toepassing niet voor illegale of ongeoorloofde doeleinden. Internationale gebruikers stemmen erin toe zich te houden aan alle plaatselijke wetgeving met betrekking tot het besturen van drones en de publicatie van online content. 
+U mag geen content publiceren die aanzet tot haat of geweld, bedreigend of van pornografische aard is, of blootmateriaal of zinloos geweld bevat. 
+U mag de Toepassing en/of AR.Drone niet gebruiken voor ongeoorloofde, illegale, kwaadwillige of discriminerende doeleinden.
+
+[###]Een account voor de AR.Drone Academy aanmaken 
+U kunt een account voor de AR.Drone Academy aanmaken (de \"Account\") om te profiteren van de diensten van de AR.Drone Academy zoals het vastleggen van informatie over uw vluchten (gegevens, locaties, foto's en video's), het delen van foto's en video's met een groep gebruikers, enz. (de \"Diensten\"):
+Alle informatie die u verstrekt bij het aanmaken van die account moet kloppen en u stemt erin toe uw registratiegegevens bij te werken om ze nauwkeurig en compleet te houden. 
+Alle e-mails met betrekking tot uw Account worden verzonden naar het e-mailadres dat aan uw Account gekoppeld is. 
+We kunnen naar eigen goeddunken een verzoek tot het aanmaken van een Account weigeren. 
+U stemt erin toe dat Parrot uw registratiegegevens kan bewaren en gebruiken om uw Account te beheren. 
+U mag geen Account aanmaken voor iemand anders dan uzelf zonder de toestemming van die persoon. 
+U moet uw wachtwoord en andere accountinformatie geheim houden en mag deze niet aan anderen doorgeven, dit om ongeoorloofd gebruik van uw Account te voorkomen. 
+U bent volledig verantwoordelijk voor de vertrouwelijkheid en beveiliging van uw Account en alle handelingen die op of door uw Account worden uitgevoerd en u stemt erin toe Parrot onmiddellijk op de hoogte te stellen van enige inbreuk op de beveiliging van uw Account. 
+Als u uw accountinformatie doorgeeft aan een derde die uw Account in strijd met deze Voorwaarden gebruikt of als we vinden dat uw Account gecompromitteerd is, kan uw Account en/of de toegang tot Diensten opgeschort of geannuleerd worden. 
+Wij zijn niet verantwoordelijk voor ongeoorloofd gebruik van uw Account. 
+
+Eerbiediging van de privacy 
+Het verzamelen en verwerken van persoonlijke gegevens via de Toepassing en Diensten gebeurt in overeenstemming met ons privacybeleid en de wetgeving voor gegevensbescherming. Raadpleeg ons privacybeleid voor meer informatie. 
+
+Intellectuele eigendom - handelsmerken - auteursrechten 
+Uw content
+Parrot maakt geen aanspraak op intellectuele-eigendomsrechten voor foto's, video's, geluid, teksten of enige andere content (de \"Content\") die u post via de Toepassing en/of Diensten. Zulke Content blijft uw eigendom. Door Content via de Toepassing in de Diensten te publiceren, verleent u Parrot hierbij een niet-exclusief, gratis, wereldwijd recht om de Content die u in de Diensten deelt geheel of gedeeltelijk, in ongeacht welke vorm en op ongeacht welk medium te gebruiken, wijzigen, aan te passen, te verwijderen, toe te voegen, te tonen, weer te geven, te reproduceren, distribueren en vertalen, met uitzondering van Content die niet openbaar gedeeld wordt en niet buiten de Diensten gedistribueerd wordt. 
+
+U beslist wie toegang heeft tot uw Content. Als u uw Content deelt op sociale netwerken en online diensten en toepassingen die voor andere gebruikers toegankelijk zijn, heeft elke gebruiker met wie u de content deelt er toegang toe. Wanneer u andere gebruikers toestemming geeft om uw Content te bekijken, verleent u ze het niet-exclusieve recht om uw Content gratis en openbaar te gebruiken, reproduceren, distribueren, weer te geven, door te geven en te communiceren. 
+
+Als u de Toepassing toestaat om de locatie van uw foto's en video's te registreren, bedenk dan dat de beslissing om uw Content te delen op sociale netwerken en de online diensten en toepassingen van Parrot en derden, er toe kan leiden dat deze locatie-informatie beschikbaar is voor deze en andere online toepassingen en diensten. Wanneer u Content downloadt door functies te gebruiken om te delen via Facebook, YouTube, Twitter of enige andere online dienst, kunt u instellingen gebruiken om de locatie-informatie over de Content die u deelt te verwijderen. Wij adviseren u om kennis te nemen van het beleid, de voorwaarden en de vertrouwelijkheidsinstellingen van deze online diensten en toepassingen voordat u ze gebruikt om uw Content te delen. 
+
+U bent verantwoordelijk voor het maken van een reservekopie van de Content die u in de Toepassing en/of Diensten bewaart. Uw gegevens en/of Content kunnen permanent worden verwijderd als de Diensten worden opgeschort of geannuleerd. We hoeven uw gegevens en/of Content in geen geval terug te geven als de Dienst wordt opgeschort of geannuleerd. De verwijderde gegevens en/of Content kunnen onherroepelijk verloren gaan. Parrot kan niet aansprakelijk gesteld worden voor wijziging, opschorting of verstoring van de Diensten of verlies van uw Content. 
+
+Parrot content
+De namen Parrot en Parrot AR.Drone en de bijbehorende logo's zijn geregistreerde handelsmerken van Parrot SA. Producten en accessoires van Parrot worden beschermd door intellectuele en industriële eigendomsrechten, met inbegrip van handelsmerken, auteursrechten, modellen en patenten. De auteursrechten en intellectuele-eigendomsrechten op de content van een site en toepassing van Parrot (met inbegrip van modellen, ontwerpen, foto's, teksten, audio, video en illustraties) zijn en blijven het exclusieve eigendom van Parrot SA of worden gebruikt onder licentie. Alle andere handelsmerken en logo's zijn en blijven eigendom van hun respectieve eigenaren. 
+
+[###]Garanties
+U verklaart en garandeert hierbij dat (i) u de wettige eigenaar bent van alle intellectuele-eigendomsrechten van de door u op of via de Diensten gepubliceerde Content en/of alle benodigde toestemmingen hebt om die rechten te verlenen en dat het gebruik van de Content niet in strijd is met enige wet; (ii) het weergeven, gebruiken en delen van uw Content op of via de Diensten niet strijdig is met auteursrechten, intellectuele-eigendomsrechten of andere eigendomsrechten of publiciteitsrechten of privacyrechten van derden. 
+
+Wij mogen publicatie van uw Content weigeren om willekeurig welke reden. Wij mogen uw Content te allen tijde en om ongeacht welke reden uit de Diensten verwijderen, met name wanneer: (i) u deze overeenkomst schendt; (ii) de Content niet voldoet aan de limieten voor opslag en bestandsgrootte; of (iii) wij de Diensten annuleren of opschorten. 
+
+U vrijwaart PARROT tegen ongeacht welke aanspraken of bezwaren van derden in verband met Content wegens schending van ongeacht welk recht, en in het bijzonder tegen enige aanklacht wegens schending en/of oneerlijke concurrentie en/of free-riding ingediend door een derde na uitvoering of gebruik van uw Content, en dit gedurende de gehele termijn van de verleende opdracht. Indien door een derde een rechtszaak tegen PARROT wordt aangespannen in verband met uw Content, erkent en aanvaardt u hierbij de aansprakelijkheid voor alle schadelijke gevolgen die uit die rechtszaak kunnen voortvloeien en vrijwaart u PARROT van alle geleden verliezen en/of gedane uitgaven in verband met die rechtszaak. 
+
+Beperking van aansprakelijkheid
+Ondanks alle zorg die Parrot betracht heeft bij de ontwikkeling van de Toepassing en Diensten wat betreft nauwgezetheid, precisie en volledigheid van de geboden informatie, aanvaarden noch Parrot noch aanverwante bedrijven aansprakelijkheid in geval van onnauwkeurige informatie. ALLE CONTENT WORDT VERSCHAFT \"IN DE HUIDIGE STAAT\" EN VOLGENS BESCHIKBAARHEID. PARROT GEEFT GEEN GARANTIE, EXPLICIET NOCH IMPLICIET, DAARONDER BEGREPEN MAAR NIET BEPERKT TOT, ENIGE GARANTIE DAT ALLE PRODUCTEN EN DIENSTEN BESCHIKBAAR, VERHANDELBAAR OF GESCHIKT VOOR EEN BEPAALD DOEL ZIJN OF GEBRUIKT KUNNEN WORDEN ZONDER INBREUK TE MAKEN OP DE RECHTEN VAN DERDEN, NOCH ENIGE ANDERE GARANTIE OP DE WERKING VAN DE TOEPASSING ZELF OF DE CONTENT DAARVAN. DE GEBRUIKER WORDT HIERBIJ MEEGEDEELD DAT ALLE INFORMATIE DIE HIJ OF ZIJ VERZENDT DOOR DERDEN KAN WORDEN ONDERSCHEPT. PARROT GARANDEERT NIET DAT DE TOEPASSING OF DE SERVERS DIE TOEGANG TOT DIE TOEPASSING EN DE DIENSTEN ERVAN GEVEN, OF DOOR PARROT VERSTUURDE ELEKTRONISCHE COMMUNICATIE, VRIJ IS VAN VIRUSSEN OF ANDERE DESTRUCTIEVE ELEMENTEN. 
+
+IN GEEN GEVAL KUNNEN PARROT EN/OF AANVERWANTE BEDRIJVEN AANSPRAKELIJK GEHOUDEN WORDEN VOOR ENIGE INDIRECTE OF INCIDENTELE SCHADE OF MORELE SCHADE ALS GEVOLG VAN OF VOORTVLOEIEND UIT, OF IN VERBAND MET, HET GEBRUIK OF HET NIET KUNNEN GEBRUIKEN VAN DE TOEPASSING, DIENSTEN OF DE CONTENT DAARVAN, ZELFS INDIEN PARROT VAN DE MOGELIJKHEID VAN DIE SCHADE IN KENNIS WAS GESTELD. ELKE ACTIE DOOR DE GEBRUIKER MOET WORDEN ONDERNOMEN BINNEN EEN PERIODE VAN EEN JAAR NA DE DATUM DAT DE OORZAAK VAN DE SCHADE ZICH VOORDEED. De geldigheid van deze voorwaarden is onderhevig aan dwingende bepalingen van het toepasselijke Franse recht. 
+
+De Toepassing en Diensten kunnen links naar andere websites of toepassingen bevatten waarover Parrot SA geen controle heeft. Deze links worden verschaft om gemakkelijk te navigeren en noch Parrot SA noch aanverwante bedrijven kunnen in welke omstandigheid dan ook aansprakelijk worden gehouden voor de content of functionaliteiten van websites waarnaar deze links verwijzen. Parrot SA en aanverwante bedrijven wijzen elke expliciete of impliciete garantie met betrekking tot de nauwkeurigheid, rechtsgeldigheid, betrouwbaarheid of geldigheid van de content en functionaliteiten van deze sites af. Verder bevelen noch Parrot SA noch aanverwante bedrijven deze andere websites aan. Raadpleging van deze sites is uw verantwoordelijkheid. 
+
+Contact 
+Gebruik voor vragen over deze gebruiksvoorwaarden het e-mailcontactformulier dat beschikbaar is op onze site via het volgende adres: http://www.parrot.com, Menu Ondersteuning, via de knop \"Contact opnemen per e-mail\".
+
+
+[###]3. Privacybeleid 
+
+Toepasselijkheid: Parrot eerbiedigt de privacyrechten van alle personen. Ons privacybeleid is bedoeld om uit te leggen hoe wij uw persoonlijke gegevens verzamelen, gebruiken en beschermen. 
+
+Met persoonlijke gegevens worden alle gegevens bedoeld waarmee een individu, een potentiële klant, een klant of een professionele contactpersoon direct of indirect kan worden geïdentificeerd. 
+
+Niet-individualiseerbare gegevens: alle gegevens die niet kunnen worden gebruikt om een individu te identificeren en die automatisch verzameld kunnen worden tijdens het gebruik van websites en toepassingen. 
+
+Vergaring van informatie: Tijdens uw gebruik van onze websites en toepassingen kunnen wij de volgende gegevens verzamelen: (i) individualiseerbare persoonlijke gegevens zoals eerste en tweede voornaam, achternaam, leeftijd, geslacht, postadressen, e-mailadressen, telefoonnummers, demografische gegevens en gegevens over sociaal gedrag via online enquêtes op onze websites en/of via onze diensten, aanmaken van een account, informatieverzoeken met betrekking tot onze producten en diensten, verzoeken om demonstraties en technische ondersteuning; en (ii) niet-persoonlijke informatie zoals browsertype, taal, datum, tijd en duur van gebruik, bekeken pagina's, aantal bekeken video's of foto's, enz. Deze gegevens kunnen worden bewaard in identificeerbare of verzamelde vorm (zodat individuen niet kunnen worden geïdentificeerd). Wanneer niet-individualiseerbare gegevens verbonden zijn met persoonlijke gegevens, behandelen we ze als persoonlijke gegevens en blijven ze verbonden. U kunt het verzamelen van gegevens afwijzen in de instellingen van de toepassing. 
+
+Gebruik van informatie: Parrot kan uw persoonlijke gegevens en niet-individualiseerbare gegevens gebruiken: 
+
+• Om uw registratie te bevestigen op www.parrotpartners.com en www.certified.parrot.com, www.parrotoem.com, www.parrotcorp.com, www.parrot.com en alle andere sites die Parrot kan aanmaken,
+• Om uw registratie op door Parrot gepubliceerde mobiele toepassingen te bevestigen,
+• Om uw aankopen te registreren, 
+• Om u uit te nodigen deel te nemen aan spellen, wedstrijden of trekkingen,
+• Om u deel te laten nemen aan enquêtes over onze producten of diensten, 
+• Om u uit te nodigen onze nieuwe producten te testen, 
+• Om u onze nieuwsbrieven of informatie over onze producten en diensten te sturen,
+• Om onze nieuwe producten te ontwikkelen en testen, 
+• Om de relaties met klanten te verbeteren, vooral op het gebied van aftersales, 
+• Om ons te helpen informatie te verschaffen over het gebruik van onze producten en diensten,
+• Om onze producten en diensten te verbeteren en statistische analyses uit te voeren.
+
+Parrot gebruikt uw persoonlijke gegevens niet voor commerciële doeleinden, in het bijzonder het leasen van bestanden, en geeft die informatie niet door aan niet-aanverwante bedrijven.
+
+Overdracht van informatie: Persoonlijke gegevens kunnen door bedrijven van Parrot Group overal ter wereld worden onthuld en gebruikt, mits de benodigde toestemming is ver egen als dat vereist is. We zullen persoonlijke gegevens alleen buiten de groep onthullen aan contractuele dienstverleners die voor ons persoonlijke gegevens verwerken. Wanneer we dat doen, verzekeren we ons ervan dat de juiste maatregelen voor beveiliging en geheimhouding zijn geïmplementeerd zoals bepaald in het contract. 
+
+Individuele rechten: Individuen kunnen gebruikmaken van hun recht om hun persoonlijke gegevens in te zien, te wijzigen of te verwijderen en ze kunnen hun toestemming te allen tijde intrekken door schriftelijk contact op te nemen met onze marketingafdeling via webmastersparrot.com of contactsparrotpartners.com al naar gelang de site die u bezoekt. U kunt ook de toegang tot technologie zoals cookies weigeren. 
+
+Naleving van de wetgeving voor bescherming van persoonlijke gegevens: Alle persoonlijke gegevens die op de websites en in de toepassingen van Parrot worden verzameld, worden gebruikt en verwerkt volgens de Europese normen met betrekking tot de bescherming van persoonlijke gegevens, alle andere toepasselijke lokale wetten en voorschriften en de wijzigingen die daarin van tijd tot tijd kunnen worden aangebracht. 
+
+Geolokalisatie: Parrot kan specifieke locatiegegevens verzamelen, gebruiken en delen, daaronder begrepen realtime locatiegegevens van uw computer, smartphone of AR.Drone, om geolokalisatiediensten aan te bieden voor producten en diensten van Parrot. De locatiegegevens worden anoniem verzameld in een indeling die niet tot u te herleiden is en worden door Parrot gebruikt om producten en diensten van Parrot te leveren en verbeteren. 
+
+Cookies: Cookies zijn tekstbestanden die informatie op de harde schijf van uw computer kunnen opslaan over bijvoorbeeld IP-adressen en het besturingssysteem. Met die informatie kunnen wij uw browser herkennen en de navigatie optimaliseren. Cookies bevatten geen persoonlijke gegevens. Er kunnen browsers worden geïnstalleerd die een melding geven bij ontvangst van een cookie. Daardoor bestaat de keuze om wel of geen cookies te accepteren. 
+
+Links naar andere websites: De site van Parrot kan links bevatten naar andere websites waarover Parrot geen controle heeft en waarop dit privacybeleid niet van toepassing is. Als iemand andere sites bezoekt via deze links, kunnen de beheerders van die sites persoonlijke informatie verzamelen voor hun eigen behoeften en volgens hun eigen privacybeleid. 
+
+Beveiliging: Parrot garandeert de beveiliging van de eigen informatiesystemen om ontvangen of verstuurde persoonlijke gegevens te beschermen en neemt de nodige maatregelen om te voorkomen dat onbevoegde personen toegang tot deze informatie krijgen. 
+
+Wijzigingen in het privacybeleid: Parrot behoudt zich het recht voor om dit beleid van tijd tot tijd bij te werken en te herzien, om het aan te passen aan veranderingen in de wetgeving of andere ontwikkelingen. Wijzigingen in ons privacybeleid worden op deze pagina gepubliceerd, met de datum van de laatste update. 
+
+
+© PARROT SA. Alle rechten voorbehouden. 
+Bijgewerkt: Juni 2012"</string>
+    <string name="profile_general_infos">Algemene informatie</string>
+    <string name="profile_google_plus">Google +</string>
+    <string name="profile_last_name">Achternaam</string>
+    <string name="profile_logout">Uitloggen</string>
+    <string name="profile_phone">Telefoon</string>
+    <string name="profile_postal_code">Postcode</string>
+    <string name="profile_psn">PSN</string>
+    <string name="profile_status">Status</string>
+    <string name="profile_steam">Steam</string>
+    <string name="profile_tab_about">Over</string>
+    <string name="profile_tab_my_infos">Mijn gegevens</string>
+    <string name="profile_title">Profiel</string>
+    <string name="profile_twitter">Twitter</string>
+    <string name="profile_web_contacts">Webcontacten</string>
+    <string name="profile_website">Website</string>
+    <string name="profile_xbox_live">Xbox Live</string>
+    <string name="profile_youtube">Youtube</string>
+    <string name="propeller_safety_cutout_triggered">automatische veiligheidsuitschakeling van propeller</string>
+    <string name="qatar">Qatar</string>
+    <string name="radius">Radius</string>
+    <string name="radius_param_name">Radius</string>
+    <string name="rate">Beoordelen</string>
+    <string name="rate_now">Nu beoordelen</string>
+    <string name="ready_to_update">Gereed om bij te werken</string>
+    <string name="receiving_drone_information">Verbinding maken met drone...</string>
+    <string name="receiving_file_step">"Bestand
+ontvangen"</string>
+    <string name="record_action_name">Opnemen</string>
+    <string name="record_has_been_auto_stopped">Het opslaan is gestopt</string>
+    <string name="record_state_value_off">uit</string>
+    <string name="record_state_value_on">aan</string>
+    <string name="recording_param_name">Opname</string>
+    <string name="recording_settings">Opname-instellingen</string>
+    <string name="red_action_name">Rode</string>
+    <string name="red_led_side_param_name">Zijkant(en)</string>
+    <string name="refuse">Negeren</string>
+    <string name="register_me">Registreer mij</string>
+    <string name="regular">Standaard</string>
+    <string name="remind_me_later">Herinner mij er later aan</string>
+    <string name="remote_control_reset">Herstart de joystick</string>
+    <string name="remote_control_upload_failed_retry">Het bestand m.b.t. de joystick kon niet verzonden worden. Wilt u opnieuw beginnen?</string>
+    <string name="rename">Naam wijzigen</string>
+    <string name="rename_my_drone">Naam drone wijzigen</string>
+    <string name="rename_road_plan">Kaart hernoemen</string>
+    <string name="rename_script_popup_cancel_button">Annuleren</string>
+    <string name="rename_script_popup_rename_button">Hernoemen</string>
+    <string name="renamed">Naam %s gewijzigd</string>
+    <string name="replace">Vervangen</string>
+    <string name="requires_a_charger_with_a_minimum_intensity_of_1f_a_and_a_minimum_power_of_1f_w" formatted="false">Vereist een lader met een stroomsterkte van minimaal %.1f A en een vermogen van minimaal %.1f W.</string>
+    <string name="reset">Opnieuw initialiseren</string>
+    <string name="reset_camera">Camera resetten</string>
+    <string name="restart_drone">Herstart de drone</string>
+    <string name="restore_in_app_purchase">Geïntegreerde aankopen restoren</string>
+    <string name="restore_in_app_purchase_button_text">Restoren</string>
+    <string name="retry">Opnieuw proberen</string>
+    <string name="return_delay_if_connection_is_lost">Terugkeertijd bij wegvallen verbinding (seconden)</string>
+    <string name="return_position_of_the_bebop">Terugkeerpositie van de Bebop</string>
+    <string name="return_to_homepage">Terug naar de homepagina</string>
+    <string name="return_to_starting_point">Return Home</string>
+    <string name="right_side_green_led_choise">Rechts</string>
+    <string name="right_side_red_led_choice">Rechts</string>
+    <string name="road_plan_script_thumbnail_delete_button">Wissen</string>
+    <string name="road_plan_script_thumbnail_unknown_duration">n.v.t.</string>
+    <string name="roadnplan">"Kaart
+"</string>
+    <string name="robot">Robot</string>
+    <string name="roll">Rollen</string>
+    <string name="roll_stabilization">Rolstabilisering</string>
+    <string name="rolling__spider_version_too_old_message" formatted="false">De versie van je %s is te oud, kijk of er updates beschikbaar zijn op de volgende internetpagina %s</string>
+    <string name="romania">Roemenië</string>
+    <string name="rotate">Draaien</string>
+    <string name="russia">Rusland</string>
+    <string name="saudi_arabia">Saoedi-Arabië</string>
+    <string name="save_your_current_plan">Wilt u uw huidige vliegplan opslaan?</string>
+    <string name="saved_flight_plans">Opgeslagen vliegplannen</string>
+    <string name="saved_plan">Plan opgeslagen</string>
+    <string name="saved_plan_no">Nee</string>
+    <string name="saved_plan_yes">Ja</string>
+    <string name="saved_road_plans">Opgeslagen kaarten</string>
+    <string name="saving_flight_plan">Vliegplan opslaan</string>
+    <string name="scanning">Zoeken</string>
+    <string name="sd_card">SD-kaart</string>
+    <string name="search_map">Zoeken</string>
+    <string name="searching_map">Zoeken...</string>
+    <string name="second_unit">s</string>
+    <string name="see_details_last_drone_data">Gegevens bekijken</string>
+    <string name="see_my_flight_statistics">Bekijk mijn vluchtprestaties</string>
+    <string name="see_my_piloting_statistics">Bekijk mijn vliegprestaties</string>
+    <string name="select_country">Landkeuze</string>
+    <string name="select_medias_to_make_a_movie_with_replay">Selecteer de media om met REPLAY een video aan te maken</string>
+    <string name="select_product_to_update">Kies het bij te werken product</string>
+    <string name="select_your_category">Selecteer je categorie</string>
+    <string name="send_alert_message">Verzenden</string>
+    <string name="sending_all_settings">Alle instellingen verzenden...</string>
+    <string name="sending_all_states">Alle staten verzenden...</string>
+    <string name="sending_current_date">Huidige datum verzenden...</string>
+    <string name="sending_current_time">Huidige tijd verzenden...</string>
+    <string name="sending_file">Bestand sturen</string>
+    <string name="sending_flight_plan">Vliegplan verzenden</string>
+    <string name="sensibility">Gevoeligheid</string>
+    <string name="sensor_alert_GPS">Waarschuwing defecte gps-sensor</string>
+    <string name="sensor_alert_IMU">Waarschuwing defecte IMU-sensor</string>
+    <string name="sensor_alert_barometer">Waarschuwing defecte barometersensor</string>
+    <string name="sensor_alert_magnetometer">Waarschuwing defecte magnetometer-sensor</string>
+    <string name="sensor_alert_ultrasound">Waarschuwing defecte ultrasoonsensor</string>
+    <string name="sensor_alert_vertical_camera">Verticale camera defect</string>
+    <string name="serial_number">Serienummer</string>
+    <string name="settings">Instellingen</string>
+    <string name="share">Delen</string>
+    <string name="share_item_selected">1 item geselecteerd</string>
+    <string name="share_items_selected">%d items geselecteerd</string>
+    <string name="sharing_setting">Deelinstelling</string>
+    <string name="sharing_your_photo_on_facebook">Je foto delen op Facebook</string>
+    <string name="sign_in_profile">Inloggen</string>
+    <string name="singapore">Singapore</string>
+    <string name="skip">Overslaan</string>
+    <string name="skycontroller2_calibration_explanation_text">Gelieve uw SkyController 2 te draaien rond de drie assen (zoals geïllustreerd in de animatie)</string>
+    <string name="skycontroller_calibration_explanation_text">Draai de SkyController rond de drie assen (zie afbeelding)</string>
+    <string name="skycontroller_connected">Verbonden</string>
+    <string name="skycontroller_no_visible_wifi_networks">Geen Wi-Fi-netwerken zichtbaar</string>
+    <string name="skycontroller_password">Wachtwoord</string>
+    <string name="skycontroller_please_enable_wifi">Activeer de Wifi</string>
+    <string name="skycontroller_refresh">Bijwerken</string>
+    <string name="skycontroller_settings">Instellingen van de SkyController</string>
+    <string name="skycontroller_settings_back">Terug</string>
+    <string name="skycontroller_title">SkyController</string>
+    <string name="skycontroller_wifi_saved">Opgeslagen</string>
+    <string name="skycontroller_wifi_secured">Beveiligd</string>
+    <string name="slalom">Slalom</string>
+    <string name="slalom_animation">Slalom</string>
+    <string name="slovakia">Slowakije</string>
+    <string name="slovenia">Slovenië</string>
+    <string name="slow">Langzaam</string>
+    <string name="slow_shake">Slow shake</string>
+    <string name="slow_shake_animation">Slow Shake</string>
+    <string name="social_network__photo_" formatted="false">%s foto: %s</string>
+    <string name="social_network_bebop">bebop</string>
+    <string name="social_network_cancel">Annuleren</string>
+    <string name="social_network_invalid_login_or_password">Gebruikersnaam of wachtwoord ongeldig</string>
+    <string name="social_network_jumping_sumo">jumpingsumo</string>
+    <string name="social_network_loading_albums">Albums laden...</string>
+    <string name="social_network_login">Gebruikersnaam</string>
+    <string name="social_network_login_and_password_need_to_be_filled">De gebruikersnaam en het wachtwoord zijn verplicht</string>
+    <string name="social_network_no_permission_granted">Geen toestemming verleend</string>
+    <string name="social_network_no_user_registered">Geen gebruiker geregistreerd</string>
+    <string name="social_network_ok">OK</string>
+    <string name="social_network_password">Wachtwoord</string>
+    <string name="social_network_rolling_spider">rollingspider</string>
+    <string name="social_network_select_your_album">Selecteer je album</string>
+    <string name="social_network_sharing_your_video_on_facebook">Je video delen op Facebook</string>
+    <string name="social_network_uploading_photo">Foto uploaden...</string>
+    <string name="social_network_uploading_video">Video uploaden...</string>
+    <string name="social_network_video_" formatted="false">%s video: %s</string>
+    <string name="social_networks">Sociale netwerken</string>
+    <string name="software_version">Softwareversie</string>
+    <string name="south_africa">Zuid-Afrika</string>
+    <string name="spain">Spanje</string>
+    <string name="speak_through">"Spreken 
+via"</string>
+    <string name="special_characters_are_not_authorized_for_the_drones_nickname">Speciale tekens zijn niet toegestaan voor de bijnaam van de drone</string>
+    <string name="speed_action_name">Snelheid</string>
+    <string name="speed_neutral_zone">"Neutrale
+snelheidszone"</string>
+    <string name="speed_param_name">Snelheid</string>
+    <string name="spin_animation">Spin</string>
+    <string name="spin_animation_road_plan">Draai</string>
+    <string name="spin_jump">Draaisprong</string>
+    <string name="spin_jump_animation">Schroefsprong</string>
+    <string name="spin_to_posture">Draai tot stand</string>
+    <string name="spiral_animation">Spiraal</string>
+    <string name="standing_posture_choice">Standing</string>
+    <string name="start_free_trial">15 dagen testen</string>
+    <string name="start_piloting">Beginnen met vliegen</string>
+    <string name="starting_flight_plan">Vliegplan starten</string>
+    <string name="state_led_parm_name">Status</string>
+    <string name="stay_tuned">Blijf op de hoogte</string>
+    <string name="stay_tuned__an_error_has_occurred_please_try_again">Er is een fout opgetreden, probeer het opnieuw.</string>
+    <string name="stay_tuned_email_sent">E-mail verzonden</string>
+    <string name="stay_tuned_ok">OK</string>
+    <string name="stay_tuned_please_check_that_the_email_address_is_in_the_correct_format_">Controleer het e-mailadres.</string>
+    <string name="stay_tuned_send">Verzenden</string>
+    <string name="stay_tuned_yes">Ja</string>
+    <string name="stay_tuned_your_email_address">Uw e-mailadres</string>
+    <string name="stop_animation_road_plan">Stoppen</string>
+    <string name="straight_action_name">Rechtdoor</string>
+    <string name="succeeded_alert_message">Gelukt</string>
+    <string name="successfully_shared_your_photo_on_facebook">Je foto wordt gedeeld op Facebook</string>
+    <string name="successfully_shared_your_video_on_facebook">Je video wordt gedeeld op Facebook</string>
+    <string name="sweden">Zweden</string>
+    <string name="switch_off">Uitschakelen</string>
+    <string name="switzerland">Zwitserland</string>
+    <string name="sync_data_failed">Synchronisatie mislukt. Controleer uw internetaansluiting</string>
+    <string name="syncing_data">Synchronisatie van gegevens...</string>
+    <string name="taiwan">Taiwan</string>
+    <string name="take_off_landing">Opstijgen/Landen</string>
+    <string name="take_picture_action_name">Foto nemen</string>
+    <string name="take_pictures">"Foto's nemen"</string>
+    <string name="taking_off_with_an_uncalibrated_drone_can_lead_to_an_unpredictable_behaviour_do_you_really_want_to_take_off">Taking off with an uncalibrated drone can lead to an unpredictable behaviour. Do you really want to take off?</string>
+    <string name="tap__animation">Tap</string>
+    <string name="tap_animation">Tikken</string>
+    <string name="temperature_error">temperatuurfout</string>
+    <string name="thailand">Thailand</string>
+    <string name="thank_you_enjoy_your_runs">Bedankt! Geniet van je vlucht</string>
+    <string name="thank_you_now_its_over_to_you_to_play">Dank u wel! Nu is het aan u!</string>
+    <string name="the_application_is_not_authorized_to_use_bluetooth_low_energy">De toepassing is niet gemachtigd om Bluetooth Low Energy te gebruiken</string>
+    <string name="the_current_flight_plan_has_not_been_saved_do_you_really_want">Het huidige vluchtplan is NIET opgeslagen. Wil je echt</string>
+    <string name="the_drone_is_not_calibrated">"
+- De drone is niet gekalibreerd"</string>
+    <string name="the_drones_speed_will_be_bridled_when_flying_low">"
+- Op geringe hoogte heeft de drone een beperkte vliegsnelheid"</string>
+    <string name="the_flight_plan_file_is_corrupted">"
+- Het vliegplan is beschadigd"</string>
+    <string name="the_skycontroller2_is_calibrated">De SkyController 2 is gekalibreerd</string>
+    <string name="the_skycontroller_is_calibrated">De SkyController is gekalibreerd</string>
+    <string name="the_wifi_connection_is_not_protected">De Wi-Fi-verbinding is niet beveiligd</string>
+    <string name="the_wifi_connection_will_not_be_protected">De Wi-Fi-verbinding is niet beveiligd</string>
+    <string name="this_module_requires_the_google_play_services">Voor deze module zijn diensten van Google Play nodig</string>
+    <string name="this_password_will_be_asked_for_the_next_connection">Dit wachtwoord wordt gevraagd om de volgende keer verbinding te maken</string>
+    <string name="this_software_update_will_take_more_than_four_hours_using_bluetooth_40_and_wifi_will_be_disabled_but_it_will_take_less_than_one_minute_via_usb_do_you_want_to_continue">Het bijwerken van de geïntegreerde software met Bluetooth 4.0 duurt ruim 4 uur en WiFi wordt gedeactiveerd, maar via USB duurt het minder dan een minuut, doorgaan?</string>
+    <string name="this_waypoint_can_not_be_deleted_because">Deze waypoint kan niet worden verwijderd omdat:</string>
+    <string name="tilt_modification_is_impossible">Kantelwijziging is niet mogelijk.</string>
+    <string name="time_in_days">%d j</string>
+    <string name="time_in_hours">%d h</string>
+    <string name="time_in_minutes">%d m</string>
+    <string name="time_in_seconds">%d s</string>
+    <string name="time_unit_in_second">s</string>
+    <string name="timelapse_mode">Timelapse-modus</string>
+    <string name="title_for_drones">"Vrije
+vlucht"</string>
+    <string name="title_text">Titel</string>
+    <string name="tittle_for_jumping_sumo">"Vrij
+Parcours"</string>
+    <string name="to_channel">naar kanaal</string>
+    <string name="to_control_your_drone_please_use">Om uw %s te besturen, gebruikt u:</string>
+    <string name="to_control_your_drones_please_use">Om uw Minidrones te besturen, gebruikt u:</string>
+    <string name="to_record_please_plug_a_storage_media_in_your_drone">Sluit een opslagmedia aan op uw drone</string>
+    <string name="too_much_angle_alert">Waarschuwing te grote hoek</string>
+    <string name="total_flight_time">Totale vliegtijd</string>
+    <string name="total_flight_time_last_drone_data">Totale vliegtijd</string>
+    <string name="transfer">Overdracht</string>
+    <string name="transfer_completed">Overdracht beëindigd</string>
+    <string name="truck_wheels_accessory">Wielen</string>
+    <string name="turkey">Turkije</string>
+    <string name="turn_action_name">Draaien</string>
+    <string name="turn_neutral_zone">"Neutrale
+draaizone"</string>
+    <string name="turn_on_bluetooth">Schakel Bluetooth in</string>
+    <string name="twitter">Twitter</string>
+    <string name="type_of_charge">Type oplading</string>
+    <string name="unable_to_record_video">Kan geen video opnemen</string>
+    <string name="unable_to_take_off">"
+- Opstijgen niet mogelijk"</string>
+    <string name="unavailable">Niet beschikbaar</string>
+    <string name="unavailable_hur_first_line">De kopradar is niet beschikbaar</string>
+    <string name="unavailable_hur_second_line">vanwege ontbrekende gegevens</string>
+    <string name="united_arab_emirates">Verenigde Arabische Emiraten</string>
+    <string name="united_kingdom">Verenigd Koninkrijk</string>
+    <string name="united_states">Verenigde Staten</string>
+    <string name="unknown">Onbekend</string>
+    <string name="unnamed_script">Naamloos script</string>
+    <string name="upate_google">Google</string>
+    <string name="update">Update</string>
+    <string name="update_completed">Bijwerken voltooid</string>
+    <string name="update_connect_remote_controle">Gelieve verbinding te maken met uw joystick</string>
+    <string name="update_device">Wilt u uw drone bijwerken?</string>
+    <string name="update_drone">"Wilt u de versie van uw drone bijwerken?
+%1$s -> %2$s"</string>
+    <string name="update_firmware">Firmware-update</string>
+    <string name="update_found_do_you_want_to_download">Update gevonden, downloaden?</string>
+    <string name="update_in_progress_">Update wordt geïnstalleerd...</string>
+    <string name="update_mandatory">Software-update vereist</string>
+    <string name="update_profile">Update</string>
+    <string name="update_required">Update vereist</string>
+    <string name="update_server_failure">Storing updateserver</string>
+    <string name="update_title">Update</string>
+    <string name="updating_runs_mpa">Vluchten bijwerken</string>
+    <string name="upload_failed_retry">Het bestand kon niet naar de drone worden geüpload. Wilt u het opnieuw proberen?</string>
+    <string name="upwards_jump_not_possible_jump_unavailability_reason">Sprong omhoog niet beschikbaar</string>
+    <string name="usa_registration_explanation_text">Als eigenaar van een drone op Amerikaans grondgebied moet u uw drone registreren bij het register van Unmanned Aircraft Systems (UAS) van de Federal Aviation Administration. De Amerikaanse federale wet van 21 december 2015 bepaalt dat onbemande vliegtuigen moeten worden geregistreerd en als u dit niet doet, kan dit leiden tot civielrechtelijke of strafrechtelijke boetes.</string>
+    <string name="usa_registration_go_to_web_browser">Tik op de onderstaande knop om FreeFlight af te sluiten en uw drone in uw browser te registeren (hiertoe is een internetverbinding nodig).</string>
+    <string name="usa_registration_register">Registreren</string>
+    <string name="usa_registration_title">UAS-registratie (VS)</string>
+    <string name="usb_key_not_found">USB-stick niet gevonden</string>
+    <string name="use_commas_to_separate_multiple_email_addresses">"Gebruik komma's om verschillende e-mailadressen te scheiden"</string>
+    <string name="user_script_animation">Gebruikersscript</string>
+    <string name="username_or_email_is_already_registered">{0} is al geregistreerd</string>
+    <string name="using_joypad_mode_you_can_film_your_drone_while_piloting">In JOYPAD-modus kun je de drone filmen tijdens het vliegen.</string>
+    <string name="venezuela">Venezuela</string>
+    <string name="ventilate">Ventileren</string>
+    <string name="vertical_sensibility">Verticale gevoeligheid</string>
+    <string name="video_autorecord">Automatische video-opname</string>
+    <string name="video_mode">Videomodus</string>
+    <string name="video_mode_title">Videomodus</string>
+    <string name="video_popup_title">Video</string>
+    <string name="video_recording_is_busy_please_wait_until_it_is_ready">Er wordt een video opgenomen, wacht tot de opname voltooid is</string>
+    <string name="video_settings">Video-instellingen</string>
+    <string name="video_settings_anti_flickering_description">Deze optie vermindert flikkering die door kunstlicht wordt veroorzaakt.</string>
+    <string name="video_settings_frame_rate">Beeldsnelheid</string>
+    <string name="video_settings_priority">Prioriteit</string>
+    <string name="video_settings_priority_2">Maximaliseren</string>
+    <string name="video_settings_priority_quality">Opnamekwaliteit</string>
+    <string name="video_settings_priority_time">Opnametijd</string>
+    <string name="video_settings_record_quality">Kwaliteit van opname</string>
+    <string name="video_settings_record_quality_description">Gebruik de standaard kwaliteit voor een langere opnametijd.</string>
+    <string name="video_settings_record_quality_high">HOOG</string>
+    <string name="video_settings_record_quality_standard">STANDAARD</string>
+    <string name="video_settings_record_resolution">Resolutie van opname</string>
+    <string name="video_settings_record_resolution_description">Gebruik 720p om de videoresolutie te verbeteren.</string>
+    <string name="video_settings_roll_stabilization_description">Indien ingeschakeld, blijft de horizon recht in de bochten.</string>
+    <string name="video_settings_short">Video</string>
+    <string name="video_settings_stream_resolution">Resolutie van streaming:</string>
+    <string name="video_settings_video_resolution">Videoresolutie</string>
+    <string name="video_settings_video_resolution_priority_record">Prioriteit opname</string>
+    <string name="video_settings_video_resolution_priority_stream">Prioriteit streaming</string>
+    <string name="video_stabilization">Videostabilisering</string>
+    <string name="videos_map">"Video's"</string>
+    <string name="vietnam">Vietnam</string>
+    <string name="wait_action_name">Wachten</string>
+    <string name="warning">Waarschuwing</string>
+    <string name="warning__jump_motor_blocked">Waarschuwing: springmotor geblokkeerd</string>
+    <string name="warning__jump_motor_overheated">Waarschuwing: springmotor oververhit</string>
+    <string name="warning_time_line">Waarschuwing</string>
+    <string name="warning_your_media_on_the_drone_will_be_lost_do_you_wish_to_update_your_drone_version">"Houd er rekening mee dat deze update de foto's en video's zal wissen die op uw drone werden opgeslagen. Wilt u nu bijwerken?"</string>
+    <string name="watch_my_new_video">Bekijk mijn nieuwe video opgenomen vanaf de %s</string>
+    <string name="watch_this_photo_taken_from_my_parrot_">Bekijk deze foto, genomen met mijn Parrot %s</string>
+    <string name="watch_this_video_taken_from_my_parrot_drone" formatted="false">Bekijk deze video opgenomen vanaf mijn %s #%s Parrot</string>
+    <string name="waypoint">Waypoint</string>
+    <string name="weak_gps_signal">"
+- Zwak gps-signaal"</string>
+    <string name="welcome_buy_a_drone">Een drone kopen</string>
+    <string name="welcome_to_drone_academy">Welkom bij Parrot Cloud!</string>
+    <string name="welcome_to_the_world_of_parrot_drones">Welkom in de wereld van de Parrot drones!</string>
+    <string name="wifi_band">Wi-Fi-band</string>
+    <string name="wifi_band_2.4_ghz_last_drone_data">2.4 GHz</string>
+    <string name="wifi_band_5_ghz_last_drone_data">5 GHz</string>
+    <string name="wifi_band_last_drone_data">Wifi-band</string>
+    <string name="wifi_channel">Wi-Fi-kanaal</string>
+    <string name="wifi_channel_last_drone_data">Wifi-kanaal</string>
+    <string name="wifi_manager">Wifimanager</string>
+    <string name="wifi_settings">Wi-Fi-parameters</string>
+    <string name="wifi_specify_country">U moet een land opgeven om uw Wi-Fi-netwerk te configureren.</string>
+    <string name="wifi_type">Wi-Fi-type</string>
+    <string name="with_wpa2_protection_nobody_else_will_be_able_to_connect_your_drone">Met WPA2-beveiliging kan niemand anders verbinding met je drone maken</string>
+    <string name="would_you_like_to_save_the_current_plan_before_creating_a_new_one_creat_new_script">Wil je het huidige plan opslaan voordat je een nieuw plan aanmaakt?</string>
+    <string name="would_you_like_to_save_the_current_plan_before_loading_a_new_one_load_script">Wil je het huidige plan opslaan voordat je een nieuw plan oplaadt?</string>
+    <string name="wpa2">WPA2</string>
+    <string name="wpa2_security">WPA2-beveiliging</string>
+    <string name="wpa_password">WPA2-wachtwoord</string>
+    <string name="wpa_password_8_chars_min__">WPA-wachtwoord (min. 8 tekens):</string>
+    <string name="wpa_password_error">"Wachtwoord verkeerd.
+"</string>
+    <string name="wrong_battery_cell_count">onjuist aantal accucellen</string>
+    <string name="y_axis_inverted">Y-as omgekeerd</string>
+    <string name="yaw">Gieren</string>
+    <string name="yes">JA</string>
+    <string name="yes_message">Ja</string>
+    <string name="you_are_not_authorized_to_switch_to_channel_">Je bent niet gemachtigd om over te schakelen naar kanaal</string>
+    <string name="you_have_an_old_version_more_information_chek_web_site" formatted="false">Je hebt een oude versie van %s. Ga naar %s voor meer informatie.</string>
+    <string name="you_have_an_old_version_of_rolling_spider_go_to__for_more_information">De versie van je Rolling Spider is te oud. Ga vanaf je computer naar de pagina %s voor meer informatie.</string>
+    <string name="you_must_be_connected_to_a_bebop_2">U moet verbonden zijn met een Bebop 2</string>
+    <string name="you_must_be_connected_to_a_bebop_drone">U moet verbonden zijn met een Bebop drone</string>
+    <string name="you_must_be_connected_to_a_disco">U moet verbonden zijn met een Disco</string>
+    <string name="you_need_to_connect_a_headset_to_stream_audio">Om audio te streamen moet u een koptelefoon aansluiten</string>
+    <string name="you_will_need_to_calibrate_your_drone_before_using_this_flight_plan">Voordat je dit vluchtplan gaat gebruiken moet de drone gekalibreerd worden.</string>
+    <string name="your_application_is_to_old_you_have_to_update_it_before_using_your_drone__">Je toepassing is te oud! Je moet hem bijwerken voordat je de drone kunt gebruiken.</string>
+    <string name="your_device_doesnt_support_bluetooth_low_energy">Uw apparaat ondersteunt Bluetooth Low Energy niet</string>
+    <string name="your_drone_hasnt_been_deleted_successfully_please_try_later">Het verwijderen van uw drone is mislukt. Probeer het later opnieuw</string>
+    <string name="your_drone_hasnt_been_renamed_successfully_please_try_later">De naamswijziging van uw drone is mislukt. Probeer het later opnieuw</string>
+    <string name="your_drone_needs_an_update_to_support_flight_plan">Uw drone heeft een update nodig om Vliegplan te ondersteunen</string>
+    <string name="your_drone_needs_an_update_to_support_points_of_interest_and_progressive_courses">Uw drone moet worden bijgewerkt om de bezienswaardigheden en progressieve trajecten te ondersteunen</string>
+    <string name="your_drone_will_restart_to_activate_wpa2_you_will_be_disconnected">Je drone zal opstarten om WPA2 te activeren. De verbinding wordt verbroken.</string>
+    <string name="your_drone_will_restart_to_disable_wpa2_you_will_be_disconnected">Je drone zal opstarten om WPA2 te deactiveren. De verbinding wordt verbroken.</string>
+    <string name="your_email">Je e-mailadres</string>
+    <string name="your_email_is_invalid">Het e-mailadres is ongeldig</string>
+    <string name="your_friends_email">E-mailadres van je vriend(in)</string>
+    <string name="your_invitation_has_been_delivered_with_success">Je uitnodiging is bezorgd</string>
+    <string name="youtube">Youtube</string>
+    <string name="youtube_error_time_out">Tijd verstreken</string>
+    <string name="youtube_unknown_error">Onbekende Fout</string>
+</resources>
