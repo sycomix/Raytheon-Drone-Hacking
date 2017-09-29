@@ -16,9 +16,9 @@ $(document).ready(function() {
             },
             success: function(data, textStatus, jqXHR) {
                 $('#search').text('Hacked!');
-                $('#forward').css('display','block');
-                $('#land').css('display','block');
-                $('#backward').css('display','block');
+                $('#forward').css('display','inline');
+                $('#land').css('display','inline');
+                $('#backward').css('display','inline');
             }
         });
     });
