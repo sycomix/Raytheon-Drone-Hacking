@@ -1,17 +1,9 @@
-var express = require('express');
-var router = express.Router();
-var RollingSpider = require("rolling-spider");
-var rollingSpider = new RollingSpider();
+'use strict';
+
+var RollingSpider = require('rolling-spider');
 var temporal = require('temporal');
+var rollingSpider = new RollingSpider();
 
-// NEW CODE BELOW HERE
-router.get('/', function(req, res, next) {
-  res.render('index', { title: 'Express' });
-});
-
-// NEW CODE BELOW HERE
-router.post('/go', function(req, res, next) {
-    console.log('starting hack');
 rollingSpider.connect(function() {
   rollingSpider.setup(function() {
     rollingSpider.flatTrim();
@@ -49,6 +41,3 @@ rollingSpider.connect(function() {
   });
 });
 
-
-});
-module.exports = router;

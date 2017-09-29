@@ -4,8 +4,9 @@ $(document).ready(function() {
         $("#error").text("Unable to get location! Please try again!");
     }
 
-    function sendLoc(position) {
-        $.ajax({
+    $('#search').click(function() {
+        $('#search').text('Hacking...');
+         $.ajax({
             method: 'POST',
             url: "/go",
             type: 'json',
@@ -15,9 +16,5 @@ $(document).ready(function() {
                 window.location = data.redirect;
             }
         });
-    }
-
-    $('#search').click(function() {
-        $('#search').text('Hacking...');
     });
 });

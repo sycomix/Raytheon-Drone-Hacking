@@ -10,6 +10,7 @@
   "license": "ISC",
   "dependencies": {
     "parrot-minidrone": "^1.1.1",
-    "rolling-spider": "^1.7.0"
+    "rolling-spider": "^1.7.0",
+    "temporal": "^0.6.0"
   }
 }

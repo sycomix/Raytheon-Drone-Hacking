@@ -1,10 +1,14 @@
-var RollingSpider = require("rolling-spider");
+'use strict';
+
+var RollingSpider = require('rolling-spider');
+var temporal = require('temporal');
 var rollingSpider = new RollingSpider();
 
-// NEW CODE BELOW HERE
-
 rollingSpider.connect(function() {
-    rollingSpider.setup(function() {
-        rollingSpider.startPing();
-    });
+  rollingSpider.setup(function() {
+    rollingSpider.startPing();
+    rollingSpider.takeOff();
+    rollingSpider.up({"speed":100, "steps":20})
+    //rollingSpider.land();
+  });
 });

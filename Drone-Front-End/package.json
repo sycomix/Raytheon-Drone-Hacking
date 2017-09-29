@@ -13,6 +13,7 @@
     "express": "~4.15.2",
     "morgan": "~1.8.1",
     "rolling-spider": "^1.7.0",
-    "serve-favicon": "~2.4.2"
+    "serve-favicon": "~2.4.2",
+    "temporal": "^0.6.0"
   }
 }
