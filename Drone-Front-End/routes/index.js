@@ -18,54 +18,30 @@ router.post('/go', function (req, res, next) {
             rollingSpider.startPing();
             rollingSpider.flatTrim();
             rollingSpider.takeOff();
-            res.send(200)
-            // temporal.queue([
-            //     {
-            //         delay: 5000,
-            //         task: function () {
-            //             rollingSpider.flatTrim();
-            //         }
-            //     },
-            //     {
-            //         delay: 3000,
-            //         task: function () {
-            //             rollingSpider.forward({steps: 12});
-            //         }
-            //     },
-            //     {
-            //         delay: 5000,
-            //         task: function () {
-            //             rollingSpider.land();
-            //         }
-            //     },
-            //     {
-            //         delay: 5000,
-            //         task: function () {
-            //             temporal.clear();
-            //             process.exit(0);
-            //         }
-            //     }
-            // ]);
+            res.status(200);
+            res.send('Good!');
         });
     });
 });
 router.post('/forward', function (req, res, next) {
-    console.log('going forward');
     rollingSpider.forward({steps: 12});
     res.send(200);
 
 });
 
 router.post('/backward', function (req, res, next) {
-    console.log('going backward');
     rollingSpider.backward({steps: 12});
     res.send(200);
 });
 
 router.post('/land', function (req, res, next) {
-    console.log('landing');
     rollingSpider.land();
     res.send(200);
+});
 
+router.get('/strength', function (req, res, next) {
+    rollingSpider.signalStrength(function (strength) {
+        res.send(strength);
+    })
 });
 module.exports = router;
