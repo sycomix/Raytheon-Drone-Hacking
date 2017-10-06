@@ -20,24 +20,52 @@ router.post('/go', function (req, res, next) {
             rollingSpider.takeOff();
             res.status(200);
             res.send('Good!');
+            res.end();
         });
     });
 });
 router.post('/forward', function (req, res, next) {
     rollingSpider.forward({steps: 12});
-    res.send(200);
-
+    res.send('All Good');
+    res.end();
 });
 
 router.post('/backward', function (req, res, next) {
     rollingSpider.backward({steps: 12});
-    res.send(200);
+    res.send('All Good');
+    res.end();
 });
 
 router.post('/land', function (req, res, next) {
     rollingSpider.land();
-    res.send(200);
+    res.send('All Good');
+    res.end();
 });
+
+router.post('/backflip', function (req, res, next) {
+    rollingSpider.backFlip();
+    res.send('All Good');
+    res.end();
+});
+
+router.post('/emergency', function (req, res, next) {
+    rollingSpider.emergancy();
+    res.send('All Good');
+    res.end();
+});
+
+router.post('/right', function (req, res, next) {
+    rollingSpider.right({steps: 12})
+    res.send('All Good');
+    res.end();
+});
+
+router.post('/left', function (req, res, next) {
+    rollingSpider.left({steps: 12})
+    res.send('All Good');
+    res.end();
+});
+
 
 router.get('/strength', function (req, res, next) {
     rollingSpider.signalStrength(function (strength) {

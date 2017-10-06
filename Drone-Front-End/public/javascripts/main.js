@@ -4,9 +4,6 @@ $(document).ready(function () {
         $("#error").text("Unable to get location! Please try again!");
     }
 
-    $('#forward').css('display', 'none');
-    $('#land').css('display', 'none');
-    $('#backward').css('display', 'none');
     $('#search').click(function () {
         $('#search').text('Hacking...');
         $.ajax({
@@ -16,9 +13,7 @@ $(document).ready(function () {
             data: {},
             success: function (data, textStatus, jqXHR) {
                 $('#search').text('Hacked!');
-                $('#forward').css('display', 'inline');
-                $('#land').css('display', 'inline');
-                $('#backward').css('display', 'inline');
+                $('.hidden').removeClass('hidden');
                 setInterval(function () {
                     $.ajax({
                         method: 'GET',
@@ -29,17 +24,42 @@ $(document).ready(function () {
                             $("#strength").text(data);
                         }
                     });
-                }, 500);
+                }, 50000);
 
             }
         });
     });
 
-    $('#forward').click(action('/forward'));
+    $('#forward').click(() => {
+        action('/forward'
+        )
+    });
+    $('#backflip').click(() => {
+        action('/backflip'
+        )
+    });
+    $('#backward').click(() => {
+        action('/backward'
+        )
+    });
+    $('#land').click(() => {
+        action('/land'
+        )
+    });
 
-    $('#backward').click(action('/backward'));
+    $('#left').click(() => {
+        action('/left'
+        )
+    });
+    $('#right').click(() => {
+        action('/right'
+        )
+    });
 
-    $('#land').click(action('/land'));
+    $('#emergency').click(() => {
+        action('/emergency'
+        )
+    });
 });
 
 function action(method) {
@@ -66,10 +86,10 @@ function checkKey(e) {
         action('/backward')
     }
     else if (e.keyCode == '37') {
-        // left arrow
+        action('/left')
     }
     else if (e.keyCode == '39') {
-        // right arrow
+        action('/right')
     }
 
 }
