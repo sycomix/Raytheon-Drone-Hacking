@@ -17,7 +17,7 @@
       <file leaf-file-name="app.js" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/app.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="57">
+            <state relative-caret-position="120">
               <caret line="8" column="0" lean-forward="false" selection-start-line="8" selection-start-column="0" selection-end-line="8" selection-end-column="0" />
               <folding />
             </state>
@@ -27,7 +27,7 @@
       <file leaf-file-name="index.js" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/routes/index.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="592">
+            <state relative-caret-position="945">
               <caret line="63" column="22" lean-forward="false" selection-start-line="63" selection-start-column="22" selection-end-line="63" selection-end-column="22" />
               <folding />
             </state>
@@ -37,201 +37,9 @@
       <file leaf-file-name="drone.js" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/node_modules/rolling-spider/lib/drone.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-2282">
+            <state relative-caret-position="7635">
               <caret line="509" column="34" lean-forward="false" selection-start-line="509" selection-start-column="29" selection-end-line="509" selection-end-column="34" />
-              <folding>
-                <marker date="1491414453000" expanded="false" signature="0:19" ph="/*...*/" />
-                <marker date="1491414453000" expanded="true" signature="223:558" ph="/** Constructs a new RollingSpider ...*/" />
-                <marker date="1491414453000" expanded="true" signature="589:1642" ph="{...}" />
-                <marker date="1491414453000" expanded="true" signature="824:873" ph="{...}" />
-                <marker date="1491414453000" expanded="true" signature="1177:1290" ph="{...}" />
-                <marker date="1491414453000" expanded="true" signature="1295:1372" ph="/** Used to store the 'counter' that's sent to each characteristic ...*/" />
-                <marker date="1491414453000" expanded="true" signature="1388:1437" ph="{...}" />
-                <marker date="1491414453000" expanded="true" signature="1456:1516" ph="{...}" />
-                <marker date="1491414453000" expanded="true" signature="1597:1627" ph="{...}" />
-                <marker date="1491414453000" expanded="true" signature="1683:1925" ph="/** Drone.isDronePeripheral ...*/" />
-                <marker date="1491414453000" expanded="true" signature="1973:2726" ph="{...}" />
-                <marker date="1491414453000" expanded="true" signature="1994:2017" ph="{...}" />
-                <marker date="1491414453000" expanded="true" signature="2160:2259" ph="[...]" />
-                <marker date="1491414453000" expanded="true" signature="2291:2367" ph="[...]" />
-                <marker date="1491414453000" expanded="true" signature="2820:2852" ph="{...}" />
-                <marker date="1491414453000" expanded="true" signature="2855:3012" ph="/** Connects to the drone over BLE ...*/" />
-                <marker date="1491414453000" expanded="true" signature="3058:5356" ph="{...}" />
-                <marker date="1491414453000" expanded="true" signature="3120:3195" ph="{...}" />
-                <marker date="1491414453000" expanded="true" signature="3244:4715" ph="{...}" />
-                <marker date="1491414453000" expanded="true" signature="3669:4040" ph="{...}" />
-                <marker date="1491414453000" expanded="true" signature="3695:3720" ph="{...}" />
-                <marker date="1491414453000" expanded="true" signature="3726:3764" ph="{...}" />
-                <marker date="1491414453000" expanded="true" signature="3782:3874" ph="{...}" />
-                <marker date="1491414453000" expanded="true" signature="3828:3866" ph="{...}" />
-                <marker date="1491414453000" expanded="true" signature="3880:4034" ph="{...}" />
-                <marker date="1491414453000" expanded="true" signature="4105:4211" ph="{...}" />
-                <marker date="1491414453000" expanded="true" signature="4239:4711" ph="{...}" />
-                <marker date="1491414453000" expanded="true" signature="4351:4413" ph="{...}" />
-                <marker date="1491414453000" expanded="true" signature="4502:4535" ph="{...}" />
-                <marker date="1491414453000" expanded="true" signature="4556:4705" ph="{...}" />
-                <marker date="1491414453000" expanded="true" signature="4789:4871" ph="{...}" />
-                <marker date="1491414453000" expanded="true" signature="4877:5354" ph="{...}" />
-                <marker date="1491414453000" expanded="true" signature="4976:5337" ph="{...}" />
-                <marker date="1491414453000" expanded="true" signature="5011:5102" ph="{...}" />
-                <marker date="1491414453000" expanded="true" signature="5108:5331" ph="{...}" />
-                <marker date="1491414453000" expanded="true" signature="5235:5323" ph="{...}" />
-                <marker date="1491414453000" expanded="true" signature="5430:5729" ph="{...}" />
-                <marker date="1491414453000" expanded="true" signature="5684:5714" ph="{...}" />
-                <marker date="1491414453000" expanded="true" signature="5732:5895" ph="/** Sets up the connection to the drone and enumerate all of the services and characteristics. ...*/" />
-                <marker date="1491414453000" expanded="true" signature="5939:6322" ph="{...}" />
-                <marker date="1491414453000" expanded="true" signature="6078:6307" ph="{...}" />
-                <marker date="1491414453000" expanded="true" signature="6095:6179" ph="{...}" />
-                <marker date="1491414453000" expanded="true" signature="6139:6173" ph="{...}" />
-                <marker date="1491414453000" expanded="true" signature="6185:6303" ph="{...}" />
-                <marker date="1491414453000" expanded="true" signature="6325:6512" ph="/** Performs necessary handshake to initiate communication with the device. Also configures all notification handlers. ...*/" />
-                <marker date="1491414453000" expanded="true" signature="6560:8345" ph="{...}" />
-                <marker date="1491414453000" expanded="true" signature="6709:6801" ph="{...}" />
-                <marker date="1491414453000" expanded="true" signature="6941:7132" ph="{...}" />
-                <marker date="1491414453000" expanded="true" signature="6968:6989" ph="{...}" />
-                <marker date="1491414453000" expanded="true" signature="7149:7291" ph="/** Flying statuses: ...*/" />
-                <marker date="1491414453000" expanded="true" signature="7367:7935" ph="{...}" />
-                <marker date="1491414453000" expanded="true" signature="7394:7415" ph="{...}" />
-                <marker date="1491414453000" expanded="true" signature="7439:7460" ph="{...}" />
-                <marker date="1491414453000" expanded="true" signature="7643:7683" ph="{...}" />
-                <marker date="1491414453000" expanded="true" signature="7766:7805" ph="{...}" />
-                <marker date="1491414453000" expanded="true" signature="7860:7930" ph="{...}" />
-                <marker date="1491414453000" expanded="true" signature="7975:8325" ph="{...}" />
-                <marker date="1491414453000" expanded="true" signature="8167:8314" ph="{...}" />
-                <marker date="1491414453000" expanded="true" signature="8199:8299" ph="{...}" />
-                <marker date="1491414453000" expanded="true" signature="8247:8289" ph="{...}" />
-                <marker date="1491414453000" expanded="true" signature="8350:8479" ph="/** Gets a Characteristic by it's unique_uuid_segment ...*/" />
-                <marker date="1491414453000" expanded="true" signature="8546:8704" ph="{...}" />
-                <marker date="1491414453000" expanded="true" signature="8605:8676" ph="{...}" />
-                <marker date="1491414453000" expanded="true" signature="8707:8849" ph="/** Writes a Buffer to a Characteristic by it's unique_uuid_segment ...*/" />
-                <marker date="1491414453000" expanded="true" signature="8924:9447" ph="{...}" />
-                <marker date="1491414453000" expanded="true" signature="8955:9221" ph="{...}" />
-                <marker date="1491414453000" expanded="true" signature="9163:9189" ph="{...}" />
-                <marker date="1491414453000" expanded="true" signature="9195:9217" ph="{...}" />
-                <marker date="1491414453000" expanded="true" signature="9227:9445" ph="{...}" />
-                <marker date="1491414453000" expanded="true" signature="9269:9357" ph="{...}" />
-                <marker date="1491414453000" expanded="true" signature="9363:9441" ph="{...}" />
-                <marker date="1491414453000" expanded="true" signature="9492:10086" ph="{...}" />
-                <marker date="1491414453000" expanded="true" signature="9516:10084" ph="{...}" />
-                <marker date="1491414453000" expanded="true" signature="9595:9634" ph="{...}" />
-                <marker date="1491414453000" expanded="true" signature="9731:10049" ph="//..." />
-                <marker date="1491414453000" expanded="true" signature="10089:10181" ph="/** 'Disconnects' from the drone ...*/" />
-                <marker date="1491414453000" expanded="true" signature="10230:10554" ph="{...}" />
-                <marker date="1491414453000" expanded="true" signature="10298:10475" ph="{...}" />
-                <marker date="1491414453000" expanded="true" signature="10347:10458" ph="{...}" />
-                <marker date="1491414453000" expanded="true" signature="10418:10452" ph="{...}" />
-                <marker date="1491414453000" expanded="true" signature="10481:10552" ph="{...}" />
-                <marker date="1491414453000" expanded="true" signature="10523:10548" ph="{...}" />
-                <marker date="1491414453000" expanded="true" signature="10558:10756" ph="/** Starts sending the current speed values to the drone every 50 milliseconds ...*/" />
-                <marker date="1491414453000" expanded="true" signature="10796:11829" ph="{...}" />
-                <marker date="1491414453000" expanded="true" signature="10878:11810" ph="{...}" />
-                <marker date="1491414453000" expanded="true" signature="11494:11542" ph="{...}" />
-                <marker date="1491414453000" expanded="true" signature="11582:11658" ph="{...}" />
-                <marker date="1491414453000" expanded="true" signature="11664:11805" ph="{...}" />
-                <marker date="1491414453000" expanded="true" signature="11836:11994" ph="/** Obtains the signal strength of the connected drone as a dBm metric. ...*/" />
-                <marker date="1491414453000" expanded="true" signature="12047:12280" ph="{...}" />
-                <marker date="1491414453000" expanded="true" signature="12118:12165" ph="{...}" />
-                <marker date="1491414453000" expanded="true" signature="12171:12278" ph="{...}" />
-                <marker date="1491414453000" expanded="true" signature="12213:12274" ph="{...}" />
-                <marker date="1491414453000" expanded="true" signature="12335:12926" ph="{...}" />
-                <marker date="1491414453000" expanded="true" signature="12518:12924" ph="{...}" />
-                <marker date="1491414453000" expanded="true" signature="12929:13080" ph="//..." />
-                <marker date="1491414453000" expanded="true" signature="13084:13157" ph="/** Instructs the drone to take off if it isn't already in the air ...*/" />
-                <marker date="1491414453000" expanded="true" signature="13194:13756" ph="{...}" />
-                <marker date="1491414453000" expanded="true" signature="13233:13280" ph="{...}" />
-                <marker date="1491414453000" expanded="true" signature="13354:13409" ph="{...}" />
-                <marker date="1491414453000" expanded="true" signature="13437:13587" ph="{...}" />
-                <marker date="1491414453000" expanded="true" signature="13641:13751" ph="{...}" />
-                <marker date="1491414453000" expanded="true" signature="13668:13747" ph="{...}" />
-                <marker date="1491414453000" expanded="true" signature="13712:13741" ph="{...}" />
-                <marker date="1491414453000" expanded="true" signature="13760:13834" ph="/** Configures the drone to fly in 'wheel on' or protected mode. ...*/" />
-                <marker date="1491414453000" expanded="true" signature="13872:14151" ph="{...}" />
-                <marker date="1491414453000" expanded="true" signature="13911:13958" ph="{...}" />
-                <marker date="1491414453000" expanded="true" signature="14128:14149" ph="{...}" />
-                <marker date="1491414453000" expanded="true" signature="14153:14230" ph="/** Configures the drone to fly in 'wheel off' or unprotected mode. ...*/" />
-                <marker date="1491414453000" expanded="true" signature="14268:14547" ph="{...}" />
-                <marker date="1491414453000" expanded="true" signature="14307:14354" ph="{...}" />
-                <marker date="1491414453000" expanded="true" signature="14524:14545" ph="{...}" />
-                <marker date="1491414453000" expanded="true" signature="14549:14607" ph="/** Instructs the drone to land if it's in the air. ...*/" />
-                <marker date="1491414453000" expanded="true" signature="14642:15286" ph="{...}" />
-                <marker date="1491414453000" expanded="true" signature="14681:14728" ph="{...}" />
-                <marker date="1491414453000" expanded="true" signature="14792:15128" ph="{...}" />
-                <marker date="1491414453000" expanded="true" signature="14963:15121" ph="{...}" />
-                <marker date="1491414453000" expanded="true" signature="14992:15115" ph="{...}" />
-                <marker date="1491414453000" expanded="true" signature="15074:15107" ph="{...}" />
-                <marker date="1491414453000" expanded="true" signature="15134:15284" ph="{...}" />
-                <marker date="1491414453000" expanded="true" signature="15255:15280" ph="{...}" />
-                <marker date="1491414453000" expanded="true" signature="15324:15565" ph="{...}" />
-                <marker date="1491414453000" expanded="true" signature="15363:15410" ph="{...}" />
-                <marker date="1491414453000" expanded="true" signature="15476:15515" ph="{...}" />
-                <marker date="1491414453000" expanded="true" signature="15521:15563" ph="{...}" />
-                <marker date="1491414453000" expanded="true" signature="15567:15625" ph="/** Instructs the drone to do an emergency landing. ...*/" />
-                <marker date="1491414453000" expanded="true" signature="15661:15936" ph="{...}" />
-                <marker date="1491414453000" expanded="true" signature="15700:15747" ph="{...}" />
-                <marker date="1491414453000" expanded="true" signature="15938:16019" ph="/** Instructs the drone to trim. Make sure to call this before taking off. ...*/" />
-                <marker date="1491414453000" expanded="true" signature="16057:16306" ph="{...}" />
-                <marker date="1491414453000" expanded="true" signature="16096:16143" ph="{...}" />
-                <marker date="1491414453000" expanded="true" signature="16310:16409" ph="/** Instructs the drone to do a front flip. ...*/" />
-                <marker date="1491414453000" expanded="true" signature="16449:16986" ph="{...}" />
-                <marker date="1491414453000" expanded="true" signature="16488:16535" ph="{...}" />
-                <marker date="1491414453000" expanded="true" signature="16604:16763" ph="{...}" />
-                <marker date="1491414453000" expanded="true" signature="16769:16946" ph="{...}" />
-                <marker date="1491414453000" expanded="true" signature="16917:16942" ph="{...}" />
-                <marker date="1491414453000" expanded="true" signature="16963:16984" ph="{...}" />
-                <marker date="1491414453000" expanded="true" signature="16988:17086" ph="/** Instructs the drone to do a back flip. ...*/" />
-                <marker date="1491414453000" expanded="true" signature="17125:17660" ph="{...}" />
-                <marker date="1491414453000" expanded="true" signature="17164:17211" ph="{...}" />
-                <marker date="1491414453000" expanded="true" signature="17279:17438" ph="{...}" />
-                <marker date="1491414453000" expanded="true" signature="17444:17620" ph="{...}" />
-                <marker date="1491414453000" expanded="true" signature="17591:17616" ph="{...}" />
-                <marker date="1491414453000" expanded="true" signature="17637:17658" ph="{...}" />
-                <marker date="1491414453000" expanded="true" signature="17662:17761" ph="/** Instructs the drone to do a right flip. ...*/" />
-                <marker date="1491414453000" expanded="true" signature="17800:18338" ph="{...}" />
-                <marker date="1491414453000" expanded="true" signature="17839:17886" ph="{...}" />
-                <marker date="1491414453000" expanded="true" signature="17955:18114" ph="{...}" />
-                <marker date="1491414453000" expanded="true" signature="18120:18297" ph="{...}" />
-                <marker date="1491414453000" expanded="true" signature="18268:18293" ph="{...}" />
-                <marker date="1491414453000" expanded="true" signature="18315:18336" ph="{...}" />
-                <marker date="1491414453000" expanded="true" signature="18340:18438" ph="/** Instructs the drone to do a left flip. ...*/" />
-                <marker date="1491414453000" expanded="true" signature="18477:19012" ph="{...}" />
-                <marker date="1491414453000" expanded="true" signature="18516:18563" ph="{...}" />
-                <marker date="1491414453000" expanded="true" signature="18631:18790" ph="{...}" />
-                <marker date="1491414453000" expanded="true" signature="18796:18972" ph="{...}" />
-                <marker date="1491414453000" expanded="true" signature="18943:18968" ph="{...}" />
-                <marker date="1491414453000" expanded="true" signature="18989:19010" ph="{...}" />
-                <marker date="1491414453000" expanded="true" signature="19048:20249" ph="{...}" />
-                <marker date="1491414453000" expanded="true" signature="19265:20245" ph="{...}" />
-                <marker date="1491414453000" expanded="true" signature="19336:19453" ph="{...}" />
-                <marker date="1491414453000" expanded="true" signature="19494:19535" ph="{...}" />
-                <marker date="1491414453000" expanded="true" signature="19541:19573" ph="{...}" />
-                <marker date="1491414453000" expanded="true" signature="19645:20107" ph="{...}" />
-                <marker date="1491414453000" expanded="true" signature="19786:19908" ph="{...}" />
-                <marker date="1491414453000" expanded="true" signature="19914:20101" ph="{...}" />
-                <marker date="1491414453000" expanded="true" signature="20113:20241" ph="{...}" />
-                <marker date="1491414453000" expanded="true" signature="20251:20447" ph="/** Instructs the drone to start moving upward at speed ...*/" />
-                <marker date="1491414453000" expanded="true" signature="20470:20513" ph="{&quot;name&quot;: 'up'...}" />
-                <marker date="1491414453000" expanded="true" signature="20517:20715" ph="/** Instructs the drone to start moving downward at speed ...*/" />
-                <marker date="1491414453000" expanded="true" signature="20740:20804" ph="{&quot;name&quot;: 'down'...}" />
-                <marker date="1491414453000" expanded="true" signature="20808:21020" ph="/** Instructs the drone to start moving forward at speed ...*/" />
-                <marker date="1491414453000" expanded="true" signature="21048:21101" ph="{&quot;name&quot;: 'forward'...}" />
-                <marker date="1491414453000" expanded="true" signature="21106:21304" ph="/** Instructs the drone to start moving backward at speed ...*/" />
-                <marker date="1491414453000" expanded="true" signature="21333:21406" ph="{&quot;name&quot;: 'backward'...}" />
-                <marker date="1491414453000" expanded="true" signature="21411:21617" ph="/** Instructs the drone to start spinning clockwise at speed ...*/" />
-                <marker date="1491414453000" expanded="true" signature="21647:21699" ph="{&quot;name&quot;: 'turnRight'...}" />
-                <marker date="1491414453000" expanded="true" signature="21703:21917" ph="/** Instructs the drone to start spinning counter-clockwise at speed ...*/" />
-                <marker date="1491414453000" expanded="true" signature="21946:22016" ph="{&quot;name&quot;: 'turnLeft'...}" />
-                <marker date="1491414453000" expanded="true" signature="22021:22221" ph="/** Instructs the drone to start moving right at speed ...*/" />
-                <marker date="1491414453000" expanded="true" signature="22251:22303" ph="{&quot;name&quot;: 'tiltRight'...}" />
-                <marker date="1491414453000" expanded="true" signature="22308:22507" ph="/** Instructs the drone to start moving left at speed ...*/" />
-                <marker date="1491414453000" expanded="true" signature="22536:22606" ph="{&quot;name&quot;: 'tiltLeft'...}" />
-                <marker date="1491414453000" expanded="true" signature="22644:22942" ph="{...}" />
-                <marker date="1491414453000" expanded="true" signature="22683:22730" ph="{...}" />
-                <marker date="1491414453000" expanded="true" signature="22919:22940" ph="{...}" />
-                <marker date="1491414453000" expanded="true" signature="22945:23055" ph="/** Checks whether a speed is valid or not ...*/" />
-                <marker date="1491414453000" expanded="true" signature="23083:23125" ph="{...}" />
-                <marker date="1491414453000" expanded="true" signature="23127:23192" ph="/** Gets the Bluetooth name of the drone ...*/" />
-                <marker date="1491414453000" expanded="true" signature="23218:23271" ph="{...}" />
-              </folding>
+              <folding />
             </state>
           </provider>
         </entry>
@@ -249,7 +57,7 @@
       <file leaf-file-name="index.ejs" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/views/index.ejs">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="469">
+            <state relative-caret-position="585">
               <caret line="39" column="78" lean-forward="false" selection-start-line="39" selection-start-column="78" selection-end-line="39" selection-end-column="78" />
               <folding />
             </state>
@@ -259,7 +67,7 @@
       <file leaf-file-name="main.js" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/public/javascripts/main.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="547">
+            <state relative-caret-position="920">
               <caret line="91" column="22" lean-forward="false" selection-start-line="91" selection-start-column="22" selection-end-line="91" selection-end-column="22" />
               <folding />
             </state>
@@ -269,7 +77,7 @@
       <file leaf-file-name="style.css" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/public/stylesheets/style.css">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="300">
+            <state relative-caret-position="975">
               <caret line="65" column="16" lean-forward="false" selection-start-line="65" selection-start-column="16" selection-end-line="65" selection-end-column="16" />
               <folding />
             </state>
@@ -427,11 +235,12 @@
       <updated>1506650500605</updated>
       <workItem from="1506650502175" duration="1559000" />
       <workItem from="1507246081407" duration="3340000" />
+      <workItem from="1507256729157" duration="280000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="4899000" />
+    <option name="totallyTimeSpent" value="5179000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1920" height="1200" extended-state="0" />
@@ -439,19 +248,19 @@
       <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.24960506" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
-      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32919255" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32919255" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="npm" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32919255" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32919255" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
     </layout>
   </component>
@@ -466,6 +275,62 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/routes/index.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="945">
+          <caret line="63" column="22" lean-forward="false" selection-start-line="63" selection-start-column="22" selection-end-line="63" selection-end-column="22" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="120">
+          <caret line="8" column="0" lean-forward="false" selection-start-line="8" selection-start-column="0" selection-end-line="8" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/node_modules/rolling-spider/lib/drone.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="7635">
+          <caret line="509" column="34" lean-forward="false" selection-start-line="509" selection-start-column="29" selection-end-line="509" selection-end-column="34" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/node_modules/rolling-spider/eg/discover.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="165">
+          <caret line="11" column="0" lean-forward="false" selection-start-line="11" selection-start-column="0" selection-end-line="11" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/views/index.ejs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="585">
+          <caret line="39" column="78" lean-forward="false" selection-start-line="39" selection-start-column="78" selection-end-line="39" selection-end-column="78" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/public/stylesheets/style.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="975">
+          <caret line="65" column="16" lean-forward="false" selection-start-line="65" selection-start-column="16" selection-end-line="65" selection-end-column="16" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/public/javascripts/main.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1365">
+          <caret line="91" column="22" lean-forward="false" selection-start-line="91" selection-start-column="22" selection-end-line="91" selection-end-column="22" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/app.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="120">
@@ -509,7 +374,7 @@
     <entry file="file://$PROJECT_DIR$/routes/users.js" />
     <entry file="file://$PROJECT_DIR$/public/stylesheets/style.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="300">
+        <state relative-caret-position="975">
           <caret line="65" column="16" lean-forward="false" selection-start-line="65" selection-start-column="16" selection-end-line="65" selection-end-column="16" />
           <folding />
         </state>
@@ -517,201 +382,9 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/node_modules/rolling-spider/lib/drone.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-2282">
+        <state relative-caret-position="7635">
           <caret line="509" column="34" lean-forward="false" selection-start-line="509" selection-start-column="29" selection-end-line="509" selection-end-column="34" />
-          <folding>
-            <marker date="1491414453000" expanded="false" signature="0:19" ph="/*...*/" />
-            <marker date="1491414453000" expanded="true" signature="223:558" ph="/** Constructs a new RollingSpider ...*/" />
-            <marker date="1491414453000" expanded="true" signature="589:1642" ph="{...}" />
-            <marker date="1491414453000" expanded="true" signature="824:873" ph="{...}" />
-            <marker date="1491414453000" expanded="true" signature="1177:1290" ph="{...}" />
-            <marker date="1491414453000" expanded="true" signature="1295:1372" ph="/** Used to store the 'counter' that's sent to each characteristic ...*/" />
-            <marker date="1491414453000" expanded="true" signature="1388:1437" ph="{...}" />
-            <marker date="1491414453000" expanded="true" signature="1456:1516" ph="{...}" />
-            <marker date="1491414453000" expanded="true" signature="1597:1627" ph="{...}" />
-            <marker date="1491414453000" expanded="true" signature="1683:1925" ph="/** Drone.isDronePeripheral ...*/" />
-            <marker date="1491414453000" expanded="true" signature="1973:2726" ph="{...}" />
-            <marker date="1491414453000" expanded="true" signature="1994:2017" ph="{...}" />
-            <marker date="1491414453000" expanded="true" signature="2160:2259" ph="[...]" />
-            <marker date="1491414453000" expanded="true" signature="2291:2367" ph="[...]" />
-            <marker date="1491414453000" expanded="true" signature="2820:2852" ph="{...}" />
-            <marker date="1491414453000" expanded="true" signature="2855:3012" ph="/** Connects to the drone over BLE ...*/" />
-            <marker date="1491414453000" expanded="true" signature="3058:5356" ph="{...}" />
-            <marker date="1491414453000" expanded="true" signature="3120:3195" ph="{...}" />
-            <marker date="1491414453000" expanded="true" signature="3244:4715" ph="{...}" />
-            <marker date="1491414453000" expanded="true" signature="3669:4040" ph="{...}" />
-            <marker date="1491414453000" expanded="true" signature="3695:3720" ph="{...}" />
-            <marker date="1491414453000" expanded="true" signature="3726:3764" ph="{...}" />
-            <marker date="1491414453000" expanded="true" signature="3782:3874" ph="{...}" />
-            <marker date="1491414453000" expanded="true" signature="3828:3866" ph="{...}" />
-            <marker date="1491414453000" expanded="true" signature="3880:4034" ph="{...}" />
-            <marker date="1491414453000" expanded="true" signature="4105:4211" ph="{...}" />
-            <marker date="1491414453000" expanded="true" signature="4239:4711" ph="{...}" />
-            <marker date="1491414453000" expanded="true" signature="4351:4413" ph="{...}" />
-            <marker date="1491414453000" expanded="true" signature="4502:4535" ph="{...}" />
-            <marker date="1491414453000" expanded="true" signature="4556:4705" ph="{...}" />
-            <marker date="1491414453000" expanded="true" signature="4789:4871" ph="{...}" />
-            <marker date="1491414453000" expanded="true" signature="4877:5354" ph="{...}" />
-            <marker date="1491414453000" expanded="true" signature="4976:5337" ph="{...}" />
-            <marker date="1491414453000" expanded="true" signature="5011:5102" ph="{...}" />
-            <marker date="1491414453000" expanded="true" signature="5108:5331" ph="{...}" />
-            <marker date="1491414453000" expanded="true" signature="5235:5323" ph="{...}" />
-            <marker date="1491414453000" expanded="true" signature="5430:5729" ph="{...}" />
-            <marker date="1491414453000" expanded="true" signature="5684:5714" ph="{...}" />
-            <marker date="1491414453000" expanded="true" signature="5732:5895" ph="/** Sets up the connection to the drone and enumerate all of the services and characteristics. ...*/" />
-            <marker date="1491414453000" expanded="true" signature="5939:6322" ph="{...}" />
-            <marker date="1491414453000" expanded="true" signature="6078:6307" ph="{...}" />
-            <marker date="1491414453000" expanded="true" signature="6095:6179" ph="{...}" />
-            <marker date="1491414453000" expanded="true" signature="6139:6173" ph="{...}" />
-            <marker date="1491414453000" expanded="true" signature="6185:6303" ph="{...}" />
-            <marker date="1491414453000" expanded="true" signature="6325:6512" ph="/** Performs necessary handshake to initiate communication with the device. Also configures all notification handlers. ...*/" />
-            <marker date="1491414453000" expanded="true" signature="6560:8345" ph="{...}" />
-            <marker date="1491414453000" expanded="true" signature="6709:6801" ph="{...}" />
-            <marker date="1491414453000" expanded="true" signature="6941:7132" ph="{...}" />
-            <marker date="1491414453000" expanded="true" signature="6968:6989" ph="{...}" />
-            <marker date="1491414453000" expanded="true" signature="7149:7291" ph="/** Flying statuses: ...*/" />
-            <marker date="1491414453000" expanded="true" signature="7367:7935" ph="{...}" />
-            <marker date="1491414453000" expanded="true" signature="7394:7415" ph="{...}" />
-            <marker date="1491414453000" expanded="true" signature="7439:7460" ph="{...}" />
-            <marker date="1491414453000" expanded="true" signature="7643:7683" ph="{...}" />
-            <marker date="1491414453000" expanded="true" signature="7766:7805" ph="{...}" />
-            <marker date="1491414453000" expanded="true" signature="7860:7930" ph="{...}" />
-            <marker date="1491414453000" expanded="true" signature="7975:8325" ph="{...}" />
-            <marker date="1491414453000" expanded="true" signature="8167:8314" ph="{...}" />
-            <marker date="1491414453000" expanded="true" signature="8199:8299" ph="{...}" />
-            <marker date="1491414453000" expanded="true" signature="8247:8289" ph="{...}" />
-            <marker date="1491414453000" expanded="true" signature="8350:8479" ph="/** Gets a Characteristic by it's unique_uuid_segment ...*/" />
-            <marker date="1491414453000" expanded="true" signature="8546:8704" ph="{...}" />
-            <marker date="1491414453000" expanded="true" signature="8605:8676" ph="{...}" />
-            <marker date="1491414453000" expanded="true" signature="8707:8849" ph="/** Writes a Buffer to a Characteristic by it's unique_uuid_segment ...*/" />
-            <marker date="1491414453000" expanded="true" signature="8924:9447" ph="{...}" />
-            <marker date="1491414453000" expanded="true" signature="8955:9221" ph="{...}" />
-            <marker date="1491414453000" expanded="true" signature="9163:9189" ph="{...}" />
-            <marker date="1491414453000" expanded="true" signature="9195:9217" ph="{...}" />
-            <marker date="1491414453000" expanded="true" signature="9227:9445" ph="{...}" />
-            <marker date="1491414453000" expanded="true" signature="9269:9357" ph="{...}" />
-            <marker date="1491414453000" expanded="true" signature="9363:9441" ph="{...}" />
-            <marker date="1491414453000" expanded="true" signature="9492:10086" ph="{...}" />
-            <marker date="1491414453000" expanded="true" signature="9516:10084" ph="{...}" />
-            <marker date="1491414453000" expanded="true" signature="9595:9634" ph="{...}" />
-            <marker date="1491414453000" expanded="true" signature="9731:10049" ph="//..." />
-            <marker date="1491414453000" expanded="true" signature="10089:10181" ph="/** 'Disconnects' from the drone ...*/" />
-            <marker date="1491414453000" expanded="true" signature="10230:10554" ph="{...}" />
-            <marker date="1491414453000" expanded="true" signature="10298:10475" ph="{...}" />
-            <marker date="1491414453000" expanded="true" signature="10347:10458" ph="{...}" />
-            <marker date="1491414453000" expanded="true" signature="10418:10452" ph="{...}" />
-            <marker date="1491414453000" expanded="true" signature="10481:10552" ph="{...}" />
-            <marker date="1491414453000" expanded="true" signature="10523:10548" ph="{...}" />
-            <marker date="1491414453000" expanded="true" signature="10558:10756" ph="/** Starts sending the current speed values to the drone every 50 milliseconds ...*/" />
-            <marker date="1491414453000" expanded="true" signature="10796:11829" ph="{...}" />
-            <marker date="1491414453000" expanded="true" signature="10878:11810" ph="{...}" />
-            <marker date="1491414453000" expanded="true" signature="11494:11542" ph="{...}" />
-            <marker date="1491414453000" expanded="true" signature="11582:11658" ph="{...}" />
-            <marker date="1491414453000" expanded="true" signature="11664:11805" ph="{...}" />
-            <marker date="1491414453000" expanded="true" signature="11836:11994" ph="/** Obtains the signal strength of the connected drone as a dBm metric. ...*/" />
-            <marker date="1491414453000" expanded="true" signature="12047:12280" ph="{...}" />
-            <marker date="1491414453000" expanded="true" signature="12118:12165" ph="{...}" />
-            <marker date="1491414453000" expanded="true" signature="12171:12278" ph="{...}" />
-            <marker date="1491414453000" expanded="true" signature="12213:12274" ph="{...}" />
-            <marker date="1491414453000" expanded="true" signature="12335:12926" ph="{...}" />
-            <marker date="1491414453000" expanded="true" signature="12518:12924" ph="{...}" />
-            <marker date="1491414453000" expanded="true" signature="12929:13080" ph="//..." />
-            <marker date="1491414453000" expanded="true" signature="13084:13157" ph="/** Instructs the drone to take off if it isn't already in the air ...*/" />
-            <marker date="1491414453000" expanded="true" signature="13194:13756" ph="{...}" />
-            <marker date="1491414453000" expanded="true" signature="13233:13280" ph="{...}" />
-            <marker date="1491414453000" expanded="true" signature="13354:13409" ph="{...}" />
-            <marker date="1491414453000" expanded="true" signature="13437:13587" ph="{...}" />
-            <marker date="1491414453000" expanded="true" signature="13641:13751" ph="{...}" />
-            <marker date="1491414453000" expanded="true" signature="13668:13747" ph="{...}" />
-            <marker date="1491414453000" expanded="true" signature="13712:13741" ph="{...}" />
-            <marker date="1491414453000" expanded="true" signature="13760:13834" ph="/** Configures the drone to fly in 'wheel on' or protected mode. ...*/" />
-            <marker date="1491414453000" expanded="true" signature="13872:14151" ph="{...}" />
-            <marker date="1491414453000" expanded="true" signature="13911:13958" ph="{...}" />
-            <marker date="1491414453000" expanded="true" signature="14128:14149" ph="{...}" />
-            <marker date="1491414453000" expanded="true" signature="14153:14230" ph="/** Configures the drone to fly in 'wheel off' or unprotected mode. ...*/" />
-            <marker date="1491414453000" expanded="true" signature="14268:14547" ph="{...}" />
-            <marker date="1491414453000" expanded="true" signature="14307:14354" ph="{...}" />
-            <marker date="1491414453000" expanded="true" signature="14524:14545" ph="{...}" />
-            <marker date="1491414453000" expanded="true" signature="14549:14607" ph="/** Instructs the drone to land if it's in the air. ...*/" />
-            <marker date="1491414453000" expanded="true" signature="14642:15286" ph="{...}" />
-            <marker date="1491414453000" expanded="true" signature="14681:14728" ph="{...}" />
-            <marker date="1491414453000" expanded="true" signature="14792:15128" ph="{...}" />
-            <marker date="1491414453000" expanded="true" signature="14963:15121" ph="{...}" />
-            <marker date="1491414453000" expanded="true" signature="14992:15115" ph="{...}" />
-            <marker date="1491414453000" expanded="true" signature="15074:15107" ph="{...}" />
-            <marker date="1491414453000" expanded="true" signature="15134:15284" ph="{...}" />
-            <marker date="1491414453000" expanded="true" signature="15255:15280" ph="{...}" />
-            <marker date="1491414453000" expanded="true" signature="15324:15565" ph="{...}" />
-            <marker date="1491414453000" expanded="true" signature="15363:15410" ph="{...}" />
-            <marker date="1491414453000" expanded="true" signature="15476:15515" ph="{...}" />
-            <marker date="1491414453000" expanded="true" signature="15521:15563" ph="{...}" />
-            <marker date="1491414453000" expanded="true" signature="15567:15625" ph="/** Instructs the drone to do an emergency landing. ...*/" />
-            <marker date="1491414453000" expanded="true" signature="15661:15936" ph="{...}" />
-            <marker date="1491414453000" expanded="true" signature="15700:15747" ph="{...}" />
-            <marker date="1491414453000" expanded="true" signature="15938:16019" ph="/** Instructs the drone to trim. Make sure to call this before taking off. ...*/" />
-            <marker date="1491414453000" expanded="true" signature="16057:16306" ph="{...}" />
-            <marker date="1491414453000" expanded="true" signature="16096:16143" ph="{...}" />
-            <marker date="1491414453000" expanded="true" signature="16310:16409" ph="/** Instructs the drone to do a front flip. ...*/" />
-            <marker date="1491414453000" expanded="true" signature="16449:16986" ph="{...}" />
-            <marker date="1491414453000" expanded="true" signature="16488:16535" ph="{...}" />
-            <marker date="1491414453000" expanded="true" signature="16604:16763" ph="{...}" />
-            <marker date="1491414453000" expanded="true" signature="16769:16946" ph="{...}" />
-            <marker date="1491414453000" expanded="true" signature="16917:16942" ph="{...}" />
-            <marker date="1491414453000" expanded="true" signature="16963:16984" ph="{...}" />
-            <marker date="1491414453000" expanded="true" signature="16988:17086" ph="/** Instructs the drone to do a back flip. ...*/" />
-            <marker date="1491414453000" expanded="true" signature="17125:17660" ph="{...}" />
-            <marker date="1491414453000" expanded="true" signature="17164:17211" ph="{...}" />
-            <marker date="1491414453000" expanded="true" signature="17279:17438" ph="{...}" />
-            <marker date="1491414453000" expanded="true" signature="17444:17620" ph="{...}" />
-            <marker date="1491414453000" expanded="true" signature="17591:17616" ph="{...}" />
-            <marker date="1491414453000" expanded="true" signature="17637:17658" ph="{...}" />
-            <marker date="1491414453000" expanded="true" signature="17662:17761" ph="/** Instructs the drone to do a right flip. ...*/" />
-            <marker date="1491414453000" expanded="true" signature="17800:18338" ph="{...}" />
-            <marker date="1491414453000" expanded="true" signature="17839:17886" ph="{...}" />
-            <marker date="1491414453000" expanded="true" signature="17955:18114" ph="{...}" />
-            <marker date="1491414453000" expanded="true" signature="18120:18297" ph="{...}" />
-            <marker date="1491414453000" expanded="true" signature="18268:18293" ph="{...}" />
-            <marker date="1491414453000" expanded="true" signature="18315:18336" ph="{...}" />
-            <marker date="1491414453000" expanded="true" signature="18340:18438" ph="/** Instructs the drone to do a left flip. ...*/" />
-            <marker date="1491414453000" expanded="true" signature="18477:19012" ph="{...}" />
-            <marker date="1491414453000" expanded="true" signature="18516:18563" ph="{...}" />
-            <marker date="1491414453000" expanded="true" signature="18631:18790" ph="{...}" />
-            <marker date="1491414453000" expanded="true" signature="18796:18972" ph="{...}" />
-            <marker date="1491414453000" expanded="true" signature="18943:18968" ph="{...}" />
-            <marker date="1491414453000" expanded="true" signature="18989:19010" ph="{...}" />
-            <marker date="1491414453000" expanded="true" signature="19048:20249" ph="{...}" />
-            <marker date="1491414453000" expanded="true" signature="19265:20245" ph="{...}" />
-            <marker date="1491414453000" expanded="true" signature="19336:19453" ph="{...}" />
-            <marker date="1491414453000" expanded="true" signature="19494:19535" ph="{...}" />
-            <marker date="1491414453000" expanded="true" signature="19541:19573" ph="{...}" />
-            <marker date="1491414453000" expanded="true" signature="19645:20107" ph="{...}" />
-            <marker date="1491414453000" expanded="true" signature="19786:19908" ph="{...}" />
-            <marker date="1491414453000" expanded="true" signature="19914:20101" ph="{...}" />
-            <marker date="1491414453000" expanded="true" signature="20113:20241" ph="{...}" />
-            <marker date="1491414453000" expanded="true" signature="20251:20447" ph="/** Instructs the drone to start moving upward at speed ...*/" />
-            <marker date="1491414453000" expanded="true" signature="20470:20513" ph="{&quot;name&quot;: 'up'...}" />
-            <marker date="1491414453000" expanded="true" signature="20517:20715" ph="/** Instructs the drone to start moving downward at speed ...*/" />
-            <marker date="1491414453000" expanded="true" signature="20740:20804" ph="{&quot;name&quot;: 'down'...}" />
-            <marker date="1491414453000" expanded="true" signature="20808:21020" ph="/** Instructs the drone to start moving forward at speed ...*/" />
-            <marker date="1491414453000" expanded="true" signature="21048:21101" ph="{&quot;name&quot;: 'forward'...}" />
-            <marker date="1491414453000" expanded="true" signature="21106:21304" ph="/** Instructs the drone to start moving backward at speed ...*/" />
-            <marker date="1491414453000" expanded="true" signature="21333:21406" ph="{&quot;name&quot;: 'backward'...}" />
-            <marker date="1491414453000" expanded="true" signature="21411:21617" ph="/** Instructs the drone to start spinning clockwise at speed ...*/" />
-            <marker date="1491414453000" expanded="true" signature="21647:21699" ph="{&quot;name&quot;: 'turnRight'...}" />
-            <marker date="1491414453000" expanded="true" signature="21703:21917" ph="/** Instructs the drone to start spinning counter-clockwise at speed ...*/" />
-            <marker date="1491414453000" expanded="true" signature="21946:22016" ph="{&quot;name&quot;: 'turnLeft'...}" />
-            <marker date="1491414453000" expanded="true" signature="22021:22221" ph="/** Instructs the drone to start moving right at speed ...*/" />
-            <marker date="1491414453000" expanded="true" signature="22251:22303" ph="{&quot;name&quot;: 'tiltRight'...}" />
-            <marker date="1491414453000" expanded="true" signature="22308:22507" ph="/** Instructs the drone to start moving left at speed ...*/" />
-            <marker date="1491414453000" expanded="true" signature="22536:22606" ph="{&quot;name&quot;: 'tiltLeft'...}" />
-            <marker date="1491414453000" expanded="true" signature="22644:22942" ph="{...}" />
-            <marker date="1491414453000" expanded="true" signature="22683:22730" ph="{...}" />
-            <marker date="1491414453000" expanded="true" signature="22919:22940" ph="{...}" />
-            <marker date="1491414453000" expanded="true" signature="22945:23055" ph="/** Checks whether a speed is valid or not ...*/" />
-            <marker date="1491414453000" expanded="true" signature="23083:23125" ph="{...}" />
-            <marker date="1491414453000" expanded="true" signature="23127:23192" ph="/** Gets the Bluetooth name of the drone ...*/" />
-            <marker date="1491414453000" expanded="true" signature="23218:23271" ph="{...}" />
-          </folding>
+          <folding />
         </state>
       </provider>
     </entry>
@@ -725,7 +398,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/routes/index.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="592">
+        <state relative-caret-position="945">
           <caret line="63" column="22" lean-forward="false" selection-start-line="63" selection-start-column="22" selection-end-line="63" selection-end-column="22" />
           <folding />
         </state>
@@ -733,7 +406,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/app.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="57">
+        <state relative-caret-position="120">
           <caret line="8" column="0" lean-forward="false" selection-start-line="8" selection-start-column="0" selection-end-line="8" selection-end-column="0" />
           <folding />
         </state>
@@ -741,7 +414,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/views/index.ejs">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="469">
+        <state relative-caret-position="585">
           <caret line="39" column="78" lean-forward="false" selection-start-line="39" selection-start-column="78" selection-end-line="39" selection-end-column="78" />
           <folding />
         </state>
@@ -749,7 +422,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/public/javascripts/main.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="547">
+        <state relative-caret-position="920">
           <caret line="91" column="22" lean-forward="false" selection-start-line="91" selection-start-column="22" selection-end-line="91" selection-end-column="22" />
           <folding />
         </state>
