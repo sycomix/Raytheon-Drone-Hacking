@@ -1,0 +1,141 @@
+# Parrot Real-time Optimizer Ultimate Tool -*- mode:sh -*-
+#
+# This file is a table mapping thread names to priorities
+#
+# Each line should be formatted as follows:
+# <thread_name>,<prio>,<group>
+#
+# <thread_name> : thread name
+# <priority>    : -(1+prio) (SCHED_RR) or 20+niceness (SCHED_OTHER)
+# <group>       : cgroup name or an empty string
+
+# Parrot main process [original priority = rt 33]
+
+####################
+##       RT       ##
+####################
+
+# Thread getting images from v4l2 :
+v4l:/dev/*,-19,
+
+# Ultrasound thread :
+thread_us,-14,
+
+# Barometer thread :
+Thread_baro,-14,
+
+# Vision management :
+Vision,-10,
+thread_verticalSnapshot,-1,
+thread_magicCarpet,-1,
+
+DemoSequencer,-70,
+
+# colibry and hal priority are overwritten in dragon
+# after thread creation. Changing these priorities
+# won't have any effect.
+colibry,-99,
+hal,-100,
+
+####################
+##     NICE       ##
+####################
+
+# process :
+dragon-prog,0,
+
+# some ckcm threads I think... :
+ParrotAL_UART*,0,
+
+# Parrot Timers :
+PAL_TIMER,5,
+
+# Behaviour :
+Behaviour,8,
+
+#Driver for Tinos
+RC_Driver,8,
+
+# Others ARCommands threads :
+Recv emergency,6,
+
+# BLEproxy :
+L2CAP_Sender-*,6,
+transfert channel,7,
+control channel,9,
+#"TinosTX" should have the same prio than "Network send"
+TinosTX,7,
+
+# Others ARCommands threads :
+Recv nonack_commands,9,
+Recv ack_commands,9,
+
+# Parrot Timers :
+ParrotAL_TIMER_*,10,
+ParrotAL_TIMER,10,
+
+# Network manager :
+Ntwk msgbox,10,
+
+# ARNetwork thread to send packets :
+ARNtwkSend,10,
+
+# ARNetwork thread to receive packets :
+ARNtwkRecv,11,
+
+# Juba client (udev) :
+Juba monitor,11,
+
+# Thread to unstack and parse ARCommands :
+CmdsRecv,12,
+CmdsSend,12,
+
+# Vision management :
+vision_driver,12,
+
+# Command manager :
+Cmds msgbox,15,
+
+# Dicovery threads :
+NtwkDiscPublish,15,
+NtwkDiscConnect,15,
+
+# BLE :
+network_BLE,15,
+
+# Blackbox :
+Blackbox,39,
+
+Thread leds,19,
+
+# BLEproxy :
+Blues_BNEP_Eth,20,
+Blues_Obex_Worker-*,23,
+
+# Ckcm... :
+CKCM SERVER,25,
+ckcmd,25,
+# Vertical snapshot thumbnailer
+thumbnailer_worker,25,
+
+# BLEproxy :
+Blues_Job_Worker,26,
+SOUL Task,26,
+
+# MassStorage :
+MassStorage,28,
+
+# some ckcm threads I think... :
+sup log,28,
+
+# not sorted (lowest priority)
+HAL_global_eventloop,39,
+NavdataSend,39,
+Mario,39,
+ACCESSORY MONITORING,39,
+Vision_start,39,
+Blues_LifeCycle,39,
+Blues_Task,39,
+APP,39,
+BLS_FTP_SERVER_*,39,
+BLS_RFCOMM_UPDATE,39,

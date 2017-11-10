@@ -1,0 +1,3 @@
+service logpack /usr/bin/logpack /data/ftp/internal_debug/debug/
+    oneshot
+    disabled

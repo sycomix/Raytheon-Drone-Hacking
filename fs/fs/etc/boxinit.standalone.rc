@@ -1,0 +1,58 @@
+# -*- mode:sh -*-
+# This file should contain commands valid on ALL standalone platforms
+# (i.e. Linux-only, no Android/PC host OS)
+
+# import hardware-specific commands
+import boxinit.standalone.${ro.hardware}.rc
+
+on init
+    # allow overcommit (allocate more memory that the physical one)
+    write /proc/sys/vm/overcommit_memory 1
+    write /proc/sys/vm/overcommit_ratio 90
+    # in case of unaligned access print a message and send a SIGBUS
+    write /proc/cpu/alignment 5
+    # Do not panic when an oops or BUG is encountered
+    write /proc/sys/kernel/panic_on_oops 0
+    write /proc/sys/kernel/modprobe /sbin/modprobe
+    # reduce log on kernel console once system is up (avoid useless irq on uart)
+    write /proc/sys/kernel/printk 1
+
+on early-fs
+    # shm
+    mkdir /dev/shm
+    mount tmpfs shm /dev/shm
+    # usbfs
+    mkdir /proc/bus/usb
+    mount usbfs none /proc/bus/usb
+    # mount tmpfs in /tmp
+    mount tmpfs tmp /tmp
+    # create FSH non persistant directory
+    mkdir /tmp/cache 0755
+    mkdir /tmp/lock 1777
+    mkdir /tmp/run 0777
+    mkdir /tmp/tmp 1777
+    mkdir /tmp/log 0777
+    mkdir /tmp/etc 0777
+    # create resolv.conf in tmp fs (symlink from /etc/resolv.conf done in skel)
+    write /tmp/etc/resolv.conf ""
+    # mount control groups
+    mkdir /dev/cpuctl
+    mount cgroup none /dev/cpuctl cpu
+    chown system system /dev/cpuctl
+    chown system system /dev/cpuctl/tasks
+    chmod 0660 /dev/cpuctl/tasks
+
+on fs
+    mount ubifs ubi0:data /data rw no_chk_data_crc nosuid nodev
+    mkdir /factory 0771 system system
+    mount ubifs ubi1:factory /factory ro no_chk_data_crc nosuid nodev
+
+on boot
+    # basic network init
+    ifup lo
+    hostname localhost
+    domainname localdomain
+
+# start console only if debug is enabled
+on property:ro.debuggable=1
+    start console

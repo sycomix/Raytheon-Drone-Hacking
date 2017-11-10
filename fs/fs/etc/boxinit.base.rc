@@ -1,0 +1,11 @@
+# -*- mode:sh -*-
+# This file should contain init commands valid for ALL platforms
+# It is aimed to be imported only if necessary
+
+# Configure rw.debuggable property
+# If no persistency is found, take the value of ro.debuggable
+# Note that the on boot is mandatory as the persistent properties can't be read before
+on boot
+    setprop rw.debuggable ${persist.debuggable}
+    setprop -z rw.debuggable ${ro.debuggable}
+

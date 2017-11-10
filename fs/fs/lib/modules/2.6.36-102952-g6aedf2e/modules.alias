@@ -1,0 +1,5 @@
+# Aliases extracted from modules themselves.
+alias des des_generic
+alias des3_ede des_generic
+alias platform:p6i-ehci ehci_hcd
+alias platform:fsl-usb2-udc fsl_usb2_udc

@@ -1,0 +1,6 @@
+echo -ne "AT*REF=1,0\r" > test0 ; sync
+echo -ne "AT*REF=1,256\r" > test256 ; sync
+echo -ne "AT*REF=1,512\r" > test512 ; sync
+echo -ne "AT*FLAT=1\r" > testflat ; sync
+chmod +x ./*
+

@@ -1,0 +1,15 @@
+kernel/fs/nfs/nfs.ko: kernel/net/sunrpc/auth_gss/auth_rpcgss.ko kernel/fs/lockd/lockd.ko kernel/net/sunrpc/sunrpc.ko
+kernel/fs/lockd/lockd.ko: kernel/net/sunrpc/sunrpc.ko
+kernel/crypto/md5.ko:
+kernel/crypto/cbc.ko:
+kernel/crypto/des_generic.ko:
+kernel/drivers/usb/host/ehci-hcd.ko:
+kernel/drivers/usb/gadget/fsl_usb2_udc.ko:
+kernel/drivers/usb/gadget/g_ether.ko: kernel/drivers/usb/gadget/fsl_usb2_udc.ko
+kernel/drivers/usb/gadget/g_file_storage.ko: kernel/drivers/usb/gadget/fsl_usb2_udc.ko
+kernel/drivers/usb/gadget/g_mass_storage.ko: kernel/drivers/usb/gadget/fsl_usb2_udc.ko
+kernel/drivers/usb/gadget/g_serial.ko: kernel/drivers/usb/gadget/fsl_usb2_udc.ko
+kernel/drivers/usb/gadget/g_multi.ko: kernel/drivers/usb/gadget/fsl_usb2_udc.ko
+kernel/net/sunrpc/sunrpc.ko:
+kernel/net/sunrpc/auth_gss/auth_rpcgss.ko: kernel/net/sunrpc/sunrpc.ko
+kernel/net/sunrpc/auth_gss/rpcsec_gss_krb5.ko: kernel/net/sunrpc/auth_gss/auth_rpcgss.ko kernel/net/sunrpc/sunrpc.ko

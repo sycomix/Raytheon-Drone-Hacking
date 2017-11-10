@@ -1,0 +1,9 @@
+service charger_on /usr/bin/qualcomm_charger input
+    class main
+    oneshot
+    disabled
+
+service charger_off /usr/bin/qualcomm_charger reset
+    class main
+    oneshot
+    disabled

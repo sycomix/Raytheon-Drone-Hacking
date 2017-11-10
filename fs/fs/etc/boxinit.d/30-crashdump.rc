@@ -1,0 +1,3 @@
+service crashdump /usr/bin/crashdump -i
+    class core
+    oneshot

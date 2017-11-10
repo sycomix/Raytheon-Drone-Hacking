@@ -1,0 +1,26 @@
+
+# Etron Chip
+
+ACTION=="add", \
+    SUBSYSTEM=="usb", \
+    ATTRS{idVendor}=="1e4e", \
+    ATTRS{idProduct}=="0104", \
+    RUN+="/bin/etron_setup.sh add_usb"
+
+ACTION=="remove", \
+    SUBSYSTEM=="usb", \
+    ATTRS{idVendor}=="1e4e", \
+    ATTRS{idProduct}=="0104", \
+    RUN+="/bin/etron_setup.sh remove"
+
+ACTION=="add", \
+    KERNEL=="video[0-9]" \
+    RUN+="/bin/etron_setup.sh add_v4l $name"
+    
+# BNEP interface
+
+ACTION=="add", \
+    KERNEL=="bnep" \
+    RUN+="/bin/bnep_setup.sh"
+
+

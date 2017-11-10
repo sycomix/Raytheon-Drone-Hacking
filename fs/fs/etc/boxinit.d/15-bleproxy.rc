@@ -1,0 +1,8 @@
+
+service bleproxy /usr/bin/ulogwrapper /usr/bin/BLEproxy
+    disabled
+
+# Start BLEproxy when dragon-prog finishes Bluetooth config
+on property:btconfig.ready=1
+    start bleproxy
+

@@ -1,0 +1,25 @@
+#
+# Shell configuration script
+# Executed if the "-l" flag is passed to /bin/sh in /etc/inittab
+#
+
+#
+# Useful commands
+#
+alias ll='ls -lh'
+alias l='ls'
+alias lsusb='/bin/delos_lsusb.sh'
+alias u='ulogcat -C -vlong -ku'
+
+export HOME=/data
+
+#
+# Decorative stuff
+#
+export PS1="[Delos] \$ "
+
+#
+# Stuff to execute just before giving control to the user
+#
+sprop shell.userconnected yes
+

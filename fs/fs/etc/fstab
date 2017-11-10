@@ -1,0 +1,4 @@
+ubi1:system     /           ubifs   ro    		0 1
+ubi0:factory    /factory    ubifs   ro    		0 2
+ubi2:update     /update     ubifs   rw,sync    	0 2
+ubi2:data       /data      	ubifs   rw    		0 2

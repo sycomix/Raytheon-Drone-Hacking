@@ -1,0 +1,8 @@
+
+service dragon-prog /usr/bin/ulogwrapper /usr/bin/dragon-prog
+    class main
+    onrestart start emergency-stop
+
+on property:init.svc.dragon-prog=stopped
+    start emergency-stop
+

@@ -1,0 +1,10 @@
+start 192.168.1.2
+end 192.168.1.20
+max_leases 19
+interface usb_eth
+decline_time 1
+conflict_time 1
+lease_file /data/udhcpd/usb_eth.leases
+pidfile /tmp/udhcpd_usb_eth.pid
+opt subnet 255.255.255.0
+opt lease 1200

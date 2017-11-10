@@ -1,0 +1,12 @@
+root:x:0:
+bin:x:2:
+system:x:3:
+adm:x:4:
+mail:x:8:
+proxy:x:13:
+www-data:x:33:
+nobody:x:99:
+sshd:x:103:
+shell:x:1000:
+log:x:1007:
+inet:x:3003:

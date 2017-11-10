@@ -1,0 +1,9 @@
+# .rc file for kmsgd service -*- mode:conf -*-
+on init
+    write /sys/devices/virtual/misc/ulog_main/logs "ulog_kmsgd 16"
+
+service kmsgd /usr/bin/kmsgd
+    setenv ULOG_DEVICE kmsgd
+    class main
+    # reading /proc/kmsg requires CAP_SYSLOG
+    user root

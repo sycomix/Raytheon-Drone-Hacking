@@ -1,0 +1,11 @@
+#!/bin/sh
+
+if [ -n "$(mount | grep -w '/' | grep -w ro)" ]; then
+  echo "Going to developper mode ..."
+  mount / -o remount,rw
+  mount /factory -o remount,rw
+else
+  echo "Stopping developper mode ..."
+  mount /factory -o remount,ro
+  mount / -o remount,ro
+fi

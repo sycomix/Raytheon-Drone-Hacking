@@ -1,0 +1,19 @@
+# -*- mode:sh -*-
+# This file should contain commands valid on a Linux PC platform
+
+on early-fs
+    # mount tmpfs in /tmp
+    mount tmpfs tmp /tmp
+    # create FSH non persistant directory
+    mkdir /tmp/cache 0755
+    mkdir /tmp/lock 1777
+    mkdir /tmp/run 0777
+    mkdir /tmp/tmp 1777
+    mkdir /tmp/log 0777
+    mkdir /tmp/etc 0777
+    # create resolv.conf in tmp fs (symlink from /etc/resolv.conf done in skel)
+    write /tmp/etc/resolv.conf ""
+
+# start console only if debug is enabled
+on property:ro.debuggable=1
+    start console

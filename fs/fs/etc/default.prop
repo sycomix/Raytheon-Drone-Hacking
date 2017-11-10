@@ -1,0 +1,9 @@
+ro.boot.console=ttyPA1
+ro.debuggable=1
+persist.blackbox.enable=0
+persist.dragon-prog.navdata_tlm=0
+persist.debug_default_enabled=0
+persist.extended_dbg_memory=0
+persist.dragon-prog.bbox_nth=1
+persist.force_massstorage=0
+persist.enable_ssr=0

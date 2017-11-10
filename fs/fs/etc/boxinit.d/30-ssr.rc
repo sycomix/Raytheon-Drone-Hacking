@@ -1,0 +1,21 @@
+service ssr /usr/bin/ssr -o /data/ftp/internal_debug/debug/current/ssr
+    disabled
+    oneshot
+
+on property:persist.enable_ssr=1:state.media=ready
+   start ssr
+
+on property:persist.enable_ssr=0
+   stop ssr
+
+on property:state.media=off
+   stop ssr
+
+# To enable ssr when the drone is flying, replace previous lines
+# with :
+
+# on property:flying.state=flying
+#    start ssr
+
+# on property:flying.state=landed
+#    stop ssr

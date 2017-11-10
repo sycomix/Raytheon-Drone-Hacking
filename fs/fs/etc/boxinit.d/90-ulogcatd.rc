@@ -1,0 +1,5 @@
+# .rc file for running ulogcat as a service -*- mode:conf -*-
+service ulogcatd /usr/bin/ulogcat -F /etc/ulogcatd.conf
+    user root
+    group log
+    disabled

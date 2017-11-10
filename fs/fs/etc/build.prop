@@ -1,0 +1,12 @@
+ro.build.date=Wed Mar 22 20:53:42 CET 2017
+ro.build.date.utc=1490212422
+ro.build.alchemy.product=delos
+ro.build.alchemy.variant=evo
+ro.build.hostname=7e3e5081de7e
+ro.parrot.build.group=drones
+ro.parrot.build.project=delos
+ro.parrot.build.product=delos
+ro.parrot.build.variant=evo
+ro.parrot.build.region=
+ro.parrot.build.uid=delos-evo-2.6.8
+ro.parrot.build.version=2.6.8

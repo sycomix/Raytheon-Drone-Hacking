@@ -1,0 +1,145 @@
+# -*- mode:sh -*-
+# import all scripts in alphanum order (but parse them after this script)
+import boxinit.d
+
+# We use 3 classes of services:
+#   core => started automatically on trigger 'on boot'
+#   main => started automatically on trigger 'on boot-main'
+#   late => started when property boot.completed is set to 1
+# All services that are not necessary for booting should be in class 'late',
+# including: inetd, telnetd, ...
+
+on init
+    sysclktz 0
+    loglevel 5
+    # model: Classic or EVO
+    setprop ro.hsis.model  ${file:/sys/kernel/hsis/model:Unknown}
+    setprop ro.hsis.hwrev  ${file:/sys/kernel/hsis/hwrev:Unknown}
+    setprop ro.hsis.pcbrev ${file:/sys/kernel/hsis/pcbrev:Unknown}
+    # setup the global environment
+    export PATH /sbin:/bin:/usr/bin:/usr/sbin
+    export HOME /data
+    export DELOS_MOUNT_PATH /data/ftp/internal_000
+    export TERM xterm
+    # don't allow overcommit (allocate more memory than the physical one)
+    write /proc/sys/vm/overcommit_memory 2
+    write /proc/sys/vm/overcommit_ratio 90
+    # in case of unaligned access print a message and send a SIGBUS
+    write /proc/cpu/alignment 5
+    # reboot after 1s after a panic
+    write /proc/sys/kernel/panic 1
+    # panic when an oops or BUG is encountered
+    # disable this for developer
+    write /proc/sys/kernel/panic_on_oops 1
+    write /proc/sys/kernel/sched_rt_runtime_us -1
+    # use busybox mdev for firmware loading
+    write /proc/sys/kernel/hotplug /sbin/mdev
+
+on fs
+    # setup /tmp directory
+    mount tmpfs tmp /tmp
+    mkdir /tmp/run
+    # setup /var directory
+    mount tmpfs tmp /var size=1M
+    mkdir /var/cache 0777
+    mkdir /var/lock 1777
+    mkdir /var/log 0777
+    mkdir /var/run 0777
+    mkdir /var/tmp 1777
+    #root already mounted
+    #mount ubifs ubi1:system     /           ro
+    mount ubifs ubi0:factory    /factory    ro no_chk_data_crc nosuid nodev
+    mount ubifs ubi2:update     /update     rw no_chk_data_crc nosuid nodev
+    mount ubifs ubi2:data       /data       rw no_chk_data_crc nosuid nodev
+    # set up /data subdirs
+    mkdir /data/lib 0755
+    mkdir /data/property 0755
+    mkdir /data/update 0755
+    mkdir /data/ftp 0755
+    mkdir /data/ftp/internal_000 0400
+    mkdir /data/ftp/internal_debug 0400
+    symlink /data/lib /var/lib
+    # symlink crashdump directory to user storage
+    symlink /data/ftp/internal_debug/Debug/current/crashdump /data/lib/crashdump
+    # debugfs
+    mount debugfs none /sys/kernel/debug
+    # mount control groups
+    mkdir /dev/cpuctl
+    mount cgroup none /dev/cpuctl cpu
+    mkdir /dev/cpuctl/others
+    write /dev/cpuctl/others/cpu.shares 10000
+    #write /dev/cpuctl/others/tasks ""
+    mkdir /dev/shm
+    mount tmpfs shm /dev/shm
+
+on post-fs
+    # turn on red LEDs, turn on green LEDs, leave headlights as they are
+    write /sys/devices/platform/user_gpio/RED_LED_RIGHT/value 1
+    write /sys/devices/platform/user_gpio/RED_LED_LEFT/value 1
+    write /sys/devices/platform/user_gpio/GREEN_LED_RIGHT/value 1
+    write /sys/devices/platform/user_gpio/GREEN_LED_LEFT/value 1
+    # read settings from factory partition
+    # current SW version
+    setprop ro.version      ${file:/version.txt:0.0.0}
+    # JS EVO type (classic, spine, light, race)
+    setprop ro.evotype      ${file:/factory/evo.txt:classic}
+    setprop ro.serialnumber ${file:/factory/serial.txt:none}
+    setprop ro.colourvalue  ${file:/factory/color.txt:black}
+    setprop ro.style        ${file:/factory/style.txt:}
+    setprop ro.btaddress    ${file:/factory/mac_address.txt:}
+    setprop ro.pm_mcu.bundled_version ${file:/lib/firmware/pm_mcu/version.txt:}
+    # network setup
+    ifup lo
+    hostname Delos
+    # copy default-dragon.conf if it does not exist yet in /data
+    copy /etc/default-dragon.conf /data/dragon.conf
+    # Load kernel modules
+
+on boot
+    class_start core
+
+on boot-main
+    class_start main
+
+service console /usr/bin/askfirst /bin/sh -l
+    class main
+    console
+
+on property:sys.ctl=poweroff
+    # turn off the product (sync & remount r/o first)
+    powerctl poweroff
+
+on property:sys.ctl=reboot
+    powerctl reboot
+
+on property:sys.ctl=emergency_poweroff
+    powerctl emergency_poweroff
+
+# emergency debugger is triggered by delosd on error
+on property:debug.emergency_debug=1
+   start emergency_debug
+
+service emergency_debug /usr/bin/ulogwrapper /usr/bin/delos_emergency_debug
+    disabled
+    oneshot
+
+# Turn off all motors/LED/sensors when dragon-prog exits (e.g. crash).
+service emergency-stop /usr/bin/delos_emergency_stop
+    disabled
+    oneshot
+
+service telnetd /usr/bin/ulogwrapper /usr/sbin/telnetd -S -F -l /bin/login.sh
+    disabled
+
+service inetd /usr/bin/ulogwrapper /usr/sbin/inetd -f
+    class main
+
+# udhcpd services, started upon interface add/removal
+
+service dhcp_usb0 /usr/bin/ulogwrapper /usr/sbin/udhcpd -f -S /etc/udhcpd.conf.usb0
+    disabled
+    oneshot
+
+service dhcp_usb_eth /usr/bin/ulogwrapper /usr/sbin/udhcpd -f -S /etc/udhcpd.conf.usb_eth
+    disabled
+    oneshot

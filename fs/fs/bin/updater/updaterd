@@ -1,0 +1,169 @@
+#! /bin/sh
+#  updater daemon
+
+source /bin/updater/updater_common.sh
+source /bin/dragon_shell.sh
+
+
+# Update a boot counter to get nice logs
+touch ${UPDATE_BOOTCOUNT}
+BOOTCOUNT=$(cat ${UPDATE_BOOTCOUNT})
+BOOTCOUNT=$((${BOOTCOUNT}+1))
+echo ${BOOTCOUNT} > ${UPDATE_BOOTCOUNT}
+
+mkfifo "${UPIPE}"
+
+# Get the current firmware version
+# Update process must not block if the version file is corrupt
+if [ -e ${VERSION_PATH} ]; then
+    VERSION=`cat ${VERSION_PATH}`
+    UPDT_LOG " Current version is ${VERSION}"
+else
+    UPDT_LOG " Failed to get current version - forcing update"
+fi
+
+
+# Look for the required update tools
+CHECKPLF_CMD=$(which checkplf)
+if [ "${CHECKPLF_CMD}" == "" ] ; then
+    UPDT_LOG " Could not find 'checkplf' command. Searching for an alternative ..."
+    CHECKPLF_CMD=$(find / -name "checkplf") | head -n 1
+    if [ "${CHECKPLF_CMD}" == "" ]; then
+        UPDT_LOG " Could not find 'checkplf' command anywhere. Aborting updater daemon."
+        exit 1
+    fi
+fi
+
+# Look for pinst_trigger
+TRIGGER_CMD=$(which pinst_trigger)
+if [ "${TRIGGER_CMD}" == "" ]; then
+    UPDT_LOG " Could not find 'pinst_trigger' command. Searching for an alternative ..."
+    TRIGGER_CMD=$(find / -name "pinst_trigger") | head -n 1
+    if [ "${TRIGGER_CMD}" == "" ]; then
+        UPDT_LOG " Could not find 'pinst_trigger' command anywhere. Aborting update."
+        exit 1
+    fi
+fi
+
+# Check if an update is already in progress
+# ie. this script already triggered the Parrot Installer tool,
+# the drone rebooted with (case 1) the new firmware installed or with (case 2) the previous firmware
+# We must determine which case happened.
+# This test prevents infinite reboots.
+if [ -e ${UPDATE_STATUS_FILE} ] ; then
+
+    UPDT_LOG " Status file found, an update is about to finish - checking result".
+
+    UPDATE_STATUS=$(cat ${UPDATE_STATUS_FILE})
+
+    if [ "${UPDATE_STATUS}" == "UPDT_REFLASH_TRIGGERED" ] ; then
+
+        PLF_STATUS=$(${CHECKPLF_CMD} ${UPDATE_PLF_FILE} ${VERSION})
+        if [ "${PLF_STATUS}" == "CHECKPLF_SAME_VERSION" ] ; then
+            UPDT_LOG " Update success to version ${VERSION}".
+            UPDT_EXECUTE_SCRIPT ${UPDATE_SH_SUCCESS}
+            UPDT_CLEAN
+        else
+            # An update was already in progress
+            # and the PLF file is still newer than the current firmware
+            # This means that the update that was in progress failed.
+            UPDT_LOG " Update failed (version file is still older than the PLF file)".
+            UPDT_EXECUTE_SCRIPT ${UPDATE_SH_FAILURE}
+            UPDT_CLEAN
+        fi
+    else
+        UPDT_LOG " Update log found but unknown state - exiting"
+        UPDT_CLEAN
+    fi
+fi
+
+
+
+while [ -p "${UPIPE}" ]; do
+    FOLDERS=`cat ${UPIPE}`
+
+    for FOLDER in ${FOLDERS}
+    do
+        if [ "${FOLDER}" == "stop" ]; then
+            rm -f "${UPIPE}"
+        else
+            VALID_PLF=0
+            UPDT_SAY "Scanning ${FOLDER} for updates ..."
+
+            touch /tmp/.updater.scanning
+
+            PLFs=$(find ${FOLDER} -type f -maxdepth 1 -name "*.plf")
+
+            if [ -n "${PLFs}" ]; then UPDT_EXECUTE_SCRIPT /bin/updater/updater_scanplffound.sh; fi
+
+
+            for PLF in ${PLFs}; do
+                echo "Testing ${PLF}"
+                VERIF=$(${CHECKPLF_CMD} ${PLF} ${VERSION})
+                if [ "${VERIF}" == "CHECKPLF_PLF_NEWER" -o "${VERIF}" == "CHECKPLF_SAME_VERSION" ];  then
+                    UPDT_LOG "Sending ${PLF} to the Update partition";
+                    echo "UPDATING ..." > $NO_START_PROG_FILE
+                    DRAGONSHELL_stopNkill_dragon &
+                    mv ${PLF} ${UPDATE_PLF_FILE}.tmp;
+                    sync;
+                    mv ${UPDATE_PLF_FILE}.tmp ${UPDATE_PLF_FILE} && sync;
+                    VALID_PLF=1
+                elif [ "${VERIF}" == "CHECKPLF_ERR=INVALID_PLF_FORMAT" ]; then
+                    UPDT_SAY "Deleting corrupt ${PLF}";
+                    rm ${PLF}; sync;
+                else
+                    UPDT_SAY "Skipping ${PLF}";
+                    rm ${PLF}; sync
+                fi
+            done
+
+
+            if [ $VALID_PLF -eq 1 ]; then
+                UPDT_LOG " Starting update from version ${VERSION} to new version "
+
+                # Do some product specific backup stuff
+                UPDT_EXECUTE_SCRIPT ${UPDATE_SH_PROLOG}
+
+                # Write a flag preventing rebooting indefinitely
+                echo "UPDT_REFLASH_TRIGGERED" > ${UPDATE_STATUS_FILE}
+                if [ ! -f ${UPDATE_STATUS_FILE} -o "$(cat ${UPDATE_STATUS_FILE})" != "UPDT_REFLASH_TRIGGERED" ]; then
+                    UPDT_LOG "Could not read back status file - skipping update"
+                    rm -rf ${UPDATE_PLF_DIR}/*
+                else
+
+                    UPDT_LOG " Calling pinst_trigger "
+                    ${TRIGGER_CMD}
+                    RES=$?
+                    until [ ${RES} -eq 0 ]; do
+                        UPDT_SAY "pinst_trigger didn't work... Wait 5 seconds to retry"
+                        sleep 5
+                        ${TRIGGER_CMD}
+                        RES=$?
+                    done
+
+                    UPDT_LOG "Rebooting..."
+                    # On most products, reboot will be redirected to a script which shuts down all programs nicely
+                    UPDT_EXECUTE_SCRIPT ${UPDATE_SH_REBOOT}
+                    sleep 10
+                    UPDT_SAY "No ${UPDATE_SH_REBOOT} found. Reboot"
+
+                    # If it takes too long, we call the actual Busybox reboot command.
+                    unalias reboot
+                    reboot
+
+                    UPDT_SAY "You should probably not see this."
+                fi
+
+            fi
+
+            rm -f /tmp/.updater.scanning
+
+        fi
+    done
+done
+
+if [ -p "${UPIPE}" ]; then
+    rm -f "${UPIPE}"
+fi
+
+UPDT_SAY "Leaving ${0}"
