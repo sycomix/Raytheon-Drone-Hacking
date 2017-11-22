@@ -1,7 +1,0 @@
-<?xml version="1.0" encoding="utf-8"?>
-<selector
-  xmlns:android="http://schemas.android.com/apk/res/android">
-    <item>
-        <bitmap android:src="@drawable/common_icn_return_home_hud" android:tint="@color/return_home_foreground_color_state_list" />
-    </item>
-</selector>

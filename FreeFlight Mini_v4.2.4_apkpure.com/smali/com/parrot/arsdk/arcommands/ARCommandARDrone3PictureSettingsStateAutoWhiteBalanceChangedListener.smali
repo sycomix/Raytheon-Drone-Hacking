@@ -1,8 +1,0 @@
-.class public interface abstract Lcom/parrot/arsdk/arcommands/ARCommandARDrone3PictureSettingsStateAutoWhiteBalanceChangedListener;
-.super Ljava/lang/Object;
-.source "ARCommandARDrone3PictureSettingsStateAutoWhiteBalanceChangedListener.java"
-
-
-# virtual methods
-.method public abstract onARDrone3PictureSettingsStateAutoWhiteBalanceChangedUpdate(Lcom/parrot/arsdk/arcommands/ARCOMMANDS_ARDRONE3_PICTURESETTINGSSTATE_AUTOWHITEBALANCECHANGED_TYPE_ENUM;)V
-.end method

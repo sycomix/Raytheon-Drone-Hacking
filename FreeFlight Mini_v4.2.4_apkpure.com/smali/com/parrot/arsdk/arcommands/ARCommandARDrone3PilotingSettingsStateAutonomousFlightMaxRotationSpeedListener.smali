@@ -1,8 +1,0 @@
-.class public interface abstract Lcom/parrot/arsdk/arcommands/ARCommandARDrone3PilotingSettingsStateAutonomousFlightMaxRotationSpeedListener;
-.super Ljava/lang/Object;
-.source "ARCommandARDrone3PilotingSettingsStateAutonomousFlightMaxRotationSpeedListener.java"
-
-
-# virtual methods
-.method public abstract onARDrone3PilotingSettingsStateAutonomousFlightMaxRotationSpeedUpdate(F)V
-.end method

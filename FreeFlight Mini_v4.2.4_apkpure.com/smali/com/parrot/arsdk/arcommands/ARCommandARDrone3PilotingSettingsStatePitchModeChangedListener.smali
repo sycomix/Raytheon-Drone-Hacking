@@ -1,8 +1,0 @@
-.class public interface abstract Lcom/parrot/arsdk/arcommands/ARCommandARDrone3PilotingSettingsStatePitchModeChangedListener;
-.super Ljava/lang/Object;
-.source "ARCommandARDrone3PilotingSettingsStatePitchModeChangedListener.java"
-
-
-# virtual methods
-.method public abstract onARDrone3PilotingSettingsStatePitchModeChangedUpdate(Lcom/parrot/arsdk/arcommands/ARCOMMANDS_ARDRONE3_PILOTINGSETTINGSSTATE_PITCHMODECHANGED_VALUE_ENUM;)V
-.end method

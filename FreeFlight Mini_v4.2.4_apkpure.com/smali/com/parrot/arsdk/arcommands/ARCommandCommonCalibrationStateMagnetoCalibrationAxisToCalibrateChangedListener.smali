@@ -1,8 +1,0 @@
-.class public interface abstract Lcom/parrot/arsdk/arcommands/ARCommandCommonCalibrationStateMagnetoCalibrationAxisToCalibrateChangedListener;
-.super Ljava/lang/Object;
-.source "ARCommandCommonCalibrationStateMagnetoCalibrationAxisToCalibrateChangedListener.java"
-
-
-# virtual methods
-.method public abstract onCommonCalibrationStateMagnetoCalibrationAxisToCalibrateChangedUpdate(Lcom/parrot/arsdk/arcommands/ARCOMMANDS_COMMON_CALIBRATIONSTATE_MAGNETOCALIBRATIONAXISTOCALIBRATECHANGED_AXIS_ENUM;)V
-.end method

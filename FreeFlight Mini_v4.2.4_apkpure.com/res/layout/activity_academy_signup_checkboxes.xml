@@ -1,6 +1,0 @@
-<?xml version="1.0" encoding="utf-8"?>
-<LinearLayout android:orientation="horizontal" android:layout_width="fill_parent" android:layout_height="wrap_content"
-  xmlns:android="http://schemas.android.com/apk/res/android">
-    <TextView android:textSize="@dimen/academy_login_form_text_size" android:textColor="@color/white" android:layout_gravity="center_vertical" android:id="@id/text_agree_info" android:layout_width="0.0dip" android:layout_height="wrap_content" android:text="@string/academy_sign_up_agree_info" android:layout_weight="1.0" />
-    <ToggleButton android:textColor="@drawable/text_color_selector" android:layout_gravity="center_vertical" android:id="@id/checkbox_agree_info" android:background="@drawable/drone_memory_checkbox_selector" android:layout_width="@dimen/academy_checkbox_size" android:layout_height="@dimen/academy_checkbox_size" android:textOn="" android:textOff="" android:layout_marginStart="@dimen/academy_login_form_label_spacing" />
-</LinearLayout>

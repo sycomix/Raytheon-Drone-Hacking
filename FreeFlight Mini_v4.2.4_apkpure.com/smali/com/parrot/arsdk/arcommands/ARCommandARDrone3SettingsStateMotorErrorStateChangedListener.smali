@@ -1,8 +1,0 @@
-.class public interface abstract Lcom/parrot/arsdk/arcommands/ARCommandARDrone3SettingsStateMotorErrorStateChangedListener;
-.super Ljava/lang/Object;
-.source "ARCommandARDrone3SettingsStateMotorErrorStateChangedListener.java"
-
-
-# virtual methods
-.method public abstract onARDrone3SettingsStateMotorErrorStateChangedUpdate(BLcom/parrot/arsdk/arcommands/ARCOMMANDS_ARDRONE3_SETTINGSSTATE_MOTORERRORSTATECHANGED_MOTORERROR_ENUM;)V
-.end method

@@ -1,5 +1,0 @@
-<?xml version="1.0" encoding="utf-8"?>
-<LinearLayout android:orientation="horizontal" android:paddingLeft="20.0dip" android:paddingRight="20.0dip" android:layout_width="fill_parent" android:layout_height="75.0dip"
-  xmlns:android="http://schemas.android.com/apk/res/android">
-    <com.parrot.settings.test.settings.views.WifiChannelsView android:id="@id/wifi_channel_view" android:layout_width="fill_parent" android:layout_height="fill_parent" />
-</LinearLayout>

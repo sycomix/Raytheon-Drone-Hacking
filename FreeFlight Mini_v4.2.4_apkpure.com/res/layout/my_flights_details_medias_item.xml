@@ -1,7 +1,0 @@
-<?xml version="1.0" encoding="utf-8"?>
-<RelativeLayout android:background="@color/light_gray" android:layout_width="@dimen/my_flights_details_media_thumbnail_size" android:layout_height="@dimen/my_flights_details_media_thumbnail_size"
-  xmlns:android="http://schemas.android.com/apk/res/android">
-    <ImageView android:id="@id/imageview_my_flights_details_medias_thumbnail" android:layout_width="fill_parent" android:layout_height="fill_parent" android:scaleType="centerCrop" />
-    <ImageView android:id="@id/imageview_my_flights_details_medias_thumbnail_video" android:layout_width="wrap_content" android:layout_height="wrap_content" android:src="@drawable/sidebar_icn_play" android:scaleType="centerInside" android:layout_centerInParent="true" />
-    <ImageView android:id="@id/imageview_my_flights_details_medias_thumbnail_uploaded" android:layout_width="wrap_content" android:layout_height="wrap_content" android:src="@drawable/academy_icn_uploadtoserver" android:scaleType="centerInside" android:layout_alignParentBottom="true" android:layout_alignParentEnd="true" />
-</RelativeLayout>

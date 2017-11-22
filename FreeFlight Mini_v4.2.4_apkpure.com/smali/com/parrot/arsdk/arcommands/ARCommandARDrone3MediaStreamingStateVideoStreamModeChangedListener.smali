@@ -1,8 +1,0 @@
-.class public interface abstract Lcom/parrot/arsdk/arcommands/ARCommandARDrone3MediaStreamingStateVideoStreamModeChangedListener;
-.super Ljava/lang/Object;
-.source "ARCommandARDrone3MediaStreamingStateVideoStreamModeChangedListener.java"
-
-
-# virtual methods
-.method public abstract onARDrone3MediaStreamingStateVideoStreamModeChangedUpdate(Lcom/parrot/arsdk/arcommands/ARCOMMANDS_ARDRONE3_MEDIASTREAMINGSTATE_VIDEOSTREAMMODECHANGED_MODE_ENUM;)V
-.end method

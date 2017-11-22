@@ -1,8 +1,0 @@
-.class public interface abstract Lcom/parrot/arsdk/arcommands/ARCommandCommonChargerStateCurrentChargeStateChangedListener;
-.super Ljava/lang/Object;
-.source "ARCommandCommonChargerStateCurrentChargeStateChangedListener.java"
-
-
-# virtual methods
-.method public abstract onCommonChargerStateCurrentChargeStateChangedUpdate(Lcom/parrot/arsdk/arcommands/ARCOMMANDS_COMMON_CHARGERSTATE_CURRENTCHARGESTATECHANGED_STATUS_ENUM;Lcom/parrot/arsdk/arcommands/ARCOMMANDS_COMMON_CHARGERSTATE_CURRENTCHARGESTATECHANGED_PHASE_ENUM;)V
-.end method

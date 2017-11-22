@@ -1,6 +1,0 @@
-<?xml version="1.0" encoding="utf-8"?>
-<shape
-  xmlns:android="http://schemas.android.com/apk/res/android">
-    <solid android:color="@color/wingx_animation_background" />
-    <corners android:radius="@dimen/animation_background_radius" />
-</shape>

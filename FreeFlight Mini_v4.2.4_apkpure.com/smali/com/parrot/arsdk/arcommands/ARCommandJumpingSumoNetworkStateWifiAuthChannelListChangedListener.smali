@@ -1,8 +1,0 @@
-.class public interface abstract Lcom/parrot/arsdk/arcommands/ARCommandJumpingSumoNetworkStateWifiAuthChannelListChangedListener;
-.super Ljava/lang/Object;
-.source "ARCommandJumpingSumoNetworkStateWifiAuthChannelListChangedListener.java"
-
-
-# virtual methods
-.method public abstract onJumpingSumoNetworkStateWifiAuthChannelListChangedUpdate(Lcom/parrot/arsdk/arcommands/ARCOMMANDS_JUMPINGSUMO_NETWORKSTATE_WIFIAUTHCHANNELLISTCHANGED_BAND_ENUM;BB)V
-.end method

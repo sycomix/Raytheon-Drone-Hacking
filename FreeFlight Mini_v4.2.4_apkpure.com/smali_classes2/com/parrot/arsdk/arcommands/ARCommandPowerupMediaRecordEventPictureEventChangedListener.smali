@@ -1,8 +1,0 @@
-.class public interface abstract Lcom/parrot/arsdk/arcommands/ARCommandPowerupMediaRecordEventPictureEventChangedListener;
-.super Ljava/lang/Object;
-.source "ARCommandPowerupMediaRecordEventPictureEventChangedListener.java"
-
-
-# virtual methods
-.method public abstract onPowerupMediaRecordEventPictureEventChangedUpdate(Lcom/parrot/arsdk/arcommands/ARCOMMANDS_POWERUP_MEDIARECORDEVENT_PICTUREEVENTCHANGED_EVENT_ENUM;Lcom/parrot/arsdk/arcommands/ARCOMMANDS_POWERUP_MEDIARECORDEVENT_PICTUREEVENTCHANGED_ERROR_ENUM;)V
-.end method

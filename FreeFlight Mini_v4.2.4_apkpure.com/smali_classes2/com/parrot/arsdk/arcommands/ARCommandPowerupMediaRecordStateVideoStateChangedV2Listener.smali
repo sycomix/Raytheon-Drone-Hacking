@@ -1,8 +1,0 @@
-.class public interface abstract Lcom/parrot/arsdk/arcommands/ARCommandPowerupMediaRecordStateVideoStateChangedV2Listener;
-.super Ljava/lang/Object;
-.source "ARCommandPowerupMediaRecordStateVideoStateChangedV2Listener.java"
-
-
-# virtual methods
-.method public abstract onPowerupMediaRecordStateVideoStateChangedV2Update(Lcom/parrot/arsdk/arcommands/ARCOMMANDS_POWERUP_MEDIARECORDSTATE_VIDEOSTATECHANGEDV2_STATE_ENUM;Lcom/parrot/arsdk/arcommands/ARCOMMANDS_POWERUP_MEDIARECORDSTATE_VIDEOSTATECHANGEDV2_ERROR_ENUM;)V
-.end method

@@ -1,8 +1,0 @@
-.class public interface abstract Lcom/parrot/arsdk/arcommands/ARCommandJumpingSumoNetworkSettingsWifiSelectionListener;
-.super Ljava/lang/Object;
-.source "ARCommandJumpingSumoNetworkSettingsWifiSelectionListener.java"
-
-
-# virtual methods
-.method public abstract onJumpingSumoNetworkSettingsWifiSelectionUpdate(Lcom/parrot/arsdk/arcommands/ARCOMMANDS_JUMPINGSUMO_NETWORKSETTINGS_WIFISELECTION_TYPE_ENUM;Lcom/parrot/arsdk/arcommands/ARCOMMANDS_JUMPINGSUMO_NETWORKSETTINGS_WIFISELECTION_BAND_ENUM;B)V
-.end method

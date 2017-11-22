@@ -1,8 +1,0 @@
-.class public interface abstract Lcom/parrot/arsdk/arcommands/ARCommandJumpingSumoMediaRecordEventPictureEventChangedListener;
-.super Ljava/lang/Object;
-.source "ARCommandJumpingSumoMediaRecordEventPictureEventChangedListener.java"
-
-
-# virtual methods
-.method public abstract onJumpingSumoMediaRecordEventPictureEventChangedUpdate(Lcom/parrot/arsdk/arcommands/ARCOMMANDS_JUMPINGSUMO_MEDIARECORDEVENT_PICTUREEVENTCHANGED_EVENT_ENUM;Lcom/parrot/arsdk/arcommands/ARCOMMANDS_JUMPINGSUMO_MEDIARECORDEVENT_PICTUREEVENTCHANGED_ERROR_ENUM;)V
-.end method

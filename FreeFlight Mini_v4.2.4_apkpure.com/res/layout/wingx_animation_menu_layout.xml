@@ -1,8 +1,0 @@
-<?xml version="1.0" encoding="utf-8"?>
-<merge
-  xmlns:android="http://schemas.android.com/apk/res/android">
-    <ImageButton android:id="@id/button_barrel_roll_left" android:background="@drawable/circular_swing_animation_button_background" android:layout_width="@dimen/animation_button_size" android:layout_height="@dimen/animation_button_size" android:src="@drawable/swing_barrel_roll_left_drawable" android:scaleType="centerInside" android:layout_marginStart="@dimen/animation_menu_margin_between" android:layout_marginEnd="@dimen/animation_menu_margin_between" />
-    <ImageButton android:id="@id/button_barrel_roll_right" android:background="@drawable/circular_swing_animation_button_background" android:layout_width="@dimen/animation_button_size" android:layout_height="@dimen/animation_button_size" android:src="@drawable/swing_barrel_roll_right_drawable" android:scaleType="centerInside" android:layout_marginEnd="@dimen/animation_menu_margin_between" />
-    <ImageButton android:id="@id/button_backswap" android:background="@drawable/circular_swing_animation_button_background" android:layout_width="@dimen/animation_button_size" android:layout_height="@dimen/animation_button_size" android:src="@drawable/swing_back_swap_drawable" android:scaleType="centerInside" android:layout_marginEnd="@dimen/animation_menu_margin_between" />
-    <ImageButton android:id="@id/button_looping" android:background="@drawable/circular_swing_animation_button_background" android:layout_width="@dimen/animation_button_size" android:layout_height="@dimen/animation_button_size" android:src="@drawable/swing_looping_drawable" android:scaleType="centerInside" android:layout_marginEnd="@dimen/animation_menu_big_margin_between" />
-</merge>

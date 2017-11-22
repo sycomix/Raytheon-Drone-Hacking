@@ -1,6 +1,0 @@
-<?xml version="1.0" encoding="utf-8"?>
-<LinearLayout android:orientation="vertical" android:padding="@dimen/mediaplayer_uploading_dialog_padding" android:layout_width="fill_parent" android:layout_height="fill_parent"
-  xmlns:android="http://schemas.android.com/apk/res/android">
-    <TextView android:id="@id/text_upload_label" android:layout_width="wrap_content" android:layout_height="wrap_content" android:text="@string/mediaplayer_uploading" />
-    <ProgressBar android:id="@id/progress_upload" android:layout_width="fill_parent" android:layout_height="@dimen/mediaplayer_uplaoding_dialog_bar_height" style="@style/Base.Widget.AppCompat.ProgressBar.Horizontal" />
-</LinearLayout>

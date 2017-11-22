@@ -1,8 +1,0 @@
-.class public interface abstract Lcom/parrot/arsdk/arcommands/ARCommandSkyControllerButtonMappingsStateAllAvailableButtonsMappingsSentListener;
-.super Ljava/lang/Object;
-.source "ARCommandSkyControllerButtonMappingsStateAllAvailableButtonsMappingsSentListener.java"
-
-
-# virtual methods
-.method public abstract onSkyControllerButtonMappingsStateAllAvailableButtonsMappingsSentUpdate()V
-.end method

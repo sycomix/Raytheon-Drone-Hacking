@@ -1,6 +1,0 @@
-<?xml version="1.0" encoding="utf-8"?>
-<RelativeLayout android:layout_width="fill_parent" android:layout_height="fill_parent"
-  xmlns:android="http://schemas.android.com/apk/res/android">
-    <com.google.android.gms.maps.MapView android:id="@id/mapview_my_flights_details_map" android:layout_width="fill_parent" android:layout_height="fill_parent" />
-    <Button android:id="@id/button_my_flights_details_gps_map_type" android:background="@drawable/map_type_button_background" android:layout_width="@dimen/my_flights_details_gps_button_size" android:layout_height="@dimen/my_flights_details_gps_button_size" android:layout_marginBottom="@dimen/my_flights_details_gps_button_margin" android:layout_alignParentBottom="true" android:layout_marginEnd="@dimen/my_flights_details_gps_button_margin" android:layout_alignParentEnd="true" />
-</RelativeLayout>

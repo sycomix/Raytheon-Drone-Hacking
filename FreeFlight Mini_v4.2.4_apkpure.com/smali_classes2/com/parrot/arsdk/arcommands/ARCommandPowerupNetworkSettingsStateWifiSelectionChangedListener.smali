@@ -1,8 +1,0 @@
-.class public interface abstract Lcom/parrot/arsdk/arcommands/ARCommandPowerupNetworkSettingsStateWifiSelectionChangedListener;
-.super Ljava/lang/Object;
-.source "ARCommandPowerupNetworkSettingsStateWifiSelectionChangedListener.java"
-
-
-# virtual methods
-.method public abstract onPowerupNetworkSettingsStateWifiSelectionChangedUpdate(Lcom/parrot/arsdk/arcommands/ARCOMMANDS_POWERUP_NETWORKSETTINGSSTATE_WIFISELECTIONCHANGED_TYPE_ENUM;Lcom/parrot/arsdk/arcommands/ARCOMMANDS_POWERUP_NETWORKSETTINGSSTATE_WIFISELECTIONCHANGED_BAND_ENUM;B)V
-.end method

@@ -1,8 +1,0 @@
-.class public interface abstract Lcom/parrot/arsdk/arcommands/ARCommandARDrone3PictureSettingsStatePictureFormatChangedListener;
-.super Ljava/lang/Object;
-.source "ARCommandARDrone3PictureSettingsStatePictureFormatChangedListener.java"
-
-
-# virtual methods
-.method public abstract onARDrone3PictureSettingsStatePictureFormatChangedUpdate(Lcom/parrot/arsdk/arcommands/ARCOMMANDS_ARDRONE3_PICTURESETTINGSSTATE_PICTUREFORMATCHANGED_TYPE_ENUM;)V
-.end method

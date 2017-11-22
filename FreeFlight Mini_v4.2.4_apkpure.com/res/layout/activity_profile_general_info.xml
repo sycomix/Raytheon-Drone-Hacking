@@ -1,9 +1,0 @@
-<?xml version="1.0" encoding="utf-8"?>
-<LinearLayout android:orientation="vertical" android:id="@id/layout_general_info" android:padding="@dimen/profile_bloc_padding" android:layout_width="fill_parent" android:layout_height="wrap_content"
-  xmlns:android="http://schemas.android.com/apk/res/android">
-    <TextView android:textSize="@dimen/profile_principal_text_size" android:textStyle="bold" android:layout_width="fill_parent" android:layout_height="wrap_content" android:text="@string/profile_general_infos" android:textAllCaps="true" />
-    <TableLayout android:layout_width="fill_parent" android:layout_height="wrap_content" android:stretchColumns="1">
-        <include layout="@layout/activity_profile_general_info1" />
-        <include layout="@layout/activity_profile_general_info2" />
-    </TableLayout>
-</LinearLayout>

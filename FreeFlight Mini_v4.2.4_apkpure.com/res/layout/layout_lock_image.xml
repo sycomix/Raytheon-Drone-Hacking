@@ -1,3 +1,0 @@
-<?xml version="1.0" encoding="utf-8"?>
-<ImageView android:gravity="end|center" android:layout_width="@dimen/navigation_lock_image_width" android:layout_height="fill_parent" android:src="@drawable/lock" android:tint="@android:color/white"
-  xmlns:android="http://schemas.android.com/apk/res/android" />

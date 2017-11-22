@@ -1,8 +1,0 @@
-.class public interface abstract Lcom/parrot/arsdk/arcommands/ARCommandCommonFlightPlanStateComponentStateListChangedListener;
-.super Ljava/lang/Object;
-.source "ARCommandCommonFlightPlanStateComponentStateListChangedListener.java"
-
-
-# virtual methods
-.method public abstract onCommonFlightPlanStateComponentStateListChangedUpdate(Lcom/parrot/arsdk/arcommands/ARCOMMANDS_COMMON_FLIGHTPLANSTATE_COMPONENTSTATELISTCHANGED_COMPONENT_ENUM;B)V
-.end method

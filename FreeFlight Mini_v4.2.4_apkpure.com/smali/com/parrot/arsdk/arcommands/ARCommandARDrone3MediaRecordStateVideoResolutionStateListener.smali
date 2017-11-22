@@ -1,8 +1,0 @@
-.class public interface abstract Lcom/parrot/arsdk/arcommands/ARCommandARDrone3MediaRecordStateVideoResolutionStateListener;
-.super Ljava/lang/Object;
-.source "ARCommandARDrone3MediaRecordStateVideoResolutionStateListener.java"
-
-
-# virtual methods
-.method public abstract onARDrone3MediaRecordStateVideoResolutionStateUpdate(Lcom/parrot/arsdk/arcommands/ARCOMMANDS_ARDRONE3_MEDIARECORDSTATE_VIDEORESOLUTIONSTATE_STREAMING_ENUM;Lcom/parrot/arsdk/arcommands/ARCOMMANDS_ARDRONE3_MEDIARECORDSTATE_VIDEORESOLUTIONSTATE_RECORDING_ENUM;)V
-.end method

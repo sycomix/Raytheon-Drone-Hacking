@@ -1,8 +1,0 @@
-.class public interface abstract Lcom/parrot/arsdk/arcommands/ARCommandARDrone3PictureSettingsStateVideoRecordingModeChangedListener;
-.super Ljava/lang/Object;
-.source "ARCommandARDrone3PictureSettingsStateVideoRecordingModeChangedListener.java"
-
-
-# virtual methods
-.method public abstract onARDrone3PictureSettingsStateVideoRecordingModeChangedUpdate(Lcom/parrot/arsdk/arcommands/ARCOMMANDS_ARDRONE3_PICTURESETTINGSSTATE_VIDEORECORDINGMODECHANGED_MODE_ENUM;)V
-.end method

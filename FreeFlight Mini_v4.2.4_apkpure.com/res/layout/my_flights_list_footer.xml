@@ -1,5 +1,0 @@
-<?xml version="1.0" encoding="utf-8"?>
-<LinearLayout android:gravity="center_horizontal" android:orientation="horizontal" android:padding="@dimen/my_flights_footer_padding" android:layout_width="fill_parent" android:layout_height="fill_parent"
-  xmlns:android="http://schemas.android.com/apk/res/android">
-    <TextView android:textColor="@drawable/text_color_selector" android:gravity="center" android:id="@android:id/empty" android:padding="@dimen/my_flights_footer_padding" android:layout_width="wrap_content" android:layout_height="fill_parent" android:text="@string/my_flights_load_more_flights" />
-</LinearLayout>

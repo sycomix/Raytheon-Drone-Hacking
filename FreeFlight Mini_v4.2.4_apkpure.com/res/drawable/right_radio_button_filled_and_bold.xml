@@ -1,8 +1,0 @@
-<?xml version="1.0" encoding="utf-8"?>
-<shape android:shape="rectangle"
-  xmlns:android="http://schemas.android.com/apk/res/android">
-    <solid android:color="@color/tranparent_product_main_color" />
-    <stroke android:width="2.0dip" android:color="@color/product_main_color" />
-    <size android:height="@dimen/settings_buttons_height" />
-    <corners android:topLeftRadius="0.0dip" android:topRightRadius="@dimen/settings_buttons_half_height" android:bottomLeftRadius="0.0dip" android:bottomRightRadius="@dimen/settings_buttons_half_height" />
-</shape>

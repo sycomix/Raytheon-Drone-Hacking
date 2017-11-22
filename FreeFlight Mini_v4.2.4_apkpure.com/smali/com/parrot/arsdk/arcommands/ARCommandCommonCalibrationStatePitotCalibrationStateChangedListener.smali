@@ -1,8 +1,0 @@
-.class public interface abstract Lcom/parrot/arsdk/arcommands/ARCommandCommonCalibrationStatePitotCalibrationStateChangedListener;
-.super Ljava/lang/Object;
-.source "ARCommandCommonCalibrationStatePitotCalibrationStateChangedListener.java"
-
-
-# virtual methods
-.method public abstract onCommonCalibrationStatePitotCalibrationStateChangedUpdate(Lcom/parrot/arsdk/arcommands/ARCOMMANDS_COMMON_CALIBRATIONSTATE_PITOTCALIBRATIONSTATECHANGED_STATE_ENUM;B)V
-.end method

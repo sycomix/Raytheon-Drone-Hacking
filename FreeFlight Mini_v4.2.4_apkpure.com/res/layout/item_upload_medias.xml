@@ -1,8 +1,0 @@
-<?xml version="1.0" encoding="utf-8"?>
-<RelativeLayout android:id="@id/layout_media_upload" android:background="@color/transparent_black" android:visibility="gone" android:layout_width="fill_parent" android:layout_height="fill_parent" android:layout_below="@id/layout_mediaplayer_title"
-  xmlns:android="http://schemas.android.com/apk/res/android">
-    <LinearLayout android:orientation="horizontal" android:background="@android:color/transparent" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_centerInParent="true">
-        <ImageButton android:id="@id/button_media_upload_facebook" android:background="@android:color/transparent" android:layout_width="0.0dip" android:layout_height="wrap_content" android:src="@drawable/arsocialnetworks_icn_facebook" android:layout_weight="1.0" android:layout_marginEnd="@dimen/mediaplayer_upload_service_horizontal_margin" />
-        <ImageButton android:id="@id/button_media_upload_youtube" android:background="@android:color/transparent" android:visibility="gone" android:layout_width="0.0dip" android:layout_height="wrap_content" android:src="@drawable/arsocialnetworks_icn_youtube" android:layout_weight="1.0" />
-    </LinearLayout>
-</RelativeLayout>
